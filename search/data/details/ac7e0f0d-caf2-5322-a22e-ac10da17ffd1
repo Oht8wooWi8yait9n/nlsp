@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Psychophysics and Modeling of Spatial Orientation Perception (Postdoctoral Fellowship) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ac7e0f0d-caf2-5322-a22e-ac10da17ffd1?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958PF01103</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Psychophysics and Modeling of Spatial Orientation Perception (Postdoctoral Fellowship)</h1>
+        <div class="meta-id">Record ID: NCC958PF01103</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ac7e0f0d-caf2-5322-a22e-ac10da17ffd1?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Spatial orientation is achieved by integrating sensory information from different modalities in order to estimate both body orientation and self-motion. One aim of the study was to develop a comprehensive Bayesian model for spatial orientation perception. In order to develop the best possible model, the investigators conducted a thorough review of existing spatial orientation models.  They focused on statistically optimal models of spatial orientation that were dynamic, meaning that the model input and output are continuous and vary over time. They concluded that the particle filter technique is best suited to modeling perception of spatial orientation because it is statistically optimal, the architecture is distributed rather than assuming particular feedback circuits, and most importantly, it is capable of implementing the non-linear system dynamics that are required for spatial orientation computations. 
+<P>
+The second aim of the study was to measure visual and vestibular thresholds for detecting and discriminating spatial orientation stimuli. The investigators conducted three such experiments using a motion simulator with attached stereo visual display. They used a two-alternative-forced-choice procedure because this method minimizes potential sources of response noise and bias. Also, because all data were collected using a common method and apparatus, it is possible to make interesting comparisons across conditions. 
+<P>
+APPROACH:<br>
+The methodologies for the study are embedded with the Results below.
+<p>
+RESULTS:<br>
+The first experiment investigated perception of heading, which is the direction of self-motion. Heading perception is fundamental to effective navigation and vehicle guidance, so it is important to understand the factors that influence the precision of visual and vestibular heading estimates. The investigators measured discrimination thresholds for heading azimuth and elevation in visual-only and vestibular-only conditions with observers oriented upright and side-down relative to gravity. Visual thresholds were significantly lower than vestibular, and upright thresholds were generally lower than side-down. Vestibular results revealed that observers are better at discriminating head-centric azimuth than elevation, regardless of body orientation. In other words, sensitivity to heading depends more upon the direction of self-motion relative to the head, than relative to gravity. Two follow-up experiments were conducted using the same subjects. The investigators found that performance on the three tasks was correlated and determined that the asymmetric vestibular sensitivity to heading stems from an underlying difference in sensitivity to linear acceleration along the interaural and dorsoventral axes of the head. 
+<P>
+The second experiment investigated the question of whether or not vestibular cues to linear and angular self-motion interact during rotation about an earth-vertical axis. Linear and angular self-motion is signaled by the otoliths and canals, respectively. During rotation about an earth-horizontal axis (i.e. tilt), these signals must interact so that the brain correctly interprets the change in the otolith signal as due to a change in the direction of gravity. In contrast, the investigators found no evidence of canal-otolith interaction during rotation about an earth-vertical axis. Thresholds for detecting linear acceleration were not influenced by the speed of angular motion. 
+<P>
+The third experiment investigated whether or not vestibular cues to linear self-motion facilitate the detection of visual object motion during self-motion. Linear self-motion gives rise to a distinctive globally consistent pattern of motion on the retina known as optic flow. Independently moving objects in the scene will generate visual motion signals that deviate from the global pattern. Thus, observers must parse the optic flow in order to judge object motion during self-motion. The investigators found that thresholds for discriminating object motion in optic flow patterns were reduced when vestibular signals consistent with the linear self-motion depicted by the optic flow were presented simultaneously. In other words, vestibular signals facilitate optic flow parsing. 
+<P>
+The research described above contributes to a better understanding of spatial orientation in general. The modeling review provides unique insights that will be valuable for developing and evaluating models to predict and investigate situations where spatial disorientation is likely to occur. The results of the experiments provide a better understanding of visual and vestibular perception of spatial orientation stimuli which may be applied to the development of countermeasures like better cockpit display technology, and improved motion simulations. The psychophysical methods employed could be used to develop novel techniques for crew training and evaluation. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958PF01103</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>MacNeilage, Paul</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/hc7b-7m79</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2006 NSBRI-RFP-06-01 Postdoctoral Fellowships</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ac7e0f0d-caf2-5322-a22e-ac10da17ffd1?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ac7e0f0d-caf2-5322-a22e-ac10da17ffd1?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

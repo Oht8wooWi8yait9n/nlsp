@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cardiovascular and Cerebrovascular Responses to Standing Before and After Space Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/c1a8e2f1-d8c1-5b45-951a-5f30fbfc57f4?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 626</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Cardiovascular and Cerebrovascular Responses to Standing Before and After Space Flight</h1>
+        <div class="meta-id">Record ID: DSO 626</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/c1a8e2f1-d8c1-5b45-951a-5f30fbfc57f4?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+On landing day, some astronauts become presyncopal, which means that their blood pressure drops, their heart rate increases, and they feel faint. These responses may occur because some of their physiological responses for maintaining blood pressure, such as releases of norepinephrine, epinephrine, and renin are inadequate in some way. The objective of this study was to define differences in the physiological responses to space flight of astronauts who did or did not become presyncopal on landing day.
+<p>
+APPROACH:<br>
+Studies were performed on 40 astronauts at (although only 29 were included in the analysis) L-30 and L-10, on R+0 after space flights of up to 16 days, and R+3 and R+10. An enhanced stand test was performed that included an echocardiographic measurement of the aortic cross-sectional area, ultrasonic (continuous-wave Doppler) measurement of aortic flow, beat-to-beat measurement of arterial pressure, and an electrocardiogram while the astronauts were lying supine and then while they were standing. During the supine and the standing parts of the stand test, the astronauts gave blood samples for analyses of plasma norepinephrine and epinephrine levels and renin activity. The cerebral vascular resistance and the mean flow velocity in the middle cerebral artery were also measured in the supine and standing positions with a transcranial Doppler device. Plasma volume was measured by the carbon monoxide re-breathing technique. 
+<p>
+RESULTS:<br>
+Eight astronauts could not complete their stand tests on landing day because they became presyncopal. These astronauts had significantly lower norepinephrine levels when standing than the astronauts who did not become presyncopal. The increase in their norepinephrine levels during the stand test was smaller than it had been before the flight, and smaller than the increase produced by the stand test in the nonpresyncopal astronauts. These results indicate that the sympathetic nerves failed to release sufficient norepinephrine to increase the peripheral vascular resistance and avoid presyncopal symptoms. 
+<p>
+Three days after landing, the presyncopal group had recovered their ability to raise norepinephrine levels when standing. The astronauts who became presyncopal on landing day showed significant differences before the flight from those who did not become presyncopal. They had lower blood pressures, lower peripheral vascular resistance, and higher heart rates, although all values were within normal limits. Most of these differences were still present three days after landing. 
+<p>
+The results suggest that adaptation to microgravity alters the reflexes that maintain blood pressure so that about one-fourth of astronauts have inadequate norepinephrine responses to orthostatic drops in blood pressure. It appears that these astronauts may have some difference in venous compliance or vascular responsiveness even before the flight. It may therefore be possible to identify before launch a subset of astronauts who are more susceptible to postflight presyncope and are more likely to benefit from countermeasures.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 626</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Meck, Janice</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-51&#x27;], [&#x27;STS-70&#x27;], [&#x27;STS-56&#x27;], [&#x27;STS-58&#x27;], [&#x27;STS-59&#x27;], [&#x27;STS-61&#x27;], [&#x27;STS-62&#x27;], [&#x27;STS-64&#x27;], [&#x27;STS-65&#x27;], [&#x27;STS-66&#x27;], [&#x27;STS-67&#x27;], [&#x27;STS-68&#x27;], [&#x27;STS-73&#x27;], [&#x27;STS-95&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/qr8w-pt09</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/c1a8e2f1-d8c1-5b45-951a-5f30fbfc57f4?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/c1a8e2f1-d8c1-5b45-951a-5f30fbfc57f4?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

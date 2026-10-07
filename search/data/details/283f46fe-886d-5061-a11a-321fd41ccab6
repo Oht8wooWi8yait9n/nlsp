@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bone Strain During 0G Exercise - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/283f46fe-886d-5061-a11a-321fd41ccab6?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNJ04HB08G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Bone Strain During 0G Exercise</h1>
+        <div class="meta-id">Record ID: NNJ04HB08G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/283f46fe-886d-5061-a11a-321fd41ccab6?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Considerable NASA resources have been devoted to a vibration-isolated treadmill (TVIS) that has been installed in the International Space Station (ISS). This device is attractive because programs may be designed to allow exercise countermeasures to be applied against bone, muscle, and cardiovascular adaptations. Despite the need for on-orbit exercise using the TVIS, almost no research has been conducted to determine the acceptability of the subject load device (SLD) and harness used to tether crewmembers to the treadmill. Data regarding the bone strains produced by exercise countermeasures, such as running in reduced gravity, are also unavailable, yet there is little doubt that bone strain plays an important intermediary role in the signal transduction pathway responsible for bone maintenance and functional adaptation. This study in simulated microgravity was designed to evaluate the comfort and function of a new SLD design applied to subjects running in a system that allows controlled distribution of the load between the waist and shoulders during treadmill running. 
+<p>
+The specific aims of this study were: 1.To define the parameters (load, load distribution, and exercise frequency) of a treadmill exercise program using the SLD harness system that would be acceptable to the crew during prolonged space flight. 2. To measure gravity replacement loads, kinematics, ground reaction forces, muscle activity, and subjective ratings of comfort during the exercises defined in specific aim #1. 3. To use data generated in specific aim #2 to extend the capabilities of a parallel robot (Rotopod R2000) that acts as a cadaveric dynamic gait simulator, which will enable measurement of bone strains generated during on-orbit treadmill running. 4. To determine bone strain at several sites on the distal tibia during walking in 1g, and during the simulated on-orbit conditions identified in specific aim #1. 
+<p>
+APPROACH:<br>
+Using the Zero Gravity Locomotion Simulator (ZLS), twelve subjects completed nine, five minute running trials at a constant speed (3.35 ms-1) using 3 SLD loads (50%, 75% and 100% BW) presented at random while using a 50:50 shoulder-to-waist loading ratio. Subjective ratings of discomfort, ground reaction forces and SLD loads were collected. 100% BW in the ZLS resulted in similar ground reaction forces (GRF) profiles to those obtained from the literature for over ground running. The full body weight loading conditions were comfortably tolerated. The ZLS and its SLD system are promising methods of simulating over ground running in zero gravity as evidenced by the low discomfort levels of subjects and their ground reaction force profiles. 
+<p>
+Prior to the second phase of the study, a new pneumatic SLD system was implemented to increase comfort and reduce load variation. A new harness utilizing backpack technology was constructed to improve subject comfort while running on the ZLS. The second phase of this investigation examined the feasibility of the new system in a long-term exercise program, such as the three to six months that crewmembers are currently spending on the ISS. Subjects ran four times per week on the ZLS for three continuous weeks. During each session, the subjects ran for a total of 30 minutes at a pace of 2.68 - 3.49 ms-1 while loaded to 100% BW. Comfort data were collected relating to both harness and lower extremity discomfort. Both measures decreased from session 1 to session 12 and fell within acceptable levels, indicating that repeated long duration running under 100% BW is a feasible exercise option. 
+<p>
+During the third phase, data collected on various human subject experiments were incorporated into robotic cadaver simulations in order to directly measure bone strains in cadaver limbs moving through accurate kinematic and kinetic reconstructions of orbit-based locomotion. The simulations replicated walking in lunar, Martian, and Earth gravity, highlighting the relationship between gravitational load during locomotion and bone strain. Thus, these sequential experiments will provide the unique psychophysical and biomechanical information needed to design better exercise countermeasures to bone loss on the ISS. They will also provide fundamental new data on the relationship between external loading and strain in human bone. 
+<p>
+RESULTS:<br>
+<i>PHASE 2</i><br> 
+Eight subjects (5 females and 3 males, 31.9 ± 9.2 years, 168.0 ± 12.1 cm, 62.6 ± 11.7 kg) completed the protocol for phase 2 of the experiment. Subjects were tested in the ZLS, and height and weight was measured at the first visit. Based on the desired outcome of astronauts eventually running on-orbit while loaded to full body weight, all subjects were loaded to 100% of their 1g weight (100% BW) during the 30-minute run portion of each session. GRFs were recorded from a force platform under the treadmill belt and SLD loads were measured with in-line SLD force transducers. Subjects wore an instrumented harness, which had force transducers mounted in-line between the shoulder straps and waist belt, allowing the loads applied to the shoulder and the waist to be calculated. All subject-controlled modifications of the shoulder to hip load distribution were captured for later correlation with comfort evaluation data. 
+<p>
+After a warm-up of a two-minute walk and three-minute jog, subjects ran for up to 30 minutes in the ZLS at a pace of 2.7-3.5 ms-1 (6.0-7.8 mph). Subjects were allowed to take breaks during the run if needed, and the durations of the breaks were recorded. Following the run, subjects cooled down by jogging for three minutes and walking for two minutes. Subjects were asked to rate their discomfort in various regions of the body (including the neck, shoulders, back, waist, hips, glutes, quadriceps, hamstrings, gastrocnemius, tibialis anterior, and overall) using the Visual Analog Scale (VAS). Discomfort was measured at the beginning and end of the exercise session as well as periodically during the session. The entire testing session was repeated at the same time of day, four times per week for a period of three consecutive weeks, for a total of 12 test sessions per subject. All subjects completed a 15-minute training session in the ZLS prior to the first data collection session. 
+<p>
+The discomfort ratings collected at the end of the 30-minute run were compared via reduced equations with gender, training level, day, speed variation above 6 mph, duration of time between final rest break and discomfort measurement, and total duration of rest breaks for both the harness and lower extremity regions. Over the course of the twelve sessions all the ratings of harness-related and lower extremity discomfort measured at the end of the 30-minute run decreased. 
+<p>
+<i>PHASE 3</i><br> 
+Data collected on various human subject experiments were incorporated into a cadaver model experiment using the 6 degree-of-freedom parallel robot. A kinematic trajectory was prescribed for the robot so that the final motion of the cadaveric lower extremity mimicked the kinematics seen in life. Walking was simulated with a stance phase duration of 2.8 seconds. Computer controlled actuators applied loads to the tendons of five major lower extremity muscles, the triceps surae, tibialis anterior, or in two cases, extensor digitorum longus, tibialis posterior, peroneous longus, and flexor hallucis longus, to generate appropriate muscle forces. The kinematic data were conformed via a force platform mounted vertically on the robot which doubled as the walking surface for the cadaveric foot. The muscle forces were confirmed via in-line force transducers. Data from the force platform and transducers was sampled at a rate of 1000 Hz. 
+<p>
+During the walking simulation, bone strain measurements were recorded at three locations on the tibia (Anterior/Lateral, Anterior/Medial and Posterior) approximately 7-9 cm superior to the lateral malleolus. A fourth rosette was placed on the flat portion of the lateral surface of the calcaneus. Data from all rosettes were collected simultaneously. The effective sampling rate of the system was 1000 Hz for the first three specimens and 400 Hz for subsequent specimens. Strain data from the individual rosette elements are averaged over four trials for each load condition and filtered using a Butterworth filter at a cutoff frequency of 0.5Hz. Data from individual rosette elements were used to calculate the principal strain components and strain directions at each site. Axial strains at each site on the tibia were collected as the strain measured in the gage of the rosette oriented with the long axis of the bone. 
+<p>
+The robot and muscle actuators were directed to simulate walking with a 2.8-second stance phase at lunar (1/6 g), Martian (3/8 g), and Earth (1 g) gravities based on the donor weight associated with each specimen. In order to be included in the study, a specimen needed to have at least two successful trials for each gravity condition. A total of 16 specimens were tested, but eight had to be removed from analysis. Six of those specimens failed during testing and did not have an adequate number of trials to be included. One specimen had broken foot bones, and one had a faulty strain gage. Of the eight remaining specimens, six were right lower extremities (3 male, 3 female) and two were left lower extremities (2 male). All specimens were from different donors (79.8 ± 8.0 years, 65.7 ± 13.7 kg) to maintain sample independence. All strain parameters at each site, as well as kinematic and muscle force data, were collected for all trials. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNJ04HB08G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cavanagh, Peter</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Technology development, Exercise physiology, Skeletal physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/f9ez-wa26</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>99-HEDS-03</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/283f46fe-886d-5061-a11a-321fd41ccab6?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/283f46fe-886d-5061-a11a-321fd41ccab6?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

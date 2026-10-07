@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Antiorthostatic Suspension on the Immune System - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/10dd8b61-90b7-590c-b0ce-1e388655c682?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958IIH00208</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Antiorthostatic Suspension on the Immune System</h1>
+        <div class="meta-id">Record ID: NCC958IIH00208</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/10dd8b61-90b7-590c-b0ce-1e388655c682?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Space flight causes lymphopenia and suppression of the immune system in humans, monkeys, and rodents: lymphocyte numbers, mitogen response, and production of cytokines and antibodies are all significantly reduced. Several factors including microgravity, lack of load-bearing, stress, acceleration forces, and irradiation likely contribute to these changes, but the exact mechanisms are unknown. Simulation of these factors on the ground using animal models, such as antiorthostatic suspension [now termed hindlimb unloading (HU)], results in similar immune system changes. The investigators hypothesized that immune system changes during space flight are modulated through Fas in an endogenous opioid dependent manner.  
+<p>
+Specific Aims :<br>
+1) Investigate the Modulation of the Th1 and Th2 Responses in Mice Subjected to HU<br>
+2) Explore the Mechanisms of HU-Induced Thymus Involution<br>
+3) Examine the Role of RANKL in the Communication Between the Immune and Skeletal Systems during HU<br> 
+<p>
+APPROACH:<br>
+The methodology for this experiment is not available.
+<p>
+RESULTS:<br>
+The investigators found that not all mouse strains are equally susceptible to HU, with Balb/c being most sensitive and C3H the least, indicating genetic variability in susceptibility to HU. Nevertheless, splenocyte and thymocyte numbers decreased significantly in all mouse strains after HU. This effect occurs through apoptosis, evidenced by genomic DNA fragmentation and phosphatidylserine exposure (TUNEL staining). Interestingly, splenocyte loss required endogenous opioid-mediated Fas expression; the effect in thymus was corticosteroid-dependent. Thus, the dramatic effect of HU on lymphocyte numbers is exerted through different mechanisms in spleen and thymus. We have begun to develop countermeasures against HU-induced lymphocyte loss. Since the investigators found that free radicals are important in the apoptosis process in vitro, they tested the effect of free radical scavengers. Vitamin C, a common food supplement with potent scavenger capacity, was tested for its ability to prevent HU-induced lymphocyte apoptosis. Balb/c mice were given vitamin C in drinking water (2 mg/ml) for 10 days then subjected to HU for 2 days. Lymphocytes in spleen and thymus were enumerated, and subsets examined by flow cytometry Splenocyte and thymocyte numbers were reduced by about 50% following HU versus untreated controls. CD4+CD8+ double positive thymocytes were particularly vulnerable. Vitamin C protected the thymus, but not the spleen, and double positive thymocytes were most significantly protected. The lack of protection in spleen may reflect a different mechanism of HU-induced lymphocyte depletion in this organ. 
+<p>
+Another promising countermeasure is seaweed polysaccharide extract. Countermeasures against radiation- or stress-induced apoptosis have been vigorously pursued, yet, no safe, effective reagent has been found for human use. The investigators tested a polysaccharide extract from brown seaweed (part of the Eastern diet for centuries) using a commercial product from NaturoDoc. When fed at 100 mg/mouse/day for five days, this extract significantly inhibited radiation-induced splenocyte loss. Such an extract may be a safe and effective countermeasure against radiation-induced immune system damage for astronauts. Bone loss is a major concern for astronauts. Blockade of RANKL with OPG is known to inhibit HU-induced bone loss. The investigators hypothesized that corticosteroid production mediates this process. They found that corticosteroid-induced RANKL expression in T cells depends on the mobilization of intracellular calcium. Surprisingly, free radicals are also required, pointing to potential countermeasures. Efforts to elucidate the role of CD4+CD25+ T cells (Treg) in HU-induced lymphocyte loss continue. The investigators have found that Treg resist depletion by HU, while artificial depletion of Treg restores antigenic T cell responses in vitro. Conditions for the effective depletion of Treg in vivo have been established and genetically modified mice were chosen to examine how Treg are involved in lymphocyte depletion. 
+<p>
+The investigators’ findings have several potential Earth-based applications: 1. Understanding the mechanisms by which stress affects immune homeostasis may lead to the identification of dietary and lifestyle changes which reduce the deleterious effects of stress on the immune system. Adopting such changes may lead to improved public health. In addition, they may identify food supplements such as vitamin C and seaweed extracts that minimize the impact of stress, thus benefiting the general population, especially those who suffer from high stress levels occupationally or due to life circumstances. 2. Learning the effects of manipulating a specific subset of T lymphocytes called CD4+CD25+ regulatory T cells may lead to potential interventions to prevent the deleterious health effects of autoimmunity, cancer, and other diseases involving over- or under-activity of the immune system. 3. Identification of a protein(s) whose serum concentration is related to the stress levels experienced by an individual may provide a marker to quickly and accurately assess stress levels in medical or occupational contexts. 4. Elucidation of the role of cellular apoptosis in mediating the deleterious effects of stress on the immune system may aid in the development of clinical protocols for maintaining immune tolerance, such is in transplantation or autoimmune disease.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958IIH00208</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Shi, Yufang</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus) NA</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/rnws-2c08</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NSBRI</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/10dd8b61-90b7-590c-b0ce-1e388655c682?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/10dd8b61-90b7-590c-b0ce-1e388655c682?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

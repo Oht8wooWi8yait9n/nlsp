@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flow and Distribution of Fluid Phases through Porous Plant Growth Media in Microgravity - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/cc28be37-9a84-56c6-a281-5214b01bf96b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91399</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Flow and Distribution of Fluid Phases through Porous Plant Growth Media in Microgravity</h1>
+        <div class="meta-id">Record ID: NAG91399</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/cc28be37-9a84-56c6-a281-5214b01bf96b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+NASA's Advanced Life Support program believes that particulate solid substrates are best suited to meet its short and long-term needs for plant growth during space flight. Due to mass, volume and power constraints, root modules are characterized by small volumes of growth media and high root density. These conditions leave little margin for error in control of water, air and nutrition. Results from plant growth experiments utilizing particulate growth media during space flight have demonstrated the difficulties associated with providing reliable reproducible air and water (and thus nutrients) supply to plant roots. This is attributed to the general lack of understanding of fundamental transport processes occurring in the growth media. The quantitative characterization of physical processes associated with the flow of wetting and non-wetting phase(s) in particulate plant growth media in microgravity is essential for the successful design and control of plant production systems during space flight. It has recently become evident that the macroscopic dynamic behavior of the temporal and spatial under-saturation levels in particulate media strongly depends on the physical behavior of the fluid at the microscopic (pore-scale) level. Ultimately, the stability and break-up of liquid-bridges, -columns, and -films, dynamic rearrangement of particles, contact angle dynamics and hysteresis, phase discontinuities, capillary fingering and entrapment of the non-wetting phase together with the time-dependent complex geometry of porous media will determine the saturation levels and its stability on macroscopic (integral) scales. However, it is not yet obvious if and how much some of these micro-scale phenomena are gravity dependent. 
+<p>
+APPROACH:<br>
+The investigators proposed a comprehensive program of research that will employ some new advanced experimental, numerical and analytical techniques for examining flow and distribution of fluids in plant growth media. For example, Nuclear Magnetic Resonance Imaging (MRI) will provide a visual record of wetting front dynamics and gas diffusion in porous media. New mathematical models that account for adsorption and liquid films, discontinuous phases, effect of vibration, solitary ganglion, pore network behavior, fingering, capillary instabilities, air entrapment, medium anisotropy and heterogeneity, and the hyperbolic nature of moisture distribution will be evaluated. Upscaling procedures will be employed to describe microscale phenomenon on scales relevant to root modules. Hydraulic conductivity and water retention characteristics will be experimentally verified under simulated microgravity conditions using terrestrial zero-g simulators. The final conceptual model of water and air transport will be verified in 1 g by forward and inverse simulation on the root module scale using flight compatible measurement techniques. The research will result in a model and experimental methods that are ready for final validation in microgravity.
+<p>
+RESULTS:<br>
+Key findings:<br>
+1. Characterization of porous plant growth media – optimal set points for water delivery in any g environment strongly depend on growth-media hydraulic properties. Although baked ceramic aggregates have been used in space flight for over 10 years, the team conducted the first rigorous characterization of physical and hydraulic properties. This work has enhanced the understanding of aggregate dual porosity, pore size distribution, water conducting porosity, air entrapment, and air entry that allows critical examination of water delivery set points that have been used in space flight. Water retention remains a key physical property of interest with recent KC-135 measurements providing some of the very limited microgravity datasets to date. 
+<p>
+2. Small volumes and susceptibility to heterogeneous fluid distributions - limitations on mass and size of flight-sized root modules accentuate the impact of inherently irregular wetting patterns in particulate media and the role of root volume. Wetting front irregularities may span the entire root module depth used for space flight promoting entrapment and discontinuous phase formation. Root proliferation modifies media properties, especially with high root density where an entirely new porous medium is created with different physical and hydraulic properties. Consequently, water management based on macroscopic criteria (set points) may be constantly changing. <p>
+3. Micro- and reduced gravity effects on water transport - water moves within porous media under the influence of pressure, gravity and surface/capillary forces. Surface/capillary forces dominate in micro- or low gravity environments when both water and air phases are present. Wetting front irregularities or surface forces that cause water and air to segregate into wet and dry clusters are difficult to control or predict. Irregularities in pore size distribution and expansion of capillary length scales enhance phase entrapment in 0g. Once these clusters become established during initial infiltration they may be hard to remove in 0g due to the combination of water-primed pathways and dominance of capillary forces. Additionally infiltration into pre-wetted porous media occurs faster in 0g. <p>
+4. Water content sensing and control - matric potential or water content sensors have been used to control and schedule water delivery to plant growth media. Limited sensing volume of most sensors used in root modules (<1 cm3) combined with discontinuous phases (#2 and 3 above) may result in “accurate” readings on the mesoscale (several pores or particles), but an inaccurate assessment of water content in the bulk volume of growth media. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91399</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Steinberg, Susan</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Plant biology, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Plant</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/q0q7-hr95</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>00-OBPR-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/cc28be37-9a84-56c6-a281-5214b01bf96b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/cc28be37-9a84-56c6-a281-5214b01bf96b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

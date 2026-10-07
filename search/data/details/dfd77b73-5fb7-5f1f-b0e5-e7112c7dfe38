@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prototype Testing for Non-Invasive Determination of Intracranial Pressure - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/dfd77b73-5fb7-5f1f-b0e5-e7112c7dfe38?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958SMS00701</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Prototype Testing for Non-Invasive Determination of Intracranial Pressure</h1>
+        <div class="meta-id">Record ID: NCC958SMS00701</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/dfd77b73-5fb7-5f1f-b0e5-e7112c7dfe38?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Intracranial pressure (ICP) is a vital determinant of brain function whose monitoring and treatment are central to the successful management of patients with a variety of brain diseases and disorders. There are also indications that changes in cerebral autoregulation - one of the primary physiologial mechanisms for maintaining normal ICP, and detectable via alteration of blood flow into the brain - can be altered during space flight in ways associated with space motion sickness and orthostatic intolerance. Currently, ICP is measured by drilling a hole into the skull and placing a device into one of several places within the cranium. This is clearly not an option available to astronauts in space, who often develop brain edema and its associated increase in ICP. Therefore, a simple, non-invasive method of monitoring ICP (nICP) would allow measurement of this critical parameter in astronauts. Investigators have developed several algorithms for nICP based on several different and novel analysis methods, most of which using data derived from standard diagnostic ultrasound of the brain and invasively and continually monitored arterial blood pressure (ABP), and shown it feasible. They have also assembled and tested a device that allows collection of the data necessary to implement in real time, and to further refine this algorithm.
+<P>
+Specific aims are (1) to test the feasibility of their approach to determining nICP on humans at several hospitals using invasive ABP (iABP), by collecting additional patient data to be used for refining or the existing algorithm, and (2) to perform the same feasibility tests and algorithm refinement with non-invasive ABP (nABP).  Therefore, this work offers to perform steps necessary to bringing to space a non-invasive means of determining intracranial pressure. 
+<P>
+APPROACH:<BR>
+The investigator's unique computational and logistical infrastructure has been used to most effectively pursue human-based studies on the non-invasive determination of intracranial pressure. Regarding logistical infrastructure, it has been established and used at four different pre-clinical trial sites (those associated with the University of Washington, University of Pennsylvania, Barrow Neurological Institute, and Columbia University) in a web-based data entry system that allows all clinical sites to transmit the human data they collect in a HIPAA-compliant way to the University of Washington for analysis.
+<P>
+RESULTS:<BR>
+Investigators have finished using their unique computational and logistical infrastructure necessary to most effectively pursue their human-based studies on the non-invasive determination of intracranial pressure. To summarize their effort in support of the logistical infrastructure, they established and used at four different pre-clinical trial sites (those associated with the University of Washington, University of Pennsylvania, Barrow Neurological Institute, and Columbia University) web-based data entry system that allows all of their clinical sites to transmit the human data they collect in a HIPPA compliant way to the University of Washington for analysis. They collected a total of 159 data sets from patients for their studies and have processed that data. 
+<p>
+The on-going modeling efforts for determining ICP based upon novel statistical measures remain consistent with their initial estimates of the complexity of the particular mathematical models they are using to relate in an empirical fashion readily observable human physiological data to intracranial pressure. To their regret they could not identify a non-invasive ABP device to use to support their algorithm. In future studies the investigators intend to explore new nABP devices, to embody the predictive algorithms into their automated transcranial Doppler (aTCD) device, and to field trial both the aTCD alone and with the embodied algorithms working with our industrial partner, PhysioSonics.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958SMS00701</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Mourad, Pierre</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/7y28-kk23</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2004 NSBRI NNH04ZUU003N Human Health in Space</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/dfd77b73-5fb7-5f1f-b0e5-e7112c7dfe38?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/dfd77b73-5fb7-5f1f-b0e5-e7112c7dfe38?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

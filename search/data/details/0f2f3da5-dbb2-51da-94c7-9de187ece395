@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Epigenetic Adaptation of the Immune System to Prolonged Orbital Spaceflights - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/0f2f3da5-dbb2-51da-94c7-9de187ece395?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Epigenetic_Adaptation</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Epigenetic Adaptation of the Immune System to Prolonged Orbital Spaceflights</h1>
+        <div class="meta-id">Record ID: Epigenetic_Adaptation</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/0f2f3da5-dbb2-51da-94c7-9de187ece395?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          Objectives<div>Long-duration orbital space-flights are associated with increased levels of psychological stress, acute and 
+chronic exposure to space radiation and microgravity-induced changes, all of which are known to detrimentally 
+impact the immune system. To do so, biologic specimen (blood) will be obtained from the subject. The 
+epigenomic changes induced by prolonged exposure to microgravity and cosmic irradiation will be compared to 
+alterations occurring under normal gravity in control subjects. This approach will identify pathways involved in 
+altered immune response during long-duration orbital space-flights and establish specific hypotheses 
+concerning potential targets for therapeutic intervention</div><div><br></div><div>It is proposed to investigate global changes in the enhancers responsible for coordinating intrinsic and extrinsic 
+differentiation signals of immune cells after a long-term orbital space-flight. To achieve this, the following 
+objectives shall be considered: 
+1. Epigenomic profiling of selected immune cell populations pre- and post-flight. Here a mapping of the 
+enhancer landscape pre- and post-flight in specific cell types of the immune system will be done.
+2. Transcriptomic profiling of selected immune cell populations pre- and post-flight. Here a correlation of the 
+alterations in the enhancer landscape to changes in the transcriptome will be performed.
+3. Bioinformatic identification of enhancer signatures functionally relevant to orbital space-flights and 
+integration of these signatures with known pathologies. Here a comparative analysis of enhancer 
+signatures identified across different subjects will be done, which differs in the control subjects comparing 
+crew’s data to a control group.
+4. Establishment of potential avenues for diagnosis and therapeutic intervention of immune dysregulation 
+during long orbital space flights. Here a meta-analysis of space-flight associated enhancer signatures to a 
+large cohort of publicly available datasets will be performed, aiming to identify commonalities of the space 
+flight associated signatures to other known diseases.</div><div><br></div><div>Approach</div><div>Session windows shall be distributed as follows:
+- One pre-flight session between 180 and 60 days before launch.
+- One early post-flight session at R+0/+1 days.
+- One post-flight session at R+45 (+/-15 days). 
+Blood donation of ~24mL for all sessions are required. 
+Exceptionally, it is accepted to collect only ~16mL during first post-flight BDC if the science complement for the 
+first week after return is too heavy for the crewmember in terms of blood donation requests.
+Early Post-flight requirements (within the first week after return) justification: 
+A blood draw is required immediately after return. The epigenetic modifications in general, especially those 
+associated with enhancer regions, are reversible and highly dynamic. These modifications regulate gene 
+expression and have to respond quickly to changes in environmental signals. Therefore, they could in theory 
+rapidly revert to normal after return to earth. To avoid a reduction of the observed differential effects, it is 
+requested to collect blood samples as early as possible after landing. 
+A late session ~one month after return will then be implemented to investigate dynamics after return.</div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Epigenetic_Adaptation</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rathert, Philipp</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>JSC</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>European Space Agency (ESA)</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Expedition 67, Expedition 68, Expedition 69</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/fccb-e986</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>This international study did not archive data with LSDA</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/0f2f3da5-dbb2-51da-94c7-9de187ece395?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/0f2f3da5-dbb2-51da-94c7-9de187ece395?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

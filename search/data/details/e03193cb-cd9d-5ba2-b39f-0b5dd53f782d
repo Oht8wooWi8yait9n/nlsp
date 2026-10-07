@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Effect of Space Flight on Polymorphonuclear Leukocyte Response - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e03193cb-cd9d-5ba2-b39f-0b5dd53f782d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>MA-032</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Effect of Space Flight on Polymorphonuclear Leukocyte Response</h1>
+        <div class="meta-id">Record ID: MA-032</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e03193cb-cd9d-5ba2-b39f-0b5dd53f782d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Polymorphonuclear leukocytes (PMN) are phagocytic cells important in the body's defense against disease.  The ultimate function of the PMN is phagocytosis and killing of microorganisms, which invade body tissues.  To carry out this function, a variety of earlier steps are important.  Because leukocytes pass through the blood stream, they must be able to leave the circulating blood and reach tissue spaces where potential infections occur.  To do this, the leukocyte must adhere to blood vessel surfaces, migrate through tissue spaces and collect in the inflammation area, which accompanies early infection.  Abnormalities in PMN function cause an increased susceptibility to infection.  The objective of the Apollo Soyuz Test Project (ASTP) Polymorphonuclear Leukocyte Response experiment was to identify PMN alterations caused by microgravity that might be significant in planning future space missions of longer duration.<P>
+
+APPROACH:<br>
+Blood samples were obtained from the ASTP crewmembers on L-30 (30 days prior to launch), L-15, L-5, R+0 (immediately upon recovery), R+1 (1 day after recovery), R+8 and R+30.  Because leukocytes are replaced in the bloodstream every few hours, samples taken at R+0 were the most important.  These samples contained leukocytes formed under zero-g conditions.  Three backup crewmembers were studied during the preflight period and served as a normal control population.  Three other individuals aboard the recovery vessel, U.S.S. New Orleans, were studied during preflight and recovery periods.  Two internal controls were tested repeatedly at the laboratory.<P>Tests performed included total leukocyte counts, differential counts, leukocyte adhesion, leukocyte migration and chemotaxis, phagocytosis and histochemical staining for leukocyte acid phosphatase and alkaline phosphatase.<P>
+
+Total white blood cell (WBC) counts and differential counts, useful as indices of host status, were measured microscopically.  Leukocyte counts fluctuate with infections and stress reactions.  Differential leukocyte counts were used to calculate total PMNs.  <P>
+
+Leukocyte adhesion can be quantified in vitro and is altered with several clinical states associated with increased susceptibility to infection, such as alcohol ingestion and corticosteroid administration. To test adhesion properties, samples of heparinized blood were passed through nylon columns and the percentage of leukocytes adhering to the columns was calculated.<P>Leukocyte migration in a modified Boyden chamber was measured both in response to casein, a chemotactic agent, and without a chemotactic stimulus.  A chemotactic index was expressed as the ratio of migration with casein compared to migration with no chemotactic agent.  <P>
+
+PMN phagocytic capacity was measured by allowing leukocytes to form monolayers in chambered tissue culture slides and then adding heat-killed staphylococci.  Phagocytic PMN percentages were determined microscopically.  <P>
+
+Leukocyte alkaline phosphatase and acid phosphatase are histochemical tests that correlate with the amount of PMN activation.  A weighted value was assigned to positive leukocytes by grading the reaction of individual cells from 0 through 4+.  Cells of each reactivity degree were multiplied by the activity score, and the total value for 100 representative cells was calculated.<P>
+
+RESULTS:<br>
+Total WBC counts were stable and reproducible for each subject.  Abnormalities included low preflight values for one crewmember (particularly on L-5) and the occurrence of elevated leukocyte counts in all three astronauts on R+1 and R+8 (when steroid administration was a factor).  PMN counts were extremely reproducible among normal controls.<P>
+
+Leukocyte adhesion was reproducible if followed linearly, but it was influenced by high levels of steroids, aspirin ingestion, alcohol ingestion and inflammation.  Two of the three astronauts had decreased leukocyte adherence on L-5.  Adherence values of concurrent controls also decreased on that same day, although not to the same extent in all individuals.  Control tests were stable on R+0 and R+1, making the decreases in prime crewmember PMN adherence more significant.  However, because of fluctuations, serial values in the prime crew were not significantly different from the controls.<P>
+
+Leukocyte migration remained within the normal range.  Migration was slightly decreased on R+8, but this decrease was also noted in the normal control.  Because this test was performed at a temporary facility in Honolulu, comparative values obtained under the same field conditions were not available to determine whether migration was actually depressed or whether this decrease was a result of testing conditions.  The chemotactic index was preserved normally in the tests performed on R+8.<P>
+
+Although fluctuations in PMN phagocytic capacity occurred, leukocytes retained the ability to ingest staphylococci from the prime crew cells.  Increased phagocytic PMN numbers were found following recovery in the prime crew.  This increase reflects the total increased leukocyte count.  Leukocytes containing five or more staphylococci for the prime crew were not as markedly elevated when compared to controls.  PMN phagocytic function was not impaired.  In fact, because the number of circulating leukocytes was increased, the phagocytic capacity of the blood was enhanced.<P>
+
+Positive cell numbers for the enzyme leukocyte alkaline phosphatase paralleled total PMNs.  The astronauts had elevated preflight and post-flight values.  These higher values were also noted in one backup crewmember.  A further weighted value was calculated by determining the mean staining characteristics of positive leukocytes.  Again, the astronauts tended to have higher values than the controls, but these differences were not significant.<P>
+
+Total PMNs staining for the lysosomal enzyme acid phosphatase were also determined.  One crewmember had low values during the preflight period, and the number decreased to 990 positive cells on L-5.  All crewmembers showed a post-flight elevation in cells stained for acid phosphatase. Total leukocyte acid phosphatase scores and mean acid phosphatase scores were not significantly different from the values found in the concurrent controls.<P>
+
+In conclusion, the performed function studies suggest that a 9-day space mission does not impair PMN function.  An increased clinical susceptibility to infection by crewmembers was not exhibited.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>MA-032</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Martin, Russell</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Apollo-Soyuz Test Project (ASTP)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ASTP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/6p0k-6061</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e03193cb-cd9d-5ba2-b39f-0b5dd53f782d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e03193cb-cd9d-5ba2-b39f-0b5dd53f782d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

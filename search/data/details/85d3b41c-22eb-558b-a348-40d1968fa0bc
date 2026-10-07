@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Developing Future Countermeasures for the Detrimental Effects of Space Flight: Role of Otolith Systems and Resolution of Tilt/Translation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/85d3b41c-22eb-558b-a348-40d1968fa0bc?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91254</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Developing Future Countermeasures for the Detrimental Effects of Space Flight: Role of Otolith Systems and Resolution of Tilt/Translation</h1>
+        <div class="meta-id">Record ID: NAG91254</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/85d3b41c-22eb-558b-a348-40d1968fa0bc?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Astronauts recovering from prolonged exposure to microgravity exhibit a striking similarity to acute vestibular deficit subjects. Theoretically, the brain is not receiving adequate information from the vestibular otolith system in either group: in astronauts, this is because of the absence of gravity, while in patients it results from receptor damage. Astronauts recover (adapt) but many vestibular patients do not recover and/or cannot adapt. By comparing responses to linear acceleration (of which gravity is a type) in the two groups, similarities and differences in mechanisms of adaptation to changing gravitational environments can be quantified. Investigators hypothesized that reference to linear acceleration calibrates the use of the more ambiguous orientation references (vision and somatosensory) for sensorimotor adaptive control. This study aimed to establish a population of vestibular deficient subjects with mild to severe loss of vestibular function as a ground-based model for the physiological effects of loss of gravity in space. Centrifuges and other rotation devices were used to generate linear acceleration (artificial gravity). Perceptual, eye movement, and postural responses were used to study changes in the orientation and magnitude of linear acceleration on the vestibular and converging physiological systems. 
+<p>
+The purpose of this study was to evaluate the contribution of canal and otolith inputs in resolving linear accelerations arising from roll tilt and/or lateral translation as a function of stimulus frequency. Einstein’s equivalence principle states that there is an ambiguity between linear accelerations arising from tilts with respect to gravity versus translational motions. During tilt, the semicircular canals detect rotational motion, while the otoliths detect head orientation with respect to gravity. Both confirm the magnitude of tilt motion. During a translational motion in the opposite direction, the resultant force vector is a function of both gravity and translational acceleration. If the subject perceived the resultant force to be down, the same tilt perception would result. 
+<p>
+Two proposed neural strategies used to resolve this ambiguity are 1) frequency segregation and 2) multisensory integration. Investigators hypothesized that the absence of a gravity vector during space flight leads to adaptive changes in these neural strategies used for resolving ambiguous linear accelerations. If so, understanding these neural processes is essential for the development of effective countermeasures. 
+<p>
+APPROACH:<br>
+Eight normal subjects were exposed to sinusoidal linear acceleration stimuli during two different sessions. Roll tilt amplitude of ±20 deg was maintained across frequencies (0.01 and 1.0 Hz). Session 1: roll tilt stimuli were provided during rotation about the naso-occipital axis at eye level (EHA). Session 2: subjects were exposed to linear acceleration profiles using a combination of translation and centrifugation (VRC), except for 1.0 Hz stimuli that involved only translation (±0.09 m). Stimulus order and session order were counterbalanced. Ocular responses were recorded using infrared video-oculography, and perceived tilt and translation were evaluated using verbal reports and continuous settings of a tilt bar that allowed quantification of both magnitude and phase of roll tilt perception. 
+ <p>
+RESULTS:<br>
+Verbally reported perceptual estimates of tilt and translation did not differ between naso-occipital roll-tilt (EHA) and perceived responses to linear acceleration (VRC) at low frequencies (<0.1 Hz). At 0.01 Hz, subjects overestimated magnitude of tilt by a factor of two. At higher stimulus frequencies (>0.1 Hz) during naso-occipital rotation, subjects continued to report the perception of roll-tilt without translation. At higher stimulus frequencies during linear acceleration without canal cues, the perception of roll-tilt was replaced by sensation of translation. At 1 Hz linear acceleration, subjects perceptually over-estimated the actual translation by an order of magnitude (perceived ± 1m vs ~ ± 10 cm actual). 
+<p>
+Somatosensory estimates of earth horizontal (indicated by setting of a tilt bar to perceived earth horizontal) were similar to but more accurate (less variable) than verbal reports of tilt magnitude. There was no difference between naso-occipital roll-tilt (EHA) and linear translation (VRC) bar settings at low frequency (0.01 Hz). Subjects made accurate settings of the bar along the horizon at higher stimulus frequencies during EHA rotation when both canal and otolith cues were present. During VRC conditions when canal cues were absent, the magnitude of tilt perception as indicated by the bar settings decreased as a function of frequency, with negligible sense of tilt at 1 Hz. Results (1) and (2) suggest that canal cues are important for tilt detection above 0.1 Hz, but do not contribute significantly to tilt perception re: earth horizontal below 0.01 Hz. 
+<p>
+Tilt perception estimated by somatosensory bar settings to perceived earth horizontal was accurate when the peak tilt velocity was maintained at ±38 deg/sec across a frequency range of 0.1 to 1 Hz. Tilt perception also did not differ during centrifugal linear acceleration (VRC) conditions when the head was pitched forward, but tilt detection deteriorated as a function of frequency (compatible with a low pass filter model) in both head positions. EHA = naso-occipital (canal + otolith) roll-tilt. Results show that roll-tilt is not velocity dependent, at least at the magnitudes studied. 
+<p>
+Ocular torsion slow phase velocity (SPV) represents the compensatory eye movement response to roll-tilt (canal + otolith). Error bars = SEM. During centrifugal linear acceleration (VRC) without canal (otolith only) cues, the magnitude of the torsional SPV decreased as a function of stimulus frequency. As with tilt perception, the torsional SPV response did not differ significantly when the head was pitched forward during VRC. 
+<p>
+When evaluating the response of horizontal eye movement slow phase velocity (SPV) (compensatory eye movement responses) to lateral translation (centrifugal linear acceleration) as a function of frequency, horizontal SPV increased as a function of stimulus frequency. This was in contrast to the torsional SPV response. This effect was also present during naso-occipital (EHA) rotation. While reducing the stimulus amplitude at 1 Hz from ±126°/s to ±38°/s had a tendency to increase the torsional SPV gain, it had the opposite effect for horizontal SPV as seen here. The horizontal SPV response at this higher frequency is more robust during EHA conditions when the tilt velocity amplitude is greater. 
+<p>
+Perception of roll tilt and modulation of ocular torsion responses obtained from naso-occipital roll-tilt and linear acceleration were similar at 0.01 Hz. There was negligible perception of translation and modulation of horizontal SPV at 0.01 Hz. As the stimulus frequency increased during naso-occipital rotation when both canal and otolith cues were present, modulation of torsion and perception of roll tilt was evident. However, as stimulus frequency increased during variable radius centrifugation (linear acceleration/translation only) when primarily otolith cues were presented, both the modulation of torsion and perception of roll-tilt decreased while modulation of horizontal SPV and perception of translation increased. These studies document the frequency-dependent perceptual and eye movement responses to roll-tilt and linear acceleration in the human, and permit investigators to generate stimulus protocols for the systematic study of the contributions of canal and otolith inputs to body segment control in normal and abnormal subjects. 
+<p>
+Using a third paradigm, subjects were sinusoidally roll tilted but with ears above or below the rotation axis. This paradigm provided sinusoidal roll canal cues that were the same across trials while providing sinusoidal otolith cues that varied linearly with ear position distance from the axis of rotation. The data clearly showed that the perception of tilt and perception of translation were dependent on canal cues, with substantial roll tilt and inter-aural translation perceptions reported even when no inter-aural force cues were present. 
+<p>
+The above findings collectively match internal model predictions that rotational cues from the semicircular canals influence the neural processing of otolith cues. The data also demonstrated horizontal translational VORs at higher frequencies (>0.2Hz) during both Translation and Tilt; these responses were dependent on otolith cues but independent of canal cues. These findings match frequency segregation predictions that translational VORs include contributions via simple high-pass filtering of otolith cues. More generally, these findings demonstrate that internal models govern human perception while showing that simple filtering contributes substantially to the human translational VOR at frequencies above 0.2 Hz. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91254</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Black, F.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/zcm2-wp10</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>99-HEDS-03</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/85d3b41c-22eb-558b-a348-40d1968fa0bc?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/85d3b41c-22eb-558b-a348-40d1968fa0bc?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

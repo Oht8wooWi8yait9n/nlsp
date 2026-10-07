@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>An Integrated Musculoskeletal Countermeasure Battery for Long-Duration Lunar Missions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6ca5797b-50a3-500a-bf47-322f41685171?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958BL01301</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>An Integrated Musculoskeletal Countermeasure Battery for Long-Duration Lunar Missions</h1>
+        <div class="meta-id">Record ID: NCC958BL01301</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6ca5797b-50a3-500a-bf47-322f41685171?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br> 
+The degree to which the musculoskeletal system will maintain its integrity during prolonged sojourns in the reduced gravity of the lunar surface is presently unknown. It is, however, likely that without countermeasures there will be adaptive changes in muscle strength, bone mineral density, bone geometry, and sensorimotor status. When the combined effects of these changes are considered in the context of the construction and exploration tasks that will be performed at the lunar base or at other lunar sites, the risk of injury secondary to a fall is likely to be elevated. To address this problem, investigators constructed a compact platform that integrates a time efficient integrated battery of countermeasures that can be conducted in the confines of the lunar habitat to minimize the risk of musculoskeletal injury. Ultimately, they expect that this battery of countermeasures will be validated using a 10 head-up bed rest simulation of a lunar mission, although it could also be tested in the standard 6 degree head down simulation. 
+<p>
+The specific objectives of the countermeasure battery are: to preserve muscle strength and cardiovascular fitness; to minimize decrements in postural stability, dynamic balance, and the ability to make corrective actions prior to a fall; to preserve functional performance on mission relevant tasks; and to minimize bone loss in the proximal femur. To accomplish these objectives, the investigators have constructed a unique multi-functional countermeasure device which integrates cardiovascular, balance control, and resistance training functions. The stepper system provides cardiovascular exercise. When the stepper is locked down, the device may be utilized for lower body strengthening exercises such as squats, leg extensions, and abductor/adductor exercises. For balance training, the stepper/resistive system is mounted on a Stuart Platform allowing 3D translations with a range of +/- 10 cm and pitch/yaw/roll of +/-10 degrees. 
+<p>
+APPROACH:<br>
+In the second and third years of the study, based on a request from the Human Research Program, investigators re-scoped the project to carry out a training study in which they have evaluated the ability of CCD exercise to generate improvements in cardiovascular function and lower body resistive strength. 15 subjects underwent a 12 week training study which involved three weekly one hour sessions of cardiovascular and lower body resistive training. The cardiovascular training initially involved stepper exercise (5 subjects, 5% mean 12 week improvement in VO2 max, non-significant change), but based on poor results they changed the aerobic protocol to bike exercise (10 subjects, 27% mean 12 week improvement in VO2max, p0.004), following a design simulation illustrating that a compact exercise bike could be folded into the footprint of the CCD. The 10 subjects exercised on the bike showed improvements ranging from 17%-38%. Leg press strength increased in all 15 subjects over 12 weeks (mean change 68%, range 47-85%, p=0.0001). Isokinetic strength measures showed variable response, with hip abduction, adduction and ankle plantarflexion strength increasing by 22%, 31%, and 13%, respectively (all p<0.05), but leg extension, leg flexion, and hip flexion strength showed non-significant increases. Weight lifted by all subjects in each exercise increased significantly (all exercises p=0.0001). Thus, we were able to conclude that CCD exercise was well tolerated, and could produce significant improvements in physical fitness, thus achieving the goal of the training study. 
+<p>
+Because a project goal is to develop an exercise protocol in which squatting and hip ab/adduction exercise protect against hip bone loss, Dr. Cavanagh's group adapted the Lifemodeler computational tool to simulate the effect of the muscle contractions produced by CCD squatting and ab/adduction exercise. LifeModeler incorporates contractions of 47 muscles in the leg, and fully models all of the CCD exercise. To validate, Drs. Cavanagh and Hanson used the Orthoload Database, which contains results from studies of volunteers who received hip prostheses instrumented with strain sensors, allowing for calculation of hip loading forces associated with different exercises, including abduction and squatting. Simulating the exercise protocols used in the Orthoload Study, the Lifemodeler calculations produced hip loads that were in quantitative agreement with the measured Orthoload results. These calculations showed that 1g CCD abduction exercise produced peak forces of 4 body weights on the hip, compared to 2.5 body weights for squatting. Based on the heavy load on the Bed rest Facility, the CCD was not placed into the bed rest study, but follow up on the ab/adduction results were considered highly exciting. Based on this, they carried out a study to evaluate the effects of ab/adduction exercise on hip bone strength and density measured by quantitative computed tomography and finite element modeling. They compared standard aRED lower body exercise, combined aRED, and ab/adduction and ab/adduction only, maintaining the same number of repetitions per group, in a 16 week study, with three exercise sessions per week. Eight subjects were assigned to each group. aRED exercise resulted in increased spine and femoral neck bone density, as well as increased hip strength by FEM in the stance loading condition. Ab/Add exercise showed increased cortical bone volume at the trochanter and a borderline insignificant increase of hip strength by FEM in the fall loading condition. The combined group showed no changes. Thus, while AbAdd exercise appears to have a modest osteogenic effect, any application of this approach for prevention of hip bone loss would require additional exercise. Given the modest osteogenic effect we observed, the value of Ab/Adductor exercise may rest more in preservation of functional mobility and fall protection rather than bone loss prevention.
+<p>
+RESULTS:<br>
+Investigators carried out a study to evaluate the effects of ab/adduction exercise on spine bone density and hip bone strength and density measured by quantitative computed tomography and finite element modeling. In 24 healthy subjects, they compared standard aRED lower body exercise, combined aRED, and ab/adduction and ab/adduction only, maintaining the same number of repetitions per group, in a 16 week study, with three exercise sessions per week. Eight subjects were assigned to each group. At the end of the study, two subjects had dropped out, leaving them with 8 subjects in the Ab/Add group, and 7 subjects each in the aRED and combined groups. The three groups showed differential responses of spine and hip bone density and hip bone strength to 16 weeks of training. The group of subjects doing aRED-like exercise consisting of squats and deadlifts showed robust increases in vertebral trabecular bone density (9% p<0.05), as well as smaller but statistically significant increases in femoral neck integral bone density, femoral neck cortical bone density, and femoral neck cortical volume. No changes were observed in the trochanteric region of the hip. No changes were observed in trabecular bone at any subregion of the hip. Using non-linear finite element modeling based on the QCT images, we estimated changes of hip whole bone strength under simulated conditions of single-legged stance and a posterolateral fall. We observed that in the aRED-like group, there was a 9% increase in stance strength (p<0.05) but not in fall strength. The group of subjects carrying out abduction and adduction exercise showed no changes in any of the vertebral bone parameters. Abduction and adduction exercise resulted in changes in cortical bone parameters at the trochanter, with a 4.4% increase (p<0.01) in cortical bone volume, and a marginally insignificant 2.1% increase in the trochanteric compressive strength index, which integrates bone density and size to provide a measure of the resistance of the trochanter to compressive loading forces. Finite element computed strength in simulated fall loading resulted in a borderline insignificant trend (p=0.15) towards an increase (5.5%). The group doing combined exercise (half aRED-like and half abduction and adduction) showed no changes in any of the bone parameters. Thus, our study showed that standard aRED exercises consisting of squats, deadlifts, and heel raises have an osteogenic effect on the spine and to a lesser extent on the hip, focused on the femoral neck. While abductor and adductor exercise appears to have a modest osteogenic effect (cortical bone formation) on the trochanter of the hip, the failure of the combined group to show any changes indicates that any adbuctor/adductor exercise needs to be carried out in addition to the standard exercise protocol. The modest effects hint that the proper focus of the exercise could be functional mobility and strength rather than bone protection.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958BL01301</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lang, Thomas</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology, Biomedical countermeasures, Exercise physiology, Skeletal physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/f6zk-a723</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6ca5797b-50a3-500a-bf47-322f41685171?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6ca5797b-50a3-500a-bf47-322f41685171?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

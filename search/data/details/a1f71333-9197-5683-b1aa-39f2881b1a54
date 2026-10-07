@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canal and Otolith Integration Studies (COIS) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a1f71333-9197-5683-b1aa-39f2881b1a54?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9307570</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Canal and Otolith Integration Studies (COIS)</h1>
+        <div class="meta-id">Record ID: 9307570</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a1f71333-9197-5683-b1aa-39f2881b1a54?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>Determining the position of our bodies, relative to the environment, is a complex function requiring the brain to integrate information from virtually every sensory system, including the eyes and inner ear, as well as receptors in our muscles and joints.  The absence of gravity causes adaptive changes in the sensorimotor and perceptual systems, and some of these changes are fundamental.  <P>The adaptive mechanisms of the sensorimotor and perceptual systems rely on adjustments in control strategies.  Thus, the first aim of the Canal and Otolith Integration Studies (COIS) was a better understanding of the changes in the strategies of oculomotor performance (eye movement), particularly those that rely on spatial orientation.  This was tested by systematically evaluating changes in the different classes of eye movements, including the vestibulo-ocular reflex, smooth pursuit and saccades.   Changes in eye movements reflect disruptions in the coordination process.<P>The second aim of the study was to test the hypothesis that the absence of an orientational extrinsic gravity vector would result in a change in oculomotor and perceptual responses such that the subjects would begin to use intrinsic coordinates to orient themselves.  This hypothesis was tested by evaluating changes in cross-coupling of the vestibulo-ocular reflex (VOR) and optokinetic nystagmus (OKN) response axes and by evaluating changes in spatial reorientation performance.<P>
+APPROACH:<br>
+The COIS experiment was composed of three different protocols:  Voluntary Head Shakes (VHS), Smooth Pursuit Tracking and Optokinetic Nystagmus (OKN).  The VHS and Smooth Pursuit Tracking protocols were always performed at the same time (first VHS, then Smooth Pursuit Tracking), while the OKN protocol was not necessarily performed on the same day.<P>During the VHS and Smooth Pursuit Tracking protocols, the subjects were seated and the lower body and trunk restrained.  The subject wore a vest called the Instrumented Vest Assembly (IVA), which contained amplifiers and data recorders (called the Superpocket Assembly) and provided the connections to the peripheral hardware.  The peripheral hardware included an electrooculograph (EOG) to monitor eye movements, a triaxial rate sensor to record head movements, the Luminous Target Display (LTD) and the Electronic Light Occlusion Goggles (ELOG).  The LTD provided a cruciform array of Light-Emitting Diodes (LEDs) and was used as a visual target.  The ELOG goggles occluded vision under normal conditions and were translucent when a 30-volt DC electrical current was applied.<P>The VHS protocol included two test conditions, both featuring voluntary head shakes at two different frequencies, 0.33 and 1.0 Hertz (Hz), in both the horizontal (yaw) and vertical (pitch) planes.   Instructions were given to the subjects via a prerecorded audio tape that played a modulated tone.  The subject was asked to move the head so that during the lowest tone the head was at the far right and at the highest tone it was at the far left.  During the first test condition, the subjects performed the head shakes using the central light of the LTD as their visual target.  During the second test condition, the subject's vision was occluded using the ELOG goggles. The subject was asked to move their head according to the auditory cues and use an imaginary target to fixate gaze. <P>Smooth Pursuit Tracking required the subjects to track a moving target in two ways.  In the first type of tracking, the head was held stationary, and the target was pursued with eyes only.  In the second type of tracking, both the eyes and head were allowed to move.  Two frequencies, 0.33 and 1.0 Hz, were used for both the horizontal (yaw) and vertical (pitch) planes.  The diodes of the LTD functioned as targets, providing a peak amplitude of 25 degrees.  <P>During the Optokinetic Nystagmus (OKN) protocol, the subjects wore the Optokinetic Stimulus (OKS) goggles.  The head-mounted OKS goggles provided the stimuli to provoke optokinetic nystagmus by means of a pattern of red and black 4-degree-wide stripes viewed through a Fresnel lens. The stripe pattern could be moved at a constant velocity of a maximum of 40 degrees per second in the horizontal, vertical or 45 degrees oblique direction.<P>The optokinetic stimulus was maintained in one direction for 20 seconds, followed by 10 seconds in darkness, during which optokinetic after-nystagmus was observed.  This was followed by 5 seconds with a stationary display to visually suppress any remaining after-nystagmus before providing 20 seconds of OKS in the opposite direction, followed again by 10 seconds of darkness.  During the initial darkness period, eye movements (EOG) were recorded with the subject looking straight ahead to quantify any spontaneous and/or positional nystagmus that might be present.<P>In space, the subjects were free-floating during the OKN trials to avoid external orientation cues.  For pre- and postflight testing, the gravitational effects on the OKN were inferred by evaluating the horizontal-to-vertical cross-coupling effects with either visual stimulus by tilting the subject's head by 30 degrees with respect to the spatial vertical.  <P>Crewmembers participated as test subjects and operators for COIS, obtaining measurements before, during and after flight.  Three preflight data collection sessions were used as a baseline with which to compare inflight and postflight data.  Space flight data collection occurred four times for each subject -- two times early and two times late during the mission.  Postflight data collection occurred on landing day (R+0), and continued on R+1, R+2, R+4 and R+8.<P>
+RESULTS:<BR>
+The responses to self-induced, sinusoidal head rotations further indicates that VOR gain and phase are modified as is gaze.  These modifications in the VOR system are the direct result of the vestibular system to aid in the stabilization of the retinal image.  This in tum sets-up conditions which are ideal for retinal lip and possible degradations in visual performance. Although the test used in this experiment was simple to implement, some training was necessary before the crewmembers could perform the necessary head oscillations correctly.   Once learned, the procedures were performed perfectly.
+<p>
+The horizontal BOG data obtained when vision was occluded, there was a significant drop in VHS response gain during the flight phase of the experiment associated with the 1.0 Hz frequency.   Flight Day 2 (FD-2, approximately 30 hours into the mission) shows an immediate drop in the 1.0 Hz response gain from the preflight levels.   Gain remained below preflight levels when vision was absent throughout the flight, showing a slight increase on day 16 of the mission.  Immediately following the flight (R+O), gain immediately dropped again.to the inflight levels measured prior to FD-16.   Following R+O, gain measurements increase to the approximate levels observed during the preflight testing.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9307570</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Reschke, Millard</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-78&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/j9pa-hq45</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Not available</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a1f71333-9197-5683-b1aa-39f2881b1a54?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a1f71333-9197-5683-b1aa-39f2881b1a54?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

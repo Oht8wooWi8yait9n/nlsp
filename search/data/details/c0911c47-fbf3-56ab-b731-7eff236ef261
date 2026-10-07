@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Timed Feeding and Resistance Training to Prevent Muscle Atrophy - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/c0911c47-fbf3-56ab-b731-7eff236ef261?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958NPFR00301</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Timed Feeding and Resistance Training to Prevent Muscle Atrophy</h1>
+        <div class="meta-id">Record ID: NCC958NPFR00301</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/c0911c47-fbf3-56ab-b731-7eff236ef261?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Muscle mass and strength, important components of health-related fitness, are significantly reduced during space flight due to a combination of factors, including the elimination of gravity and dietary deficits. Resistance training (RT) is an exercise modality that offers the hope of mitigating or reversing muscle loss induced by weightlessness. Recent studies suggest that the timing of an essential amino acid supplement around a bout of RT may augment the effect of exercise on muscle protein balance. The present study evaluated the effect of an integrated nutrition and RT approach as a countermeasure against deleterious effects of space flight on muscle health using bed rest as a model of weightlessness. 
+<p>
+<br>The hypotheses of this study were: 
+<br>a) The combination of timed feeding (TF) of an essential amino acid (AA) supplement with RT (TFRT) is more effective than RT or TF alone as a countermeasure against bed rest induced muscle loss. 
+<br>b) TFRT accelerates recovery from 28 days of bed rest compared to RT or TF alone over 14 days following strict bed rest. 
+<br>c) TFRT works at least in part by modulating muscle levels of anabolic growth factors and cytokines (insulin-like growth factor-1, transforming growth factor-beta, and interleukin-15), and catabolic cytokines (interleukin -1beta, interleukin -6, myostatin, and tumor necrosis factor-alpha). 
+<P>
+APPROACH:<br>
+The investigators examined the effect of these countermeasures on body composition, strength, and insulin levels in 31 men (ages 31-55 yr) during BR (28 days) followed by active recovery (14 days). Subjects were randomly assigned to essential AA supplementation (AA group, n = 7); RT with AA given 3 h after training (RT group, n = 12); or RT with AA given 5 min before training (AART group, n = 12)
+<p>
+RESULTS:<br>
+Energy intake was reduced by 8 +/- 6%. Mid-thigh muscle area declined with BR for the AA > RT > AART groups: -11%, -3%, -4% (P = 0.05). Similarly, greatest losses in lower body muscle strength were seen in the AA group (-22%). These were attenuated in the exercising groups [RT (-8%) and AART (-6%; P < 0.05)]. Fat mass and mid-thigh intramuscular fat increased after BR in the AA group (+3% and +14%, respectively), and decreased in the RT (-5% and -4%) and AART groups (-1 and -5%; P = 0.05). Muscle mass and strength returned toward baseline after recovery, but the AA group showed the lowest regains. Combined resistance training with AA supplementation pre- or post-exercise attenuated the losses in muscle mass and strength by approximately two-thirds compared with AA supplement alone during BR and energy deficit. These data support the efficacy of combined AA and RT as a countermeasure against muscle wasting due to low gravity.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958NPFR00301</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Castaneda-Sceppa, Carmen, Roubenoff, Ronnen</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/qpgb-ev19</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>01-OBPR-07</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/c0911c47-fbf3-56ab-b731-7eff236ef261?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/c0911c47-fbf3-56ab-b731-7eff236ef261?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

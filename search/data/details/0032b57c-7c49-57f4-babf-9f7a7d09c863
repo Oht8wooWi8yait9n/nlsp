@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>High-Protein and Polyphenol Bar Formulations: Utilizing Whey Protein-Polyphenol Ingredients - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/0032b57c-7c49-57f4-babf-9f7a7d09c863?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AQ81G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>High-Protein and Polyphenol Bar Formulations: Utilizing Whey Protein-Polyphenol Ingredients</h1>
+        <div class="meta-id">Record ID: NNX15AQ81G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/0032b57c-7c49-57f4-babf-9f7a7d09c863?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+Consuming the necessary amount of protein to reach dietary needs can be challenging, particularly for individuals who are recovering from strenuous exercise, dieting, or experiencing space flight. Therefore, diverse, convenient protein-dense and calorie-rich food sources are needed to supplement nutrition. Protein bars can be formulated with fruits, nuts, grains, and vegetables to address nutritional and health requirements, but may fail to meet shelf life needs, due to a phenomenon known as “bar hardening”. Over time, soft, chewy bars transform into hard, brittle solids with an undesirable texture. This hardening reaction is associated with various transformations of ingredients in the bars. 
+<P>
+The proposed research was a ground-based investigation which evaluated high protein-polyphenol bar formulations for prevention of inadequate nutrition which may compromise the health of crewmembers during space flight. Typically, high protein bars have a short shelf-life due to hardening of bars over time. Therefore, the use of protein-polyphenol particles, which will not participate in the bar hardening reaction, was proposed. The bars delivered whey proteins, a high quality protein source that maintains muscle strength and function, and immune-protective polyphenols from berries that can improve cognitive function and prevent oxidative stress. Complexation of polyphenols to proteins will stabilize food quality and bioactivity for extended periods of space travel. The objective of the study was to produce a bar that contains optimal levels of whey proteins and plant polyphenols and that will maintain nutrient bioavailability and desirable sensory properties over the shelf life needed for space travel. 
+<P>
+Mitigation of bar hardening with the use of protein-polyphenol ingredients is of interest to a wide range of individuals who need nutrients in a shelf stable for extended periods of time and those looking for the added health benefits of plant polyphenols.
+<P>
+APPROACH: <br>
+The approach used to support the above objectives comprise several phases. In the first phase, the bars were formulated. In the second phase the bars were evaluated for texture, sensory and rheological properties. In the third phase the shelf-life of the bars, at various temperatures, was determined. At specific times of shelf-life, the bars were tested for total phenolics, protein digestibility, and bar hardness. 
+<P>
+RESULTS:<br>
+The goal of the project was to produce a protein-polysaccharide ingredient that was dense in nutrients and increase the quality of high-protein bars for use in space flight. It was hypothesized that using a functionally “inert” protein ingredient would resist changes that cause the undesirable textural property known as “bar hardening,” which shortens the shelf life of protein bars. Particles were formed where aggregation was driven by mixing whey protein isolate (WPI) with cranberry juice to form particles, separating the particles from the fluid phase, and spray drying. This provided an additional benefit of adding healthy plant polyphenols to a bar already containing high quality protein. 
+<P>
+Methods were evaluated to produce protein-polyphenol particles designed for reducing bar hardness and explored potential mechanisms for reduced bar hardening. It was determined that particle formation based on co-aggregation of whey proteins with cranberry juice polyphenols (WP-CP particles) produced the most ideal particles. When used in a bar formation, WP-CP particles reduced the initial bar hardness and showed less hardening over time. The effect was thought to be the result of the particles not participating in reactions that produce bar hardening. 
+<P>
+A critical step in forming WP-CP particles was the production of protein-polyphenol aggregates that were insoluble in the pH range of 4 to 6. While there is no agreed upon mechanism for bar hardening, the proposed mechanisms are related to phase equilibration, phase separation, or network formation over time. All of these require a protein-water phase with the ability for proteins to move about and form new interactions. Just mixing protein and juice polyphenols under conditions where proteins remain water soluble – at amounts similar to the WP-CP particles – showed increased bar hardness. Therefore, the critical property may not be particle size, but, rather, removal of small reactive/native whey proteins. It was proposed that pre-aggregating proteins into a particle phase removes them from participating in bar hardening reactions that occur over time. 
+<P>
+
+The enzymatic digestion rate of the WP-CP particles was slower than whey protein isolate alone, a finding supported in the literature by other studies. However, the digestion rate was not out of the range of digestion rates observed with other proteins. For example, soy protein digests slower than whey proteins, but faster than casein. Therefore, it was expected that WP-CP particles would still digest faster than soy and casein, which are the two most predominant protein sources other than whey protein used in making bars. If bar formulators intended to use whey protein isolate due to the rapid digestibility, WP-CP particles could still be an option. If one wanted to prolong the effective release of proteins within a bar, WP-CP particles could be exploited in this way, as it could be used as an intermediate digesting rate protein or balanced with another protein in a bar formulation. Ultimately, the amino acid composition, which is what gives whey proteins their high protein quality, would be maintained, and the ingredient would have the added health benefit of the polyphenols. Polyphenols have been shown to impart anti-inflammatory, anti-cancer, and cardiovascular protective properties. 
+<P>
+
+In conclusion, the use of whey protein-cranberry polyphenol particles allowed for a reduction in bar hardness. It was hypothesized that protein-polyphenol particles proved a less soluble source of protein, which acted as an inert particle, less likely to interact and cause bar hardening during storage. The digestion rate of the whey protein was decreased in the presence of polyphenols, but remains greater than soy protein and therefore allows for control of protein digestibility. This permits the option to substitute a fraction of WPI with WP-CP particles in a bar formulation to provide both a quick and slow digesting protein, as well as a softer bar. Future work is needed to confirm this proposed mechanism. This project has shown a way to provide additional health benefits and improve the shelf life of protein bars to expand and extend their usefulness in space flight.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AQ81G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Foegeding, Edward</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/sdhs-de54</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/0032b57c-7c49-57f4-babf-9f7a7d09c863?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/0032b57c-7c49-57f4-babf-9f7a7d09c863?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collection of Shuttle Humidity Condensate for Analytical Evaluation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/b4c64f2c-0175-5ce7-82d8-2013c4d025b4?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 317</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Collection of Shuttle Humidity Condensate for Analytical Evaluation</h1>
+        <div class="meta-id">Record ID: DSO 317</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/b4c64f2c-0175-5ce7-82d8-2013c4d025b4?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The objectives of this study were to characterize and analyze the content of the Shuttle's humidity condensate to assess the contaminant-removal efficiency of the cabin heat exchanger; and to support development and realisitic testing of the water recycling and monitoring systems for the International Space Station.  
+<P>The desire to remain in space for extended orbital missions and to inhabit the Moon has led to the development of advanced technologies for managing and treating wastewaters generated in space. These wastewaters must be recycled to meet the need for potable and hygiene water during flight. Although techniques for treating wastewater produced in a terrestrial setting are well established, neither techniques nor standards are available for recycling wastewater to produce drinking water.
+<p>
+The first proposed use of water recycling to support a U.S. space mission was on the International Space Station (ISS). Plans called for distilled urine, spent hygiene water, and humidity condensate to be recovered and recycled by a potable water processor. Organic and inorganic constituents were removed through a series of integrated granular activated carbon and ion-exchange beds. Low molecular-weight polar organics were oxidized by a catalytic oxidation unit. The finished water was disinfected by iodinated anion exchange resins.
+<p>
+Information from ground-based tests and Spacelab condensate studies were supplemented with the flight of Detailed Supplementary Objective (DSO) 317 on Space Shuttle missions STS-45 and STS-47. This DSO enabled the first in-flight collection of Shuttle cabin condensate for postflight analysis.
+<p>
+The specific objectives of the DSO were: (1) to collect representative samples of space-generated
+humidity condensate to support the development of water reclamation and monitoring hardware for the ISS and (2) to characterize the inorganic and organic constituents of these samples to expand the database generated by ground-based studies.
+<p>
+APPROACH:<br>
+To collect samples of condensate during flight, a 3 millimeter braided stainless steel flexible hose with Teflon® lining was installed at a test port (TP49) on one of the two air/water separators before launch. This test port was located such that a minimum volume of air and no urine would be collected with the condensate samples.
+<p>
+During each in-flight sampling period, a stowed water dispenser was attached to the hose, which was made accessible to the crew through the lower equipment bay hatch on the middeck. Before the condensate samples were collected, the water dispenser was turned on and the sample line flushed for 20 minutes. When this flush was completed, a 1-L modified Shuttle beverage pouch was secured to a needle on the water dispenser for periods lasting up to four hours. Samples were collected early, midway, and late in the missions. Because refrigerated storage space was not available, all condensate samples were stored under ambient temperatures until their return to Earth.
+<p>
+Upon landing, condensate samples were retrieved from a Shuttle food locker and placed in an ice chest for immediate return to JSC with the Shuttle crew. Upon arrival at JSC, the samples were allocated into either glass or Teflon® bottles and refrigerated before individual analysis.
+<p>
+RESULTS:<br>
+Nine cabin condensate samples were collected as part of DSO 317; five on STS-45 (Atlantis) and four on STS-47 (Endeavour).
+<p>
+<i>Physical Parameters</i>
+<p>
+Conductivity of the cabin condensate ranged from 93.2 to 165 µMho/cm, with higher values being detected on STS-47 (105 to 165 µMho/cm). The higher values measured on STS-47 may be related to the DTO 647 filter, which was not installed on STS-45.  The turbidity of the cabin condensate ranged from 1.2 to 2.19 NTU, with higher values measured on STS-45, the older Shuttle vehicle.
+The pH of all condensate samples was neutral, ranging from 6.41 to 7.08. The pH of the cabin samples tended to increase slightly over the course of each mission.
+<p>
+<i>Metals</i>
+<p>
+Zinc was present at the highest concentrations in the STS-45 (17 to 21 mg/L) and STS-47 (10 to 18 mg/L) condensate. Silicon, nickel, and lithium were also present in both STS-45 and STS-47 condensate samples.
+<p>
+<i>Non-metals</i>
+<p>
+Anionic constituents were present at fairly low concentrations in both STS-45 and STS-47 condensate. Those anions present in the greatest concentrations were chloride (0.9 to 1.8 mg/L) and nitrite (0.45 to 0.72 mg/L). Anionic constituents detected in the ground-based End-use Equipment Facility (EEF) condensate included chloride (0.23 mg/L), fluoride (0.97 mg/L), nitrate (0.32 mg/L), and sulfate (0.17 mg/L). Ammonium was the dominant nonmetallic cation with levels ranging from 11.4 to 14.2 mg/L in STS-45 condensate and 16.2 to 18.4 mg/L in STS-47 condensate. Ammonium (0.42 mg/L) concentration in the ground-based EEF condensate was much lower.
+<p>
+<i>Charge Balance</i>
+<p>
+An ionic charge balance was assessed for each sample as a quality-control check using the data derived from the analysis of anions, cations, and organic acids. To be electrically neutral, the total number of positive charges (cations) in a solution must be equal to the total number of negative charges (anions).  Differences between anion and cation concentrations in condensate collected onSTS-45 ranged from 0.148 to 0.358 meq/L. Improvements in the analysis of organic acids in STS-47 samples reduced the anion-cation differences to only 0.075 to 0.162 meq/L. An acceptable difference is 0.2 meq/L when the sum of the anions is less than 3.0 meq/L.  
+<p>
+<i>Total Organic Carbon</i>
+<p>
+The concentrations of total organic carbon (TOC) ranged from 83 to 137 mg/L on STS-45 and 109 to 230 mg/L on STS-47. On both STS-45 and STS-47, the concentration of TOC tended to increase over the course of the mission. The lower concentration of TOC in the early samples may either reflect the degradation of organic compounds in the absence of sample preservation or the buildup of organic contaminants over time. In comparison, the levels of TOC measured in Shuttle cabin condensate far exceeded TOC levels measured in condensate produced during ground-based studies (16.3 mg/L).
+<p>
+<i>Volatile Organic Compounds</i>
+<p>
+Most of the volatile organic compounds targeted in water analysis by the Environmental Protection Agency were not detected in either the STS-45 or STS-47 samples. Compounds present at the highest concentrations included acetone (13 to 33 µg/L), acetaldehyde (<10 to 20 µg/L), and methylene chloride (2 to 532 µg/L). Although similar levels of acetone and acetaldehyde were detected in both STS-45 and STS-47 condensate, the levels of methylene chloride measured on STS-47 exceeded the levels measured on STS-45. Carbon disulfide found in samples of Spacelab condensate by JSC (12 to 1605 µg/L) and other investigators (262 to 430 µg/L) was not detected in either the STS-45 or STS-47 cabin condensate.
+<p>
+<i>Semi-volatile Organic Compounds</i>
+<p>
+The semi-volatile compounds found in highest concentration included 2-(2-butoxyethoxy) ethanol
+(2.7 to 3.4 mg/L), diethyl phthlate (0.48 to 2.2 mg/L), octanoic acid (1.5 to 1.8 mg/L), and 1,3,5 triazine-2,4,6 (lH,3H,5H)-trione,1,3,5 tri- 2-propenyl (0.067 to 1.1 mg/L).  The presence of even trace amounts of phenolic compounds in the raw humidity condensate presents a problem as phenol is known to react with iodine, and iodine has been proposed for use as a water disinfectant aboard the ISS. Phenol concentrations in the cabin condensate ranged from 35 to 107 µglL. Values as high as 146 µglL have been measured in Spacelab condensate samples. 
+<p>
+<i>Alcohols</i>
+<p>
+The three alcohols found in greatest abundance in both STS-45 and STS-47 condensates were ethanol (6.6 to 126 mg/L), 2-propanol (1.9 to 43.4 mg/L), and methanol (1.4 to 7.4 mg/L).
+These high concentrations are related to the use of alcohol wipes on the Shuttle for cleaning purposes. High levels of ethanol (42 to 132 mg/L), 2-propanol (26 to 60 mg/L), and methanol
+(trace to 12.6 mg/L) were also measured in Spacelab condensate.
+<p>
+<i>Glycols</i>
+<p>
+The only glycol detected was 1,2-propanediol (propylene glycol) at concentrations ranging from 29 to 72 mg/L. In comparison, levels of 1,2-propanediol measured in Spacelab condensate (19 to 128 mg/L) exceeded those values measured in the cabin condensate. Propylene glycol was also present in the ground-based EEF condensate at 2.8 mg/L.
+<p>
+<i>Caprolactam</i>
+<p>
+The routine use of Velcro® in the Shuttle was apparent from the high concentrations of caprolactam found in the STS-45 (5.4 to 10 mg/L) and STS-47 (26 to 33 mg/L) condensate. While levels of caprolactam were found to be much lower (0.025 mg/L) in condensate from the ground-based EEF, values measured in Spacelab condensate were comparable (10.3 to 19.8 mg/L) to the cabin condensate levels.
+<p>
+<i>Organic Acids</i>
+<p>
+Acetic, formic, and propionic acid were the predominant organic acids found in both STS-45 and STS-47 condensate. Of the three, acetic acid was present at the highest concentrations (2.35 to 28.5 mg/L). Levels of acetic acid measured in Spacelab condensate (5.6 to 63.9 mg/L) exceeded those measured in the cabin. Except for propanoic acid, the concentrations of organic acids were greater in the Shuttle samples than in the ground-based EEF condensate samples.
+<p>
+<i>Formaldehyde</i>
+<p>
+Formaldehyde was present in substantial quantities in the STS-45 (3.3 to 10.4 mg/L) and STS-47 (6.3 to 7.9 mg/L) condensate. Levels in Spacelab condensate tended to be lower (1.0 to 3.5 mg/L).
+<p>
+<i>Accountability of Organic Carbon</i>
+<p>
+Results from individual organic compound analyses were summed for each sample to see how much of the measured TOC could be accounted for in this way. In the STS-45 condensate samples, 51 to 59% of the TOC could be accounted for and in the STS-47 samples, 70 to 75%. The higher percentages reflect improvements in analytical methods for alcohols, organic acids, volatile, and semi-volatile compounds. Alcohols made up the greatest percentage of organic carbon in STS-47, with percentages approaching 40% in the STS-47 cabin condensate. In contrast, glycols (i.e., 1, 2-propanediol) made up a slightly greater percentage of organic carbon than alcohols in most of the STS-45 samples. Organic acids never contributed the highest percentage of organic carbon, as was the case with the ground-based EEF condensate. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 317</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Sauer, Richard, Schultz, John</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Environmental monitoring</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-45&#x27;], [&#x27;STS-47&#x27;]</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/wxx4-r977</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/b4c64f2c-0175-5ce7-82d8-2013c4d025b4?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/b4c64f2c-0175-5ce7-82d8-2013c4d025b4?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

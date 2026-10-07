@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Functional Task Tests in Partial Gravity during Parabolic Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/926755b9-6da7-5c16-a501-890c9d2568d0?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>FTT_Parabolic_Flight</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Functional Task Tests in Partial Gravity during Parabolic Flight</h1>
+        <div class="meta-id">Record ID: FTT_Parabolic_Flight</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/926755b9-6da7-5c16-a501-890c9d2568d0?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <p>OBJECTIVES:</p><p><span>Critical mission tasks that are required by crews immediately after landing on a planetary surface are seat egress, jump, and walk. To be able to define an effective and comprehensive countermeasure strategy for preserving crew performance during exploration-class missions, there is a need to understand how these functional tasks are actually performed in partial gravity such as on the Moon or Mars. The researchers aim to analyze the execution of four critical mission tasks during the partial gravity and hypergravity phases of parabolic flight by using the same equipment and procedures as those previously used on astronauts returning from International Space Station (ISS) missions and ground-based subjects during axial body unloading.
+</span></p><p><span>
+The goals of this study are (a) to determine the dose-response relationship between the performance of these tasks versus gravity levels between 0 and 1 g; and (b) to identify the vestibular, sensorimotor, and cardiovascular factors that would likely affect their execution.
+</span></p><p>APPROACH:</p><p><span>Twelve subjects (six male and six female) will be tested during 3 flights of 30 parabolas, including 10 parabolas at 0.25 g, 10 parabolas at 0.5 g and 10 parabolas at 0.75 g. Performance metrics will include (a) the time for the subject to complete the test (Seat Egress and Walk, Recovery from Fall and Stand); (b) the time elapsed between the start of motion and the stabilization of upright posture (Recovery from Fall and Stand, Jump Down); (c) the mean sway speed during quiet standing (Recovery from Fall and Stand, Jump Down); (d) changes in heart rate and blood pressure (Recovery from Fall and Stand); (e) the percentage of correct steps and torso acceleration (Tandem Walk); and (f) the severity of motion sickness symptoms. The subjects will not be offered anti-motion sickness medication because the drug could alter their task performance.</span></p><p>RESULTS:</p><p><span>The functional tasks tests in this study challenge balance control, a function that is paramount to the efficient completion of critical mission tasks. Knowledge gained from this study will allow the researchers to characterize the risk for partial gravity levels, thus ensuring a more effective and comprehensive countermeasure strategy for preserving crew performance during exploration-class missions.</span></p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>FTT_Parabolic_Flight</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Clement, Gilles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ed1f-8a72</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing. Available datasets are accessible via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Internal Project</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/926755b9-6da7-5c16-a501-890c9d2568d0?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/926755b9-6da7-5c16-a501-890c9d2568d0?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

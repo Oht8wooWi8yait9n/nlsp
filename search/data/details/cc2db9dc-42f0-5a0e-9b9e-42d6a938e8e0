@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cyber Partners: Harnessing Group Dynamics to Boost Motivation for More Efficient Exercise - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/cc2db9dc-42f0-5a0e-9b9e-42d6a938e8e0?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958MA03401</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Cyber Partners: Harnessing Group Dynamics to Boost Motivation for More Efficient Exercise</h1>
+        <div class="meta-id">Record ID: NCC958MA03401</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/cc2db9dc-42f0-5a0e-9b9e-42d6a938e8e0?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <p>OBJECTIVES:<br>
+Astronauts may have difficulty adhering to exercise regimens at vigorous intensity levels during long space missions. Keeping up with exercise prescriptions is important for aerobic and musculoskeletal health during space missions and afterwards. A key impediment to maintaining intense levels of exercise is motivation. However, finding ways to motivate astronauts to be physically active at the levels necessary to lessen the effects of bone and muscle loss and aerobic capacity has not been explored. Typically individuals become bored with training regimens over time or find them less enjoyable if they do not have strategies to maintain their motivation. Although traditional group exercise leads to higher exercise adherence than individual exercise programs, structured group exercise programs are not possible for astronauts during space missions. Exercise video games have been marketed as a way to increase people’s motivation and enjoyment to exercise by being entertaining, engaging and providing a means by which to interact with other players. Although many exercise games involve competition among players, few take advantage of group dynamics to motivate play and there has been little attempt to analyze what game features and interpersonal interactions would best motivate users to continue exercising with these games. Using individuals closely matched in age and fitness to current astronauts, this research was designed to determine whether recently documented motivation gains in task groups can be harnessed to improve motivation in interactive exercise games using virtual, software-generated (SG) partners. Exercising with an SG partner offers a number of advantages such as availability, flexibility, and autonomy over a live human partner. </p><p>
+This study had the following specific aims:</p><ol>
+<li>Develop software to create SG exercise partners and interface with exercise equipment (cycle ergometer) similar to equipment available on the International Space Station (ISS).
+<li>Test various design features of an SG partner within designed exercise video games to determine the most effective features for enhancing motivation to exercise, enjoyment, confidence, and connectedness.
+<li>Test whether exercising with an SG partner over a 24 weeks, compared to exercising alone, leads to better aerobic capacity and muscle strength, adherence to exercise regimen, enhanced exercise enjoyment, self-efficacy, and sense of social connectedness. </li></ol>
+<p>
+APPROACH:<br>
+To address the second aim, investigators tested an SG partner in one of three modes against an individual control condition: (a) co-acting mode, where the subject cycled with the SG partner but whose performance was independent of the partner (i.e., they were not teammates), (b) conjunctive-teammate mode, where scores were based on the slower performer, and (c) choice mode where subject could choose co-acting mode or conjunctive teammate mode for all trials. The experiment routines consisted of (a) 30 minutes of continuous aerobic exercise on a cycle ergometer at or above 75% of maximum heart rate and (b) high-intensity interval training involving four repetitions of four minutes at or above 90% heart rate (HR) max. Investigators tested an additional 38 chronic exercisers. Subjects were allowed to adjust the power output (watts) during workouts. The main outcome variable was average watts cycled above target prescribed watts. 
+<p>
+To address the third aim, investigators tested an SG exercise partner in one of two modes: (a) conjunctive-teammate mode and (b) conjunctive teammate who is not always superior (NAS) and is sometimes surpassed by the subject, plus (c) individual control condition. Subjects exercised six days a week for 24 weeks, using the following aerobic routines: (a) 30 minutes of continuous aerobic exercise on a stationary cycle at or above 75% HR max, (b) 4x4 minute intervals at or above 90% HR max with three minutes of active rest, (c) 6x2 minute intervals at varying intensities with two minutes of active rest, and (d) 30 second sprint intervals at maximal effort with 20 seconds of active rest. 
+<p>
+In addition, investigators first tested whether the Conjunctive or NAS groups adhered more to the protocol than Controls. Conjunctive and NAS conditions averaged 15 more days completing the protocol than the Controls. However, group differences were not statistically different. In terms of the primary dependent measure, effort analyses are based on the continuous and four minute interval sessions. Subjects were not allowed to increase their intensity on the two minute intervals. Similarly, the dependent measure for the 30 second sprints was number of intervals completed, which all subjects completed. During Week 20, NAS subjects increased their effort more (M = 8.9 watts) compared to Controls (M = 1.5 watts) and Conjunctive subjects (M = 3.9 watts) on the four minute interval workout. 
+<p>
+RESULTS:<br>
+In regards to target prescribed watts, results showed no condition main effects from baseline; however, during the four minute interval sessions conjunctive trended toward greater exercise effort than control and coactive conditions. The four minute intervals likely represent the most motivationally demanding workout at 90% HR max. Increases in effort above target watts positively correlated with enjoyment, self-efficacy, and team perceptions during the four minute intervals. No relationships were found with less intense continuous exercise. Although this study did not find significances between group increases in performance effort, participants significantly increased their effort with the exercise video game (i.e., simulated bike paths).
+<p>
+Throughout the duration of the study, NAS subjects always outperformed Controls on the four minute intervals. All groups had large significant increases in VO2max from baseline to midpoint, then values leveled off from midpoint to final. Social connectedness rose significantly from midpoint to final, and those with an SG partner increased their teams' perceptions from midpoint to final. Subjects in NAS and Conjunctive conditions had higher self-efficacy beliefs than Controls after one week with the SG partner. Enjoyment remained stable, above response scale midpoint, across 24 weeks. 
+<p></p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958MA03401</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Feltz, Deborah</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/edd8-k246</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2012 Crew Health NNJ12ZSA</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/cc2db9dc-42f0-5a0e-9b9e-42d6a938e8e0?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/cc2db9dc-42f0-5a0e-9b9e-42d6a938e8e0?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

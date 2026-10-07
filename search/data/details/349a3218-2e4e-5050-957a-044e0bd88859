@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asynchronous Techniques for the Delivery of Empirically Supported Psychotherapies - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/349a3218-2e4e-5050-957a-044e0bd88859?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AN64G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Asynchronous Techniques for the Delivery of Empirically Supported Psychotherapies</h1>
+        <div class="meta-id">Record ID: NNX15AN64G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/349a3218-2e4e-5050-957a-044e0bd88859?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br><br>Astronauts are exposed to extreme environments and behavioral health risks during space missions. These stressors may place astronauts at elevated risk for behavioral health consequences including delirium, adjustment disorders, asthenia, and mood and anxiety problems, especially during long-duration missions. An expected barrier to delivering treatment to astronauts during long-duration missions is the lag in real-time communication between astronauts and mental health specialists on Earth. Therefore, the objective of this study was to identify technologies that will best facilitate the use of psychotherapeutic techniques when real-time communication is not possible. 
+<p><br></p><p>
+APPROACH:<br><br></p><p>
+Phase I involved systematic reviews of the existing literature on (a) psychotherapy techniques currently and historically used on space missions and; (b) existing technologies (e.g., video diaries, virtual reality immersion) with the potential for use in the asynchronous delivery of psychotherapuetic techniques to astronauts. Phase II used the knowledge gained from Phase I to inform the design of a three-arm randomized clinical trial aimed at evaluating the feasibility, acceptability, and efficacy of the most promising technologies, alone and in combination, for asynchronous delivery of empirically supported psychotherapeutic skills. Products of this study included best practice guidelines for asynchronous delivery of empirically supported psychotherapuetic techniques during long-duration space missions. A total of 56 “astronaut-like” participants experiencing elevated psychological distress were randomly assigned to one of the three treatment conditions. Protocols were updated to allow for remote recruitment. An additional 89 participants were enrolled remotely from varying Science, Technology, Engineering, and Mathematics (STEM) universities and science laboratories. In total, 145 participants were enrolled to the randomized clinical trial (RCT) out of 300 individuals screened. Upon finishing the 7-week treatment, participants completed a post-treatment assessment and an exit interview over the phone. A 1-month follow-up assessment was also administered to participants</p><p>
+RESULTS:<br><br></p><p>All survey data was collected via Qualtrics and exported to SPSS for analysis. An excel codebook was created to describe the contents, structure, and layout of the final data base. Main study analyses indicated that there were significant reductions in depression, anxiety, and stress, and improvements in work, life and social functioning from baseline to 1-week post treatment. These findings were apparent in all treatment conditions. There were no time by group treatment effects. </p><p>There were also no differences across conditions regarding level of support provided, confidence in the program, level of comfort (e.g., sharing personal information, thoughts and feelings), and level of skill. There was a significant group difference in the number of logins into the MyCompass program with participants in the delayed video support condition logging in more than those in the MyCompass only and the delayed-text support conditions.</p><p><br></p><p></p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AN64G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Gonzalez, Adam</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/qq16-k766</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/349a3218-2e4e-5050-957a-044e0bd88859?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/349a3218-2e4e-5050-957a-044e0bd88859?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

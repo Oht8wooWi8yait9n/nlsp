@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STS-100 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000183?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>STS-100</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>STS-100</h1>
+        <div class="meta-id">Record ID: STS-100</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000183?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          STS-100 was the ninth space shuttle flight to visit the International Space Station (ISS).  Endeavour's crew, composed of astronauts from NASA, Canada, Russia and the European Space Agency (ESA), was the most diverse international crew ever flown aboard the Space Shuttle representing more nations than any other crew. Once aboard the station, four of the five major partners were represented, the most ever aboard the complex together.  The crew consisted of Commander Kent V. Rominger, Pilot Jeffrey S. Ashby, and Mission Specialists Yuri V. Lonchakov, Scott F. Parazynski, Umberto Guidoni, Chris A. Hadfield, and John L. Phillips.  Scott Umberto Guidoni became the first ESA astronaut to enter the orbiting Space Station.  
+<P>
+Endeavour docked with the ISS on flight day 3 of the mission, becoming the first shuttle to visit the second expedition crew since they began their stay aboard the station in March. Although Endeavour docked to the station on flight day 3, the two crews did not greet one another in person until flight day 5 due to a lower cabin pressure that is maintained aboard the shuttle as part of the space walk preparations. The crews did, however, use an outer station compartment as a type of "airlock" to allow them to exchange a few items early on despite the differing cabin pressures on each spacecraft.
+<P>
+Payloads brought to the station aboard STS-100 were Canadarm (the Space Station's robotic arm), the Raffaello Multi-Purpose Logistics Module and the external Ultra High Frequency (UHF) antenna.   Two space walks were performed to install Canadarm on the exterior of the Destiny laboratory and attach the antenna.  Also during these space walks, a spare piece of electronics equipment was attached to an exterior stowage platform on Destiny, and an unneeded early communications system antenna was removed from the Unity module.  STS-100 also carried nine scientific investigations, more than any previous flight. The experiments ranged from plant growth research to studies of space radiation.
+<P>
+The Raffaello Multi-Purpose Logistics Module, built by the Italian Space Agency, is the second of three such pressurized modules that serve as "moving vans" for the ISS.   These unpiloted, reusable logistics modules are mounted in the space shuttle's cargo bay for launch and landing, and function as both a cargo carrier and a space station module when they are flown.  After the shuttle has docked, they are berthed to the station using the shuttle's robotic arm.  They carry laboratory racks to and from the station filled with equipment, experiments and supplies.
+<P>
+During STS-100, Raffaello carried four resupply stowage racks, four resupply stowage platforms, and two scientific experiment racks to the station.  The two scientific experiment racks, EXPRESS Rack No. 1 and EXPRESS Rack No. 2, added additional science capability to the station. EXPRESS stands for EXpedite the PRocessing of Experiments to the Space Station. The EXPRESS Rack concept was developed to support small payloads on orbit with a shortened ground integration period. EXPRESS Rack No. 2 is the first station rack equipped with the Active Rack Isolation System, or ARIS, designed to isolate the experiment within the rack from vibrations that occur in the rest of the space station.
+<P>
+The four Resupply Stowage Racks and four Resupply Stowage Platforms contained equipment required to activate the two EXPRESS racks and the ARIS system, components to supplement existing station systems, spare parts for systems already on the station, and food and supplies to support the crew.  After Raffaello was unloaded, used equipment and trash was transferred to it from the station for return to Earth inside Endeavour's payload bay.
+<P>
+Multiple Detailed Supplementary Objectives (DSOs) were performed during the STS-100 mission.  A DSO is a NASA-sponsored investigation performed by Space Shuttle crewmembers, who serve as the test subjects. These studies are designed to require minimal crew time, power and stowage. Biomedical DSOs focus on operational concerns, including space motion sickness, cardiovascular deconditioning, muscle loss, changes in coordination and balance strategies, radiation exposure, pharmacokinetics and changes in the body's biochemistry.  DSOs on this mission included Eye Movements and Motion Perception Induced by Off-Vertical-Axis Rotation (OVAR) at Small Angles of Tilt After Space Flight; Individual Susceptibility to Post-Space Flight Orthostatic Intolerance; Monitoring Latent Virus Reactivation and Shedding in Astronauts; and Space Flight and Immune Function.
+<P>
+Development Test Objectives (DTOs) were also performed on this mission. A DTO is a NASA-sponsored investigation performed by Space Shuttle crewmembers to evaluate new hardware and procedures involving the Orbiter, its subsystems, and its support equipment.  The DTO experiment on this mission was On-Orbit Bicycle Ergometer Loads Measurement.
+<P>
+STS-100 landed at Edward's Air Force Base in California on May 1, 2001.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>STS-100</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>2001</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>12</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000183?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000183?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

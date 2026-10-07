@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Habitability Assessment:  Habitat Utilization Analysis from Human Factors Perspective - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e6b78a18-8b63-5887-ba0e-e69fc44304b3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NEEMO-HABITABILITY</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Habitability Assessment:  Habitat Utilization Analysis from Human Factors Perspective</h1>
+        <div class="meta-id">Record ID: NEEMO-HABITABILITY</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e6b78a18-8b63-5887-ba0e-e69fc44304b3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The purpose of the habitability assessment project is to evaluate the Aquarius from the human factors and habitability perspective as an isolated, confined analog for the International Space Station (ISS), determine the human factors and habitability requirements for such an isolated and confined analog, and identify potential enhancement for the next generation habitat via use of naturalistic data capture, habitability questionnaire, and Space Operations Issues Reporting Tool (SOIRT).  
+<P>
+By identifying how participants use the Aquarius habitat, conclusions can be drawn about which habitability attributes cause specific interactions and behaviors facilitating a systematic design to achieve desired human performance.  In addition, the inclusion of objective data may provide inputs to other analysis of work/rest schedules.  
+<P>
+Finally, naturalistic data collection has been under investigation as a means to opportunistically gather data during NASA training and actual International Space Station (ISS) missions.  Inclusion of this method of data collection served as a test case to identify pros and cons and associated technological challenges.  
+<P>
+APPROACH:<br>
+Crewmembers filled out a habitability survey, including questions regarding acceptability of the Aquarius habitat such as its interior layout, physical environment (e.g., noise, humidity), tasks, and individual experience/comments.  This survey was required to be completed only once for the duration of each mission. 
+<P>
+Crewmembers also filled out an issue reporting form, called SOIRT, to note any design or activity based issues and/or enhancements.  This form was filled out on an as-needed basis throughout each mission.
+<P>
+The NEEMO 5 project also involved taping live feed from cameras, positioned with a view to the central common areas in the Aquarius.  Taping took place during pre-defined periods of the 14-day mission.  A heads-up signal was given at bedtime the night prior to taping, to remind the crewmember of the taped monitoring the following day.  A second heads-up was given upon wake-up the following day, and a third at the end of the taping.  The videos, which showed how crewmembers chose to use common spaces in Aquarius during the course of the day, were analyzed by computer to extract objective data.  Once the data was extracted and analyzed, the videotapes were destroyed.
+<P>
+After the mission, the videotapes were reviewed and the amount of time each area was used by the crew at various times during the length of the mission was calculated.  In addition, qualitative and descriptive analysis of the types of behaviors in each area was performed with the purpose of identifying any behaviors not typical of a certain area.  If a participant used an area in a way different than expected, a subsequent analysis of the features of that area may result in conclusions of certain features that cause certain behaviors.   
+<P>
+Finally, questionnaire data was analyzed to look for common pros and cons of the habitat across NEEMO/Aquarius crews, as well as consistency across different analogs used for space missions.  This will help identify the functional needs and human factors requirements for living and working in an isolated, confined environment.
+<P>
+RESULTS:<br>
+From analysis of the video, several habitability issues related to the Aquarius habitat became apparent:<BR>
+<LI>Workstations were poorly placed and interfered with the flow of traffic in and out of the Main Lock. Particularly, the two workstations located near the entrances were problematic both for people trying to pass through, as well as for people working at them who were interrupted in their work. When more than one person was at either of the two workstations, sitting on the step ladder or standing and looking over the shoulder of the other person, traffic flow was obstructed even more. In at least one instance, the stepladder was left behind after two crewmembers were working together, and another crewmember passing through had to step over it.
+<p>
+<LI>Another habitability issue revealed by the video analysis was the inappropriate size of the table. Used for eating, working, meetings, and group teleconferences with ground, the table sometimes needed to accommodate up to six people at once. Even for four people, as was more often the case, the table was far too small and it was obvious from the video that the crewmembers were uncomfortable. Often during group meetings some of them would have to sit on the step ladder or stand. Given its frequency of use, the table should be larger to comfortably seat all members of the crew to improve comfort, work, and social interaction.
+From the videos it also became evident that the food storage was poorly sited. Multiple instances were recorded where crewmembers were seen reaching across the small galley, blocking traffic or standing precariously on the stepladder to reach the storage areas. This also occurred frequently near and during meal times when most of the crewmembers were in and moving about the Main Lock.
+<P>
+<LI>Also noted during these periods was the fact that the refrigerator and microwave/storage areas were located too far from each other, as lots of back and forth traffic occurred between them. Given the narrow passage, it was readily apparent that traffic within the Main Lock could be much ameliorated simply by moving these two areas closer together.
+<P>
+In conclusion, video analysis provided useful ideas as to how an enclosed habitat might be improved. As with the common human factors method of link analysis (e.g. Thelwell, 2004), simply noting which areas are accessed frequently together can provided insight into how to rearrange the habitat to improve efficiency and even reduce risk of injury. While web cast video had its technological problems, such as erratic skips, lags, graininess, blocked views, and lighting inconsistencies, it did provide useful overall information for practical recommendations. Systematic research, however, would require a higher standard of data collection. Perhaps in the future, notes regarding crew activity could be added by those recording the video to aid those tasked to analyze it later. This feature was sometimes present in the NEEMO 5 video; however, it was not present often enough to prove useful to the researchers. Also, video size and quality should be closely monitored to ensure that a larger percent of the captured video is analyzable.
+<P>
+Naturalistic data capture by webcast video was found to be effective for getting the broad picture of habitat use by the NEEMO 5 crew. While there is obviously room for improvement, predominantly with the technology, there are some major benefits to be taken from this type of effort, as Adams (2002) reported previously. This type of work is crucial for designing and optimizing a habitat to support crew behavior as it will occur, especially since many of the findings were not captured in crew debriefings. This may be due to the unconscious influence of environmental performance shaping factors; however, more research is needed to support this claim.
+The inclusion of automation, such as sensors and location tracking, in future studies would make recording and analyzing certain metrics far easier and improve accuracy (e.g., entries and exits, frequency of use). The significant input that this type of research provides for generating optimal habitat designs and guidelines should not be neglected in any future long duration spaceflight effort.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NEEMO-HABITABILITY</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Blume, Jennifer, Whitmore, Mihriban</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NEEMO 1&#x27;], [&#x27;NEEMO 2&#x27;], [&#x27;NEEMO 5&#x27;], [&#x27;NEEMO 3&#x27;], [&#x27;NEEMO 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/aj7g-0w58</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e6b78a18-8b63-5887-ba0e-e69fc44304b3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e6b78a18-8b63-5887-ba0e-e69fc44304b3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

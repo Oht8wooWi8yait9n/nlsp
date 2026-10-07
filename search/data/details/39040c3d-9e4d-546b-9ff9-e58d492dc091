@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Human-Automation Interactions and Performance Analysis of Lunar Lander Supervisory Control - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/39040c3d-9e4d-546b-9ff9-e58d492dc091?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>J08ZSA_7522</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Human-Automation Interactions and Performance Analysis of Lunar Lander Supervisory Control</h1>
+        <div class="meta-id">Record ID: J08ZSA_7522</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/39040c3d-9e4d-546b-9ff9-e58d492dc091?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The objective of this study was to produce an integrated human-system model that includes representations of human attention, perception, decision making, and action for use as an early-stage simulation-based design tool for human-system integration in complex systems. This case study was piloted lunar landing. There were four integrated specific aims: (1) Perform a critical analysis of human operator-automation interactions and task allocations, considering information requirements, decision making, and the selection of action (2) Develop a closed-loop pilot-vehicle model, integrating vehicle dynamics and human performance models, and parametrically analyze and quantify system performance. (3) Conduct experiments in the Draper Laboratory fixed-base simulator to validate critical parameters within the integrated pilot-vehicle model. (4) Extend the model to include the effect of spatial orientation and conduct experiments on the NASA Ames Vertical Motion Simulator (VMS) to investigate the effects of motion cues on pilot performance.
+<p>
+APPROACH:,<br>
+The methodology isn’t available.
+<p>
+RESULTS:<br>
+Investigators completed their investigations of flight performance and failure detection in the NASA Ames VMS, quantification of operator visual attention in the Draper Laboratory fixed-base simulator, closed-loop human-system model for representing the human in a complex system, and analyzed dynamic task allocation between the human and the system in operational implementations. In the two VMS experiments, participants with flight experience detected and diagnosed system-level failures with varying levels of control and with and without motion cues. The effect of how often a failure appeared in the test matrix was also evaluated. Results indicated that the pilots had a correct hit rate of 90.7 percent of failure trials and a correct rejection rate of 90.2 percent of no-failure trials. There was no effect of motion cues on flight performance or failure detection. Failures were also more easily detected in the high frequency (75% of trials had a failure) condition than in the low frequency (25%) condition. In all cases, workload and situation awareness decreased following a planned mode transition from automatic flight to manual control. In the Draper Laboratory visual attention experiment, there was an effect of mode transition on the average dwell duration and number of visual fixations, as measured by an eye tracker. These effects were due to the transition's final mode, and not the initial mode or the direction of the mode transition (whether increasing or decreasing level of automation). Average dwell duration prior to the failure detection was found to be higher on the instruments that were used to detect the failure, as compared to the no-failure conditions. Lastly, the results of the experiments have been used to update the integrated human-system model. The modeling effort represents the cognitive processes and action responses of the human, who can act as both a flying pilot as well as a supervisory pilot.
+<p>
+The results of the pilot visual attention experiment (Aim 3) and VMS failure detection experiments (Aim 4) are critical for the understanding of pilot performance in nominal and off-nominal scenarios. The data collected from the experiments provides critical information for parameter justification for the identified operational scenario within the integrated human-system model (Aim 2). The experiments further investigated our previous identification of the effect of flight control mode transitions on workload and situation awareness, by quantifying visual attention on primary and supervisory flight instruments. The experimentation represents typical spacecraft command and control tasks where the flying pilot was responsible for selecting a landing aimpoint using information from an on-board hazard detection system, and then either supervising the autoflight system or manually commanding a representative lunar landing vehicle. The system-level failures that were introduced represent plausible failures that would be detected on either the primary flight displays or secondary displays. By quantifying performance, workload, and situation awareness across these experimental conditions, we've demonstrated a robust set of metrics that can be applied throughout a system's design and verification cycle to benchmark and evaluate the implementation (SHFE-TASK-01). The integrated human-system performance modeling work and MATLAB/Simulink library (Aim2) addresses the NASA HRP Risk of Poor Critical Task Design, specifically the Gap associated with model-based tools that can assist in the early-stage research and drafting of spacecraft systems and task procedures (SHFE-TASK-02). The parameterized model-based simulation approach enables a systematic evaluation of task allocation, task parameters, and human parameters on system performance. The partnership with NASA Ames Research Center and the use of the VMS experimentation has both provided us valuable data for the modeling and simulation of typical spacecraft command and control tasks, and has advanced their trajectory simulation capability through the implementation of a landing point designation phase and off-nominal scenarios.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>J08ZSA_7522</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Duda, Kevin</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0816-vf85</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNJ08ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/39040c3d-9e4d-546b-9ff9-e58d492dc091?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/39040c3d-9e4d-546b-9ff9-e58d492dc091?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

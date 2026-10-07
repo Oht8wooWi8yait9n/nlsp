@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Altered Gravity Effects Upon Vestibular Adaptation, Development and Regulation of Bone Homeostasis - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/842bbfdd-ebd4-5896-9510-797771612415?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARC00XX128</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Altered Gravity Effects Upon Vestibular Adaptation, Development and Regulation of Bone Homeostasis</h1>
+        <div class="meta-id">Record ID: ARC00XX128</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/842bbfdd-ebd4-5896-9510-797771612415?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Exposure to microgravity or hypergravity environments provides new adaptive challenges for many of the body's major systems. The primary objective of the current collaborative project is to examine the effects of exposure to altered gravity conditions upon vestibular receptor morphology and regulatory mechanisms of bone homeostasis. A number of established and recent investigations have shown that exposure to altered gravity conditions can significantly affects all of these processes. Examining the effects of altered gravity conditions upon vestibular receptor formation is possible using normal animals placed in either hypergravity or appropriately controlled rotational 1g environments. Yet, investigations regarding vestibular regulatory functions are multivariate and difficult to interpret. However, the recent development of transgenic mice with phenotypes that either lack the ability to sense gravity conditions or are completely normal has provided new investigative tools. Here, heterozygous Otopetrin mice (Otop1 ßgal+) that harbor a ßgal reporter gene and exhibit a normal otoconia phenotype, as well as homozygous Otopetrin deficient mice (Otop1 ßgal/tlt) exhibit a complete absence of vestibular receptor otoconia will be used. Otop1 ßgal/+ mice are hypothesized to sense changes in gravity load that result in altered vestibular function and an increase in vestibular regulation of bone remodeling when exposed to long-duration hypergravity (2g). In contrast, Otop1 ßgal/tlt mice, where no vestibular response to changes in gravity load are detectable, are hypothesized to exhibit no relative change due to altered gravity exposure as compared to heterozygous controls. In fact, use of the heterozygous and homozygous Otopetrin mice offers an ideal control for examining vestibular regulatory mechanisms in response to changes in gravity conditions, since other effecting variables, such as stress and skeletal load, will be identical for the two groups of mice.
+<p>
+?Specific Aim 1. Determine how altered gravity affects otolith receptor and afferent innervation.<br>
+Specific Aim 2. Determine how altered gravity affects the molecular biosynthesis and homeostasis of otoconia.<br>
+Specific Aim 3. Determine how altered gravity affects vestibular modulation of bone remodeling.<br>
+<p>
+APPROACH:<br>
+In the proposed studies, we will examine the effects of altered gravity exposure upon vestibular receptors for both adaptation and development, using hypergravity and rotational 1g conditions. We will investigate effects upon vestibular receptor formation by examining receptor cells, afferent nerve innervation, Otopetrin expression, and otoconia synthesis. We will investigate the effects upon vestibular regulation of bone homeostasis by examining bone density measures of the forelimb and hind limbs using micro computerized tomography. These studies promise to provide crucial information into the role of gravity as a determinant for vestibular system development, adaptation, and regulation of other major systems. Before long-term space missions are manifested for habitation on other planets, moons, or environments where altered gravity conditions are certain, it is crucial to understand how the vestibular system will adapt in structure, function, and regulatory behavior.
+<p>
+RESULTS:<br>
+Previous investigations found that altered gravity exposures affect inner ear receptor morphology and function, since these organs detect the orientation and intensity of gravity. Here, we examined receptor formation in the otolith organs in response to altered gravity conditions in quail and mice. The gravity detector particles, otoconia that are made of small calcium carbonate crystals, were examined to determine if altered gravity affects their formation. In quail, we examined the the weight of the otoconia fused stones and calcium content at two time points, embryonic days E12 and E14, when formation is maturing. No overall average difference due to gravity was observed. However, when examined individual otoconia particles, we found significant differences in the size of individual otoconia particles. We found that the lengths and widths of otoconia were smaller in 2G embryos. The ratios of the length to width decreased for utricular otoconia at both E12 and E14 2G embryos, but remained constant for the larger saccular otoconia. Together, our results indicate the hypergravity produces changes in otoconia size across the receptor epithelium, but does not significantly affect the overall fused stone weight, calcium content.
+<p>
+We also examined the relative expression of two genes that regulate otoconia growth, Oc90 and Otop1 for all embryonic development days in quail. We found that Oc90 was minimal in the receptors early in development through E7, at values below 10% of that observed at the highest level which occurred at embryonic day E9. At E10, there was a sharp decline in Oc90 expression levels that continued to decrease toward hatching. For Otop1, the mean expression profiles were similar to those observed for Oc90. The expression level during early development increased greatly at E6, coincident with the initial formation of immature otoconia. Maximal levels of Otop1 were observed at E9. After E9, the Otop1 levels dropped dramatically at E10, further at E12, then remained low until hatching. Next, we examined the expression patterns for both Oc90 and Otop1 in 2G embryos during higher levels of gravity (2g) development. We observed that the highest level of expression for both Oc90 and Otop1 occurred at E9, similar to 1g embryos. However, there was a significant decrease in both Oc90 and Otop1 expression in the 2G embryos as compared to 1G animals for only the E9 time point. At all other developmental time points, no differences in expression were found. This work forms a portion of a paper that is currently under review.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARC00XX128</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Dickman, D.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>PREPHASE1</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Developmental biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/c7mr-yb46</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNH09ZTT003N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/842bbfdd-ebd4-5896-9510-797771612415?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/842bbfdd-ebd4-5896-9510-797771612415?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

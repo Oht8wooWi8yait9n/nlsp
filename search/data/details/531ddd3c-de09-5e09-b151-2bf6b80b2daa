@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Effects of Prolonged Space Flight on Head and Gaze Stability During Locomotion - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/531ddd3c-de09-5e09-b151-2bf6b80b2daa?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 614</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Effects of Prolonged Space Flight on Head and Gaze Stability During Locomotion</h1>
+        <div class="meta-id">Record ID: DSO 614</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/531ddd3c-de09-5e09-b151-2bf6b80b2daa?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Newly returned astronauts have shown instability in walking and in making jump landings and have experienced oscillopsia (apparent bouncing of viewed objects). The mechanisms of these abnormalities are not known, although changes in muscle tone, muscle activation patterns and vestibular function could contribute. Instability of gaze could result from changes in the coordination of head and body movements. The objectives of this study were to investigate space flight-induced changes in locomotor control, including changes in the coordination of movements of the head, trunk and legs during walking, and the relation of those changes to the ability to maintain a stable gaze; changes in the ability to maintain spatial orientation while walking; and changes in motor strategies for absorbing impact during jump landings.</p>
+<p>
+APPROACH:<br>
+Locomotor control was studied in 5 protocols. For 4 of the protocols, reflective markers affixed to appropriate places on the astronaut's head, spine, and limb joints were tracked by 4 video cameras. The position of each marker in space was determined with the aid of a video-based motion analysis system. In some of the studies, some subjects also wore shoes with foot switches beneath the heel and great toe. </p>
+<p>
+In 3 of the protocols, the astronauts walked on a motorized treadmill at 6.4 km/h (4 mph) while wearing a safety harness attached to an overhead frame. (The protocol using the treadmill was denoted as DSO 614A and was performed on the following missions: STS-43, 44, 45, 46, 47, 48, 49, 50, 53, 57, 58, 63, and 65).  The treadmill tests were performed under 3 conditions: with the astronauts fixating on a visual target either 30 cm or 2 m in front of them, or alternating open eyes and closed eyes for 5 seconds at a time while trying to keep the eyes directed at the target. Eye closures were confirmed by electro-oculography. Data from about 10 days before flight and from 2 to 4 hours after landing were used for comparisons. Head-trunk coordination was studied in 23 astronauts (19 male, 4 female) who flew on 8- to 15-day missions. Fifteen were veterans of previous space flights. Recordings were made of the vertical movements of the trunk and the pitch movements of the head. Lower limb movements were studied in 7 astronauts (6 male, 1 female) on 8- or 9-day missions. Five were veterans of previous space flights. The angular displacement and angular velocity of the hip, knee and ankle in the front-to-back and vertical directions were determined from the video recordings, and the times of heel strike and toe off were determined from foot switch data or from toe velocity. Plots of angular velocity versus angular displacement were used to represent the periodic motion of each joint. Neuromuscular activation patterns were studied in 10 astronauts (7 male, 3 female) who flew on 8- to 15-day missions. Six were veterans of previous space flights. This protocol did not make use of the reflective markers and cameras; instead, electromyographic (EMG) recordings were made from electrodes placed on the skin over selected muscles of the lower limb. Foot switch data were also collected. The EMG recordings were normalized with regard to the level of activation and the temporal relation to heel strike, yielding reduced waveforms that represented the activity of each muscle throughout the gait cycle.</p>
+<p>
+Spatial orientation while walking a path was studied in 7 astronauts (5 male, 2 female) who flew on 8- to 14-day missions (STS-64, 66, 67, 68); this protocol was referred to as DSO 614B. The astronauts walked clockwise and counterclockwise around a triangular path, either with their eyes open or with their vision blocked after they had looked at the path. The astronauts wore a helmet equipped with blackened goggles to block vision and headphones that played white noise to mask auditory spatial cues. Three reflective markers extended above the helmet, and their positions were used to compute the astronauts' walking direction and velocity. Data from 15 days before flight and from 2 hours after landing were used for comparisons. </p>
+<p>
+Movements of the lower limb and the center of mass during jump landings were studied in 9 astronauts (8 male, 1 female) who flew on 7- to 14-day missions. The tests were performed 2 to 6 months and 9 to 15 days before launch and within 4 hours of landing. While wearing a safety harness and reflective markers, an astronaut jumped from a platform 30 cm (1 ft) high and landed on both feet. Jumps made with eyes open and fixated on a target were alternated with jumps made with eyes closed and directed toward the remembered target. The angles and angular velocities of the ankle, knee and hip joints were computed from the positions of the markers. The time of impact was determined from foot switch data or from toe velocity. The position of the astronaut's center of mass was estimated from the marker positions, and the velocity of the center of mass was calculated. A simple mathematical model for the vertical motion of the center of mass, in which a spring and a parallel damping mechanism represented the legs, was used to evaluate the stiffness and damping functions of the legs.</p>
+<p>
+RESULTS:<br>
+In the preflight treadmill tests of head-trunk coordination, pitch head movements were smoothly coordinated to oppose the vertical movements of the trunk, thereby helping to maintain a stable gaze. The coherence between these wavelike movements decreased significantly after space flight, and the decrement in coherence was greater with the far visual target than with the near target. Both before and after space flight, the amplitude of the pitch head movements was greater with the near visual target, which would have larger apparent motion and would provide stronger feedback. After space flight, with near (or far) visual targets, the amplitude of pitch head movements was reduced in 6 (8) astronauts, unchanged in 13 (11), and increased in 4 (4) astronauts. The reductions occurred in novice astronauts, but not in veterans. Both before and after flight, when the eyes were closed the head was tilted forward and the amplitude of pitch head movements was reduced. The amplitude was restored almost immediately when the eyes were again opened.</p>
+<p>
+In the treadmill studies of lower limb movement, variability in the gait cycle increased after space flight. Variability increased for the knee at the time of heel strike, for the ankle during the swing phase and for the hip at the moment of toe off. However, the increased variability in the motion of individual joints did not interfere with the basic pattern of lower limb coordination, and the stability of the system as a whole was retained. The basic temporal characteristics of the gait cycle were also retained: the stride time and the proportion of time spent standing during each step varied less than the variability of the treadmill speed. It was surprising that so little change was detected in the overall gait pattern, considering the wide-based, cautious, shuffling gait of several astronauts when they entered the testing room after flight. Use of the treadmill may have limited the gait abnormalities that could be detected by requiring a subject to keep the pace and restricting the width of the gait. Also, some astronauts chose not to walk on the treadmill after landing, perhaps feeling that their coordination was not yet sufficient for the task. Perhaps greater changes would have been detected in these astronauts' gait.</p>
+<p>
+In the treadmill studies of neuromuscular activation, the symmetry of activation of the muscles of the 2 lower limbs was not affected by space flight. Few preflight-to-postflight differences occurred in the all-subject average of reduced waveforms for each muscle. However, significant functional increases and decreases were observed after space flight in the normalized mean amplitudes for various muscles around the times of toe off and heel strike. Also, between the preflight and postflight tests, co-contraction of the opposing muscles of the lower leg increased before toe off and decreased before heel strike, while co-contraction of the opposing thigh muscles increased before heel strike. In addition, many statistically significant preflight-to-postflight differences were found in the timing and duration of activation of specific muscles for individual subjects. The temporal relationship between the offset of the gastrocnemius and the onset of activation of the tibialis anterior at toe off was altered after space flight in 8 of the 10 subjects. In half of the subjects, the order of activation of these muscles was actually reversed. Also, the relative amplitude of activation of the tibialis anterior at toe off was reduced after flight. In the normal toe-off process, activity of the gastrocnemius with corresponding inhibition of the tibialis anterior pushes the toes back against the ground. Then, activity of the gastrocnemius ceases and the tibialis anterior is activated to lift the foot so that the toes will clear the ground as the foot swings forward. The changes that were found after space flight might explain the excessive scraping of the feet on the treadmill that was observed in postflight tests.</p>
+<p>
+In the studies of spatial orientation while walking the triangular path, distance error was not significantly increased after flight. Astronauts tended to underestimate turns when walking with eyes closed, and the resulting directional error was larger after space flight than before. The astronauts walked the path more slowly after spaceflight, both with eyes open and eyes closed.</p>
+<p>
+In the studies of jump landings, closing the eyes did not affect the astronauts' performance, perhaps because they had already judged the height. Some astronauts showed a preflight-to-postflight increase in lower limb compliance, with greater joint flexion and flexion rates. Some showed a decrease in compliance, and some showed no change. In the preflight jumps, after reaching its lowest point, the center of mass moved up and overshot the final rest position. After space flight, astronauts whose compliance had increased had much slower upward responses with little overshoot, while those whose compliance had decreased had faster upward responses with greater overshoot. The simple spring-and-damper model was able to predict the postflight alterations in the motion of the center of gravity by changing leg stiffness only; changes in damping did not appear to play a significant role.</p>
+<p>
+These results are important for understanding how astronauts' abilities to manage an emergency egress, or even to walk on another planet, could be impaired after space flight The results show that space flight alters the coordination between vertical trunk movements and compensatory pitch head movements during walking. This alteration may partly account for the oscillopsia that was reported during the postflight treadmill tests. The postflight changes that were observed in the neuromuscular control of heel strike might affect the transmission of the jolt from the heel strike to the head, possibly exacerbating the postflight oscillopsia. Various head movement strategies were observed after flight. Astronauts who reduced the amplitude of their pitch head movements may have been trying to reduce confusing signals from the vestibular organs. It is also possible that the various strategies were not subject-specific but were part of an ongoing process of relearning motor strategies that are appropriate to Earth's gravity. The results indicate that veteran astronauts adapt more quickly upon returning to gravity, suggesting that preflight exposure to conflicting visual and vestibular inputs during locomotion could be used to train astronauts to rapidly reorder their motor control strategies to reduce postflight motor disturbances.</p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 614</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bloomberg, Jacob</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-43&#x27;], [&#x27;STS-44&#x27;], [&#x27;STS-45&#x27;], [&#x27;STS-46&#x27;], [&#x27;STS-47&#x27;], [&#x27;STS-48&#x27;], [&#x27;STS-49&#x27;], [&#x27;STS-5&#x27;], [&#x27;STS-50&#x27;], [&#x27;STS-51&#x27;], [&#x27;STS-51A&#x27;], [&#x27;STS-51B&#x27;], [&#x27;STS-51C&#x27;], [&#x27;STS-51D&#x27;], [&#x27;STS-51F&#x27;], [&#x27;STS-52&#x27;], [&#x27;STS-53&#x27;], [&#x27;STS-54&#x27;], [&#x27;STS-55&#x27;], [&#x27;STS-56&#x27;], [&#x27;STS-57&#x27;], [&#x27;STS-58&#x27;], [&#x27;STS-59&#x27;], [&#x27;STS-6&#x27;], [&#x27;STS-60&#x27;], [&#x27;STS-61&#x27;], [&#x27;STS-61B&#x27;], [&#x27;STS-61C&#x27;], [&#x27;STS-62&#x27;], [&#x27;STS-63&#x27;], [&#x27;STS-64&#x27;], [&#x27;STS-65&#x27;], [&#x27;STS-66&#x27;], [&#x27;STS-67&#x27;], [&#x27;STS-68&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/xby0-pg19</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/531ddd3c-de09-5e09-b151-2bf6b80b2daa?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/531ddd3c-de09-5e09-b151-2bf6b80b2daa?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

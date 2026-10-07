@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Acute Exposures to Carbon Dioxide upon Cognitive Function - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/32618395-1ecd-5172-883e-6e98192f9dfa?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Acute_CO2_Exposure</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Acute Exposures to Carbon Dioxide upon Cognitive Function</h1>
+        <div class="meta-id">Record ID: Acute_CO2_Exposure</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/32618395-1ecd-5172-883e-6e98192f9dfa?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+A previous study demonstrated that carbon dioxide (CO2) at concentrations below 2 mm Hg significantly impacts some cognitive functions that are associated with the ability to make complex decisions in conditions that are characterized by volatility, uncertainty, complexity, ambiguity, and delayed feedback. All of these conditions may be encountered by space flight crews in off-nominal situations, or during the first missions beyond low Earth orbit. The objective of this study was to extend the original study by using measures of cognitive domains to determine if astronaut-like subjects are sensitive to concentrations of CO2 at, or below, limits currently controlled by flight rules. 
+<P>
+APPROACH:<BR>
+Given the reported effects of CO2 on decision making competency and evidence that thresholds for some clinically significant effects of CO2 are considerably less in space than they are on the ground, it was important to determine if cognitive functions of crew-like subjects are affected by CO2 at concentrations equal to or below those routinely occurring on the International Space Station (ISS). To do this, investigators assessed 22 healthy, astronaut-like participants in a double-blind cross-over study at the Johnson Space Center. Four groups, each comprised of 4-6 individuals, were exposed to each of four concentrations of CO2 in a sequence that varied for each group so that the order of exposure to the four concentrations (600 ppm, 1200 ppm, and 2500 ppm, 5000 ppm) was balanced among the groups. Volunteer subjects were allowed to acclimate to CO2 in a human rated chamber for 15 minutes before early effects were tested through administration of the Cognition battery test via the Apple iPad. After completion of initial testing and another 15 minute rest period (1 hour total post chamber entry), decision-making competencies were assessed by the Strategic Management Simulations (SMS), which were administered via the laptop computer. The SMS lasted for approximately 80 minutes. After a final 15 minute rest period, subjects completed a second Cognition battery test. These in-chamber data were compared to Cognition testing pre- and post-exposure.
+<P>
+RESULTS:<BR>
+There were no clear dose-response patterns for performance on either SMS or Cognition. Performance on most SMS measures and aggregate speed, accuracy, and efficiency scores across Cognition tests were lower at 1200 ppm than at baseline (600 ppm); however, at higher CO2 concentrations performance was similar to or exceeded baseline for most measures. These outcomes, which conflict with those of other studies, likely indicate differing characteristics of the various subject populations and differences in the aggregation of unrecognized stressors, in addition to CO2, are responsible for disparate outcomes among studies. Studies with longer exposure durations are needed to verify that cognitive impairment does not develop over time in crew-like subjects. 
+<P>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Acute_CO2_Exposure</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Meyers-Ryder, Valerie</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/gags-6x45</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/32618395-1ecd-5172-883e-6e98192f9dfa?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/32618395-1ecd-5172-883e-6e98192f9dfa?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

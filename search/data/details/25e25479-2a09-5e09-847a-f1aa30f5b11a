@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artificial Intelligence for Tracking Micro-Behaviors in Longitudinal Data and Predicting Their Effect on Well-Being and Team Performance - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/25e25479-2a09-5e09-847a-f1aa30f5b11a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC22K0775</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Artificial Intelligence for Tracking Micro-Behaviors in Longitudinal Data and Predicting Their Effect on Well-Being and Team Performance</h1>
+        <div class="meta-id">Record ID: 80NSSC22K0775</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/25e25479-2a09-5e09-847a-f1aa30f5b11a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <div>OBJECTIVE</div><div><br></div><div><div>NASA advocates psychosocial dimensions of team functioning to be critical to the success of long-distance&nbsp;<span style="text-align: center; font-weight: var(--bs-body-font-weight);">missions. A number of factors affect team functioning, including team composition, emergent states and other&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">moderating factors. Studies in analog environments reveal that stress and physical exhaustion account for the&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">majority of team conflicts, with team creativity and performance on 10 intellective tasks decreasing over time.&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">These findings suggest that team functioning during long duration missions can change in a dynamic manner and&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">can be affected by brief, often unconscious, micro-behaviors between the team members, which are best&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">measured via observation. Future long-distance space exploration will have a number of challenges that increase&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">the risk of inadequate cooperation, coordination, collaboration, and psychosocial adaptation, and can lead to&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">behavioral health and performance decrements. In this proposed research, it is hypothesized that micro-behaviors&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">captured via audiovisual recordings, quantified via linguistic and acoustic measures, and automatically detected&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">via artificial intelligence (AI) can provide unique insights into operationally- relevant team performance, beyond&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">self-report team functioning measures.&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">Micro-behaviors are small, often unconscious gestures, words and tone of voice which can influence how&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">included (or not) the people around us feel. The most common type of micro-behaviors are micro-aggressions.&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">Micro aggressions can have detrimental impact to well-being and team performance. Micro-affirmations reflect&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">inclusion and caring and can counter-act the harmful effects of micro-aggressions.</span></div><div><br></div><div>This research will have three primary aims:</div><div><br></div><div>1. Leverage advance multimodal data analytics to detecting micro-behaviors in longitudinal team&nbsp;<span style="text-align: center; font-weight: var(--bs-body-font-weight);">interactions.</span></div><div>2. Identify emotional reactivity to micro-behaviors.</div><div>3. Incorporate knowledge on micro-behaviors to predict operationally relevant team performance.</div></div><div><br></div><div><br></div><div><br></div><div><br></div><div>APPROACH</div><div><br></div><div>Previously collected peer and mission control ratings, physiological, audio and team task performance data from&nbsp;<span style="text-align: center; font-weight: var(--bs-body-font-weight);">HERA 4 and 5 campaigns will also be analyzed. Machine learning algorithms will be leveraged to learn complex&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">multimodal patterns of micro-behaviors.&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">This study will deploy a mixed-methods approach to detect micro-behaviors by coding 25% of the data with&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">human coders, this will be followed by automatic detection of micro-behaviors in the remaining a 75% data&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">through AI algorithms. Crew interactions will be identified automatically via detection of turn-taking and speech&nbsp;</span><span style="text-align: center; font-weight: var(--bs-body-font-weight);">overlap. Reliability checks will be conducted manually to address any discrepancies.</span></div><div><span style="text-align: center; font-weight: var(--bs-body-font-weight);"><br></span></div><div><span style="text-align: center; font-weight: var(--bs-body-font-weight);">RESULTS</span></div><div><span style="text-align: center; font-weight: var(--bs-body-font-weight);"><br></span></div><div>
+
+<div>Results from this research contribute to a greater understanding of factors that affect team operation and performance in isolated and confined environments (ICE), and the effective management of future space crews. Particularly relevant to this project is the focus on micro-behaviors, that is small, often unconscious gestures, words and tone of voice which can influence how included (or not included) the people in the team feel. The proposed AI methods allow us to track micro-behaviors on a moment-to moment basis, thus potentially yielding a more complete picture of team dynamics.<o:p></o:p></div>
+<div>Exploratory analysis suggests that negative micro-behaviors included increased sentences with passive voice for both the sender and the target, potentially due to the subtlety of their expression. Negative
+micro-behaviors also depicted fewer second-person personal pronouns (e.g., “you”) compared to turns without those behaviors. While this finding for negative micro-behaviors might initially be nonintuitive, since blaming language tends to include a large number of second-person pronouns, this result might also reflect fact that negative micro-behaviors are many times indistinct and not sharply expressed. Positive micro-behaviors had significantly higher positive affect, lower percentage of angry language, and higher percentage of language related to achievements compared to negative micro-behaviors. Acoustic turn similarity between sender and target was the highest for instances of positive micro-behaviors (i.e., indicating convergence between speakers) and the lowest for instances of negative micro-behaviors (i.e., indicating divergence between speakers).<o:p></o:p></div>
+<div>The PI team leveraged machine learning classifiers and dialog state tracking models, combined with natural language processing techniques relying on lexicon-based methods and data-driven methods, to learn complex multimodal patterns of micro-behaviors and automatically detect positive and negative microbehaviors between team members. <span style="font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);">The experimental findings indicate that the psycholinguistic</span></div><div>markers extracted using the linguistic inquiry and word count (LIWC), STRESSnet dictionaries, and acoustic features can achieve an f1-score up to 55% in a three-class classification problem, which is well-above the 33% chance accuracy. The findings also suggest that modeling turns between the sender and target of micro-behaviors is significantly more effective in detecting micro-behavior than only modeling the sender’s information. Finally, the PI team demonstrate the effect of introducing context for detection purposes. Dialog state tracking approaches that model the linguistic interaction between team members and incorporate contextual information about the task and sentiment of the conversation can further yield improved performance, depicting an f1-score of 57.73%. These results suggesting the preliminary feasibility of such system using unobtrusive speech measures. Training these large-scale ML models with more data (e.g., additional mission tasks) can potentially yield improved results and increase the robustness of these automated systems.<o:p></o:p></div>
+<div>Physiological reactivity to micro-behaviors was measured in order to better understand how a target of micro-behavior experiences the focal event. Physiological reactivity was measured in terms of heart rate (HR), for which continuous data from the TIB task of the C4 campaign was captured. For this purpose, the team defined two intervals. The first interval was defined as starting 1 min before the micro-behavior and ending at the micro-behavior occurrence, referred to as ‘Before’. The second interval, referred to as ‘During/After’ was defined as starting from the micro-behavior occurrence and ending 1 min into or after the micro-behavior, depending on whether the micro-behavior ended before the 1 min. </div>
+<div>Results indicate a large inter-individual variability in terms of the physiological reactivity responses. A subset of team members, such as P1, P2, and P3, depict increased physiological reactivity to<o:p></o:p></div><div>negative micro-behaviors and decreased physiological reactivity to positive micro-behaviors, which is anticipated. However, other team members, such as P4, P5, and P6, depict opposite trends. These results suggest that different team members might depict different sensitivity to micro-behaviors. Future analysis should also acknowledge and take into account additional confounding factors that might affect physiological reactivity (e.g., physical activity, daily stressors) and other buffering mechanisms.<o:p></o:p></div>
+<div>The team examined to what extent the linguistic content of a micro-behavior was associated with team performance outcomes. The team studied the dependence of team performance on linguistic features extracted using the Linguistic Inquiry and Word Count (LIWC) dictionary, which captures affective, cognitive, and physical processes, as well as drives and motives, extracted from conversation turns corresponding to positive and negative micro-behaviors through a linear mixed-effect (LME) model. LIWC features included: (1) two measures of affective processes, including positive and negative emotion; (2) three measures of cognitive processes, that included discrepancy (e.g., would, can, want, could), certainty (e.g., really, actually, of course), differentiation (e.g., but, not, if, or); (3) three measures that capture physical processes related to food, body, and sex; and (4) five measures that capture drives and motives, including affiliation (e.g., we, our, us, help), achievement (e.g., work, better, best, working), power (e.g., own, order, allow, power), reward (e.g., opportunity, win, gain, benefit), and risk (secure, protect, pain, risk).<o:p></o:p></div>
+<div>Results indicated that increased use of language associated with positive emotion during positive microbehaviors is associated with an increase in team performance. On the contrary, increased use of negative emotion language during negative micro-behaviors is associated with a decrease in performance. When running the same LME model using data from all turns, the language associated with positive emotion appears to be positively associated with team performance reaching almost significance level, but the language with negative emotion does not depict a significant association with team performance. This potentially suggests that the affective content of micro-behaviors can be an indicator of team performance, but the affective content present over the entire conversation does not necessarily predict team
+performance, thus highlighting the importance of studying team interaction in the context of microbehaviors.<o:p></o:p></div>
+
+</div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC22K0775</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>NASA JSC</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ekk4-sj92</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2020 HERO 80JSC020N0001-FLAGSHIP, OMNIBUS1 Human Research Program: Crew Health Appendix A; Omnibus1-Appendix B</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/25e25479-2a09-5e09-847a-f1aa30f5b11a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/25e25479-2a09-5e09-847a-f1aa30f5b11a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

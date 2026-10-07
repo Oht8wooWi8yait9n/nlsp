@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Metabolism of Red Blood Cells - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d4eb7634-8172-5e5f-a956-e6690e83ac22?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>2.2.4</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Metabolism of Red Blood Cells</h1>
+        <div class="meta-id">Record ID: 2.2.4</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d4eb7634-8172-5e5f-a956-e6690e83ac22?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Previous space flight studies revealed that exposure to microgravity causes changes in red blood cells (erythrocytes), which are manifested in changes in erythrocyte mass, a decreased osmotic stability and alterations in metabolic parameters. Changes in erythrocyte shape and plasma membrane parameters were observed during and after previous space flights in humans and animals, and can cause a deterioration in erythrocyte function. The purpose of this investigation was to determine and evaluate the dynamics of the changes in erythrocyte function during and after space flight. In particular, the parameters of (1) energy metabolism, (2) oxidation-reduction system, and (3) condition of plasma membrane were evaluated.
+<p>APPROACH:<br>
+The biochemical characteristics of erythrocytes were studied before flight (at L-60 and L-30), during flight (Mission Day (MD) 14, MD 90 and MD 108), and postflight on R+0 and R+9 (days after landing) on three astronauts. Before and after flight the studies were performed using intact and frozen erythrocytes and whole blood, whereas during flight only frozen erythrocyte samples were collected. The erythrocytes were obtained from venous blood stabilized with EDTA, which was centrifuged and then frozen at -20 degrees Celsius until analysis.</p>
+<p>To analyze the changes in energy metabolism, oxidation-reduction system, and the condition of the plasma membrane, a series of parameters was determined:</p>
+<p>
+<li>Energy metabolism was determined by content of adenosine triphosphate (ATP), 2,3-diphosphoglycerate (2,3-DPG), glycolysis rate, activity of lactate dehydrogenase (LDH), and hexokinase (HK).
+<P>
+<li>The oxidation-reduction system was determined by the content of reduced glutathione and glucose 6-phosphate dehydrogenase activity.
+<P>
+<li>The condition of plasma membrane was evaluated based on parameters describing the lipid and phospholipid composition and the activity of the transport ATPases for sodium ions (Na+), potassium ions (K+), calcium ions (Ca++), and magnesium ions (Mg++).
+<p>The metabolic indices were assayed using spectrophotomeric techniques. Lipid and phospholipid composition were studied with thin-layer chromatography, and the extraction was performed by the method of Bligh and Dyer. The transport ATPase activity was based on the decrease in inorganic phosphate content associated with ATP dephosphorylation in the incubation medium at +38 degrees Celsius.
+<p>RESULTS:<br>
+Glutathione levels and ATPase activity could not be determined for the samples taken on MD 14. Also, hexokinase activity was not determined for samples taken on MD 90, MD 108 and postflight on R+0 and R+9 due to an insufficient amount of cell material.
+<p>The analyzed data showed that, starting from MD 14, the ATP level decreased, mainly in one subject, and the activity of glucose 6-phosphate dehydrogenase decreased in all three subjects. This effect, as well as a decline in the intracellular ATP content, may indicate a decrease in cellular resistance. This suggestion is also confirmed by data about plasma membrane characteristics. In particular, the activity for Na+, K+, Ca++ ATPases were declined, which may have been caused by changes in the membrane’s physical and chemical properties and in the composition of its main components, the lipids and proteins.
+<p>The study of lipid and phospholipid composition of the membranes revealed significant changes in the cholesterol content, which was increased in all crewmembers inflight and postflight, starting on MD 14 and was still elevated on R+9 in all three crewmembers. While the phospholipid content of the membrane remained practically at the same level, the elevated cholesterol content indicated a change in the membrane’s phase state -- an increase in the membrane’s rigidity and a possible reduction of its deformability.
+<p>Postflight, the ATP level and the glucose 6-phosphate dehydrogenase activity were increased in all three crewmembers compared to inflight data. Also, the Na+, K+, and Ca++ ATPase activity was increased. Elevated lactate levels measured on R+0 indicated the prevalence of anaerobic processes.
+<p>On R+9 virtually all parameters were within the normal range except for cholesterol content and reduced glutathione content in two subjects. The membrane cholesterol levels of these two subjects remained elevated and the glutathione content was significantly decreased.</p>
+<p>Overall, the results of this investigation showed significant inflight changes in erythrocyte metabolism and membrane condition for all subjects. The observed destabilization of the cell membrane may have resulted from changes in the blood plasma, caused by shifts in hormone levels, electrolyte balance and lipid metabolism. But direct effects of space flight on the quality of erythrocytes cannot be excluded.<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>2.2.4</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Ivanova, Svetlana, Lane, Helen</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>Institute of Biomedical Problems (IBMP), National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Hematology, Metabolism and nutrition, Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Mir 18&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/493p-zm21</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d4eb7634-8172-5e5f-a956-e6690e83ac22?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d4eb7634-8172-5e5f-a956-e6690e83ac22?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

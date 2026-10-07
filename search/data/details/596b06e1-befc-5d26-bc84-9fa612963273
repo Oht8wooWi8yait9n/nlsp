@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plastic Alteration of Vestibulo-Cardiovascular Reflex and its Countermeasure - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/596b06e1-befc-5d26-bc84-9fa612963273?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>VC_REFLEX</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Plastic Alteration of Vestibulo-Cardiovascular Reflex and its Countermeasure</h1>
+        <div class="meta-id">Record ID: VC_REFLEX</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/596b06e1-befc-5d26-bc84-9fa612963273?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The vestibular system is known to have an important role in controlling arterial pressure (AP) upon posture transition. However, this system is known to be highly plastic, i.e., if subjects are exposed to different gravitational environments, the sensitivity of the system is altered. Thus, it is possible that the sensitivity of the vestibulo-cardiovascular reflex is diminished after space flight, and then orthostatic hypotension is induced after space flight. To test this hypothesis, the role of the vestibulo-cardiovascular reflex in maintaining AP upon head-up tilt (HUT) is examined before and after space flight.
+<p>
+The objectives of the research are to test the hypothesis that microgravity induces plastic alteration of the vestibulo-cardiovascular reflex, and if vestibular-mediated pressor response is impaired after space flight, then orthostatic hypotension occurs. To examine this, contribution of the vestibulo-cardiovascular reflex in controlling AP upon HUT is examined before and after space flight.
+<p>
+APPROACH:<br>
+Ten astronauts will be recruited for the study. In each subject, HUT test is performed 4 times (L-3 to L-1 month, R+0 days, R+2 weeks, and R+2 months). AP, electrocardiogram (ECG), electromyogram (EMG, the soleus muscle), and lower limb volume are continuously measured. The subjects are instructed to lay supine on a tilt table. For the HUT test, the table is tilted to 60 degrees from the horizontal position (tilt angle 0 degrees). For transient interruption of the vestibular-mediated AP response, galvanic vestibular stimulation (GVS) is applied using surface electrode bilaterally placed over the mastoid processes. After stabilization of the AP in the supine position, the subjects are subjected to HUT for two minutes. Each subject is subjected to three experimental conditions; HUT without GVS, HUT with weak GVS, and HUT with strong GVS. The role of vestibulo-cardiovascular reflex is estimated by comparing the AP responses among these three conditions.
+<p>
+RESULTS:<br>
+This is an international experiment.  NASA does not currently have an agreement with international space partners to archive their data in the LSDA.   
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>VC_REFLEX</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Morita, Hironobu</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>Japan Aerospace Exploration Agency (JAXA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Expedition 37&#x27;], [&#x27;Expedition 38&#x27;], [&#x27;Expedition 35&#x27;], [&#x27;Expedition 40&#x27;], [&#x27;Expedition 41&#x27;], [&#x27;Expedition 42&#x27;], [&#x27;Expedition 34&#x27;], [&#x27;Expedition 32&#x27;], [&#x27;Expedition 44&#x27;], [&#x27;Expedition 45&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/97w2-jz72</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>This international study did not archive data with LSDA</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/596b06e1-befc-5d26-bc84-9fa612963273?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/596b06e1-befc-5d26-bc84-9fa612963273?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

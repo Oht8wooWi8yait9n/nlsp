@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assessment of Humoral Immune Function During Long Duration Space Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2ebca591-3414-588b-b7a1-eb007c155311?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9401621</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Assessment of Humoral Immune Function During Long Duration Space Flight</h1>
+        <div class="meta-id">Record ID: 9401621</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2ebca591-3414-588b-b7a1-eb007c155311?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Space flight induces changes in the human immune system, that potentially expose crewmembers to an increased risk for development of illness.  The human immune system is comprised of two components, humoral and cell-mediated immunity.  Humoral immunity involves the production of antibodies, and cell-mediated immunity involves sensitized lymphocytes.  Decreased cellular immune function has been repeatedly documented after space flight and confirmed during flight by delayed-type hypersensitivity testing.  The mechanism of these responses and the involvement of the other arms of the immune system are currently unclear.  Very few data are currently available concerning the competence of the humoral arm of the immune system, and no direct testing of humoral immune function has been conducted in humans during space flight.  
+<P>
+This experiment assessed the ability of the humoral immune system to respond to a stimulus with the production of new specific antibodies following the immunization of a crewmember with a specific antigen.  A pneumococcal vaccination, routinely used in clinical medicine, was used as the immune system stimulus.  The crewmember's antibodies were then assayed at several intervals after the immunization.  Based on the decreases observed in other immune system functions, the hypothesis was that the ability to mount an antibody response to new or recall antigens would be depressed during space flight.  It was anticipated that specific antibody titers following immunization during flight would be significantly lower than responses obtained from a ground-based control group.  A normal response is critical to the continuing health of the crew, since it represents a basic mechanism required to combat infection. The results of this experiment will help to improve the understanding of space flight induced immune suppression and will complement and expand the existing understanding of space flight effects on humans.
+<P>
+This experiment, E621, was previously flown as 2.4.2 on Mir 18/STS-71.   E621 differs from 2.4.2 because the entire experiment was performed end-to-end during the actual flight; inflight vaccination shots and subsequent fluid sample collection were performed in microgravity.  During the 2.4.2 experiment the immunization of the Mir 18 cremembers was initiated in flight, however the sample collection occurred postflight. 
+<p>
+APPROACH:<br>
+The following protocol was used to assess the effects of long duration space flight on baseline levels of immunoglobulins (IgG,IgA, IgD, IgE and IgM) in serum, the ability of the immune system to produce appropriate antibodies in response to a specific antigenic challenge, and to assess secretory immune function by measuring salivary IgA and lysozyme levels.
+<p>
+An inflight vaccination with specific antigens (23 pneumococcal polysaccaride antigens) was used to test the ability to mount an antibody response in vivo.  These antigens produce well characterized antibody responses in normal, healthy individuals.  Blood and saliva samples were collected prior to flight and immediately before immunization in flight to determine baseline values of the specific antibodies.  Vaccination took place approximately mid-mission.  Additional saliva and serum samples were taken 7, 11, 14, 17, 21 and 28 days after the immunization to measure the degree of antibody production.  
+<P>
+The samples were processed in the centrifuge and frozen for return.  Antibody responses were measured using Enzyme-Linked Immunosorbent Assay (ELISA) in the serum and saliva samples.  
+<p>
+This experiment was performed during the NASA 2-4, 6, and 7 missions.  The immunization and sample collection was performed independently on each mission; however, the data analysis approach was to combine data sets from the different missions.  The degree of response was compared to those obtained from a ground-based control group of age- and sex-matched volunteer subjects.  
+<p>
+The experiment protocol originally called for the analysis of B-lymphocyte levels.  However, during the NASA 2 mission, the preflight B-lymphocyte activation test was not completed due to problems with the reaction agent.  Therefore, this part of the experiment was cancelled on the NASA 2 and all subsequent missions.  
+<p>
+RESULTS:<br>
+Finally antibody batch analysis has not been completed at this time.  Preliminary data is in agreement with the Mir 18/STS-71 experiment results, which showed that the response to the vaccination during flight was essentially normal.  However, the Mir 18 crew was immunized just before return and the response was assayed after flight.  The results may not be the same when the entire response period is performed during flight.  Other results showed a decrease in natural killers cells after flight, which is consistent with earlier studies.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9401621</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lesnyak, Andrei, Sams, Clarence</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NASA 2&#x27;], [&#x27;NASA 3&#x27;], [&#x27;NASA 4&#x27;], [&#x27;NASA 6&#x27;], [&#x27;NASA 7&#x27;], [&#x27;NASA 5&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/wcr9-m975</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2ebca591-3414-588b-b7a1-eb007c155311?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2ebca591-3414-588b-b7a1-eb007c155311?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

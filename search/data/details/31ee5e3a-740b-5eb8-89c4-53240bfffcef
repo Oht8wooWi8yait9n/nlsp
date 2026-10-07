@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Impacts of Bed Rest, Exercise and Aging on Dynamic Ventricular-Arterial Coupling (Postdoctoral Fellowship) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/31ee5e3a-740b-5eb8-89c4-53240bfffcef?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958PF01101</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Impacts of Bed Rest, Exercise and Aging on Dynamic Ventricular-Arterial Coupling (Postdoctoral Fellowship)</h1>
+        <div class="meta-id">Record ID: NCC958PF01101</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/31ee5e3a-740b-5eb8-89c4-53240bfffcef?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br> 
+Congestive heart failure (CHF) is the leading cause of hospitalization in the elderly, and its incidence and prevalence are increasing exponentially. Epidemiologic studies have shown that a large percentage (approximately 50%) of patients with congestive heart failure have a "preserved" ejection fraction (EF>40~50%) (CHF-pEF). Although studies addressing the pathophysiology of CHF-pEF are increasing in number with the recognition of the syndrome, its underlying mechanisms are still controversial. Although the mechanism of CHF-pEF has been a matter of vigorous debate, there are two major competing hypotheses that have been advanced to explain CHF-pEF. Both of these suggest static functional impairments in either left ventricular diastolic function or arterial compliance. 
+<p>
+The investigators proposed a novel index called the "dynamic Starling mechanism," the beat-to-beat relationship between and left ventricular end-diastolic pressure (LVEDP) and stroke volume (SV) at the respiratory frequency. The dynamic Starling mechanism is likely to unify ventricular-arterial compliance reflecting time-varying ventricular-arterial compliance. Furthermore, the Starling mechanism per se is generally accepted to be a key function pertaining to CHF. Their previous study showed that CHF-pEF patients have an impaired dynamic Starling mechanism compared with the sedentary elderly as age-matched controls. This finding suggests a novel explanation for the pathophysiology of CHF-pEF which has never been explained solely by ventricular diastolic function or by arterial stiffness. 
+<p>
+The global objectives of this study were to assess the effects of aging and microgravity exposure on dynamic ventricular-arterial coupling, and to determine the optimal amount of physical activity to prevent deterioration of the ventricular-arterial coupling of the dynamic Starling mechanism. 
+<p>
+Specific Aims:<br>
+1. To test the hypothesis that sedentary aging leads to progressive deterioration in dynamic ventricular-arterial coupling, investigators planned to examine a cross-section of sedentary individuals over decades who are 20-80 years old. <br>
+2. To test the hypothesis that life-long physical exercise training prevents the deterioration of the dynamic Starling mechanism with aging, investigators planned to recruit healthy individuals who have consistently trained at two different doses-the Surgeon General recommended goal of 150minutes per week (Q3, 4-5 days/week) and a lower but possibly more realistic amount of 75-90 minutes (Q2, 2-3 days/week) for at least 25 years and compare these with sedentary elderly (Q1) and Masters athletes (Q4). <br>
+3. To test the hypotheses that prolonged exposure to microgravity in young healthy individuals promotes the deterioration of the dynamic Starling mechanism and that an optimized exercise training program can preserve the dynamic Starling mechanism even after prolonged exposure to microgravity, investigators planned to perform an exercise countermeasure during 5-week 6 degree head down bed rest. Investigators planned to compare pre and post bed rest with and without the optimized exercise training. <br>
+<p>
+APPROACH:<br>
+The dynamic Starling mechanism represents the beat-to-beat modulation of SV caused by beat-to-beat alterations in left ventricular filling, and reflects the complex interaction between ventricular and arterial stiffness. Spectral transfer function gain between beat-to-beat changes in SV and LVEDP was used as an index of the dynamic Starling mechanism. A right heart catheter was placed through an antecubital vein into the pulmonary artery. Beat-to-beat pulmonary artery diastolic pressure was used as an index of beat-to-beat LVEDP. Photoplethysmography was used to continuously measure finger arterial blood pressure. Beat-to-beat changes in SV were calculated from finger arterial pressure waveform with the Modelflow method.
+<p>
+RESULTS:<br>
+The main findings were as follows:<br>
+1. Sedentary aging leads to progressive deterioration in dynamic ventricular-arterial coupling: Investigators recruited a cross-section of sedentary individuals over decades (<34 years: N=21, 35-44 years: N=13, 45-54 years: N=10, 55-64 years: N=2, >65: N=11, total 57 subjects). They found a linear relationship between the dynamic Starling mechanism index and their age (P=0.002). <br>
+2. Life-long physical exercise training prevents the deterioration of dynamic Starling mechanism with aging: Effects of different levels of life-long exercise training on the dynamic Starling mechanism so far appear to be dose-dependent. The greater the amount of exercise training, the higher the indices of the dynamic Starling mechanism. <br>
+3. Five-week head down tilt bed rest promotes the deterioration of the dynamic Starling mechanism: A total of 27 subjects underwent 5-week head down bed rest; nine subjects without exercise countermeasure (sedentary group) and 18 subjects with exercise countermeasure (exercise group). Both sedentary (N=9) and exercise (N=18) groups showed a significant decrease of the dynamic Starling mechanism after the 5-week bed rest while the magnitude of the decrease in the dynamic Starling mechanism was significantly lower in the exercise group than in the sedentary group (Sedentary: -42%, Exercise: -12%, P=0.04). Based on the relationship between age and the dynamic Starling mechanism, the decrease in the dynamic Starling mechanism in the sedentary group was equivalent to 29 years of aging while that of exercise group was nine years. These findings suggest that microgravity promotes the deterioration of the dynamic Starling mechanism with aging and that this deterioration can be partly prevented by exercise training. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958PF01101</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Shibata, Shigeki</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Biomedical countermeasures, Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/mqxe-tm38</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2006 NSBRI-RFP-06-01 Postdoctoral Fellowships</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/31ee5e3a-740b-5eb8-89c4-53240bfffcef?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/31ee5e3a-740b-5eb8-89c4-53240bfffcef?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Orion Crew Performance and Safety Immediately Follwoing Postflight Water Landings: Emergency Egress (Decond_Crew_Perf) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/899d4d21-ad8b-5f8f-97da-1200d54d7297?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Decond_Crew_Perf</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Orion Crew Performance and Safety Immediately Follwoing Postflight Water Landings: Emergency Egress (Decond_Crew_Perf)</h1>
+        <div class="meta-id">Record ID: Decond_Crew_Perf</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/899d4d21-ad8b-5f8f-97da-1200d54d7297?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <div><font face="Times New Roman">OBJECTIVE<o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">Long-duration space flight can have a profound effect on
+functional performance as a result of exposure to the space environment. Water
+landings add to the already impaired functional performance and present
+significant safety issues to the crew that must be addressed. During a ground
+landing, a lifetime of sensory experience of walking is used to re-adapt to the
+novel gravitational environment when an astronaut returns. However, crewmembers
+are exposed to involuntary, external movements on a moving platform with water
+landings in an enclosed capsule. Thus the crewmembers are forced to re-adapt not
+only to a novel gravitational environment but to do so in an environment that
+challenges all aspects of the reafference scheme. <o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">Landing motion sickness is experienced by 100% of returning
+International Space Station (ISS) crewmembers and the severity increases with
+wave motion and a closed visual environment. Safety issues that put crewmembers
+at risk include risk of impaired control of the spacecraft and decreased
+mobility due to vestibular and sensorimotor alterations associated with
+spaceflight. These issues result from water landings in a completely enclosed
+capsule causing loss of information on relative movement between the platform
+and the orientation of Earth. All these issues are exacerbated by landing a
+stable 2 capsule attitude upon splash down. <o:p></o:p></font></div>
+
+<div><font face="Times New Roman">This study was conducted in two parts. In the first part, a
+test environment was created by mounting an enclosure on a six
+degree-of-freedom motion platform. Wave-motion profiles were created to move
+the visual enclosure in conjunction with the floor thus replicating the visual
+conditions within the floating capsule. Tasks that shared common movement
+patterns with egress activities were developed and the time to complete these
+tasks was used as a measure of performance. The goal of the second part was to identify
+the optimal features of a device that visually presents gravitational reference
+cues, in a capsule or aboard the recovery ship, for the purpose of aiding
+stability and re-adaptation in returning astronauts.</font></div><div><span style="text-align: center; font-weight: var(--bs-body-font-weight);"><font face="Times New Roman"><br></font></span></div><div><span style="text-align: center; font-weight: var(--bs-body-font-weight);"><font face="Times New Roman">The specific aims of this study were to:</font></span></div><div><ol><li><font face="Times New Roman"><span style="text-align: center; font-weight: var(--bs-body-font-weight);">&nbsp;Enhance the existing capsule sensory-condition
+simulator (used in the existing Omnibus) to include instrumented&nbsp; &nbsp; &nbsp;hand-&nbsp;</span>holds, a&nbsp;<span style="font-weight: var(--bs-body-font-weight); text-align: center;">compliant support surface and galvanic vestibular simulation (GVS)</span></font></li><li><span style="font-weight: var(--bs-body-font-weight); text-align: center;"><font face="Times New Roman">&nbsp;Develop and test multiple presentation methods
+of an earth fixed visual reference.</font></span></li></ol></div><div><font face="Times New Roman"><o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><o:p></o:p></font></div>
+
+<div><o:p><font face="Times New Roman">&nbsp;</font></o:p></div>
+
+<div><font face="Times New Roman">APPROACH:<o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">In the first part of this study, 32 subjects were recruited
+through the NASA Test Subject Support Facility. The subjects passed a
+NASA-modified Air Force Class III physical prior to enrollment in the study. These
+subjects set the potential standards to determine the range of performance when
+healthy individuals encounter wave motions without confounding post-flight
+balance and disorientation. A payload configured as a portion of the interior
+of an Orion capsule was mounted to MOOG 6-degrees of freedom motion base. The
+payload platform included a flight-like couch and restraint system, an
+Orion-style ladder used to access the upper exit lock, and a nonfunctional
+packaged raft to stimulate that found within the Orion that is used for
+emergency escape. Inertial sensors located on different body segments were worn
+to ascertain the subject’s movements relative to the movement of the platform.
+The Peripheral Vision Horizon Display (PVHD) or Malcolm Horizon (MH) provided a
+projected gravity reference within the simulator. The subjects were made to
+participate in a single data collection session, where the data was collected
+during 4 trials, one for each of the 4 conditions. The first condition
+consisted of performing three tasks without an active motion base.&nbsp;</font></div><div><font face="Times New Roman">The tasks
+included:<o:p></o:p></font></div>
+
+<div style="text-align: left;"><font face="Times New Roman"><br></font></div><div style="text-align: left;"><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Rising from prone position <o:p></o:p></font></div>
+
+<div style="text-align: left;"><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Quiet stance with feet together for 30 seconds <o:p></o:p></font></div>
+
+<div style="text-align: left;"><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Starting from the standing position, moving to
+the stowed ladder and deploying it <o:p></o:p></font></div>
+
+<div style="text-align: left;"><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Moving to the location of the raft from low to
+high placement in the enclosure <o:p></o:p></font></div>
+
+<div style="text-align: left;"><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Returning the ladder back to the original
+condition <o:p></o:p></font></div>
+
+<div style="text-align: left;"><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Returning the raft to the original condition<o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">The second condition consisted of repeating the tasks
+identified in condition 1 but with the motion base active at a low sea state.
+Condition three involved the same tasks but with the motion base at a high sea
+state. Condition four repeated three but included the Malcolm Horizon (MH),
+again at a high sea state.&nbsp;</font></div><div><span style="text-align: center; font-weight: var(--bs-body-font-weight);"><font face="Times New Roman">Dependent measures across all trials included:</font></span></div><div><font face="Times New Roman"><o:p></o:p></font></div>
+
+<div><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font></div><div><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Time to completion for the variables in each
+trial <o:p></o:p></font></div>
+
+<div><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;b.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Head and lumbar angular acceleration <o:p></o:p></font></div>
+
+<div><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->Head and lumbar linear acceleration <o:p></o:p></font></div>
+
+<div><o:p><font face="Times New Roman">&nbsp;</font></o:p></div>
+
+<div><font face="Times New Roman">The second part of this study was a hardware development
+effort. Based off reports from the first phase regarding the helpfulness of an
+earth-fixed horizontal line projected onto the walls during one of the
+conditions, a study to determine the features of an effective visual aid was
+proposed. Subjects participated in a single data collection session consisting
+of eight 90-second trials; three control and five experimental conditions.<o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">Eighteen subjects were recruited for the second part of this
+study through the NASA Test Subject Support Facility. Subjects in the first
+part of the investigation were destabilized by the wave motions but were easily
+able to remain standing without support. They effectively used vestibular and
+proprioceptive cues to make the necessary adjustments to stay upright. Subjects
+in this part of the study stood on foam and were subjected to galvanic
+vestibular stimulation (GVS), which posed significant threats to their
+stability when coupled with the wave motion. A hand hold was placed inside the
+simulator to mitigate the risk of falling. The handles were instrumented with
+load cells to measure the amount of force imparted to them.<o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">Projected visual references were compared using a repeated
+measures design. Vertical and horizontal line projections were compared as were
+the use of points of light instead of lines. The learning effects that
+complicated the interpretation of the previously collected data were controlled
+by both a balanced test order and the inclusion of a control condition
+performed at the beginning and each of each test session.<o:p></o:p></font></div>
+
+<div><o:p><font face="Times New Roman">&nbsp;</font></o:p></div>
+
+<div><font face="Times New Roman">RESULTS<o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">In the first part of the study, completion time results were
+analyzed from 30 out of 32 subjects. The results showed that the shortest
+completion times occurred when the platform was not moving and the highest
+values occur during the HIGH wave conditions. The results that showed that
+subjects took a longer time to complete the tasks when they are destabilized by
+movements of the support surface were expected. Subjective observations from
+the test sessions revealed a wide range in both the degree to which subjects
+were affected by the wave motion and the strategies they used to combat it.
+Many subjects stumbled during the execution tasks but none fell. The subjects
+were told not to seek support from the walls of the enclosure however several
+were unable to avoid it. Some subjects supported themselves by grabbing onto
+the deployed ladder. These differences were one source of variability in the
+study. <o:p></o:p></font></div>
+
+<div><font face="Times New Roman">Another source of variability had to do more with the tasks
+themselves. Subjects were given the opportunity to practice the tasks until
+they felt comfortable, however, manipulating the carbiner-like clips and cam
+buckles to secure the nylon straps of the ladder proved to be problematic at
+times. <o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">After experiencing conditions in the first trial, subjects
+were better equipped to use vestibular information during the second trial,
+this resulted in improved stability. The learning effect observed from the data
+collected during the quiet could also be attributed to a change in strategy between
+the first and second exposure. Subjects that were unaware of the destabilizing
+effects of the test conditions often adopted a casual quiet stance with toes
+aligned parallel in the frontal plane and a more upright posture. Part way into
+the trial, many subjects ended up changing their positions. During the second exposure
+to the HIGH wave, the subjects adopted the more cautious and stable stance
+immediately. <o:p></o:p></font></div>
+
+<div><o:p><font face="Times New Roman">&nbsp;</font></o:p></div>
+
+<div><font face="Times New Roman">Results for the second part of the study showed that out of
+18 subjects, 17 strongly believed that the presence of an earth fixed visual
+reference was helpful. Out of the 16 subjects that were considered:<o:p></o:p></font></div>
+
+<div><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp;</font></div><div><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->7 believed that the peripheral presentations
+provided the greatest benefit.<o:p></o:p></font></div>
+
+<div><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->5 preferred the Starfield configuration<o:p></o:p></font></div>
+
+<div><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]-->4 liked the remaining frontal presentations <o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">There were evenly mixed results when participants were
+prompted for a preference between horizontal only line condition and horizontal
++ vertical line. Four out of seven participants thought that peripheral
+presentation provided the greatest benefit. These participants also preferred
+horizontal only line condition.&nbsp;</font><span style="font-weight: var(--bs-body-font-weight); text-align: center;">The results also showed that the Starfield pattern provided
+the greatest disparity in response. A total of 5 subjects thought it provided
+the greatest benefit. A few subjects actively disliked it. Possible reasons for
+this can be extracted by looking at individual subject responses in greater
+detail.</span></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">The goal of this study was to identify the features to
+consider in the next phase of countermeasure development. The subjective and
+qualitative results both point to the conclusion that a peripheral display of a
+horizontal-only line as the best option. <o:p></o:p></font></div>
+
+<div><font face="Times New Roman">The Starfield pattern produced the most diverse reactions
+from the participants. The subjects preferred the starfield pattern due to
+their ability to see their silhouette. The subjects who disliked the starfield
+pattern focused on what was happening in their periphery. This allowed two
+considerations:<o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><!--[if !supportLists]--><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font></div><div><font face="Times New Roman">&nbsp; 1.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>To incorporate an external source of feedback
+about the subject’s performance into the next version of&nbsp;&nbsp;</font></div><div><font face="Times New Roman">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;the&nbsp;<span style="text-align: center; font-weight: var(--bs-body-font-weight);">countermeasure&nbsp;</span><span style="font-weight: var(--bs-body-font-weight); text-align: center;">system.</span></font></div><div><font face="Times New Roman"><o:p></o:p></font></div>
+
+<div><font face="Times New Roman">&nbsp; 2.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 7pt; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>The need to better understand what it was about
+the peripheral information that was problematic for some subjects. <o:p></o:p></font></div>
+
+<div><font face="Times New Roman"><br></font></div><div><font face="Times New Roman">Even with the complexities imposed by the geometrical
+relationships, it should be possible for the brain to learn how to use an
+earth-fixed reference projected onto a wall. Under motion parallax conditions,
+objects in the foreground, between a a moving subject and a visual fixation,
+appeared to move in the opposite directions as objects in the background on the
+visual image. <o:p></o:p></font></div>
+
+<div><font face="Times New Roman">In conclusion, the results presented from the study
+indicated that presence of an earth-fixed visual reference can improve the
+stability in the sensory conditions that astronauts will face when returning
+from space by way of a capsule water landing. A synthesis of all the
+information obtained in this investigation suggests that the best path forward
+is the development of a subject-worn device that presents a horizontal line in
+the periphery of the subject.&nbsp;</font><o:p></o:p></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Decond_Crew_Perf</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Peters, Brian T.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience, Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) NA</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4qcx-km79</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2017 HERO 80JSC017N0001-Crew Health and Performance (FLAGSHIP1, OMNIBUS). Appendix A-Flagship1, Appendix B-Omnibus</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/899d4d21-ad8b-5f8f-97da-1200d54d7297?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/899d4d21-ad8b-5f8f-97da-1200d54d7297?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

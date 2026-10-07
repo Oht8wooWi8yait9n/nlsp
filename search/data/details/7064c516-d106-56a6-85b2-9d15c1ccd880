@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prevention of Bed Rest Induced Osteoporosis: Effect of an Individual Tailored Exercise Program - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/7064c516-d106-56a6-85b2-9d15c1ccd880?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Thornton_Bedrest</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Prevention of Bed Rest Induced Osteoporosis: Effect of an Individual Tailored Exercise Program</h1>
+        <div class="meta-id">Record ID: Thornton_Bedrest</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/7064c516-d106-56a6-85b2-9d15c1ccd880?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Disuse of the musculoskeletal system produces atrophy of bone and muscle causing decreased muscle strength as well as negative calcium, phosphorus and nitrogen balance. Muscle atrophy is seen after a short period of time. If disuse is continued for long periods, a measurable reduction in bone density will be evident. Both the losses in bone and muscle appear to be greater in the human postural and locomotor system (lower trunk and legs, often referred to as weight bearing). Such losses are regularly seen in bed rest and in space flight.
+<p>
+This study was an attempt to demonstrate that bone atrophy can be prevented by an individualized exercise program which adequately mimics the required forces associated with exercise here on Earth. An associated operational problem for NASA is the amount of time required for an astronaut to exercise during space flight. Therefore, reducing the time necessary for an individualized exercise prescription was also evaluated. This study used current knowledge of biomechanics to appropriately bioinstrument individuals to measure their physical activity as well as selected exercise parameters so that an individualized countermeasure could be developed. 
+<p>
+The specific aims of the study were:<ol>
+<li>Muscle and bone atrophy of the locomotor system during bed rest and weightlessness can be prevented by exercise equivalent to the individuals' usual locomotor activity.
+<li>A program can be developed reducing exercise time (and repetitions) for space flight which is equivalent to the individual's usual locomotor activity.</ol>
+<p>
+APPROACH:<br>
+Subjects were studied during one week of equilibration, three weeks of monitored activity ambulation, three weeks of baseline control ambulation, three weeks of bed rest during which the subject performed a tailored exercise program, three weeks of untreated bed rest, and two weeks of re-ambulation. Three weeks was the maximum duration of each phase. Progress was monitored by: (a) calcium, phosphorus, and nitrogen balance studies and urinary hydroxyproline and creatinine; (b) gamma ray transmission scanning of the calcaneus and lower lumbar vertebrae; (c) magnetic resonance imaging of the leg muscles; and (f) Cybex (TM) muscle strength testing.
+<p>
+The subjects were males between the ages of 19-53, who responded to a request for research subjects from the general population. The volunteers were screened by the investigators and members of the General Clinical Research Centers (GCRC) staff.  Each subject participating in the study provided the investigator with signed informed consent. Subjects were housed on the GCRC Metabolic Wards at Methodist and Hermann Hospitals in Houston, Texas in private or semi-private rooms. 
+<p>
+The 15-week study was divided into six parts and initially was to involve a total of 18 normal test subjects (i.e. three subjects at a time). Each part of the study was divided into six phases:<br>
+a. Phase I (week 1-3): Determination of usual force environment and subject capacity. This phase consisted of orientation. The subjects received a complete physical examination, explanation of the study, and were required to give informed consent. The subjects’ normal activity in their usual living situation was monitored, i.e. work, recreation, exercise, etc. while wearing specified devices.  An activity diary was also maintained.<br>
+b. Phase II (week 4-6): This was the ambulatory monitored period during which the subjects started the metabolic diet. The subjects also received polyethylene glycol 4000, and underwent metabolic equilibration. Baseline balance and urinary measurements were determined. Baseline measurements of muscle strength and volume, bone densitometry, lean body measurements, and normal and maximal muscle and cardiovascular activity were also determined.<br>
+All subject activity, determined from Phase I, was controlled, i.e. walking, jogging and running was done on a monitored treadmill (except for toilet needs). Thus, subjects maintained their "standard" activity level as measured during Phase I while baseline data collections were made.  Time spent in various postures was controlled and recorded.<br>
+c. Phase III (week 7-9): This was the ambulatory control period during which an exercise "prescription" from the previously gathered data was determined.<br>
+d. Phase IV (week 10-12):  This was the bed rest plus exercise period. During this phase the subjects were at strict bed rest except for an individualized tailored exercise program. The physical activity and length of exercise was chosen to best mimic effective normal activity found during Phase II. Metabolic studies continued. Success or failure of the prescription was based on results of calcium balance, strength testing, and anthropometric measurements. If strength and calcium balance were maintained, the next phase was started to document the atrophy expected to occur without counter measures.<br>
+e. Phase V (week 13-15): This was the strict bed rest phase during which no additional exercise was allowed. Metabolic balance testing continued.<br>
+f. Phase VI (week 16):  This was the re-ambulation period. Metabolic balance testing continued and both densitometry and muscle testing were performed.<br>
+<p>
+All subjects received a Hexavitamin tablet once daily which, with the diet, provided approximately 14,000 I.U. of vitamin A, 630 I.U. of vitamin D, 3mg thiamin, 5mg riboflavin, 42mg niacin, and 192mg ascorbic acid. Docusate sodium (Colace) was given orally in a dose up to 100mg twice daily to prevent constipation. Polyethylene glycol 4000 was used as a fecal marker and was given in an oral dose of 500mg three times daily.
+<p>
+Testing Procedures<br>
+a. Activity monitoring<br>
+<i>Gravitational Loading</i> - Two gravity sensitive switches were worn by the research subject, one on the trunk and one on the thigh. Changes of position and the time of change were recorded to document the time spent upright, sitting, and lying down.<br>
+<i>Locomotor Activity</i> - Recall history of the type of work, diet, sports and recreational activity of the research subject (walking, jogging, and running) was obtained by the investigator.  A pedometer counted the subjects’ walking strides daily. The distance and time during jogging or running was recorded.  Speed and number of strides was obtained by manual measurement over a known course. <br>
+b. Bone densitometry<br>
+Bone mineral of the os calcis and the lumbar spine were measured before and after bed rest. Rectilinear 125 iodine scanning was done for the os calcis and rectilinear 153 Gadolinium scanning of the lumbar spine was completed.<br>
+c. MRI muscle volume determination<br>
+The lower limbs of the research subjects were imaged at the beginning of the first phase and then at the end of each phase of the study. The scan consisted of five slices, 2 cm apart, starting at the lower calf. Before the start of the first scan, the desired start point was determined as the distance in centimeters from the bottom of the heel to a position on the calf where the gastrocnemius muscle mass is negligible. <br>
+d. Cybex muscle testing<br>
+Cybex muscle testing was performed at the beginning of the study and then at the end of each phase. Peak muscle strength and time to muscle fatigue were determined.<br>
+e. Metabolic balance<br>
+Sweat was collected through its absorption to cotton clothes furnished to do the research subjects. The subjects were required to wear the same clothes for seven continuous days, wiped themselves with a single towel after exercising, and had an acetic acid "wipe" down once each week. Bed coverings, clothes and towels were "washed" for collection of sweat.<br>
+f. Maximal exercise testing<br>
+The Bruce Protocol was followed. Bruce Protocol is a diagnostic test used in the evaluation of cardiac function.  Additionally, a test for jogging endurance was performed by following the Bruce Protocol except for changing the grade of the treadmill.<br>
+<p>
+RESULTS:<br>
+Summarized results aren’t available for this study.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Thornton_Bedrest</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Schneider, Victor, Thornton, William</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Muscle physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/daqw-r121</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/7064c516-d106-56a6-85b2-9d15c1ccd880?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/7064c516-d106-56a6-85b2-9d15c1ccd880?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

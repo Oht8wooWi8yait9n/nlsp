@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Simulated Weightlessness on the Repair of Lower Limb Bone Fractures and on the Number of Bone-derived Stem Cells - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/3e8a7b8d-2963-5e40-bca2-032ccf323692?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958BL00405</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Simulated Weightlessness on the Repair of Lower Limb Bone Fractures and on the Number of Bone-derived Stem Cells</h1>
+        <div class="meta-id">Record ID: NCC958BL00405</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/3e8a7b8d-2963-5e40-bca2-032ccf323692?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br> 
+Specific Aims:<br>
+1. Assess the rate and extent of fracture healing in osteotomized rats in simulated weightlessness versus normal gravity. <br>
+2. Assess the numbers of progenitor cell colony-forming units (CFU) and osteogenic cells per CFU in bone marrow and periosteum tissues from osteotomized rats in simulated weightlessness versus normal gravity. <br>
+3. Determine the rate and extent of fracture healing in osteotomized rats in simulated weightlessness when treated with PTH or bisphosphonate therapy. <br>
+4. Assess the numbers of progenitor cell CFU and osteogenic cells per CFU in bone marrow and periosteal tissues from osteotomized rats in simulated weightlessness undergoing either PTH or bisphosphonate therapy. <br>
+<p>
+APPROACH:<br>
+The methodology for the study is embedded in the results section below.
+<p>
+RESULTS:<br>
+In year 1, rats experiencing normal gravity (weight bearing or WB) exhibited a spontaneous repair of cortical bone trauma within a 5-week healing period. Intermittent PTH therapy enhanced this WB repair process by: 1) increasing the rate of hard callus formation and peak hard callus volume compared to vehicle-control rats; 2) increasing bone formation rates (BFR); and 3) increasing the number of osteoprogenitors within bone marrow tissue. 
+<p>
+In year 2, rats experiencing hind limb unloading (non-weight bearing or NWB) exhibited a greatly diminished level of spontaneous repair of bone trauma as compared to the WB group within the same healing period. This was reflected in a diminished maximum hard callus volume and a rate of hard callus formation that were both only ~20% of those of the WB group. Reacquisition of a weight-bearing status equal in time to that of the period of simulated weightlessness prior to bone trauma (NWB-WB group) did not substantially improve the bone healing response. In this case, this group exhibited a maximum hard callus volume that was only 34% of, and a rate of hard callus formation that was only 28% of the WB group. Both NWB and NWB-WB groups exhibited low bending strength values at their respective callus sites by 5-weeks post-op (0.28 ± 0.05 N/m) in stark contrast to the bending strength of the WB callus (1.75 ± 0.35 N/m). Histology revealed that 46% of the NWB group fibulae were reconnected by a fibrous soft tissue union (“non-union”), while all of the WB group specimens were reconnected by a bony tissue union. Lastly, NWB reduced the number of marrow progenitor cells and osteoprogenitors by 90% from the levels exhibited by WB bone specimens. 
+<p>
+In year 3, intermittent PTH therapy (80 ug/kg BW) was shown to partially reverse the deleterious effects of NWB on cortical bone trauma healing. Only 12.5% of NWB-PTH specimens were classified as “non-unions” (a 73% decrease from that of NWB) and 50-75% increases in maximum hard callus volume and hard callus formation rates were observed as compared to NWB specimens. PTH therapy increased BFR by ~2-fold over those exhibited by NWB rats. PTH therapy enhanced the numbers of osteoprogenitor cells by ~4-fold as compared to those measured from NWB specimens. We are currently assessing bending strength and histology of these specimens. Altogether, intermittent PTH therapy partially restores select aspects of bone healing under simulated microgravity. Grant BL00405 was extended for an extra 6 months of work (04/01/07 – 09/01/07) and during this time NWB rats were treated with alendronate (bisphosphonate). 
+<p>
+Findings from BL00405 indicate that cortical bone fracture healing is impaired in hind limb unloaded rats. The implication of these findings is that bone trauma repair in astronauts on long space missions would likely be compromised, and presents a potential threat to mission effectiveness and astronaut health. Further, these findings also suggest that astronauts who return from extended spaceflight missions are at continued risk for impaired bone trauma repair after returning to a normal gravity environment even up to a period of time equal to that of the space mission. 
+<p>
+Secondly, findings from BL00405 indicate that extended exposure to hind limb unloading results in drastic reductions in both total marrow progenitor cells and osteoprogenitors. Thus, a simulated microgravity situation appears to cause a reduction in the number of preosteoblasts that would be needed to generate a functional osteoblast population needed to repair bone trauma. These findings provide a plausible mechanism of action underlying this impaired fracture healing response. Thirdly, findings from BL00405 indicate that intermittent PTH therapy improves fracture healing under chronic hind limb unloading, though it does not normalize fracture healing to WB levels. The dramatic reduction in the number of fracture “non-unions” resulting from PTH therapy suggests that this treatment is a viable candidate to be tested as a countermeasure to offset any potential deleterious effects of weightlessness on bone trauma healing. Fourthly, findings from BL00405 indicate that PTH therapy significantly increased the number of functional osteogenic progenitor cells in bone under chronic hind limb unloading. PTH therapy’s increase in the number of osteoprogenitors correlated with its improvements in fracture healing in NWB rats strongly suggests a cause and effect between these parameters and strengthens our hypothesis that a decrease in progenitor cells represents a mechanism of action underlying the impairment to fracture healing. If correct, then the implications of these findings are that marrow progenitor cell populations may be altered in astronauts on long space missions and might manifest in deficiencies in musculoskeletal tissue repair after trauma. Given that BL00405 has reached is closure date, our remaining plans are to complete the remaining data assessments and submit manuscripts for submission to peer-reviewed publications.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958BL00405</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Midura, Ronald</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0xdj-wm46</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2003 Biomedical Research &amp; Countermeasures 03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/3e8a7b8d-2963-5e40-bca2-032ccf323692?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/3e8a7b8d-2963-5e40-bca2-032ccf323692?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

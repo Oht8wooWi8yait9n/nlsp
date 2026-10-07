@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercise Response - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/91e7870e-e0ee-5934-b191-4edab30215b6?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>AP012</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Exercise Response</h1>
+        <div class="meta-id">Record ID: AP012</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/91e7870e-e0ee-5934-b191-4edab30215b6?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The success of the Apollo program overall, and the lunar landing missions specifically, was dependent upon the ability of the astronauts to engage in long and strenuous hours of extravehicular activity (EVA).  Although it was expected that reduced gravity would make some tasks less difficult, it was noted that reduced suit mobility and the complexity of the mission timeline indicated that metabolic activity would exceed resting levels for extended periods of time.  Because the type and extent of physiological dysfunction that could result from habitability in a zero-G environment had not yet been established, appropriate physiological tests were performed within Apollo program constraints to ascertain whether the physiological response of the crewmen to exercise was altered as a result of space flight.  The objective of this investigation, performed during the Apollo 7-11 and 14-17 missions, was to evaluate the physiological response to exercise pre- and postflight in order to assure the success of lunar surface extravehicular activity (EVA).
+<P>
+APPROACH:<br>
+A bicycle ergometer and graded stress protocol were used to conduct the exercise stress tests.  Heart rate (beats per minute) was used in determining stress levels.  The bicycle ergometer was the only device capable of enabling quantitation of the work level. The graded exercise test permitted a progressive evaluation of physiological control system response and provided a better understanding of safe stress limits.  By  maintaining the same heart rate levels before and after flight, the same relative cardiovascular stresses were imposed.  The tests were conducted 30, 14 and 4 days before flight, on recovery day (R+0), and 24 and 36 hours postflight.  The same equipment was utilized before and after flight to conduct the stress tests.
+<P>
+The protocol was comprised of exercise levels at heart rates of 120 ( for 6 minutes), 140 ( for 3 minutes), and 160 ( for 3 minutes).  Samples of expired gas were obtained at appropriate times during each test.  The Apollo 9 and 10 crewmen were also evaluated at stress level of 180 beats per minute (bpm).  During each test, workload, heart rate, blood pressure, and respiratory gas exchange (oxygen consumption, carbon dioxide production, and minute volume) were measured every minute.  For Apollo 15 to 17, cardiac output measurements were obtained by single-breath technique.  Arteriovenous oxygen differences were calculated from the measured oxygen consumption and cardiac output.
+<P>
+RESULTS:<br>
+Each preflight test was treated separately and a mean value was computed for each mission with the crewman serving as his own control.  A preflight mean and variance estimate for all crewmen was then computed and a similar statistic was computed for the separate postflight examinations.  Statistical evaluations were made by means of standard t-test criteria.  The test protocols were divided into three basic categories: pre-stress, exercise stress, and post-stress.
+<P>
+Pre-stress Data:  Heart rate was increased on R+0 by an average of 16 beats per minute for the sitting heart rate but was not significantly elevated by the second test (R+1).  A slight increase was detected in minute volume on R+0 and R+1, and in the resting respiratory gas exchange ratio on R+1.
+<P>
+Exercise Stress Data:  There were several significant changes noted during this period.  The relationship between heart rate and oxygen consumption (O2 pulse) was significantly altered at all heart rate levels postflight, whether elevated on an absolute basis (liters per minute) or corrected for body weight (liters per minute per kilogram).  There were no significant changes in the oxygen required for a given workload immediately after flight, although a small increase was noted during the R+1 examination.
+<P>
+Both the systolic and diastolic blood pressures attained at a given heart rate level were significantly decreased immediately after flight but returned to normal by R+1.  There were no significant changes in the relationship between blood pressure and levels of oxygen consumption or cardiac output.
+<P>
+The interrelationships of respiratory parameters (O2 consumption per minute volume and O2 consumption per CO2 production) indicated no significant changes immediately after flight.  Results of the R+1 examination indicated that minute volume increased minimally.
+<P>
+A statistically significant decrease of large magnitude (36 percent) was noted after flight in the cardiac output at a heart rate of 160 beats per minute.  This variable had returned to preflight levels by the time of the R+1 examination.
+<P>
+Post-stress Data:  None of the measured variables changed significantly after the flight.
+<P>
+Based upon the above physiological responses to exercise measured after space flight, it can be assumed that there was no significant change in mechanical or respiratory efficiency.  There was a decrease in stroke volume which could have been caused by changes in the circulating blood volume and/ or redistribution of blood volume to the lower extremities.  Heart rate was elevated for the same oxygen consumption.  When coupled with a reduced stroke volume, increased heart rate maintained the same cardiac output/ oxygen consumption relationship.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>AP012</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rummel, John</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Apollo</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Clinical medicine, Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Apollo 10&#x27;], [&#x27;Apollo 11&#x27;], [&#x27;Apollo 14&#x27;], [&#x27;Apollo 15&#x27;], [&#x27;Apollo 16&#x27;], [&#x27;Apollo 17&#x27;], [&#x27;Apollo 7&#x27;], [&#x27;Apollo 8&#x27;], [&#x27;Apollo 9&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/054h-p790</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/91e7870e-e0ee-5934-b191-4edab30215b6?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/91e7870e-e0ee-5934-b191-4edab30215b6?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

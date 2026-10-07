@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Germ Cell Mutagenesis in Medaka Fish Following Exposure to Heavy, High Energy Cosmic Ray Nuclei - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/909cd990-7914-561d-b4b1-54f6f4ec3091?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>T5270W</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Germ Cell Mutagenesis in Medaka Fish Following Exposure to Heavy, High Energy Cosmic Ray Nuclei</h1>
+        <div class="meta-id">Record ID: T5270W</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/909cd990-7914-561d-b4b1-54f6f4ec3091?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+A significant hazard to astronauts going beyond Low Earth Orbit (LEO) results from the presence of ionizing radiations, in particular High Energy, High Atomic Number Nuclei (HZE) Particles, such as GeV<sup>56</sup>Fe nuclei. These particles produce dense tracks of ionizations when passing through tissue and, as a result, will damage the genetic material of cells, DNA. The damage may result in cell death or the induction of mutations that could lead to cancers or germ cell (sperm or oocytes) mutations that could be transmitted to progeny.<P>
+The radiobiological effects of Low Energy Transfer (LET) radiations such as x-rays and gamma rays are well known. The carcinogenic effects of these radiations have been well documented on the survivors of the nuclear bombings of Hiroshima and Nagasaki, Japan. Although an increased mutation rate has not been observed in the progeny of the exposed individuals, it could be estimated by extrapolation using mouse specific locus tests (SLT). Such tests observe mutations, usually coat color mutants, in the progeny of exposed males. The tests on mice have not been carried out using HZE nuclei because the large numbers of offspring needed to detect the low frequencies of SL mutations makes these tests impossibly laborious.<P> 
+This experiment examined the radiobiological effects of HZE radiation exposure using a relatively new, quantitative SLT developed by the Japanese co-investigators (Shimada and Shima).  This test used Medaka fish <I>(Oryzias latipes)</I>, as the test subject.  Because the fish are oviparous and produce transparent eggs, the embryos could be observed during their development over the 6-9 day period before hatching. As a result, embryos destined to die before hatching could be scored for dominant lethal (DL) and specific color (SL) mutations, increasing by orders of magnitude the number of observable mutations compared to mutations in viable progeny.<p>
+
+APPROACH:<br>
+On two separate occasions (Exp. 1 in Feb. 2001 and Exp. 2 in Apr. 2002) approximately 80 male Medaka were sent, via air express, from Japan to the Brookhaven National Laboratory (BNL). After a few days of acclimatization, they were exposed, five at a time (ten at a time in Exp. 2) in T25 flasks, to 1 Gy/min of a 1 GeV/nucleon beam of<sup>56</sup>Fe nuclei at the Alternating Gradient Synchrotron (a high energy accelerator) at BNL. After exposures of 0.3 and 1.0 Gy in 2001 and 1.0 and 2.0 Gy in 2002, the fish were returned to Japan within a day.  The male Medaka were then mated with females that were homozygous recessive for five color mutations. Matings for 1-3 days after exposures represented exposed sperm, 4-9 days after exposures represented exposed spermatids, and 32-149 days (46-117 days for Exp. 2) after exposures represented exposed spermatogonoia.  Embryos (10-15/day) from individual mating pairs were collected individually into the wells of 96-well microtiter plates and scored daily for DL and SL mutations, and both total (TM) and viable (VM).<p>
+These values were then compared to historical values of mutations induced by LET gamma rays in order to calculate values for the Relative Biological Effectiveness (RBE) of the HZE Fe nuclei in inducing DL and TM in germ cells from exposed sperm or spermatids.<p>
+
+RESULTS:<br>
+The number of embryos collected and scored from the individual doses in the two experiments ranged from 1640-2300 for exposed sperm, 3660-4790 for exposed spermatids and 10500-22300 for exposed spermatogonia. The fertilization rates were approximately 0.85 in 2001 and, in 2002, approximately 0.70 for sperm and spermatids and 0.4 for spermatogonia. The numbers of early deaths within 24 hr were between 1 and 5% and were independent of dose, presumably a maternal effect, and were not included in the calculations of DL. There was good agreement in the values of DL for all exposed stages for the two exposures of 1 Gy. However, the values for TM from spermatogonia exposed to 1 and 2 Gy were not consistent. The reason(s) for the inconsistency was not known, but could be related to the low fertilization efficiency for the spermatogonia exposures in Exp.2.  The numbers of VM, for all stages exposed and all doses, was approximately one, a number with an uncertainty of one. Although doses equal or greater than 0.3 Gy from GeV<sup>56</sup>Fe nuclei result in observable color mutations in developing embryos, the embryos did not survive. Hence, the frequency of VM was not tabulated.  The inconsistency in the TM frequencies for exposed spermatogonia was apparent. For exposed sperm and spermatids, the frequencies increased with dose in a linear fashion.<p>
+By comparing the ratio of the slope of the dose response curve (mutation frequency per unit dose) for exposures to GeV<sup>56</sup>Fe nuclei to the slope for gamma rays the Relative Biological Effectiveness (RBE) of the Fe nuclei was calculated. The precision in the values of RBE was approximately 10% for the values of DL and TM for exposed sperm and spermatids, but only approximately 50% for exposed spermatogonia. The noteworthy feature of these RBE values at an LET of 147 keV/¼m, was that they were approximately 10 fold, or more, smaller than those obtained for the few studies on cell transformation and cancer induction in rodents.  Conclusions derived from this experiment were the following.<p>
+<ul>
+<li>The RBE values for germ-cell mutations are approximately 10-fold less than those for cancer induction or the killing/mutation of somatic cells.</li>
+<li>The numbers of viable mutations from all exposed germ-cell stages are very low and would not yield significant numbers of mutations above background levels.</li>
+<li>Total mutations from exposed spermatogonia show barely significant increases above control levels.</li>
+<li>Stem cells damaged by exposures to High LET cosmic rays probably undergo apoptosis or result in abnormal sperm that would yield large fractions of dominant lethal mutations.</li>
+<li>The hazard to male astronauts from exposures to high LET cosmic rays is probably temporary sterility, but not significant mutagenic effects observable in progeny.</li>
+</ul>
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>T5270W</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Setlow, Richard</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Fish, Medaka (Oryzias latipes) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/rvwa-hj96</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/909cd990-7914-561d-b4b1-54f6f4ec3091?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/909cd990-7914-561d-b4b1-54f6f4ec3091?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

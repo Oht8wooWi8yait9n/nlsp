@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effect of Prolonged Space Flight on Human Skeletal Muscle - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/1f07b471-262c-5f9d-b61e-9af95051f8d8?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>96-E400</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effect of Prolonged Space Flight on Human Skeletal Muscle</h1>
+        <div class="meta-id">Record ID: 96-E400</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/1f07b471-262c-5f9d-b61e-9af95051f8d8?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+With humans currently occupying the International Space Station (ISS) for six months and space exploration missions of one to three years on the horizon, preservation of crewmember health and fitness is a major objective of the international space community. Exercise has been the primary utility used by the space agencies in an effort to protect cardiovascular, bone, and skeletal muscle health while in space for extended stays. 
+<p>
+The aim of this study was to document the exercise program used by crewmembers aboard the ISS and examine its effectiveness for preserving skeletal muscle size and function. The focus of the study was on the calf muscles, since it has shown to atrophy more than other leg and upper body muscles with unloading. To obtain a comprehensive profile of skeletal muscle before and after flight, the investigators utilized magnetic resonance imaging (MRI) to assess muscle volume, static and dynamic muscle testing to assess muscle performance, and muscle biopsies from the gastrocnemius and soleus to assess fiber type, contractile function, and microanatomy.
+<p>
+APPROACH:<br>
+Ten crewmembers participated in this investigation. The subject population consisted of American astronauts and Russian cosmonauts. During the six months the crewmembers were on the ISS, they had access to a treadmill (treadmill with vibration isolation system), two bicycle ergometers (cycle ergometer with vibration isolation system and a Velosiped, i.e., Russian bicycle exercise device), and an interim resistive exercise device (iRED). The crewmembers also had access to bungee cords, which they could use to provide resistance-type exercise for various muscle groups. 
+<p>
+To determine muscle volume of the calf muscle, a MRI was performed on crewmembers 40 ± 3 (L - 40) days before launch and 4 ± 1 (R + 4) days after returning from the ISS. An additional MRI was obtained on each crewmember 19 ± 2 (R + 19) days after returning from space. All preflight MRI scans were conducted in Clear Lake, TX, and all postflight (R + 4) MRI scans were conducted in Moscow, Russia.
+<p>
+Maximal voluntary contraction and isokinetic strength of the left leg calf muscles was assessed using a torque velocity dynamometer. Each crewmember performed two familiarization sessions before preflight trials. Before launch, each crewmember performed four complete testing sessions over a four-month period (L - 127 ± 13, L - 87 ± 13, L - 40 ± 4, and L - 27 ± 1). Postflight, torque-velocity dynamometer measurements were obtained at R + 7 and R + 13 for all subjects.
+<p>
+A muscle biopsy was obtained from the lateral head of the gastrocnemius and soleus muscle of each crewmember before launch (L - 55 ± 2) and on landing day (R + 0). The landing day muscle biopsy was generally performed mid to late afternoon approximately six to eight hours after landing. Crewmembers were transported to the main medical operations facilities for observation. After a period of personal activities the crewmembers were brought to the data collection facility for the muscle biopsies. Crewmembers had performed very light ambulatory activities before the muscle biopsy procedure.
+<p>
+During flight, consumption of food and fluid was monitored according to the same schedule, but subjects used an automated bar code scanning system in which each individually packaged food item was labeled. The in-flight diet was designed to meet the nutritional requirements for ISS missions as established by NASA and the Russian Space Agency. Neither diet nor activity levels were restricted during any of the sampling periods. In-flight consumption data were stored in the bar code reader and downloaded to the ground.
+<p>
+RESULTS:<br>
+<i>Exercise Training Profile</i><br>
+On average, subjects completed 138 ± 26 minutes per week of cycle exercise that generally ranged between 100 and 150 Watts (W). While in orbit, crewmembers used the cycle ergometer approximately 60% of mission days. Four of the crewmembers used the cycle ergometer approximately 81% or more of mission days, whereas four others averaged approximately 37% of mission days, and one crewmember did minimal cycling. For the treadmill exercise, subjects averaged 146 ± 34 minutes per week on a level grade at a speed ranging from 2.1 to 5.5 miles per hour.  The treadmill appeared to be used less frequently compared with the cycle ergometer, accounting for less than 50% of total mission days.  However, there was a wide range of treadmill use, with four crewmembers having a high volume (200 minutes per week) of walking/running activities.  The other five crewmembers used the treadmill much less (85 minutes per week).
+<p>
+<i>Muscle Volume</i><br>
+The gastrocnemius (medial and lateral) and soleus muscle were smaller (P < 0.05) after six months in space. Combined, the gastrocnemius and soleus atrophied (P < 0.05) - 13 ± 2% pre- to postflight. The soleus (- 15 ± 2%) atrophied more (P < 0.05) than the gastrocnemius (- 10 ± 2%) pre- to postflight. One crewmember had insignificant (- 1%) atrophy after the flight. Two of the crewmembers lost more than 20% of their calf muscle mass. Of the remaining six crewmembers, five lost more than 10% calf muscle mass. At R + 19 after landing, the gastrocnemius was still five to six percent atrophied, but this was not significant. Conversely, the soleus was still reduced (P < 0.05) compared with preflight, averaging - 9 ± 1% for all crewmembers. Although calf muscle volume was still reduced - 8 ± 2%, it represented a partial recovery from the more immediate (R + 4) flight measurement.
+<p>
+<i>Muscle Performance</i><br>
+MVC was reduced (P < 0.05) -14 ± 2% at R + 7 and remained lower (- 13 ± 5%; P < 0.05) at R + 13. All nine crewmembers had a decline in MVC (range = - 7 to ± 22%) with flight. At R + 13, seven of the nine crewmembers were lower (range = -9 to ± 33%), with two crewmembers having a 5–10% increase compared with preflight. At the slow isokinetic speed (60° per second) there was a -20 ±  3% loss (P < 0.05), which was sustained (- 19 ±  4; P < 0.05) at R + 13. This pattern was also evident at the faster (180° per second) isokinetic speed with a 25 ± 10% reduction at R + 7 and R + 13. For both the slow and fast speeds, eight of the nine subjects had a decrease in muscle performance.  On average, force-velocity characteristics were reduced - 20 to - 29% across the velocity spectrum (P < 0.05). Peak power was 134 ± 11, 91 ± 10, and 94 ± 13 W preflight, R + 7, and R + 13, respectively. On average, peak power declined 32% with spaceflight (P < 0.05).
+<p>
+<i>Muscle Fiber Type</i><br>
+The investigators isolated and analyzed the MHC profile on a total of 4,328 single muscle fibers from the gastrocnemius and soleus muscles before and after flight. The breakdown was 1,960 muscle fibers for the gastrocnemius and 2,368 muscle fibers for the soleus. The gastrocnemius had a 12% decrease (P < 0.05) in MHC I fibers and an increase (P < 0.05) in MHC I/IIa (+ 4%) hybrid fibers and MHC IIa fibers (+ 9%). Seven of the eight subjects had a decrease in MHC I fibers (range = - 6 to - 31%). There were minimal MHC IIx and MHC I/IIa/IIx fibers detected in the pre- and postflight muscle samples. The four percent increase in hybrid muscle fibers appears to be the result of the MHC I/IIa hybrid fiber type.  On average, the soleus had a 17% decrease (P < 0.05) in MHC I fibers. The shift away from MHC I fibers was distributed among the other fiber types (MHC I/IIa, IIa, IIa/IIx), with a non-significant increase of four to five percent within each MHC phenotype. Combined, the soleus had a 12% increase (P < 0.05) in hybrid MHC isoforms. Three of the crewmembers did not have any major alterations in fiber type of the soleus. Four of the crewmembers had a decrease in soleus MHC I fibers that ranged from - 20 to - 44%.
+<p>
+<i>Nutrition</i><br>
+Crewmembers had a daily average caloric intake of 2,377 ± 118 kcal (range = 1,874 –2,902 kcal). The dietary percent breakdown of carbohydrate, fat, and protein was 48, 33, and 18%, respectively.
+<p>
+The average amount of muscle mass lost (- 13%) with space flight was slightly less than with previous long-duration stays on the Russian Space Station Mir (- 17%). The current ISS and previous Mir calf muscle volume loss is about one-half that of long-duration (60- to 120-day) bed rest studies showing a - 29% decrease among the control subjects without countermeasures. These data imply that the exercise in space is having a beneficial effect but is not complete, with the soleus being more difficult to protect than the gastrocnemius.
+<p>
+For more detailed results please refer to the PubMed article, Exercise In Space, which is freely available via PubMed's website or at the Journal of Applied Physiology's website, http://jap.physiology.org/.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>96-E400</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Fitts, Robert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology, Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Expedition 5&#x27;], [&#x27;Expedition 6&#x27;], [&#x27;Expedition 7&#x27;], [&#x27;Expedition 9&#x27;], [&#x27;Expedition 10&#x27;], [&#x27;Expedition 11&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/kww7-ag48</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NRA-96-OLMSA-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/1f07b471-262c-5f9d-b61e-9af95051f8d8?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/1f07b471-262c-5f9d-b61e-9af95051f8d8?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

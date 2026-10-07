@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Radiological Protection and Medical Dosimetry for the Skylab Crew - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/27a861a7-886d-50d5-b8ca-2bbf30f29359?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>SKYRAD</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Radiological Protection and Medical Dosimetry for the Skylab Crew</h1>
+        <div class="meta-id">Record ID: SKYRAD</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/27a861a7-886d-50d5-b8ca-2bbf30f29359?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Skylab crewmembers needed protection from both expected and unexpected radiological events. Expected radiation events had components that were known with relative certainty whereas the unexpected events were completely indeterminate. The expected radiation sources were the trapped protons and electrons of the Van Allen Belts, galactic cosmic rays, and emissions from onboard radiation sources. Unexpected exposures might originate from energetic solar particle events, high altitude nuclear tests, and potential problems with the onboard sources already mentioned. The radiation plan outlined in this description was geared toward rapid identification of and reaction to any enhanced radiation situation.<P> 
+
+APPROACH:<BR>
+Monitoring of the Skylab radiation environment was conducted during Skylab 2, 3, and 4.  An analysis before the missions indicated that doses from the Van Allen Belt trapped particles and from galactic cosmic rays would be well below the limits adopted by NASA and the National Academy of Sciences.<BR>
+Radiation hardware consisted of both active and passive monitoring devices.  Active radiation hardware included a radiation survey meter, three personal radiation dosimeters (plus a spare), the Van Allen Belt dosimeter, and an electron-proton spectrometer. The personal dosimeters were worn by the crewmembers the first four days of each mission, and displayed integrated dose in 10 millirad intervals.  The radiation survey meter and the personal dosimeters provided dosimetry during the extravehicular activities (EVA), dose rate monitoring, and monitoring of various areas of the vehicle when not being worn by the crew or being used for the EVAs.  The Van Allen Belt dosimeter was used for routine monitoring of dose rates at fixed locations.  The electron-proton spectrometer was mounted on the spacecraft exterior and was used to monitor electron and proton fluences. Rate data from the previous two instruments were either telemetered or recorded for later transmission to the ground; the data were not available for direct read-out.<BR>
+Passive radiation detectors were also used during the experiment to supplement the data obtained by the active devices.  Passive dosimeter packets consisting of several different dosimetric materials were worn by the crewmembers throughout each mission.  In addition passive dosimeters were placed within the Orbital Workshop's film storage vault for the intervals from the beginning of Skylab 2 to the end of Skylab 2 (28 days) and from the beginning of Skylab 2 to the end of Skylab 3 (123 days). The film vault's aluminum shielding of 13 and 23 g/cm<sup>2</sup> corresponded to human soft tissue depths of 10 and 19 cm, and thus provided a comparison study.<BR>
+Radiation specialists on the ground analyzed spacecraft data, satellite information and solar observatory reports to continuously evaluate Skylab's radiation environment. In addition, crewmen reported their personal dosimeter readouts on a daily basis, and before and after each EVA.<P> 
+
+RESULTS:<BR>
+Dose equivalents received by the Skylab 4 crew were the highest received in any previous NASA mission, but remained well within limits set for the mission. Due to the low rates involved, dose equivalents for each crewman were well below significant clinical effects (long-term effects such as generalized life shortening, increased neoplasms, and cataract production). NASA career limits were 400 rem for blood forming organs, 1200 rem for skin and 600 rem for the lens of the eye. The Skylab 4 crewmen could have flown a mission comparable to Skylab 4's duration every year for 50 years before exceeding their career limits.<BR>
+As previously stated, NASA was most concerned about the unexpected radiation events that might occur during Skylab.  The results of several unexpected radiation events are listed below along with the results obtained from the radiation monitoring hardware.<P>
+
+<U>Solar Particle Events</U><BR>
+The Skylab missions were flown during a period when solar activity was approaching a minimum in the Sun's cycle. Although particle emissions from these events were of low energy and intensity, several events of scientific interest nevertheless occurred. However, when coupled with the shielding effects of the Earth's magnetic field, doses from solar particle events were below the limits of the onboard instrumentation detection capabilities (less than 10 millirad per event).<P> 
+
+<U>High Altitude Nuclear Tests</U><BR>
+During Skylab 3, four nuclear devices were detonated by France at the Murona test site; these tests produced no ionizing radiation problems for Skylab. The only concern was the possibility of eye damage if the crew accidentally observed a test.  Therefore, visual observation of the Earth in the vicinity of the test area was strictly avoided.<P> 
+
+<U>Onboard Radiation Sources</U><BR>
+Various experiments conducted aboard Skylab involved radiation sources (Pm-147, H-3, Ag-110m, Zn-65, Am-241 and Th-232). One of the larger sources originated from radioluminescent markings for one of the experiments; approximately 200 mCi of promethium 147 were involved. Small amounts of this material became detached from the experiment, when a belt in the experiment jammed.  The material remained within a sealed portion of the experiment, and thus did not escape into the spacecraft atmosphere. After determining that the belt could not be fixed without releasing the Pm-147 into the spacecraft atmosphere, an alternative method for belt alignment was devised and used for the remainder of the mission, thus ensuring both crew safety and experiment success.<P> 
+
+<U>Detailed Dosimetry Results</U><BR>
+Mean dose rates from passive dosimeters show a trend toward increased values as use of food, water, propellants, and other expendables reduced the overall spacecraft shielding. The galactic cosmic ray component measured by the passive dosimeters accounted for 30-50% of the film vault doses, and 20-30% of the crew dose means. The majority of the remaining dose originated from protons in the Van Allen Belts and softer secondary radiations generated by passage of primary particles through spacecraft materials.<BR> 
+Van Allen Belt electrons did not penetrate into the spacecraft, nor did they penetrate deeply enough (3 mm tissue equivalent) during EVAs to register on the dosimeters. Therefore, electron doses to the skin were calculated from the electron-proton spectrometer data.<BR>
+Doses to the blood forming organs averaged 0.66 of the doses to the skin. This value was derived from the dual sensors of the Van Allen Belt Dosimeter and was in agreement with the value obtained from the crew-worn and film vault dosimeters. <BR>
+In terms of neutron dosimetry, thermal (0.02 to 2.0 electronvolts) and intermediate (2.0 to 2 x 10<sup>3</sup> electronvolts) neutrons both contributed to the crew dose equivalent at a combined rate of approximately 0.1 millirem/day. Direct measurement of fast neutron fluence by suspended track analysis of crew-worn nuclear emulsions was not possible due to the high track densities obtained on the Skylab missions. Therefore, upper limit dose calculations were made based on nuclear emulsion disintegration star analysis (to determine neutron production rates) and iridium/tantalum evaluation. Both methods showed excellent agreement with upper limit rates of 12.5 millirem/day (for fast neutrons with mean energy of approximately 1 megaelectronvolt.)<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>SKYRAD</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bailey, Vernon</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Skylab</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Skylab 2&#x27;], [&#x27;Skylab 3&#x27;], [&#x27;Skylab 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/9qgp-aw68</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/27a861a7-886d-50d5-b8ca-2bbf30f29359?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/27a861a7-886d-50d5-b8ca-2bbf30f29359?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

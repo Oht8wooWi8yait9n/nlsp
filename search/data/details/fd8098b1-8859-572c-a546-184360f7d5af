@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Studies of Orthostatic Intolerance with the Use of LBNP - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/fd8098b1-8859-572c-a546-184360f7d5af?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>3.1.1</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Studies of Orthostatic Intolerance with the Use of LBNP</h1>
+        <div class="meta-id">Record ID: 3.1.1</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/fd8098b1-8859-572c-a546-184360f7d5af?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Exposure to weightlessness, even for short periods, induces significant changes in the cardiovascular system.   These changes are proposed to be secondary to headward fluid shifts, subsequent plasma volume contraction, and ensuing adaptations in cardioregulatory function.  The resulting cardiovascular state may be inappropriate for orthostasis on Earth's surface, as revealed by tachycardia, blood pressure lability, lightheadedness, visual disturbances and presyncope.  These findings mark the condition of postflight orthostatic dysfunction.  In the extreme, syncope or fainting may occur, thus the dysfunction then becomes intolerance.  This dysfunction, which has been observed in a small though perhaps significant percentage of crewmembers throughout the Shuttle program, is of particular concern as space flight durations increase, presumably predisposing the astronauts to an even greater risk of orthostatic dysfunction during and after entry landing.  
+<P>
+This Mir investigation used LBNP only to determine the time-course and mechanisms of the development of orthostatic dysfunction during 115 days in weightlessness.  This work was part of an integrated study of changes in autonomic control of the cardiovascular system.  The data collection was done throughout the routine application of the Russian countermeasure program during the last days of the mission.  Specific analysis of this countermeasure and its efficacy focused on comparing responses before and after the treatment.  An in-depth comparison of the Russian and NASA LBNP countermeasure was not performed.
+<P>
+The following hypothesis were:<br>
+1.During the first month in orbit, at each level of LBNP stress, there will be a significant increase in heart rate (HR) and diastolic blood pressure (DBP), a significant decrease in systolic blood pressure (SBP) and pulse pressure (PP), and no significant difference in mean arterial blood pressure (MAP), compared to preflight values.<br>
+2. After the first month in orbit, there will be no further significant change in HR, SBP, DBP, or MAP response to each level of LBNP stress.<br>
+3. There will be no significant difference between the HR, SBP, DBP, MAP or PP responses to LBNP of the MIR crew before the application of the standard Russian end-of-mission countermeasures and the responses to LBNP of the U.S. Skylab crews. <br>
+4. During LBNP on the last day in flight, there will be significantly smaller HR response to each level of LBNP stress compared to values measured in the same crewmember in flight before the treatment began.<br>
+5. Immediate postflight LBNP testing will reveal smaller HR and BP responses to corresponding levels of LBNP than were found after the 84-day Skylab flight, but larger HR and BP responses than after Shuttle flights of 14 days or less, indicating that the Russian treatment only partially restores the responses to LBNP to their preflight values.<br>
+6. By 6 weeks after landing, postflight HR, BP, SV, CO and TPR responses to LBNP will be indistinguishable from preflight responses.<br>
+<P>
+The primary objective of this experiment was to determine the time-course and mechanisms of the loss of orthostatic tolerance associated with extended weightlessness.  The second objective was to confirm and extend previous U.S. and Russian research, and provide a standardized, reproducible measure of integrated circulatory control against which other planned specific measurements of autonomic function can be interpreted.
+<P>
+APPROACH:<br>
+This investigation used periodic repetitions of the standard U.S. Shuttle LBNP protocol to determine the time-course and mechanisms of the changes in the autonomic nervous control of the cardiovascular system associated with extended exposure to a weightless environment.  Three subjects first underwent preflight presyncope-limited tests to determine their maximum LBNP tolerance.  Baseline, inflight, and postflight data were collected using the response or Ramp LBNP test.  This test consists of 10 minutes of data collection at baseline or control, followed immediately by stepwise decreases in pressure of 10 mmHg increments down to nas-50 mmHg.  Each stage was 5 minutes.  The test was completed with a 5 minute recovery period after returning to 0 mmHg.  ECG and continuous blood pressure data were collected throughout the test, as well as arterial BP from a manual arm cuff once per minute.  Ultrasonographic measurements of cardiac left ventricular dimensions and blood flow velocity through the mitral and aortic valves were made during the pre-test resting control period; measurements of aortic blood flow velocity continued throughout the LBNP decompression and recovery periods.  From these ultrasound measurements, cardiac output and total peripheral resistance were calculated.  These Ramp tests were performed on three occasions preflight, on several occasions in flight on both Mir and the Shuttle, and at least once postflight.  HR and BP data was also acquired during LBNP treatment sessions on each of the last two full days in orbit before Shuttle landing. 
+<P>
+RESULTS:<br>
+There were no preflight or postflight anomalies in this experiment.  There was one minor inflight anomaly during LBNP operations on the Mir.  The continuous BP device filled its memory buffer, causing an error message to be displayed.  The message was ignored because it did not affect data collection and science results.  There was also one anomaly during LBNP operations on the Shuttle.  The LBNP countermeasure protocol programmed into the LBNP Controller was different from that printed on the cue card.  The crewmembers were instructed to follow the protocol as programmed as this did not affect science.
+<P>
+The quality of data is fair although all the Gamma-1 ECG and BP data from LBNP sessions conducted on Mir were lost.  The cable configuration between the U.S. recording device and Russian hardware was not correct.  Russian Chibis LBNP device decompression pressure and Portapres continuous blood pressure data (CBPD) for the LBNP sessions conducted on Mir are still available.  Data collection on the Shuttle flight (STS-71) was compromised due to the inability of one subject to participate in inflight LBNP testing.  Completeness of preflight and postflight data was severely compromised due to inconsistent participation in the LBNP protocols by the Russian cosmonauts.  The complete assessment of many hypotheses is hampered by the protocol deviations.
+<P>
+This investigation set out to test six hypotheses but the task was made difficult due to several factors beyond the principal investigator's control.  Regarding each hypothesis, the following statements were made: <br>
+1. HR response to LBNP was significantly increased inflight compared to preflight.  Stroke volume exhibited a larger decrease from baseline during inflight and postflight testing compared to preflight and all other cardiovascular parameters measured showed no statistically significant changes. <br>
+2. Hypothesis #2 was unable to be fully tested due to loss of a major portion of data collected on Mir.  The data that was saved appears to indicate that LBNP responses were altered as anticipated.
+<br>
+4. The data indicate that there were no significant differences in the LBNP heart rate responses of the Mir crew compared to those of the Skylab crews.  BP responses were equally similar.
+<br>
+5. Small sample size and other confounding factors make us unable to determine whether heart rate response on the last day inflight was significantly less, when compared to sessions earlier in the mission.<br>
+6. HR and BP responses in the Mir crewmembers to postflight LBNP testing were similar to both Skylab and Shuttle data.  Small sample size and other factors make the statistical power too low to state any significant differences. <br>
+7. Postflight testing was only carried out to 6 weeks on one crewmember whose LBNP response was similar to preflight at this test time.  The other crewmembers were unavailable for testing at R+45, thus hypothesis #6 cannot be fully addressed.<br>
+<p>
+Due to confounding factors and no control group, conclusive statements regarding the effectiveness of the Russian LBNP countermeasure cannot be made.  Future investigations should continue to document the problem of cardiovascular deconditioning in order to increase the number of subjects, so that more definitive conclusions can be made.
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>3.1.1</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Charles, John, Kobzev, Y.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Mir 18&#x27;], [&#x27;STS-71&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/vezd-4r90</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/fd8098b1-8859-572c-a546-184360f7d5af?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/fd8098b1-8859-572c-a546-184360f7d5af?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

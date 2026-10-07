@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cognitive/Behavioral, Sensory, and Motor Changes Induced by Solar Particle Event (SPE) and Galactic Cosmic Ray (GCR) Irradiations - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/477b2c99-0d8d-5714-a71a-89f8eb9f4777?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX09AC52G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Cognitive/Behavioral, Sensory, and Motor Changes Induced by Solar Particle Event (SPE) and Galactic Cosmic Ray (GCR) Irradiations</h1>
+        <div class="meta-id">Record ID: NNX09AC52G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/477b2c99-0d8d-5714-a71a-89f8eb9f4777?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Assessing the biological consequences of living in the space radiation environment represents one of the highest priority areas of NASA research. Of critical importance is the need for an assessment of the vulnerabilities of the central nervous system (CNS) leading to functional neurobehavioral changes during long-term space missions, and the development of effective countermeasures to such risks. The present research addressed this need via the application of a comprehensive animal model to determine the effects of radiation exposure on neurobehavioral tests of vigilance and impulsivity.
+<p>
+APPROACH:<br>
+The 1-year project focused on the use of an animal model that employs neurobehavioral tests identical or homologous to those currently in use in human models of risk assessment by U.S. agencies such as the Department of Defense and Federal Aviation and Federal Railroad Administrations for monitoring performance and estimating accident risks associated with such variables as fatigue and/or alcohol or drug abuse. As a first approximation for establishing human risk assessments due to exposure to space radiation, the present work provided animal performance data obtained with the rat Psychomotor Vigilance Test (rPVT), an animal analog of the human PVT that is currently employed for human risk assessments via quantification of sustained attention (e.g., ‘vigilance’ or ‘readiness to perform’ tasks). Ground-based studies indicate that radiation can induce neurobehavioral changes in rodents, including impaired performance on motor tasks and deficits in spatial learning and memory. The present study tested the hypothesis that radiation exposure impairs motor function, performance accuracy, vigilance, motivation, and memory in adult male rats. 
+<p>
+RESULTS:<br>
+The psychomotor vigilance test (PVT) was originally developed as a human cognitive neurobehavioral assay for tracking the temporally dynamic changes in sustained attention, and has also been used to track changes in circadian rhythm. In humans the test requires responding to a small, bright-red-light stimulus (LED-digital counter) as soon as the stimulus appears, which stops the stimulus counter and displays the reaction time for each trial in milliseconds for a 1-second period. Simple to perform, the PVT has only very minor learning effects, is widely used in human risk assessments in operational environments, and has been recently developed and adopted for use on the International Space Station (ISS) for astronauts as a “self-test” to provide performance feedback, detect changes in alertness, prevent errors, and manage fatigue from sleep loss, circadian disruption, and high workload requirements. A rodent version of the PVT, the rPVT, has been developed and demonstrated to track the same types of performance variables as the human PVT – i.e., general motor function and speed, fine motor control, inhibitory control (“impulsivity”), timing, selective attention, motivation, and basic sensory function. Five cohorts of 16 rats each (total N = 80) were trained on the rPVT, exported to Brookhaven National Laboratory (BNL) for head-only radiation exposure (0, 25, 50, 100, and 200 cGy protons @ 150 MeV/n), then returned to Johns Hopkins for follow-up testing. 
+<p>
+For this project, an automated, computerized training and testing facility was developed for measuring long-term effects of radiation exposure on cognitive/behavioral functions involving vigilance and impulsivity in rodents at the Johns Hopkins Medical Institutions. Establishment of the test facility included 10 experimental testing chambers and associated equipment for assessing neurobehavioral function in rodents as well as for the daily automated, computerized training and testing of behavioral functions in test subjects. The facility supported both the exportation of groups of well-trained subjects to radiation exposure facilities such as BNL and the Department of Radiation Oncology of the Johns Hopkins Hospital, as well as the importation of radiation-exposed rodents from such facilities for detailed, long-term neurobehavioral risk assessments at the investigator’s facility. 
+<p>
+Results of the study demonstrated that the rPVT was readily learned by all rats and required as little as 5-7 days of training to acquire baseline performance levels. Validation data were also obtained to compare the performances on the PVT between humans and rodents; these data demonstrated that comparable performances were observed across species in terms of speed and distribution of response latencies, and the relative frequencies of performance lapses and errors of commission (i.e., premature responding). Following irradiation, performances in the rPVT were disrupted at exposure levels of 50, 100, and 200 cGy, showing a consistent, significant increase (i.e., slowing) in reaction times and increased lapses in responding, both indicative of a decrease in sustained attention. Additionally, premature responses showed consistent increases at the higher radiation levels. None of these changes were observed in the non-exposed control animals. Over this same time period, no significant changes were observed in discrimination accuracy, motivation (as indicated by trials completed), or food intake. Additional analyses also demonstrated a division within the exposure groups such that approximately 45-50% of exposed animals evidenced neurobehavioral deficits following radiation (“responders”), while the remainder of exposed animals were unaffected (“non-responders”). When analyzed separately, the responder groups showed distinct deficits in accuracy rates, lapses in attention, and in response speed, with these effects being independent of dose. That is, responder animals in the 25, 50, 100, and 200 cGy groups all evidenced similar degrees of disruption in sustained attention. Additionally, the changes in sustained attention were tracked over time for up to 1 year post-exposure and found to persist over this extended time period. 
+<p>
+These results demonstrated the sensitivity of tests such as the rPVT for assessing the effects of head-only space radiation on cognitive neurobehavioral function. Exposure to protons at relatively low doses (e.g., 25 and 50 cGy) produced highly specific effects on vigilance that included impaired attention and motor function (i.e., slowed reaction times, increased lapses in attention, and increased premature responding). Such deficits could significantly impact routine performances in operational environments during lunar and Mars missions, and also negatively affect post-mission adjustment upon return to Earth. These findings support the likely continued success of the rodent model for studying the cognitive, neurobehavioral, and CNS risks associated with living in the space radiation environment while providing an innovative experimental platform for exploring the bases of individual vulnerability to radiation-induced impairments and evaluating potential prophylactics, countermeasures, and treatments.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX09AC52G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hienz, Robert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/v49z-bj71</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2008 Space Radiobiology</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/477b2c99-0d8d-5714-a71a-89f8eb9f4777?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/477b2c99-0d8d-5714-a71a-89f8eb9f4777?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

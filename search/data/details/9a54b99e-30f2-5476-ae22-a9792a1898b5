@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Precise Assessment of Prevalence and Progression Rates of Lens Opacities in Astronauts as a Function of Radiation Exposure during Space Flight and Development of Improved Routine Clinical Assessment of Ocular Lens Status - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/9a54b99e-30f2-5476-ae22-a9792a1898b5?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91491</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Precise Assessment of Prevalence and Progression Rates of Lens Opacities in Astronauts as a Function of Radiation Exposure during Space Flight and Development of Improved Routine Clinical Assessment of Ocular Lens Status</h1>
+        <div class="meta-id">Record ID: NAG91491</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/9a54b99e-30f2-5476-ae22-a9792a1898b5?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Astronauts appear to suffer from cataracts more than the general population.  The onset of cataracts tends to happen at a younger age in those who have flown in space, and the tendency to develop cataracts is increased for astronauts who have been exposed to relatively higher doses of radiation throughout their flight careers.  It has also been shown that there is an association between the development of cataracts and exposure to the high linear energy transfer (LET) radiation (including heavy ions and neutrons) that occurs in space, or within a higher orbital plane of Earth's atmosphere. <p>
+The objective of this study was to modify the current medical protocol used to assess the health of the eye's lens, as well as visual function, and then incorporate these modifications into a new periodic routine for vision assessment.   The long term goal of this project was to improve ocular safety for astronauts during space flight.
+<p>APPROACH:<br>
+In an effort to more precisely define the magnitude of this risk and the relationship of space radiation to cataract progression, NASA funded this five year study to compare progression of cataract formation/development. The five institutions collaborating on this study were: Harvard University (Brigham and Women’s Hospital), NASA, Baylor College of Medicine, Space Center Eye Associates, and Wyle Laboratories. 
+<P>The study was designed to measure the effect of deep space radiation on the lens of the eye, and to measure the changes in lens clarity that might develop as a result of exposure to radiation in deep space. 
+<P>The study measured the status of the lens and visual function in the astronaut population (active and retired) and two control groups: military aviators (active and retired), and people without any military aviation background. The two control groups allowed comparison of cataract risks among space radiation-exposed astronauts and non-astronauts with and without controlling for a military aviator lifestyle. Included in this study are measurements of nutritional intake, ocular exposure to sunlight, and radiation exposure. 
+<P>
+This investigation was designed to add validated measures of visual function to NASA’s Johnson Space Center’s (JSC's) current protocol, including a measure of visual acuity (logMAR) and cataract severity using a Nidek EAS 1000 Imaging System.  Pupils were be dilated to maximal size using topical medications:  2.5% phenylephrine and 1.0% tropicamide.  Imaging of the anterior and posterior lens and slit imaging of the nucleus were performed.  The modified drop procedure currently used at JSC was evaluated for its performance in achieving maximum pupil dilation.  Reverse dilation drops were used after the images were obtained.
+<p>
+From this digital lens data, a profile of the severity of each type of existing cataract was related to the type and duration of the astronaut's radiation exposure.  These measurements will make it possible to predict the probability of cataract formation in astronauts if the anticipated radiation dose for a particular mission can be determined.
+<p>RESULTS: <br>
+A review of the evolution of methods of cataract documentation and classification, and a review of the current state-of-the-art digital measurements of early changes in cataract development, were conducted.  A review of protocols used at the JSC for routine clinical assessment of the eye and lens has been conducted.
+<P>
+Participants included 171 consenting astronauts who flew at least one mission in space and a comparison group made up of three components: (a) 53 astronauts who had not flown in space, (b) 95 military aircrew personnel, and (c) 99 non-aircrew ground-based comparison subjects. Continuous measures of nuclear, cortical and PSC lens opacities were derived from Nidek EAS 1000 digitized images. Age, demographics, general health, nutritional intake and solar ocular exposure were measured at baseline. Astronauts who flew at least one mission were matched to comparison subjects using propensity scores based on demographic characteristics and medical history stratified by gender and smoking (ever/never). 
+<P>
+The variability and median of cortical cataracts were significantly higher for exposed astronauts than for non-exposed astronauts and comparison subjects with similar ages (P=0.015). Galactic cosmic space radiation (GCR) may be linked to increased PSC area (P=0.056) and the number of PSC centers (P=0.095). Within the astronaut group, PSC size was greater in subjects with higher space radiation doses (P=0.016). No association was found between space radiation and nuclear cataracts. Cross-sectional data analysis revealed a small deleterious effect of space radiation for cortical cataracts and possibly for PSC cataracts. These results suggest increased cataract risks at smaller radiation doses than have been reported previously.
+<P>
+Because of high variability and skewness of opacity measures, nonparametric methods were used to test for association between rates of opacification and space radiation exposure. First, median regression was used to collapse longitudinal data into robust estimates of progression rates (opacity severity compare to time for each eye of each subject). To quantify and test for a radiation effect, median regression with the dependent variable being the maximum of the two slopes (OD and OS) per subject was then used, adjusting for the confounding variables of age, nutritional, and sun-exposure histories. Median regression showed evidence of an association between the rate of cortical progression in the worse eye with radiation dose and age. The estimated median progression rate from space radiation being 0.25 ± 0.13% lens area/Sv/year (P = 0.062).  The investigators found no relationship between radiation exposure and progression of aggregate area of posterior subcapsular cataract or nuclear progression rates. However, longer follow-up may be needed to further understand any impact of space radiation on progression rates for posterior subcapsular cataracts and nuclear cataracts, and to characterize changes to visual acuity.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91491</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Chylack, Leo</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4xkt-5t27</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/9a54b99e-30f2-5476-ae22-a9792a1898b5?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/9a54b99e-30f2-5476-ae22-a9792a1898b5?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

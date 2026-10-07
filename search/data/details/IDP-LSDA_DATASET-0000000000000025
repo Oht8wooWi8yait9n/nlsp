@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>9802299__265092759 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000000025?dataType=DATASETS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #059669;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Datasets</span> /
+      <span>2010_02_11_03_37_44-0040.tiff_STS-129_9802299_2016_265_090934.tiff, 2010_02_11_03_37_44-0040_c.tiff_STS-129_9802299_2016_265_090915.tiff, 2010_02_11_09_36_44-0048.tiff_STS-129_9802299_2016_265_090954.tiff, 2010_02_13_03_36_44-0052.tiff_STS-129_9802299_2016_265_090911.tiff, 2010_02_13_09_35_52-0056.tiff_STS-129_9802299_2016_265_090932.tiff, 2010_02_13_15_36_44-0060.tiff_STS-129_9802299_2016_265_090949.tiff, 2010_02_13_21_36_44-0064.tiff_STS-129_9802299_2016_265_090910.tiff, 2010_02_14_03_36_44-0068.tiff_STS-129_9802299_2016_265_090931.tiff, 2010_02_14_09_36_44-0072.tiff_STS-129_9802299_2016_265_090954.tiff, 2010_02_14_21_36_46-0080.tiff_STS-129_9802299_2016_265_090926.tiff, 2010_02_15_03_36_44-0084.tiff_STS-129_9802299_2016_265_090948.tiff, 2010_02_15_09_35_52-0088.tiff_STS-129_9802299_2016_265_090907.tiff, 2010_02_15_15_36_44-0092.tiff_STS-129_9802299_2016_265_090927.tiff, 2010_02_16_21_39_40-0106.tiff_STS-129_9802299_2016_265_090933.tiff, 2010_02_17_21_40_34-0112.tiff_STS-129_9802299_2016_265_090931.tiff, 2010_02_18_03_39_42-0118.tiff_STS-129_9802299_2016_265_090952.tiff, 2010_02_18_09_40_34-0124.tiff_STS-129_9802299_2016_265_090914.tiff, 2010_02_18_15_40_34-0130.tiff_STS-129_9802299_2016_265_090936.tiff, 2010_02_18_21_39_40-0136.tiff_STS-129_9802299_2016_265_090904.tiff, 2010_02_19_03_40_34-0142.tiff_STS-129_9802299_2016_265_090902.tiff, 2010_02_19_03_40_34-0142_Methods_EB_WL.tiff_STS-129_9802299_2016_265_090922.tiff, 2010_02_20_03_40_34-0168.tiff_STS-129_9802299_2016_265_090946.tiff, 2010_02_20_09_40_36-0174.tiff_STS-129_9802299_2016_265_090913.tiff, 2010_02_20_15_40_34-0180.tiff_STS-129_9802299_2016_265_090933.tiff, 2010_02_22_09_40_34-0186.tiff_STS-121_9802299_2016_265_090937.tiff, 2010_02_22_15_40_34-0192.tiff_STS-129_9802299_2016_265_090954.tiff, 2010_02_23_03_40_34-0204.tiff_STS-129_9802299_2016_265_090919.tiff, 2010_02_23_21_40_50-0225.tiff_STS-129_9802299_2016_265_090914.tiff, 2010_02_24_03_39_40-0231.tiff_STS-129_9802299_2016_265_090935.tiff, 2010_02_24_09_40_34-0237.tiff_STS-129_9802299_2016_265_090956.tiff, 2010_02_24_15_39_50-0064.tiff_STS-129_9802299_2016_265_090927.tiff, 2010_02_25_03_39_40-0070.tiff_STS-129_9802299_2016_265_090953.tiff, 2010_02_25_09_40_34-0076.tiff_STS-129_9802299_2016_265_090914.tiff, 2010_02_25_15_40_34-0082.tiff_STS-129_9802299_2016_265_090921.tiff, 2010_02_25_21_40_34-0088.tiff_STS-129_9802299_2016_265_090941.tiff, 2010_02_26_03_39_58-0097.tiff_STS-129_9802299_2016_265_090955.tiff, 2010_02_26_09_39_40-0103.tiff_STS-129_9802299_2016_265_090915.tiff</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Datasets</span>
+        <h1>9802299__265092759</h1>
+        <div class="meta-id">Record ID: 2010_02_11_03_37_44-0040.tiff_STS-129_9802299_2016_265_090934.tiff, 2010_02_11_03_37_44-0040_c.tiff_STS-129_9802299_2016_265_090915.tiff, 2010_02_11_09_36_44-0048.tiff_STS-129_9802299_2016_265_090954.tiff, 2010_02_13_03_36_44-0052.tiff_STS-129_9802299_2016_265_090911.tiff, 2010_02_13_09_35_52-0056.tiff_STS-129_9802299_2016_265_090932.tiff, 2010_02_13_15_36_44-0060.tiff_STS-129_9802299_2016_265_090949.tiff, 2010_02_13_21_36_44-0064.tiff_STS-129_9802299_2016_265_090910.tiff, 2010_02_14_03_36_44-0068.tiff_STS-129_9802299_2016_265_090931.tiff, 2010_02_14_09_36_44-0072.tiff_STS-129_9802299_2016_265_090954.tiff, 2010_02_14_21_36_46-0080.tiff_STS-129_9802299_2016_265_090926.tiff, 2010_02_15_03_36_44-0084.tiff_STS-129_9802299_2016_265_090948.tiff, 2010_02_15_09_35_52-0088.tiff_STS-129_9802299_2016_265_090907.tiff, 2010_02_15_15_36_44-0092.tiff_STS-129_9802299_2016_265_090927.tiff, 2010_02_16_21_39_40-0106.tiff_STS-129_9802299_2016_265_090933.tiff, 2010_02_17_21_40_34-0112.tiff_STS-129_9802299_2016_265_090931.tiff, 2010_02_18_03_39_42-0118.tiff_STS-129_9802299_2016_265_090952.tiff, 2010_02_18_09_40_34-0124.tiff_STS-129_9802299_2016_265_090914.tiff, 2010_02_18_15_40_34-0130.tiff_STS-129_9802299_2016_265_090936.tiff, 2010_02_18_21_39_40-0136.tiff_STS-129_9802299_2016_265_090904.tiff, 2010_02_19_03_40_34-0142.tiff_STS-129_9802299_2016_265_090902.tiff, 2010_02_19_03_40_34-0142_Methods_EB_WL.tiff_STS-129_9802299_2016_265_090922.tiff, 2010_02_20_03_40_34-0168.tiff_STS-129_9802299_2016_265_090946.tiff, 2010_02_20_09_40_36-0174.tiff_STS-129_9802299_2016_265_090913.tiff, 2010_02_20_15_40_34-0180.tiff_STS-129_9802299_2016_265_090933.tiff, 2010_02_22_09_40_34-0186.tiff_STS-121_9802299_2016_265_090937.tiff, 2010_02_22_15_40_34-0192.tiff_STS-129_9802299_2016_265_090954.tiff, 2010_02_23_03_40_34-0204.tiff_STS-129_9802299_2016_265_090919.tiff, 2010_02_23_21_40_50-0225.tiff_STS-129_9802299_2016_265_090914.tiff, 2010_02_24_03_39_40-0231.tiff_STS-129_9802299_2016_265_090935.tiff, 2010_02_24_09_40_34-0237.tiff_STS-129_9802299_2016_265_090956.tiff, 2010_02_24_15_39_50-0064.tiff_STS-129_9802299_2016_265_090927.tiff, 2010_02_25_03_39_40-0070.tiff_STS-129_9802299_2016_265_090953.tiff, 2010_02_25_09_40_34-0076.tiff_STS-129_9802299_2016_265_090914.tiff, 2010_02_25_15_40_34-0082.tiff_STS-129_9802299_2016_265_090921.tiff, 2010_02_25_21_40_34-0088.tiff_STS-129_9802299_2016_265_090941.tiff, 2010_02_26_03_39_58-0097.tiff_STS-129_9802299_2016_265_090955.tiff, 2010_02_26_09_39_40-0103.tiff_STS-129_9802299_2016_265_090915.tiff</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000000025?dataType=DATASETS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          Live imaging data that tracked the development and morphology of Arabidopsis grown completely in the spaceflight environment - from the germination of the dormant seeds into well-developed plants.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Dataset ID</th>
+          <td>[&#x27;2010_02_11_03_37_44-0040.tiff_STS-129_9802299_2016_265_090934.tiff&#x27;, &#x27;2010_02_11_03_37_44-0040_c.tiff_STS-129_9802299_2016_265_090915.tiff&#x27;, &#x27;2010_02_11_09_36_44-0048.tiff_STS-129_9802299_2016_265_090954.tiff&#x27;, &#x27;2010_02_13_03_36_44-0052.tiff_STS-129_9802299_2016_265_090911.tiff&#x27;, &#x27;2010_02_13_09_35_52-0056.tiff_STS-129_9802299_2016_265_090932.tiff&#x27;, &#x27;2010_02_13_15_36_44-0060.tiff_STS-129_9802299_2016_265_090949.tiff&#x27;, &#x27;2010_02_13_21_36_44-0064.tiff_STS-129_9802299_2016_265_090910.tiff&#x27;, &#x27;2010_02_14_03_36_44-0068.tiff_STS-129_9802299_2016_265_090931.tiff&#x27;, &#x27;2010_02_14_09_36_44-0072.tiff_STS-129_9802299_2016_265_090954.tiff&#x27;, &#x27;2010_02_14_21_36_46-0080.tiff_STS-129_9802299_2016_265_090926.tiff&#x27;, &#x27;2010_02_15_03_36_44-0084.tiff_STS-129_9802299_2016_265_090948.tiff&#x27;, &#x27;2010_02_15_09_35_52-0088.tiff_STS-129_9802299_2016_265_090907.tiff&#x27;, &#x27;2010_02_15_15_36_44-0092.tiff_STS-129_9802299_2016_265_090927.tiff&#x27;, &#x27;2010_02_16_21_39_40-0106.tiff_STS-129_9802299_2016_265_090933.tiff&#x27;, &#x27;2010_02_17_21_40_34-0112.tiff_STS-129_9802299_2016_265_090931.tiff&#x27;, &#x27;2010_02_18_03_39_42-0118.tiff_STS-129_9802299_2016_265_090952.tiff&#x27;, &#x27;2010_02_18_09_40_34-0124.tiff_STS-129_9802299_2016_265_090914.tiff&#x27;, &#x27;2010_02_18_15_40_34-0130.tiff_STS-129_9802299_2016_265_090936.tiff&#x27;, &#x27;2010_02_18_21_39_40-0136.tiff_STS-129_9802299_2016_265_090904.tiff&#x27;, &#x27;2010_02_19_03_40_34-0142.tiff_STS-129_9802299_2016_265_090902.tiff&#x27;, &#x27;2010_02_19_03_40_34-0142_Methods_EB_WL.tiff_STS-129_9802299_2016_265_090922.tiff&#x27;, &#x27;2010_02_20_03_40_34-0168.tiff_STS-129_9802299_2016_265_090946.tiff&#x27;, &#x27;2010_02_20_09_40_36-0174.tiff_STS-129_9802299_2016_265_090913.tiff&#x27;, &#x27;2010_02_20_15_40_34-0180.tiff_STS-129_9802299_2016_265_090933.tiff&#x27;, &#x27;2010_02_22_09_40_34-0186.tiff_STS-121_9802299_2016_265_090937.tiff&#x27;, &#x27;2010_02_22_15_40_34-0192.tiff_STS-129_9802299_2016_265_090954.tiff&#x27;, &#x27;2010_02_23_03_40_34-0204.tiff_STS-129_9802299_2016_265_090919.tiff&#x27;, &#x27;2010_02_23_21_40_50-0225.tiff_STS-129_9802299_2016_265_090914.tiff&#x27;, &#x27;2010_02_24_03_39_40-0231.tiff_STS-129_9802299_2016_265_090935.tiff&#x27;, &#x27;2010_02_24_09_40_34-0237.tiff_STS-129_9802299_2016_265_090956.tiff&#x27;, &#x27;2010_02_24_15_39_50-0064.tiff_STS-129_9802299_2016_265_090927.tiff&#x27;, &#x27;2010_02_25_03_39_40-0070.tiff_STS-129_9802299_2016_265_090953.tiff&#x27;, &#x27;2010_02_25_09_40_34-0076.tiff_STS-129_9802299_2016_265_090914.tiff&#x27;, &#x27;2010_02_25_15_40_34-0082.tiff_STS-129_9802299_2016_265_090921.tiff&#x27;, &#x27;2010_02_25_21_40_34-0088.tiff_STS-129_9802299_2016_265_090941.tiff&#x27;, &#x27;2010_02_26_03_39_58-0097.tiff_STS-129_9802299_2016_265_090955.tiff&#x27;, &#x27;2010_02_26_09_39_40-0103.tiff_STS-129_9802299_2016_265_090915.tiff&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Mission</th>
+          <td>[&#x27;STS-129&#x27;], [&#x27;STS-130&#x27;], [&#x27;STS-131&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Availability</th>
+          <td>Available online</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000000025?dataType=DATASETS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000000025?dataType=DATASETS</a>
+    </div>
+  </div>
+</body>
+</html>

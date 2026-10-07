@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portable Clinical Blood Analysis (PCBA) Kit - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000669?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>311</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Portable Clinical Blood Analysis (PCBA) Kit</h1>
+        <div class="meta-id">Record ID: 311</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000669?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Portable Clinical Blood Analysis (PCBA) Kit is a system for in-vitro analysis of fresh whole blood.  The PCBA is designed to deliver quantitative results for a panel of tests in approximately 90 seconds on a single, small sample (approximately 65 microLiters).  Three components make up the PCBA Kit: the PCBA unit, the PCBA Control (Accessories) Kit and the PCBA Cartridge Kit.
+<P>
+The PCBA unit is a hand-held device similar in size to a television remote control device.  The PCBA unit has a Hitachi 64180 microprocessor and could store 50 test records (230 bytes/record).  It can withstand temperatures of -10 to 50 degrees Celsius, and up to 65% relative humidity during storage.  The PCBA unit measures 3.5 cm x 6.5 cm x 18 cm and weighs 0.54 kg.
+<P>
+Four subsystems make up the PCBA: the mechanical and electrical systems, software, and a liquid crystal display.  Once a blood sample is inserted into the PCBA for analysis, the mechanical system brings the PCBA's electrical connector into contact with sensors contained in a blood cartridge.  The electrical system activates sensors and measures output signals.  PCBA software controls both the electrical and mechanical systems, mediates the sequence of events, interprets the sensors' electrical signals, calculates analytic concentrations and controls the display of results and other messages.  PCBA software can be programmed to analyze unique blood parameters.
+<P>
+The front panel of the PCBA has the following buttons:  "0" through "9", "DIS", "CLR", "ENT", "PRT", "*", as well as unlabeled menu buttons: up and down. A Liquid Crystal Display (LCD) displays test results. Underneath the LCD display is a battery compartment; the PCBA runs on two 9-Volt batteries.   A slot for the blood cartridge (or test control cartridge) is located on the side.  The PCBA can operate in the following modes: testing mode, data retrieval mode, and data download mode.
+<P>
+Prior to use, the PCBA undergoes two internal quality control tests.  The first test uses a metal electronic cartridge simulator to electronically perform like a blood-filled cartridge when inserted in the PCBA.  This reusable cartridge tests two known control solutions to verify the device can analyze specimens within pre-determined ranges (both high and low).  While the PCBA performs internal electronic checks and calibration during each testing cycle, the electronic cartridge simulator provides an independent check on the ability of the unit to take accurate and sensitive measurements of voltage, current and resistance from the cartridge.  A PCBA will pass or fail this electronic test depending on whether or not it measures these signals within limits specified in the analyzer software.
+<P>
+Results of these tests are compared to PCBA range-control cards to verify that the PCBA is properly calibrated.  After calibration, with the aid of a monovette with attached luer adapter and blunt cannula, blood is drawn from an existing butterfly or catheter in the subject’s arm.  The blood is then transferred to a cartridge that is placed into the PCBA for analysis.
+<P>
+The PCBA Control (Accessories) Kit contains supplies to dispense test control fluids into PCBA Cartridges, receive a blood sample from a subject, and transfer the sample to a PCBA cartridge.  Among the kit’s contents are two types of test control solutions, control range cards, tubex injectors, luer adapters, blunt cannulas, monovette syringes and gauze squares. 
+<P>
+Vials of Control I solution contain a known low-range control fluid that is used to verify that lower-range blood values for each parameter analyzed will register accurately in the PCBA unit.  Conversely, Control II vials contain fluid that can verify high-end range values.  Tubex injectors are used for obtaining and dispensing test solutions into PCBA cartridges.  The cartridges are then inserted into the PCBA and analyzed like blood samples.  Results of these analyses are compared to PCBA range-control cards to verify that the PCBA is properly calibrated.  After calibration, blood is drawn from an existing butterfly or catheter in the subject’s arm.  The blood is then transferred to a cartridge and placed into the PCBA for analysis.
+<P>
+The PCBA Cartridge Kit contains cartridges that hold small blood samples used in the PCBA unit.  The kit is a Nomex pouch containing i-STAT (EC 6+) blood cartridges.  The kit has a mass of 0.27 kg and measures 12 cm x 12 cm x 5.5 cm. <END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Portable Clinical Blood Analysis (PCBA) Kit</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>Mir 18, NEEMO 5, STS-62, STS-63, STS-69, STS-71, STS-72, STS-75, STS-90</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Assessment of Humoral Immune Function During Long-Duration Space Flight; Autonomic Neurophysiology in Microgravity; Clinical Nutritional Assessment; Dynamics of Calcium Metabolism and Bone Tissue; Fluid And Electrolyte Homeostasis; In-flight Evaluation of a Portable Clinical Blood Analyzer; Metabolic Response to Exercise; Red Blood Cell Mass and Survival</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>Version Used During Mir 18 Mission; Version Used During Space Shuttle Missions; Version Used During the NASA Extreme Environment Mission Operations (NEEMO)</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000669?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000669?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LAFS - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000180?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>LAFS</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>LAFS</h1>
+        <div class="meta-id">Record ID: LAFS</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000180?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Lunar Analog Feasibility Study (LAFS) officially started May 13, 2008 and ended on December 19, 2008.  A total of 11 subjects completed the LAFS Phase 1 portion of the feasibility study.  The purpose of this research study was to determine the feasibility of a bed rest analog to simulate a lunar analog mission, provide preliminary data, and inform the study design of future protocols.  
+<P>
+This research study was performed at the Flight Analogs Research Unit (FARU) in the General Clinical Research Center (GCRC) at the University of Texas Medical Branch in Galveston, TX (UTMB) and managed by the National Aeronautics and Space Administration (NASA) Johnson Space Center (JSC) Life Science Research Laboratories. 
+<P>
+The results from this study subjects will be combined with the results from the Cleveland Clinic Foundation study.  The overall results will provide information to guide future investigators in the planning of larger and longer duration flight studies.  
+<P>
+The subjects participated in screening activities prior to admittance into the study.  The pre-screening and pre-testing activities included the Human Test Subject Facility (HTSF) physical examination and a psychological evaluation which was completed at JSC.  This study constituted three days of pre testing, six days of in test days, and two post test days, lasting a total of eleven days.    
+<P>
+The bed rest (BR) portion of this study was conducted at the UTMB GCRC for a period of six days. Subjects remained in a 9.5-degree head-up position to simulate 1/6th gravity loading on the feet.  They remained in this position during the bedrest phase of the study (approximately 16 hours each day) except during periods of sleeping (at 0-degrees). Subjects had periods of standing (approximately 35% of the waking day) and sitting (approximately 65% of the waking day). Sitting was performed in bed at a 9.5-degree angle with a chair-feature incorporated in the bed. The percentage of time to be sitting was based on foot force data collected as part of the Foot Reaction Forces during Space Flight project.  In addition, several daily task activities, exercise, and other weight-bearing activities, where examined for its feasibility in the simulation of a lunar mission component.
+<P>
+The bed design consisted of a modified hospital bed. Modifications included mounting six linear bearings to the bottom of a sled which are on rails mounted directly on the existing bed frame. A hinged mattress was on top of the sled. The mattress was hinged to allow for a seated configuration. Hard stops were incorporated at both the head end and foot end of the sled to prevent it from sliding off the bed frame in either direction.  Additionally, a counterweight system was incorporated in the design to counterbalance the weight of the sled and mattress. This was prepared to allow the subject to get the true 1/6th gravity load at the 9.5-degree head up position.
+
+Subjects wore instrumented insoles (Novel GmbH, Munich, Germany) or equivalent for up to 16 hours per day while they were awake during bed rest.  Subjects were not required to wear the insoles while sleeping or bathing.  These insoles were worn inside both shoes and measured the load between the feet and the supporting surface, thus providing measurements of forces normal to the feet.  Insoles were not worn during all bed rest days.
+<P>
+Subjects wore special support stockings on their legs (Jobst® stockings).  During LAFS Phase 1 - session one, subjects wore thigh high stockings with 30-40mmHg of compression, session two, subjects wore thigh high stockings with 36-46mmHg of compression and session three, subjects wore knee high stockings at 36-46mmHg of compression.  These devices were used to simulate the cardiovascular load of lunar gravity.  The support stockings provided counter pressure on the legs, which helped to prevent the pooling of blood and fluids in the lower extremities.  In lunar gravity, which is only 1/6th of the gravity on Earth, there is less likelihood of pooling of blood and fluids in the lower legs and feet due to the decrease of gravitational pull on the body compared to bed rest simulation. Daily foot force profiles were analyzed to determine whether appropriate loading was being achieved and maintained without protocol violations.  The overall goal was to determine what level of compression over which surface area will most closely match this model, while still using a comfortable enough stocking to wear during a bed rest study of several months.  
+<P>
+Subjects were permitted to prop themselves up on their elbows for eating purposes. Dietary intake sufficient to maintain constant body weight with a balanced intake of macro- and micro-nutrients were planned and supervised by a registered dietician. Food was not brought in through visitors or delivery services.  Subjects were fed a strict weight-maintaining metabolic diet modeled after diets used in previous bed rest studies.  
+<P>
+In order to ensure compliance, subjects were monitored with infrared video cameras at all times while at the GCRC throughout the bed rest portion of the study. Privacy was provided during toileting and bathing as needed.  Test subjects were provided with a bed pan and/or urinal for toileting purposes, as well as nursing assistance for toileting as needed.  Subjects were able to sponge bathe daily.  In addition, in-bed shampooing, bathing, and showering were provided on a regular basis with nursing assistance.  A UTMB physician was available 24 hours per day to attend to any medical needs.
+<P>
+During the screening phase each subject completed a Bruce Treadmill Stress Test in the Exercise Physiology Laboratory at JSC.  The Bruce Treadmill Stress Test was administered during pre test screening for occult cardiovascular disease.  Each subject had to pass a maximal exercise graded treadmill stress test with 12-lead ECG and physician monitoring.  During this time the subjects were asked to complete an activity log for a period of approximately one week, while they were still free-living in their own environments. They were questioned regarding any changes in their activity history over the last 12 months. <P>
+In addition to the Standard Measures testing, other extramural investigators participated during this study: <P>
+<LI>Foot Reaction Forces during Bed Rest Analog for Lunar Exploration (Foot_Forces) <BR> (PI: Paloski, William H., Ph.D. and Cavanagh, Peter, Ph.D., NASA Johnson Space Center (JSC), Houston, Texas) <P>
+<LI>Magnetic Resonance Imaging (MRI) during Bed Rest Analog for Lunar Exploration (MRI_Muscle) <BR>(PI: Paloski, William H., Ph.D., and Cavanagh, Peter, Ph.D.,  NASA Johnson Space Center (JSC) , Houston , Texas)<P>
+<LI>Graded Exercise Test to Volitional Exertion (Bruce protocol) (BRUCE) <BR>(PI: Paloski, William H., Ph.D., and Cavanagh, Peter, Ph.D., NASA Johnson Space Center (JSC) , Houston , Texas)<P>
+<LI>Urine Calcium (Urine_Calcium) <BR>(PI: Paloski, William H., Ph.D., and Smith, Scott M. Ph.D., NASA Johnson Space Center (JSC), Houston, Texas)</LI><P>
+The Magnetic Resonance Imaging (MRI), and plasma volume testing was performed prior to bedrest  and again near the completion of bedrest or up to two days post-bedrest. The plasma volume testing was performed to aid in the proper assessment of hemodynamic parameters and vascular responses.Additional testing included a twenty-four hour urine collection during bed rest, beginning two days pre-bed rest through twenty-four hours post-bed rest and sent for daily analysis.  Samples were analyzed for urine calcium. 
+<P>
+Subjects participated in the simulation of daily tasks and exercises, which were performed in bed (at the 9.5-degree head-up position) the exercises included squats and jumping. Subjects performed stretch exercises designed to minimize the risk of vascular pathology. Daily activity and comfort logs were kept by the subject throughout the bedrest phase of the study.  Subjects remained in the GCRC for approximately two days after becoming ambulatory. During the recovery period subjects were allowed to ambulate normally.  Subjects were required to exercise at the suggested reconditioning protocol which was defined specific to subject needs. 
+<P>
+Feasibility was determined partially by the subjects’ acceptance of the protocol, based on daily comfort logs.  In addition, the data collected and any changes will be compared to data from short-duration lunar and shuttle missions.  The overall goal for the feasibility study was to identify a set of dependent measures having sufficient reliability to be useful in future lunar analog studies.
+
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>LAFS</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>2008</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>250</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Human</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000180?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000180?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

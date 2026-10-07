@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Design and Evaluation of Automated Electronic Checklists for Robotics Operations - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ca644b99-8106-5b09-ae4d-b0725557aea3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AW35G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Design and Evaluation of Automated Electronic Checklists for Robotics Operations</h1>
+        <div class="meta-id">Record ID: NNX15AW35G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ca644b99-8106-5b09-ae4d-b0725557aea3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The investigators aimed to develop a prototype electronic procedure system and use it to study how the automated features of this system should be implemented to enhance situation awareness (SA), operator workload, and task execution in the context of robotic arm operation. Future long-duration, long-distance mission crews will have to operate more independently from the ground and rely more on automated spacecraft systems to support them while executing mission tasks. NASA has relatively little experience designing systems to support this concept of operations so the overall goal was to provide to NASA design guidelines for implementing these automation features in electronic procedures and empirical evidence that demonstrates how the operator and task performance are affected. Investigators used well defined International Space Station (ISS) robotic arm operations as their proxy for future arm or rover operations. They included capabilities in the electronic procedures that are not currently available, such as automatic multi-step execution or verification and control of current robot system states (e.g., arm configuration, camera control).
+<p>
+The primary objective of this project was to provide empirical evidence supporting design guidelines for automated electronic checklists for robotics operations. While planning to use the ISS robotic arm operations as their proxy for general arm or rover operations but they will develop scenarios that test a crew’s ability to operate more autonomously than in ISS operations.
+<p>
+This study had the following two specific aims:<ol>
+<li>Develop a prototype display for robotics operations that integrated the electronic procedures with the displays for performing robotic tasks. The design process began with a hierarchical task analysis approach to drive out functional and information requirements for the display. Additionally, critical system states were identified using “Object-Process Methodology,” a task modeling approach that extends the task analysis to a computable level. We augmented our prototype design with the capability for automated execution of procedural steps. This prototype was integrated into the MIT (Massachusetts Institute of Technology) ISS robotic workstation simulation that has previously been used in several National Space Biomedical Research Institute (NSBRI) projects. <li> Perform a human-in-the-loop study that provided empirical evidence about the effects of the prototype system architecture, including varying levels of automation, on task performance, operator situation awareness, and mental workload. The study investigated how the allocation of procedural step execution between human operator and automation affects situation awareness (SA), mental workload, and task performance. Shifting more procedure steps to the automation may ease workload and speed task completion, but may also degrade the operator’s SA and ability to detect and resolve errant conditions. The experiment scenario included interrupting events that required switching between different procedures. </ol>
+<p>
+APPROACH:<br>
+Initial efforts focused on developing a prototype electronic procedure system with new automated capabilities and integrating this capability into the robotic workstation simulator. First, informed by actual robotic arm procedures conducted on the ISS, investigators defined and developed a set of robotic task scenarios that includes system setup, support of a series of simulated spacewalk activities, and system shutdown. Within these scenarios, the possibility for a variety of failures and associated failure recovery steps were designed and built into the simulation so that they can test responses to non-normal situations. Investigators used tools including Hierarchical Task Analysis (HTA) and Object-Process Methodology (OPM) to break down each task goal into its components and necessary actions and to define system states throughout the flow of the simulated robotic arm operation. 
+<p>
+Secondly, investigators used the HTA and OPM analyses to design the computer code that creates the simulated integrated control panel and procedure checklist system. In doing so, they created a new type of human-machine electronic procedure interface that integrates automation and system information into an electronic display. By integrating a functional electronic control panel, procedure, and checklist into their simulator, they created a system that presents information equivalent to two separate systems and laptops that are currently used on the ISS during robotic operations. This, in turn, reduces the required number of displays and equipment, an important feature for future space missions that will have strict mass and power constraints. 
+<p>
+Following the development of the prototype automated electronic procedure system, investigators completed a human-in-the-loop experiment to investigate how the allocation of procedural step execution between the human operator and automation, or level of automation, would affect task performance, situation awareness, and mental workload. The key independent variable in the experiment was the level of automation used during task completion. The simulator was capable of allocating the automation to perform all or a subset of the procedural steps including state selection, identification verification, and confirmation. Three levels of automation were tested--Full Auto, Full Manual, and Auto Set/ Manual Verify. If the automation was tasked with doing all of the procedure steps, then the system is in Full Auto mode in which we expected low subject mental workload and high performance but also low situation awareness. In Full Manual mode, all steps were allocated to the human operator, and we expected high situation awareness but also high workload and possibly lower task performance. In the intermediate automation allocation, Auto Set/ Manual Verify, the automation was tasked with setting the states while the human operator verified the state change. In this intermediate automation level, investigators expected high task performance and situation awareness, and intermediate workload.
+<p>
+RESULTS:<br>
+Results are largely consistent with the investigators' initial hypotheses, that Full Automation mode results in faster task completion times with practically no errors and low subject mental workload, measured objectively with a visual secondary task and subjectively using the NASA Task Load Index (NASA-TLX). The reduction in completion time comes primarily from the automatic selection of cameras and entry of arm parameters for Space Station Remote Manipulator System (SSRMS) movement performed by the automation, rather than manually. The elimination of manual control tasks reduces the visual demands of the task and frees attentional resources for monitoring system state and task progress. This behavior was observed in the improvement of the operator’s ability to detect system events and states in the Full Manual condition. However, the use of automation also degraded the operator’s ability to comprehend of current system state and predict future states compared to Full Manual mode. The intermediate automation mode, Auto Set/Manual Verify, was generally preferred by the subjects as the best compromise to speed up task completion while maintain their situation awareness of the task and also resulted in the best overall performance across time, workload, and awareness. <p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AW35G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Oman, Charles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/v10t-hj67</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ca644b99-8106-5b09-ae4d-b0725557aea3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ca644b99-8106-5b09-ae4d-b0725557aea3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

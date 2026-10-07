@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Prolonged Weightlessness on the Humoral Immune Response of Humans - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6ede8578-2ad8-506c-831e-0e36755f44b8?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>1NS105</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Prolonged Weightlessness on the Humoral Immune Response of Humans</h1>
+        <div class="meta-id">Record ID: 1NS105</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6ede8578-2ad8-506c-831e-0e36755f44b8?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br> 
+The human internal defense mechanisms are divided into two main categories based upon the specificity of their actions.  Nonspecific defense includes mechanisms that provide protection from a variety of pathogens by preventing their entrance into the body or, if the invader gains entrance, quickly destroying it.  Specific defense includes mechanisms which react selectively to destroy specific pathogens or toxins.  The humoral immune response is categorized as a specific defense mechanism and functions mainly to produce immunoglobulins (Ig) in response to specific antigens. Serious immune system deficiencies can result if Ig production is compromised.  This experiment was designed to analyze and measure the effect of microgravity on the humoral immune response during the 10 day Spacelab 1 mission.
+<P>
+APPROACH:<br>
+Preflight, inflight, and postflight serum samples obtained from crewmen aboard STS-9 were analyzed for immunoglobulin content. Control studies for circadian rhythm were conducted to further validate the analyses.<P>Two separate preflight studies were conducted to validate the immunoglobulin (Ig) measurements.  The first study was designed to provide information regarding alterations in Ig measurements which might be due to changes in circadian rhythms.  Serum samples were obtained from two crewmembers over a two day period during which their sleep schedules were altered.  Sleep schedule alterations were designed to mimic the transition from their routine daily schedules to schedules that simulated their sleep patterns in space.  The second preflight study was conducted on serum samples from 20 Caucasian males (control group) in order to establish a normal range of concentrations for each Ig class. 
+<P>
+Preflight, inflight and postflight serum samples were collected from four crewmembers.  The protocol designated eight sampling times which were  30, 7, and 1/1.5 days prelaunch, on day 7 of the mission, immediately after landing, and at days 1, 8, and 12/13 postlanding.  Inflight samples were centrifuged and frozen until analysis was performed after flight.  The major classes of Ig's measured were IgG, IgM, IgA, IgD, and IgE.  Measurements were also made on subclasses of major classes such as IgG1, IgG2, IgG3, and IgG4.  The principal method used for quantitative Ig measurements and comparisons was the radial immunodiffusion test.  All serum samples were also analyzed with a solid-phase radioimmune inhibition assay to measure Ig concentration.    
+<P>
+RESULTS:<br>
+The circadian effect study indicated that changes in circadian rhythms had no effect on Ig concentrations. All circadian samples were within the normal ranges and no significant differences were noted.  The normal ranges (mg/ml) established by the control group study for IgG, IgM, IgD, and IgE were 6.16 to 15.54, 0.57 to 3.43, 0.02 to 0.04, and 0.0001 to 0.001, respectively.   
+<P>
+The results of the final phase of the experiment indicated that exposure to microgravity over a 10 day period had no significant effect on the humoral immune response of the four crewmembers.  The data show only minor variations in Ig concentration.  In addition, no definite trends were noted when the preflight, inflight, and postflight results were analyzed as three separate groups.  Only one crewmember had an IgG concentration which was significantly outside the normal range for all eight samples. <END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>1NS105</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Voss, Edward</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-9&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/tyc2-6r69</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6ede8578-2ad8-506c-831e-0e36755f44b8?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6ede8578-2ad8-506c-831e-0e36755f44b8?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

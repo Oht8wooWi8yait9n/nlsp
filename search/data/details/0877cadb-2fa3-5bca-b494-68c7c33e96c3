@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Effects of Long Duration Space Flight on Gaze Control - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/0877cadb-2fa3-5bca-b494-68c7c33e96c3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9401647</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Effects of Long Duration Space Flight on Gaze Control</h1>
+        <div class="meta-id">Record ID: 9401647</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/0877cadb-2fa3-5bca-b494-68c7c33e96c3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+A number of investigators have assessed the role of vestibular-based subsystems both during and immediately following exposure to microgravity. While providing information specific to one or more sensorimotor subsystems there is little documentation of changes in the strategies used for coordination among subsystems or for those strategies supporting performance of natural, goal-directed behaviors. In particular, there may be several strategies selected for use during the process of adaptation to microgravity. These strategies may become more reliable for missions of increasing duration. Prime among these strategies are: (1) the reduced use of head movements during the early phases of the mission, (2) the reliance on either an internal coordinate system (intrinsic) or environmental coordinates (extrinsic) during different phases of space flight for spatial orientation, and (3) compensation for the changing role of proprioceptive information during flight. The investigators believed these strategies could be evaluated using goal-directed head and eye coordination tasks. Therefore, the primary objective of this study was to investigate the emergence or alteration of goal-oriented strategies required to maintain effective gaze when the interactive sensorimotor systems required for this function have been modified following extended exposure to the stimulus rearrangement of space flight.
+<p>
+APPROACH:<br>
+A cruciform target arrangement was used to provide the visual stimulation for target acquisition, pursuit tracking, memorized head rotations, and sinusoidal head oscillations (as a spacecraft fixed target). The target arrangement, placed approximately 75 cm from the subject's retinal plane, was used to provide a variety of static, time optimal, and dynamic visual stimuli to the subject in both the horizontal and vertical planes. Each axis of the cross was approximately 1.25 m long and contained a line of 495 miniature LEDs with a spacing between LEDs of 2.54 mm. Illumination of the LEDs were under microprocessor control, and multiple LEDs could be illuminated at any given time. Software drivers were developed to enable concurrent or sequential illumination of “special” standard target positions in the horizontal (0°, ±20°, ±30°) and vertical (0°, ±15°, ±20°, ±30°) planes, as well as to present both sinusoidal and non-predictable,constant-velocity ramp-type target motion along either axis. The device was also equipped with the capability of controlling remote or eccentric LEDs beyond the effective ocular-motor range (EOM range). For these experiments at least one set of these targets was located at ±60° horizontal and ±50° vertical. Targets within the EOM range are defined as those that can be acquired with the eyes alone and do not require a head movement to foveate the target.
+<p>
+RESULTS:<br>
+Preliminary results suggest that the gaze holding mechanism responsible for maintaining the eye on target may be affected by prolonged exposure to microgravity.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9401647</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Reschke, Millard</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NASA 2&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/1rj4-z027</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/0877cadb-2fa3-5bca-b494-68c7c33e96c3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/0877cadb-2fa3-5bca-b494-68c7c33e96c3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

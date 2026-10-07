@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Role of Oxidative Stress and Inflammation on Synaptic Functions after Exposure to Space Radiation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/8167ff82-9914-5375-b628-fbf3900ba4c3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX14AC94G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Role of Oxidative Stress and Inflammation on Synaptic Functions after Exposure to Space Radiation</h1>
+        <div class="meta-id">Record ID: NNX14AC94G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/8167ff82-9914-5375-b628-fbf3900ba4c3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This work focused on studying changes in synaptic functions associated with the development of cognitive dysfunction after low doses of space irradiation and the relative role of oxidative stress and inflammation. Irradiation of the central nervous system (CNS) can significantly affect the hippocampus, a structure critical for cognitive function. Activity-dependent modification of synapses underlies memory formation and involves changes in the dendritic arbors. The maintenance of the dendritic system, including spine density, dendritic arbors, BDNF and plasticity-related protein expression are essential to maintain proper synaptic functions. The dendritic system connects the neuronal network, mediates functional integration of newborn neurons, and controls synaptic functions; yet it is sensitive to increased oxidative stress and inflammation.
+<p>
+The purpose of this study was to determine how space-relevant doses of radiation affect dendritic maintenance as it pertains to synaptic functions and memory. Investigators hypothesized that space radiation, even at low doses, impairs synaptic functions with negative consequences for cognition and that these effects are mediated by oxidative stress and inflammation. 
+<p>
+This study had the following specific aims:<ol>
+<li>Quantitatively determine the short and long term effects of irradiation with protons (150 MeV/n; 0.15, 0.5, 0.9 Gy), <sup>56</sup>Fe (600 MeV/n; 0.15, 0.4 Gy), and 16O (600 MeV/n; 0.15, 0.4 Gy) on synaptic functions and the role of oxidative stress and inflammation.
+<li>Determine if altered levels of extracellularly generated oxygen free radicals play a prominent role in synaptic function following low doses irradiation with protons, <sup>56</sup>Fe and <sup>16</sup>O.</ol>
+<p>
+APPROACH:<br>
+Investigators used novel mouse models with neuronal-specific overexpression of an antioxidant enzyme to address the role of oxidative stress. The mice were exposed to space-relevant doses of proton, <sup>56</sup>Fe, or <sup>16</sup>O and analyzed for acute and late effects. Experimental endpoints included cognitive functions, dendritic structures and synaptic functions, molecules that control the dendritic system, inflammatory responses, and indices of oxidative stress. This systematic approach allowed them to connect the functional output of cognition to the molecular pathway that controls synaptic plasticity and memory; and to determine the role of oxidative stress and inflammation in space radiation-mediated changes.
+<p>
+RESULTS:<br>
+Despite the late start during the first 10 months investigators were able to make significant progress in their proposed studies addressing both short and long-term consequences of proton irradiation on CNS function. Sixty four animals were trained in the contextual fear conditioning paradigm and two weeks later animals were irradiated with 0, 0.15, 0.5, 1Gy doses of protons. The animal previously trained in the CFC were tested for memory recall two weeks after irradiation. Significant reduction in contextual and cued freezing following proton irradiation across all experimental groups was observed. Because sham-irradiated mice also showed significant reduction in contextual and cued freezing, the reduction was likely affected by the intensive animal shipping and handling during the experimental period. Although baseline freezing before irradiation, both before training and the baseline before cued test, in the 0.5 Gy group was not significantly lower than that of other experimental groups, the Post-IR baseline freezing in this group was significantly lower than that in 0, and 0.15 Gy experimental group, suggesting reduced anxiety in a novel environment in mice receiving 0.5 Gy proton irradiation. To account for differences in baseline freezing before tone/light was turned on; the ratio of Post-IR cued freezing to Post-IR baseline freezing was calculated and compared among experimental groups. A trend of increased cued freezing post-IR was suggested in mice received 0.5 Gy proton irradiation. The data suggested a subtle change in the fear memory at 0.5 Gy, but not at lower (0.15 Gy) or higher (1 Gy) doses. Notably, in these animals there was about a significant reduction in spine density in hippocampal granule cells. Examination of dendritic structures in other brain regions and the extent of oxidative stress in hippocampal formation is currently underway and will be terminated in the next few months. Hippocampal gene array analysis demonstrate that exposure to low doses of space radiation alters the expression of molecules known to be involved in the recruitment of various types of monocytic cells. The up regulations of these genes were most pronounced at the lowest dose and were abolished at the highest dose (1Gy). 
+<p>
+Sixty four animals were used for the long-term studies: Novel object recognition test was used to measure hippocampal-dependent episodic memory three months after proton irradiation. Results suggest that 0.15Gy proton irradiation affect the hippocampal dependent novel object recognition test measured. Object in Place was used to measure associative recognition memory and requires a subject to make an association between an object and place in which it was previously encountered and depends on the interactions between the hippocampus, perirhinal, and prefrontal cortices. Results demonstrate that associative recognition memory was impaired in animals irradiated with 0.5 and 1Gy. Examination of dendritic structures and the extent of oxidative stress in hippocampal formation and the prefrontal cortex is currently underway.
+<p>
+No datasets exist for this study. A final report was archived.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX14AC94G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rosi, Susanna</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/8aq2-fm63</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013 Space Radiobiology N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/8167ff82-9914-5375-b628-fbf3900ba4c3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/8167ff82-9914-5375-b628-fbf3900ba4c3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

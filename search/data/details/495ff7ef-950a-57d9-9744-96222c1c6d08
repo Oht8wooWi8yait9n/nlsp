@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maturing Technology for Major Reductions in Energy, Mass, and Crew Time for Plant Lighting in Space - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/495ff7ef-950a-57d9-9744-96222c1c6d08?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX09AL99G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Maturing Technology for Major Reductions in Energy, Mass, and Crew Time for Plant Lighting in Space</h1>
+        <div class="meta-id">Record ID: NNX09AL99G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/495ff7ef-950a-57d9-9744-96222c1c6d08?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+To develop and demonstrate proof of concept for two novel technologies that together will greatly advance the potential for growing food crops in space for crew life support at distant space destinations.
+<P>
+APPROACH:<br>
+The first technology is a “smart” LED-based sole-source lighting system for saving considerable energy for many reasons. The second technology is a crop-stand gas-exchange system consisting of a large cuvette, an open gas-exchange system, and computer controls for CO2, temperature, and atmosphere flow rate. Lighting parameters are controlled by a second computer. Using the smart lighting system in conjunction with the crop gas-exchange system will give real-time crop response of hydroponically grown crops to light (PPF, R/B ratio), temperature, and CO2 at all stages of crop production, which will define additional opportunities for significant energy savings during controlled-environment crop production.
+<P>
+RESULTS:<br>
+Due to the complex multiple components of the gas-exchange / cuvette / hydroponics / lighting system, plus the restrictions of a modest budget, it has been necessary to design, fabricate, build, test, troubleshoot, and refurbish components of the integrated plant-monitoring system using local resources and student projects rather than the services of a professional engineering corporation, which we wouldn’t have been able to afford. Other than HELIAC, which was developed in collaboration with ORBITEC, a (then) small business with strong interests in the space program, the rest of the crop-monitoring system has been developed locally. A design-build local engineer developed cuvette as a side job, and has been through several iterations of retrofit and refurbishment as our integration tests indicated. Purdue University Engineering and Engineering Technology students, both undergraduate as well as graduate, have contributed to development of the open air-flow system, to programming for control of CO2 concentration and air flow, data logging, calculating, and reporting of gas-exchange parameters, and to development of a uniform airflow and thermal-control environment within the cuvette per se. Life science undergraduates collaborate with engineering students to develop protocols for growing test crops hydroponically, to measure gas exchange, manage data, and perform routine system maintenance. At the end of the extended project all development tasks still were not completed because of limited student time, turnover, graduations, etc., but the effort to develop a fully integrated, operational crop-growth / multi-plant gas-exchange system continues using other funding sources. It is planned for a leak-free, thermally stabilized open gas-exchange system to be completed by the end of 2014, and for proof-of-concept crop-growth / gas-exchange studies to be conducted during the spring semester of 2015. That study will establish interactive dose-response curves for Pn vs. PPF at several different CO2 levels at each important phase of a crop-production cycle, and for those experiments to be replicated statistically. A key objective of that study will be to identify precisely when during the time course of a crop-production cycle that optimizing environments are needed, what the minimum inputs are, and when they no longer are needed. The outcome of that study is expected to identify additional times and ways in which significant resources (e.g., CO2) and energy (e.g., light, electricity) can be saved during crop production, and that is expected to additionally reduce costs of growing food in space. The current plan is to complete the proof-of-concept study by May, 2015, write up and internally review a manuscript for publication, and submit an article for publication to a peer-reviewed journal by fall, 2015. An army of past and present engineering, engineering technology, and life science students will be co-authors on that proof-of-concept article that will come out of this technology-development effort enabled by NASA grant NNX09AL99G. This NASA grant will be acknowledged as the main funding source supporting the new research technology proof-of-concept work. Once published and operational, this tool will be proposed for data gathering and further upgrade in future grant proposals. It is anticipated to provide incentive for future fund raising because of it’s powerful analytical capabilities.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX09AL99G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Mitchell, Cary</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Plant biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Lactuca sativa (Outredgeous lettuce)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0prk-5738</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2008 Space Biology--Micro</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/495ff7ef-950a-57d9-9744-96222c1c6d08?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/495ff7ef-950a-57d9-9744-96222c1c6d08?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

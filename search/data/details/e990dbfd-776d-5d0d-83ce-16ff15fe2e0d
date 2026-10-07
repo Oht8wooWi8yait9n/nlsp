@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spatial Organization within Prostate Cancer Spheroids - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e990dbfd-776d-5d0d-83ce-16ff15fe2e0d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91351</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Spatial Organization within Prostate Cancer Spheroids</h1>
+        <div class="meta-id">Record ID: NAG91351</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e990dbfd-776d-5d0d-83ce-16ff15fe2e0d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Multicellular spheroids have a remarkable capacity to mimic solid tumors to a greater extent than cell monolayers. Spatial organization within spheroids is seminal to their in vivo-like behavior and is instrumental in the acquisition of drug resistance and expression of antigens that can serve as biomarkers for carcinogenesis. This research provides a comprehensive analysis of the spatial profile and assembly of multicellular spheroids, using prostate cancer cells as a model system. Spheroid differentiation and viability will be determined as a function of radial position. This analysis was performed on spheroids produced using conventional methods and in a rotating-wall vessel (RWV). The knowledge gained from this research will ultimately improve the fidelity of multicellular spheroids in the extent to which they resemble micrometastases and avascular regions of larger tumors. 
+<p>
+The objective of the proposed research was to improve the understanding of how culture conditions affect the spatial profile and assembly of multicellular cancer spheroids, using prostate cancer cells as a model system. During the study, the investigators fulfilled the following specific aims: <br>
+1) Developed mathematical models of spheroid formation with population balances and Monte Carlo technique. <br>
+2) Elucidated the biological and physical mechanisms underlying spheroid formation of prostate cancer cells with the mathematical models. <br>
+3) Assessed the ability of the mathematical models to predict spheroid self-assembly of prostate cancer cells. <br>
+4) Characterized the spatial composition of prostate cancer spheroids with respected to viability, differentiation and multidrug resistance. <br>
+<p>
+APPROACH:<br>
+The methodology for the study is embedded in the results section below.
+<p>
+RESULTS:<br>
+Aggregation of attachment-dependent animal cells represents a series of motility, collision, and adhesion events applicable to such diverse fields as tissue engineering, bioseparations, and drug testing. Aggregation of human prostate cancer cells in liquid-overlay culture was modeled using Smoluchowski's collision theory. Using well (LNCaP) and poorly differentiated (DU 145 and PC 3) cell lines, the biological relevance of the model was assessed by comparing aggregation rates with diffusive and adhesive properties. Diffusion coefficients ranged from 5 to 90 microm(2)/min for single LNCaP and PC 3 cells, respectively. Similar diffusivities were predicted by the persistent random walk model and Einstein relation, indicating random motion. LNCaP cells were the most adhesive in the study with reduced cell shedding, 100% adhesion probability, and enhanced expression of E-cadherin. There was an increase in DU 145 cells staining positive for E-cadherin from nearly 20% of single cells to uniform staining across the surface of all aggregates; fewer than 30% of PC 3 aggregates stained positive. Aggregation rates were more consistent with adhesive properties than with motilities, suggesting that aggregation in the study was reaction-controlled. Relative to other assays employed here, aggregation rates were more sensitive to phenotypic differences in cell lines and described size-dependent changes in aggregation at a finer resolution. In particular, model results suggest similar aggregation rates for two-dimensional DU 145 and PC 3 aggregates and upwards of 4-fold higher rates for larger three-dimensional DU 145 spheroids, consistent with expression of E-cadherin. The kinetic model has application to spheroid production, to cell flocculation and as an adhesion assay. 
+<p>
+Neoplastic multicellular spheroids are in vitro models of solid tumors employed in drug testing and basic research. This study compares differentiation in static and mixed prostate cancer spheroids. Staining intensity of prostate specific antigen (PSA) was down-regulated upon mixing, from 0.21 +/- 0.03 to 0.13 +/- 0.03 in LNCaP multicellular spheroids, and from 0.13 +/- 0.04 to 0.03 +/- 0.02 in DU 145 multicellular spheroids. This was accompanied by 65% increase in the expression of cytokeratins 8 and 18 in DU 145 spheroids. PSA expression extended 60 micro m within static spheroids and was disrupted in mixed culture. Diminished PSA expression and spatial organization suggests a more aggressive cancer. Higher cytokeratin expression could result from either differentiation towards a luminal phenotype or activation of the Ras pathway during dedifferentiation. Thus, the existing paradigm of differentiation established for normal tissue does not apply for our neoplastic spheroids. Cell dedifferentiation is attributed to improved interstitial transport and synthesis of extracellular matrix. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91351</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>O&#x27;Connor, Kim</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/hckx-xd85</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>00-HEDS-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e990dbfd-776d-5d0d-83ce-16ff15fe2e0d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e990dbfd-776d-5d0d-83ce-16ff15fe2e0d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

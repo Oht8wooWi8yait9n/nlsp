@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Simulated Microgravity on Cardiovascular Stability - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/872ccb93-882a-5700-bb62-dba5dcde6726?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958CA00402</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Simulated Microgravity on Cardiovascular Stability</h1>
+        <div class="meta-id">Record ID: NCC958CA00402</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/872ccb93-882a-5700-bb62-dba5dcde6726?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The purpose of this investigation is to evaluate and test countermeasures to the development of microgravity induced orthostatic intolerance and susceptibility to ventricular dysrhythmias. We will apply the Cardiovascular System Identification (CSI) technique for assessing closed-loop cardiovascular regulation and Microvolt T-Wave Alternans (MTWA) technique for assessing susceptibility to ventricular dysrhythmias. 
+<p>
+The specific aims of the project were: <br>
+1. To test a panel of countermeasures to orthostatic intolerance in subjects intolerant to pre bed rest head-up tilt, in conjunction with the evaluation of CSI and other cardiovascular measures as a potential means of predicting orthostatic intolerance and countermeasure effectiveness. 
+<br>
+2. To test in a 16 day head-down tilt bed rest study the effectiveness of the orthostatic intolerance countermeasure identified for each individual during pre bed rest screening, in conjunction with the evaluation of CSI and other cardiovascular measures as a means of predicting orthostatic intolerance and countermeasure effectiveness. 
+<br>
+3. To utilize MTWA analysis, in older men and post-menopausal women, to measure the effects of a panel of countermeasures for reducing cardiac electrical instability, and to study the effects of these countermeasures on baseline orthostatic tolerance and closed-loop cardiovascular regulation as measured by CSI and other cardiovascular measures. 
+<br>
+4. To test utilizing MTWA analysis in a 16 day head-down tilt bed rest study the effectiveness of the cardiac electrical instability countermeasure identified for each individual during pre bed rest screening. 
+<br>
+5. To further develop and enhance the methodology of CSI, MTWA and Plethysmography analyses.
+<br>
+<p>
+APPROACH:<br>
+Healthy female and healthy male subjects were given a constant diet for 3 to 5 days, after which they underwent a tilt-stand test (pre-TST) and began 14 to 16 days of head-down tilt bed rest (HDTB), followed by a repeat tilt-stand test (post-TST). Female subjects began HDTB so that the post-TST was at the same time in their menstrual cycle as their pre-TST. Twenty-four-hour urine collections, hormonal measurements, plethysmography, and cardiovascular system identification were performed.
+<p>
+Additionally, MTWA was measured before and after the bed rest period during bicycle exercise stress. For the purposes of this study, investigators defined MTWA outcome to be positive if sustained MTWA was present with an onset heart rate < or=125 bpm. During various phases of HDTB, the following were also performed: serum electrolytes and catecholamines, and cardiovascular system identification to measure of autonomic function.
+<p>
+RESULTS:<br>
+Instead of causing orthostatic intolerance, higher calf compliance before bed rest leads to recruitment of compensatory mechanisms for a better toleration of orthostatic stress. With the absence of orthostatic challenge during bed rest, the difference in calf hemodynamic parameters is attenuated between the tilt-tolerant and tilt-intolerant groups.
+<p>
+The frequency of orthostatic intolerance is higher in women than in men and is not modified by midodrine at the dose used. This increased susceptibility is likely secondary to intrinsic basal differences in the activity of volume-mediated parasympathetic and adrenergic systems and in venous tone. Thus, approaches to reduce OI in women are likely to differ from those effective in men.
+<p>
+Head down tilt bed rest leads to an increase in MTWA, providing the first evidence that simulated microgravity has a measurable effect on electrical repolarization processes. Possible contributing factors include loss in potassium and changes in sympathetic function.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958CA00402</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cohen, Richard</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/01j0-qc69</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2003 Biomedical Research &amp; Countermeasures 03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/872ccb93-882a-5700-bb62-dba5dcde6726?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/872ccb93-882a-5700-bb62-dba5dcde6726?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thyroid Disease Investigated Among LSAH Population - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6b8a95a7-b055-5acb-8a0e-43c2265ab19c?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>LSAHNEWSV7_1_1</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Thyroid Disease Investigated Among LSAH Population</h1>
+        <div class="meta-id">Record ID: LSAHNEWSV7_1_1</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6b8a95a7-b055-5acb-8a0e-43c2265ab19c?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Iodine is used for microbial disinfection in the potable water systems of U.S. spacecraft.  Because iodine is metabolically active within the body, there is concern about chronic exposure to iodine in drinking water aboard U.S. spacecraft.  
+<P>
+Iodine is an essential micronutrient.  It is present in food and water predominantly as iodide.  It is rapidly and almost completely absorbed, with the excess excreted in urine.  Iodide is transported to the thyroid gland where it is used to synthesize and secrete the thyroid hormones thyroxine (T4) and triiodothyronine (T3), which act at multiple sites throughout the body and help to regulate metabolic processes.  The activity of the thyroid is regulated by a negative feedback mechanism involving the pituitary gland and the hypothalamus.  Thyrotropin releasing hormone (TRH) is released by the hypothalamus and provokes the pituitary to secrete the thyroid stimulating hormone (TSH), which is also known as thyrotropin.  TSH stimulates the thyroid gland to release its hormones and to trap iodide.  The thyroid hormones in turn inhibit the release of both TRH from the hypothalamus and TSH by the pituitary, in this way maintaining normal plasma levels of the thyroid hormones.
+<P>
+A deficiency of iodine can lead to a wide spectrum of diseases ranging from severe cretinism with mental retardation to barely visible enlargement of the thyroid.  Endemic goiter and the more severe forms of iodine deficiency disorders are a worldwide issue.  Providing an adequate iodine intake can prevent iodine deficiency disorders.  The recommended daily allowance of total iodine is 0.15 mg/day.  Dietary sources of iodine include seafood, water from coastal areas, and iodized salt.  Plant and animal sources vary depending on the soil, fertilization, feeding of animals, and food processing.  The iodine intake by the majority of the US population is considered to be adequate and safe.
+<P>
+The potential chronic toxic effects of excessive iodine are of current concern with respect to the astronaut population.  Goiter and thyrotoxicosis have been documented in areas of Japan and Tasmania where dietary intake of iodine was exceptionally high.  In populations where the drinking water has been disinfected with iodine, reported associations of iodine and thyroid disease are mixed.  Some studies have reported weak, but significant, associations and other studies have reported no associations.  Generally, iodine intakes of up to 2 mg/day have caused no adverse physiological reactions in healthy adults, but that level may be too high to sustain over long periods of time.
+<P>
+APPROACH:<BR>
+To assist in decision making regarding this issue, the LSAH has examined the incidence of thyroid disease among the astronauts and the LSAH comparison population and the association of thyroid disease with exposure to iodinated drinking water.
+<P>
+RESULTS:<BR>
+An investigation into the incidence of thyroid disorders among the LSAH population revealed 12 cases (4.4%) among the astronauts and 27 cases (3.2%) among the comparison population.  Six of the 12 cases among the astronauts were diagnosed before exposure to the iodinated water used on spacecraft.  A comparison of the incidence of thyroid disorders among the astronaut population with the incidence among the LSAH comparison population resulted in no statistical evidence that the incidence rates are different between the two groups.  However, transient elevations of TSH have been identified on landing day for astronauts in the shuttle program.  The TSH levels have returned to preflight levels during the postflight period.  While there is no evidence of an association between the use of iodinated water during shuttle flights and postexposure thyroid disorders in the current astronaut population, the effects of longer-term exposures are unknown.  In addition, the susceptibility of individuals to iodine exposure appears to vary and methods for identifying susceptible individuals are not well defined.   Consequently, intensive efforts are underway to lower the iodine concentration in the water aboard spacecraft to an optimal level.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>LSAHNEWSV7_1_1</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>No Principal Investigator,</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Space Medicine</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine, Endocrinology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;LSAH&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/2x99-cd44</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6b8a95a7-b055-5acb-8a0e-43c2265ab19c?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6b8a95a7-b055-5acb-8a0e-43c2265ab19c?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

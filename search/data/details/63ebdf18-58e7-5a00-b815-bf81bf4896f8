@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cardiovascular Adaptation to Zero Gravity - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/63ebdf18-58e7-5a00-b815-bf81bf4896f8?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>178294</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Cardiovascular Adaptation to Zero Gravity</h1>
+        <div class="meta-id">Record ID: 178294</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/63ebdf18-58e7-5a00-b815-bf81bf4896f8?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Experiment 294 had two primary objectives: (1) to investigate the circulatory adaptation to microgravity by examining specific aspects of central and peripheral cardiovascular function and neurohumoral control mechanisms, and, (2) to test the validity of a 24 hour head-down tilt period as a model of microgravity. Multiple procedures were performed before, during and after the SLS-1 and 2 flights. Inflight procedures included central venous pressure (CVP), cardiovascular 
+measurements at rest, maximal exercise (in collaboration with experiment 178066), leg blood flow and compliance, static leg volume, and heart rate/blood pressure monitoring during reentry. These studies were supported by pre- and postflight sessions, including a stand test, lower body negative pressure (LBNP) test and an autonomic function test documenting the responses to graded infusions of alpha- and beta-adrenergic agonists. A 24-hour head-down tilt study was performed a year before launch and included most of the sessions listed above.
+<P>
+The experiment was designed to test the following principal hypotheses:<br>
+<ul>
+<LI>Cardiovascular adaptation to microgravity is rapid and effective. The principal stimulus is a headward shift of intravascular and interstitial fluids. The degree of cardiovascular dysfunction in space is minor, and major regulatory mechanisms remain intact.</li>
+<LI>Postflight cardiovascular dysfunction, which includes central hypovolemia with decreased cardiac filling, is a direct consequence of an effective adaptation to microgravity suddenly rendered inappropriate by the return to normal gravity.</li>
+<LI>Bed rest with head-down tilt provides a satisfactory model of microgravity for short-term studies of cardiovascular function. Essential features of early cardiovascular adaptation can be reproduced during a 24-hour period of bed rest with head-down tilt at -6 degrees.</li>
+</ul>
+<P>
+The primary objectives of the experiment were:<br>
+<ol>
+<li>To investigate in detail the cardiovascular adaptation to microgravity, including the overall circulatory responses to the headward fluid shift and the impact on cardiovascular control mechanisms.</li>
+<li>To test the validity of 24-hour head-down tilt as a model of microgravity by comparing data obtained in preflight simulation studies and during actual flight in the same group of crewmembers.</li>
+</ol>
+<P>
+APPROACH:<BR>
+Data were collected in the following sessions:<p>
+
+<u>Preflight</u>: Head-Down Tilt Simulation Study, Autonomic Function Test, Lower Body Negative Pressure (LBNP) Test, Supine-Standing Measurements, SVOP Flow and Compliance, SVOP Flow, Compliance and Hyperemic Blood Flow, Resting CV with upright 30%, 60% and 100% Maximal exercise
+<P>
+<u>Inflight</u>: CVP Measurements, Leg Volume Measurement, Echocardiography, Resting CV, Resting CV with upright 30% and 60% maximal exercise, Resting CV with upright 30%, 60% and 100% maximal exercise, SVOP flow and compliance, Descent/Reentry HR, BP and ECG
+<P>
+<u>Postflight</u>: Autonomic Function Test, Lower Body Negative Pressure (LBNP) Test, Supine-Standing Measurements, SVOP Flow and Compliance, SVOP Flow, Compliance and Hyperemic Blood Flow, Resting CV with Upright 30%, 60% and 100% Maximal Exercise
+<P>
+<I>Central venous pressure:</I> Continuous CVP measurements, using a 4-Fr. catheter began 4 hours before launch and continued into microgravity. Pre-launch, the astronaut lay supine with legs elevated. To measure the small pressure changes expected (1-7 cmH20), an accurate ambulatory system with minimal drfit was needed, thus the System for Central Venous Pressure(SMCVP) was designed for this purpose.  See the hardware description below for more information.  The night before the planned launch, a 4-Fr polyurethane catehter was inserted through the median cubital vein to the superior vena cava by using fluoroscopic guidance.  At the time of insertion, the arm was moved through a full range of motion while the catheter was observed by fluoroscopy to ensure the tip could not enter the right atrium and produce cardiac arrhythmia.  CVP was measured continuously from suitup until the end of the first inflight day for subjects 1 and 2 (9-10 hours) and until the end of the second inflight day for subject 3 (44 hours).  Due to a malfunctioning data recorder, measurements on subject 3 were lost after the first 30 minutes in orbit.  Mean CVP readings were voiced to the ground twice (at 1 and 4 hours into the flights) and dynamic CVP data were transmitted to the ground on the second flight day during the echo measurement.
+<P>
+<I>Leg blood flow and compliance:</I> Chronic microgravity may modify adaptations of the leg circulation to gravitational pressures. Resting calf compliance and blood flow with venous occlusion plethysmography, as well as arterial blood pressure with sphygmomanometry, was measured in subjects before, during, and after spaceflight. Calf vascular resistance equaled mean arterial pressure divided by calf flow. Compliance equaled the slope of the calf volume change and venous occlusion pressure relationship for thigh cuff pressures of 20, 40, 60, and 80 mmHg held for 1, 2, 3, and 4 min, respectively, with 1-min breaks between occlusions. Calf blood flow decreased 41% in microgravity (to 1.15 +/- 0.16 ml x 100 ml(-1) x min(-1)) relative to 1-G supine conditions (1.94 +/- 0.19 ml x 100 ml(-1) x min(-1), P = 0.01), and arterial pressure tended to increase (P = 0.05), such that calf vascular resistance doubled in microgravity (preflight: 43 +/- 4 units; in-flight: 83 +/- 13 units; P < 0.001) yet returned to preflight levels after flight. Calf compliance remained unchanged in microgravity but tended to increase during the first week postflight (P > 0.2). Calf vasoconstriction in microgravity qualitatively agrees with the "upright set-point" hypothesis: the circulation seeks conditions approximating upright posture on Earth. No calf hemodynamic result exhibited obvious mechanistic implications for postflight orthostatic intolerance.
+<P>
+<I>Stand test:</I> Cardiovascular function during orthostatic stress was evaluated with a stand test because it is the most clinically relevant stress.  The protocol consisted of a 29-minute supine period for instrumentation and resting measurements followed by a 10 minute standing period.  Subjects were instructed not to contract their leg muscles actively during the standing period.  The stand test was terminated after 10 minutes or when the subject indicated they needed to sit down.  Preflight tests were performed at the NASA Johnson Space Center within 15 days of launch.  Postflight testing was initiated within 4 hours of landing; stand tests were always performed before any exercise on landing day, and whenever possible, the stand test was the first test of the day.
+<P>
+<I>Maximal exercise:</I> Maximal systemic oxygen uptake (Vo2) and transport, which may be viewed as a measure of the functional integrity of the cardiovascular system and its regulatory mechanisms, had not been systematically measured in space or immediately after return to Earth prior to this experiment. For this study,  six astronauts were studied before, during, and immediately after 9 or 14 days of microgravity on two Shuttle flights (SLS-1 and SLS-2). Peak Vo2 (Vo2peak) was measured with an incremental protocol on a cycle ergometer after prolonged submaximal exercise at 30 and 60% of Vo2peak. Gas fractions were measured by mass spectrometer and ventilation via turbine flowmeter for the calculation of breath-by-breath Vo2, heart rate via electrocardiogram, and cardiac output (Qc) via carbon dioxide rebreathing.
+<P>
+RESULTS:<br>
+<I>Central venous pressure:</I> Gravity has important effects on cardiac filling pressure and intravascular fluid distribution. Without gravity, a major central fluid shift occurs. Data from ground-based models suggest this should raise central venous pressure (CVP), but indirect measurements in space do not support this. To resolve this controversy, CVP was directly measured in 3 subjects aboard the Spacelab Life Sciences 1 and 2 (SLS1 and 2) Shuttle flights. 
+<P>
+Mean CVP was 8.4 cmH20 seated before flight, 15.0 cmH2O in the supine legs-elevated posture in the Shuttle, and 2.5 cmH2O after 10 minutes in microgravity. CVP dropped promptly below preflight values in space. This refutes the hypothesis that CVP always increases due to the initial zero-G induced fluid shift. In zero-G the relationship between pressure and volume in different fluid compartments may be more complex than initially thought. Although CVP decreased, the left ventricular end-diastolic dimension measured by echocardiography increased from a mean of 4.60 cm supine preflight to 4.97 cm within 48h in microgravity.  These data are consistent with increased cardiac filling early in microgravity despite a fall in CVP, suggesting that the relationship between CVP and actual transmural left ventricular pressure is altered in microgravity.
+<P>
+<I>Leg blood flow and compliance:</I> Calf blood flow decreased 41% in microgravity relative to 1-G supine conditions, and arterial pressure tended to increase, such that calf vascular resistance doubled in microgravity yet returned to preflight levels after flight. Calf compliance remained unchanged in microgravity but tended to increase during the first week postflight. Calf vasoconstriction in microgravity qualitatively agrees with the upright set-point hypothesis: the circulation seeks conditions approximating upright posture on Earth. No calf hemodynamic result exhibited obvious mechanistic implications for postflight orthostatic intolerance.<P>
+
+<I>Stand test:</I> There were no significant differences in heart rate, stroke volume, cardiac output, TPR, or blood pressure.  Over the 3 testing periods, mean standing heart rate varied by 4.9%, SV by 12.7%, CO by 6.7%, TPR by 15.6% and mean BP by 6.9%.
+<P>
+<I>Maximal exercise:</I> Peak power and Vo2 were well maintained during spaceflight and not significantly different compared with preflight. Vo2peak was reduced by 22% immediately postflight, entirely because of a decrease in peak stroke volume and Qc. Peak heart rate, blood pressure, and systemic arteriovenous oxygen difference were unchanged. Therefore, systemic Vo2peak is well maintained in the absence of gravity for 9-14 days but is significantly reduced immediately on return to Earth, most likely because of reduced intravascular blood volume, stroke volume, and Qc.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>178294</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Blomqvist, C.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-40&#x27;], [&#x27;STS-58&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/52h0-gt75</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing. Available datasets are accessible via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>AO OSS-1-78</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/63ebdf18-58e7-5a00-b815-bf81bf4896f8?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/63ebdf18-58e7-5a00-b815-bf81bf4896f8?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

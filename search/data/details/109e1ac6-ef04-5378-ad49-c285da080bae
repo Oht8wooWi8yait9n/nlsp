@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Effects of Microgravity on Skeletal Muscle Contractile Properties - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/109e1ac6-ef04-5378-ad49-c285da080bae?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>E401</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Effects of Microgravity on Skeletal Muscle Contractile Properties</h1>
+        <div class="meta-id">Record ID: E401</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/109e1ac6-ef04-5378-ad49-c285da080bae?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Data on animals exposed to space flight (Spacelab-3, Cosmos 1887) seem to indicate that skeletal muscle atrophy particularly affects those muscles comprised predominantly of slow-twitch fibers. However, recent human biopsy data collected after space flight (STS-32, -33, -34) showed a greater atrophy of fast-twitch fibers. The functional implications of muscle atrophy may be evaluated by studying changes in skeletal muscle contractile features. By stimulating the muscle directly, it is possible to measure force beyond the volitional control of the subject and to assess fine contractile characteristics typical of muscle mechanics, which cannot possibly be determined from voluntary contractions. The contractile parameters studied by muscle percutaneous stimulation have shown to be fiber type-specific, resulting in changes of twitch characteristics, loss of force at specific frequencies of stimulation and changes in fatigability.</p>
+<p>The specific objectives of the experiment were:<br>
+1. To determine the relationship between the twitch-torque of the calf muscle triceps surea (TS) and the joint position of the angle.<br>
+2. To determine the maximum voluntary strength of the TS as well as the ability to voluntarily activate all TS motor units.<br>
+3. To determine the relationship between the frequency of stimulation and torque.<br>
+4. To determine the resistance to fatigue during repeated electrically evoked contractions.<br>
+5. To determine the force per unit of cross-sectional area of the TS muscle group (evaluated in collaboration with experiment 284054).
+<p>
+APPROACH:<br>
+The contractile characteristics of the triceps surea (TS) were investigated during both voluntary and electrically-evoked isometric contractions using the Percutaneous Electrical Muscle Stimulator (PEMS) and by recording the torque generated with the Torque-Velocity Dynamometer (TVD).  For the test, four PEMS electrodes were positioned on the subject's leg: the cathode was placed over the two heads of the gastrocnemius muscle, and the anode over the soleus muscle. Two safety electrodes were positioned on the head of the femur on the lateral side of the thigh. The lower limb was fixed to the TVD with a knee angle of 90 degrees. The ankle joint angled from 20 degrees dorsiflexion to 30 degrees plantar flexion, while resting on the TVD-footplate. During each test session, five different protocols of muscle stimulation were performed with the PEMS:<br>
+1. Supramaximal Current Intensity (SMCI) determination: The TS was stimulated with 50-microsecond pulses at an ankle angle of 15 degrees dorsiflexion, increasing the stimulation intensity from an initial 100 milliamperes (mA) up to a maximum of 800 mA (in 50 mA steps), and monitoring the twitch torque developed with the TVD, until no further increase in torque was observed.<br>
+2. Angle-force relationship: Twitches were measured at 7 different angles of the ankle joint (30, 25, 15, and 5 degrees plantar flexion, and 5,15, and 20 degrees dorsiflexion; degrees relative to the TVD footplate), two twitches per angle, 5 seconds apart.<br>
+3. Maximum Voluntary Contraction (MVC) with superimposed twitch. Three isometric MVCs (at 20 degrees dorsiflexion), each lasting 4 seconds and interspaced by 20 seconds were performed. During each contraction, the degree of muscle activation was assessed using the twitch superimposition technique. This technique consists of two single stimuli at SMCI, in response to which an increase in force on top of the voluntary contraction is obtained if the contraction is submaximal.<br>
+4. Frequency-force relationship: This was obtained by stimulating the muscle at varying frequencies. Three twitches (5 seconds between each two twitches) were given followed by consecutive trains of pulses, each 1 second in duration at 10, 20, 30, and 50 Hertz. This was performed with a current intensity of 60% SMCI. This lower SMCI was used to minimize the subject's discomfort at the higher frequencies and represented a good compromise between subjects' tolerance to the test and scientific outcome.<br>
+5. Fatigue test. During this protocol the fatigability of the triceps surea (TS) was tested during 120 seconds stimulation at 60% SMCI using trains of stimuli at 20 Hertz lasting 350 milliseconds, repeated once per second.<br>
+<p>
+Preflight, the protocols were performed at L-90 (days before launch), L-60, L-30, and L-15. During the flight, they were repeated by the astronauts on Flight Day (FD) 3/4, FD 8/9, FD 13/14 and FD 16. After the flight, the protocol was carried out on R+2 (days after landing), R+4, R+8, R+15, and R+30. Also, the cross-section of the calf muscle plus bone was determined anthropometrically from calf circumference and skinfold measurements in the sessions which took place before and after the flight. In addition to the measurements taken with the PEMS, this investigation compares those results with the MRI measurements of the muscle volume taken pre- and postflight for experiment E920 (The Effects of Weightlessness on Human Single Muscle Fiber Function).
+<p>
+RESULTS:<br>
+The present results on electrically evoked human gastrocnemius muscle function assessed during the NASA-LMS mission (Shuttle flight STS-78), show a significant impairment in contractile parameters during recovery, but not during spaceflight. The observed decrease in muscle tetanic torque (24%) was greater than the decrease in calf CSAm+b (7%) as shown by a significant decrease in tetanic torque/CSA.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>E401</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cerretelli, Paolo</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>European Space Agency (ESA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-78&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/13fr-h966</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Not available</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/109e1ac6-ef04-5378-ad49-c285da080bae?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/109e1ac6-ef04-5378-ad49-c285da080bae?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

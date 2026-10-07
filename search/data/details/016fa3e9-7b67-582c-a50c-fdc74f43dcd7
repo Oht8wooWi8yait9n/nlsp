@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microgravity and Magnetic Fields - Directional Root Growth and Gene Expression - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/016fa3e9-7b67-582c-a50c-fdc74f43dcd7?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX10AP91G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Microgravity and Magnetic Fields - Directional Root Growth and Gene Expression</h1>
+        <div class="meta-id">Record ID: NNX10AP91G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/016fa3e9-7b67-582c-a50c-fdc74f43dcd7?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This proposal combines morphological measurements on micro-gravity germinated and grown (Brassica) roots that are exposed to high-gradient magnetic fields (HGMF) with a high-resolution spatial analysis of genes involved in gravitropism. Magnetic gradients exert a repulsive force on diamagnetic substances such as the starch in amyloplasts, which results in gravitropic-like curvature. The proposal is based on hardware that was developed for a previous flight experiment on STS-107. As in the originally proposed experiment, microscopic analysis of amyloplast size and distribution will be studied in the context of achieved curvature. In addition, high-resolution genetic profiling will be conducted that focuses on the cytoskeleton and starch development. The result of the proposed work will enable directional growth of seedlings and eventually mature plants under microgravity conditions using HGMF. 
+<P>
+APPROACH:<br>
+Three conditions will be used to differentiate microgravity from uniform magnetic fields and HGMF conditions. Only HGMF is expected to influence root curvature. A uniform magnetic field will serve as control for possible secondary magnetic effects. This condition will be compared to an in-flight control without magnetic field to determine growth rate, gene expression, growth, and directionality (autotropism). Root material from these experiments will be used for investigations on cytoskeletal organization and the expression of starch-related genes. A second aspect of the proposed work will investigate the process of gravisensing, whether dependent on amyloplast position, movement, or force exerted onto amyloplasts. Space experimentation is necessary to establish a threshold value for a directional magnetic force. In addition to providing insight in the fundamental mechanism of the gravisensing system of plants, the data from this experiment can be used to develop technology to provide a directional, gravity-like stimulus to plants during early stages of germination. The proposed experiment can be performed with existing hardware, be adapted easily to changing flight schedules, and requires minimal crew time. The anticipated benefits include a better understanding of root development, effects of amyloplast displacement on root development and curvature, and compensatory measures to alleviate microgravity conditions. A newly developed gene extraction technology is ideally suited for gene-profiling studies and has far-reaching implications for studying gene expression, especially for confined space flight experiments. Additional benefits of the project include training of students at the undergraduate and graduate levels.
+<P>
+RESULTS:
+A) Imaging. The most important part of the flight experiment was the confirmation of the effect of high-gradient magnetic fields (HGMF) on root curvature. The data provide clear evidence that HGMF does induce root curvature as theory and ground experiments predicted. Because curvature occurred in weightlessness conditions, the gravisensing system of roots is not compromised by space flight. The enhancement of the amyloplast size in space-grown roots (see D, below) indicates metabolic adaptation to reduced effective gravity levels. The induction of curvature by HGMF in space-grown roots indicates that amyloplasts are indeed the organelles that elicit differential growth and therefore the originators of gravitropism.
+
+B) Cytoskeletal arrangements. The comparison between static, clinorotated, and space grown roots did not show any substantial differences between the cytoskeletal organization of actin or microtubules. A high resolution analysis showed a greater variation in orientation and coherency of both microtubules and F-actin after clinorotation.
+
+C) Gene expression. The examined genes were selected to metabolic relevance and connection to differential elongation. The chosen genes were (in order of average transcription levels with accession number in parentheses): Cytochrome c oxidase, amylase, Ubiquitin, Phosphofructokinase, Hexokinase, Alcohol dehydrogenase, Tubulin, Actin 7, P Pin-formed 1, 3, 7, Sucrose synthase, IAA transcription factor 5, Glucokinase, Glucose-6-phosphate dehydrogenase, and Triacylglycerol lipase.
+
+Comparisons of different conditions included flight conditions, clinorotation, and static ground conditions, with and without HGMF. Measurements were performed in the root tip, root proper, root shoot junction, and seed tissue. Gene transcription levels were assessed with validated primers using SYBR-Green based qPCR analysis.
+
+Comparisons were based on regressions of the transcription levels of all examined genes and served as basis for the identification of up-or downregulated genes. The methodology resulted in a publication (Houston et al., 2015) and provides reliable assessment of gene regulation. Genes that responded to space condition, clinorotation, and HGMF included auxin transporter PIN1-7, enzymes involved in glycolysis (hexokinase, glucokinase), and sucrose synthase. However, not all tissues responded equally.
+
+D) Light microscopy. The purpose of these studies was the identification of amyloplast positioning and size in the root cap. The difference between the size of amyloplasts from space-grown roots and those obtained from clinorotated or static roots was derived from systematic measurements of all detectable starch grains. The difference was highly significant and amounted to an approximate size increase of 30% in diameter. The amyloplast studies are important because they indicate that clinorotation (i.e., hyper-stimulation) reduces amyloplast size. Therefore clinorotation is likely to reduce gravisensitivity.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX10AP91G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hasenstein, Karl</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Plant biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;SpaceX_3&#x27;], [&#x27;STS-107&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse-ear cress (Arabidopsis thaliana)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/fwfn-hh65</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2009 Space Life Sciences-</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/016fa3e9-7b67-582c-a50c-fdc74f43dcd7?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/016fa3e9-7b67-582c-a50c-fdc74f43dcd7?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

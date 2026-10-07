@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Expedition 16 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000076?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>Expedition 16</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>Expedition 16</h1>
+        <div class="meta-id">Record ID: Expedition 16</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000076?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          Expedition Commander Peggy Whitson and Flight Engineer Yuri Malenchenko launched on the Soyuz TMA-11 spacecraft on October 10, 2007 from the Baikonur Cosmodrome in Kazakhstan for a two-day flight to link up to the Zvezda Service Module on the station. Making her second flight into space, Whitson became the first female commander of the space station. They were joined on the Soyuz by Dr. Sheikh Muzaphar Shukor, who spent 9 days on the complex under a contract signed with the Russian Federal Space Agency (Roscosmos). Dr. Shukor returned to Earth on the Soyuz TMA-10 capsule with the Expedition Fifteen crew who had been aboard the station since April 2007.
+<P>
+Once hatches were opened, Whitson and Malenchenko joined Astronaut Clayton Anderson, their third Expedition Sixteen crewmember, who was launched on Shuttle Atlantis' STS-117 mission in June 2007. He joined Expedition Fifteen in progress and provided Expedition Sixteen with an experienced flight engineer for the early part of its increment. He returned to Earth aboard Shuttle Discovery's STS-120 mission. That flight carried Astronaut Dan Tani who replaced Anderson as flight engineer during Expedition Sixteen. Expedition Sixteen will see two other partial crew rotations during its six month span. Tani will be replaced by European Space Agency (ESA) astronaut Leopold Eyharts in December on the STS-122 mission that delivers the European Columbus science laboratory to the station. Eyharts, in turn, will be replaced in February 2008 by Astronaut Garrett Reisman who will be launched on the STS-123 mission that brings the first Japanese "Kibo" element to the station, the Experiment Logistics Module-Pressurized Section.
+<P>
+During three planned U.S. spacewalks, Expedition Sixteen crewmembers will prepare the station for the activation of the newly delivered Harmony node, a utility hub providing air, electrical power, water and other systems essential to support life on the station. During future missions, the station's European and Japanese segments will be mated to the station at the Harmony node. The Expedition Sixteen spacewalks will prepare for the robotic relocations of PMA-2 and Harmony. Whitson will join Tani for two spacewalks in November to hook up electrical and cooling loop connections to the newly located Harmony/PMA-2 so it can serve as the new docking port for Atlantis on the STS-122 mission and beyond.
+<P>
+Life sciences experiments and payloads that will begin during Expedition Sixteen are:
+<P>
+<UL>
+<LI><B> Validation of Procedures for Monitoring Crewmember Immune Function (SMO 015)</B> will assess the clinical risks resulting from the adverse effects of spaceflight on the human immune system.</LI>
+<LI><B>Validation of On-Orbit Methodology for the Assessment of Cardiac Function and Changes in the Circulating Volume Using Ultrasound and (SDTO_17011_UR)</B></LI>
+</UL>
+<P>
+Many experiments from earlier Expeditions remain on board the space station and will continue to benefit from the long-term research platform provided by the orbiting laboratory.  Continuing experiments include:
+<P>
+<UL>
+<LI><B> Behavioral Issues Associated with Long Duration Space Missions: Review of Astronaut Journals (ILSRA-2001-104)</B> uses journals kept by the crew and surveys to study the effect of isolation to obtain quantitative data on the importance of different behavioral issues in long-duration crews. Results will help design equipment and procedures to allow astronauts to best cope with isolation and long duration spaceflight.</LI>
+<LI><B>Cardiovascular and Cerebrovascular Control on Return from International Space Station (E117)</B>will study the effects of long-duration space-flight on crewmembers' heart functions and their blood vessels that supply the brain. Learning more about the cardiovascular and cerebrovascular systems could lead to specific countermeasures that might better protect future space travelers.</LI>
+<LI><B> Nutritional Status Assessment (SMO 016E)</B> This experiment will help the science program plan countermeasures (exercise and pharmaceuticals) for nutritional changes during. In addition, increased understanding of the connections between nutrition and bone loss has potential value for patients suffering bone loss on Earth.</LI>
+<LI><B>Physical Fitness Evaluation Oxygen Uptake Mass (PFEOUM)</B> allows exercise physiologists and flight doctors to assess crew health and fitness and accurately prescribe exercise countermeasures for use onboard the ISS.</LI>
+<LI><B>Sleep-Wake Actigraphy and Light Exposure During Spaceflight (9802394)</B>
+The information derived from this study will help to better understand the effects of spaceflight on sleep-wake cycles. The countermeasures that will be developed will improve sleep cycles during missions, which in turn will help maintain alertness and lessen fatigue of the Space Shuttle astronauts.</LI>
+<LI><B> Space Flight Induced Reactivation of Epstein-Barr Virus (98-E129)</B> performs tests to study changes in human immune function. Using blood and urine samples collected before and after space flight, the study will provide insight for possible countermeasures to prevent the potential development of infectious illness in crewmembers during flight.</LI>
+<LI><B>A Comprehensive Characterization of Microorganisms and Allergens in Spacecraft Environment (99-E049)</B>will use advanced molecular techniques to comprehensively evaluate microbes on board the space station, including pathogens - organisms that may cause disease. It also will track changes in the microbial community as spacecraft visit the station and new station modules are added. This study will allow an assessment of the risk of microbes to the crew and the spacecraft.</LI>
+</UL>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>Expedition 16</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>2007</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>192</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Human</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000076?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000076?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

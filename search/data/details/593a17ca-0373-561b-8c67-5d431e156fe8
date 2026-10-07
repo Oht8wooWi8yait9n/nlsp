@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Development of Countermeasures to Enhance Sensorimotor Adaptation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/593a17ca-0373-561b-8c67-5d431e156fe8?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958SA01601</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Development of Countermeasures to Enhance Sensorimotor Adaptation</h1>
+        <div class="meta-id">Record ID: NCC958SA01601</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/593a17ca-0373-561b-8c67-5d431e156fe8?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+During adaptation to novel gravitational environments, sensorimotor disturbances have the potential to disrupt the ability of astronauts to perform required mission tasks. The overall goal of this project was to gain the information necessary to develop a comprehensive sensorimotor adaptability (SA) training program to facilitate rapid adaptation to novel gravitational environments. It has been previously shown that subjects trained to adapt to varied sensorimotor challenges can adapt faster to new sensory environments that they have never experienced before. This is a process known as adaptive generalization and it allows an individual to enhance the ability to learn how to learn to adapt to novel environments. By applying these motor-learning concepts for training astronauts it’s possible to enhance their ability to rapidly adapt their behavioral responses following a gravitational transition. To minimize cost and demands on crew time the investigators have integrated SA training with existing exercise activities, namely treadmill walking. The SA training program entailed manipulating the sensory conditions of treadmill exercise to systematically challenge multiple sensorimotor systems while conducting nominal exercise activities. To provide SA training investigators mounted a treadmill on a six degree-of-freedom motion base to produce variation in the support surface along with variation in visual input during walking using both a projected virtual scene that produces variation in visual flow or through goggles that distort visuomotor information.
+<p>
+APPROACH:<br>
+A treadmill mounted on a 6-degree-of-freedom motion base was used to present 15 healthy subjects with a destabilizing support surface while they walked. Dependent measures of locomotor stability, cognitive load, and metabolic cost were stride frequency (SF), reaction time (RT), and the volume of oxygen consumed (Vo2), respectively. Subjects completed an eight minute baseline walk followed by 20 minutes of walking with a continuous, sinusoidal, laterally oscillating support-surface perturbation. Data for minutes 1, 7, 13, and 20 of the support-surface perturbation period were compared with the baseline.
+<p>
+RESULTS:<br>
+Study 1. Aim: Determine whether SA skills learned during treadmill SA training could transfer to a novel discordant sensory environment and to quantify the extent to which any training effects would be retained. This study showed that SA training enhances locomotor adaptability and increases multi-tasking capability during adaption to a novel discordant sensory environment. Results also demonstrated that this increased adaptability can be retained up to six months and perhaps longer. Thus SA training improves both locomotor function and multi-tasking capabilities which are essential components required to complete critical mission tasks. 
+<p>
+Study 2. Aim: Determine whether performance in a novel discordant sensory environment can be predicted based on a subject's inherent visual dependency. This study showed that subjects with greater visual dependency have decreased locomotor stability and reduced ability to multi-task when negotiating novel sensory discordant conditions. These data indicate that visual dependency may be a marker for decreased ability to adapt to novel environments. Identifying preflight predictors of sensorimotor adaptability can be used to develop individualized training prescriptions that target the specific needs of each crewmember thus making the training process targeted and more efficient. 
+<p>
+Study 3. Aim 1: Examine the influence of visual dependence on a subject's SA training performance. Aim 2: Determine whether visual dependence influences a person's ability to generalize newly acquired adaptive skills in unfamiliar discordant sensory conditions. This study demonstrated that highly visually dependent individuals receive the greatest benefit from SA training. Although both visually dependent and independent subjects perform equally well by the end of their training, the visually independent subjects outperformed their highly visually dependent counterparts on a locomotor test in a novel sensory discordant environment. This suggests that visually dependent subjects may receive the greatest benefit from SA training but they are less able to generalize their skills. 
+<p>
+Study 4. Aim: Determine if SA training using treadmill walking transfers to other functional tasks including manual control. Subjects performed two operationally oriented manual control tests after locomotor SA training. Results indicate that training tasks need to contain at least some of the critical features of the criterion task to be effective. This result informs the design of future training programs ensuring that they contain sufficient locomotor and manual challenges to allow for a comprehensive training across performance modalities. 
+<p>
+Study 5. Aim: The goal of this study was to quantify the adaptive locomotor effects, as well as the cognitive and metabolic costs, of exposure to a discordant sensory environment experienced during SA training. Greater metabolic cost incurred during balance instability means more physical work is required during adaptation to new environments possibly affecting crewmembers' ability to perform mission critical tasks during early surface operations on planetary expeditions. Results confirmed that walking in discordant conditions not only compromises locomotor stability and the ability to multi-task, but also increased metabolic cost. Importantly, like locomotor stability and multi-tasking ability, metabolic expenditure while walking in discordant sensory conditions improved during adaptation. This finding confirms that SA training can benefit multiple performance parameters central to the successful completion of critical mission tasks. 
+<p>
+Study 6. Aim: The goal of this study was to determine whether performance improvements that result from SA training using visual and support surface discordance would improve performance during exposure to novel vestibular discordance produced by Galvanic Vestibular Stimulation (GVS). GVS has been previously shown to simulate the vestibular disturbances associated with space flight. Results show that SA training enhanced dual-tasking capability during initial exposure to GVS demonstrating that SA training improves performance during simulation of vestibular disturbances associated with exposure to space flight.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958SA01601</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bloomberg, Jacob</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/365v-4952</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNJ07ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/593a17ca-0373-561b-8c67-5d431e156fe8?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/593a17ca-0373-561b-8c67-5d431e156fe8?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

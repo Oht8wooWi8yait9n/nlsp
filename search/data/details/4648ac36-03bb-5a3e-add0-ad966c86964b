@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Retrospective Evaluation of Incidence and Severity of Adverse Health Effects Due to Host-Microorganism Interactions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/4648ac36-03bb-5a3e-add0-ad966c86964b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Disease_Risk_Model</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Retrospective Evaluation of Incidence and Severity of Adverse Health Effects Due to Host-Microorganism Interactions</h1>
+        <div class="meta-id">Record ID: Disease_Risk_Model</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/4648ac36-03bb-5a3e-add0-ad966c86964b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <div>OBJECTIVES:</div><div>Previous research has demonstrated that the spaceflight environment corresponds with several changes in microorganisms and the human immune system which could potentially increase the risk of infectious disease or an microbial-associated allergic response among crewmembers. However, the nature of the spaceflight environment’s contribution to these changes and the larger risk remains understudied.<br></div><div><br></div><div>In this investigation, the researchers sought to adapt the Centers for Disease Control and Prevention (CDC) approach to understanding the relationship between human health risk with plants, animals, and their shared environment using a collaborative, multisectoral, and transdisciplinary framework. To leverage this approach for spaceflight health risks, the investigator team combined clinical data from astronauts and environmental microbiological monitoring data from the International Space Station (ISS) to better understand the actual risk of infectious disease in crew and potential impacts to crew performance.<br></div><div><br></div><div>The original scope of this study analyzed disease events based on symptomology or other event descriptions and/or documentation of pharmaceutical use (e.g., antibiotics, antivirals, antihistamines, corticosteroids). In 2025, an augmentation was added to this study to incorporate a new list of clinical events describing the incidence of infectious disease aboard ISS over a ten-year period. This new list was presented to the Human System Risk Board (HSRB) in December 2024 and constrained the included health events to those where crew symptomology resulting in the prescription of antibiotics and did not include events where the disease event could have been caused by multiple factors (e.g., skin rash).<br></div><div><br></div><div>Specific Aims:<br><ol><li>Conduct retrospective data mining of available clinical incidence reports before, during, and after ISS spaceflight missions to model microbial changes relative to adverse health events (infections and/or allergies) and to capture potentially missed data that could improve low resolution implications of infectious disease.</li><li>Identify and compare contributing factors of infectious disease on clinical incidence reports and health from Aim 1 by assessing questionnaires, diary inputs, environmental microbiological monitoring and other relevant operational and research data.</li><li>Input data into a machine learning-based model of clinically relevant microbe presence on ISS that is currently in development as a TRISH-sponsored project to establish a foundation for improvement of future studies and potential operational use.</li><li>Based on identification of knowledge gaps during this study, develop requirements recommendations to support future tracking of preflight, inflight, and postflight infectious disease events.</li></ol>An additional aim was added as part of the augmentation to this study:</div><div>           5. Model microbial changes relative to adverse infectious disease events based on the updated ten-year clinical incidence based on the prescription of antibiotics.</div><div><br></div><div>APPROACH:</div><div>During the original study, the investigators mined retrospective data of available clinical incidence of infectious disease before, during, and after ISS spaceflight missions to model microbial changes relative to adverse health events. The investigators then used the following approaches to evaluate the resulting dataset:<br><ol><li>Assess health events recorded up to L-45 and R+30, including all inflight data available.</li><li>Assess health events with no definitive diagnoses, subtle clinical manifestations, and/or subclinical manifestation to capture potentially missed infectious disease events (for example: allergies, rash, headache, congestion, etc.).</li><li>Evaluate photos of problems like skin rashes, descriptions of clinical signs, length of time affected, progression/resolution descriptions, anything that was recommended/used to help resolve (not just antibiotic treatment).</li><li>Preflight, inflight, and postflight environmental monitoring data, focusing on microbiological analyses of air, surface, water, and food;</li><li>Preflight, inflight, and postflight samples for culture diagnostics as well as clinical events reported (e.g., upper respiratory, GI, skin, etc.);</li><li>Preflight, inflight, and postflight immune changes, including antibody titers, cell counts, etc.</li></ol>An augmentation to this study added that this effort would specifically focus on the updated approach for determining 10-year (2010-2020) clinical incidence for incidence of adverse infectious disease events based on the prescription of antibiotics. The investigator team used a random forest approach, a supervised machine learning algorithm which generates decision trees for classification and regression tasks, to analyze the microbial and crew health datasets.<br></div><div><br></div><div>RESULTS:</div><div>The investigators expected that leveraging the CDC’s transdisciplinary approach to understanding human health risk for a spaceflight context would identify additional factors that could be incorporated into prospective studies in the future, such as crew immunological status, spaceflight-induced alterations in microbial virulence, and the impact of plants and rodents on the environment. If successful, this integrative approach would help to improve future decision making on countermeasures to prevent loss of crew or loss of performance due to adverse health events.<br><br>Due to the restrictions on the 10-year infectious disease incidence dataset aboard ISS (requiring (1) flight surgeon diagnosis and (2) the prescription of antibiotics), the resulting dataset suffered from a small sample size (n=11). <br><br>As the conclusion of this study, the investigators were able to provide a list of recommendations for future efforts to collect data that will have a high likelihood of generating predictive relationships in random forest analysis and creating a forecasting model which would improve risk assessment and response to infectious disease during long-duration spaceflight:<br><ul><li>Time-match longitudinal crew health monitoring and microbiome and environmental surveillance.</li><li>Enable point-of-care pathogen diagnostics to deploy rapid molecular diagnostics and enable real-time identification of pathogens and guide immediate interventions to lessen the impacts of disease to crewmembers and the mission.</li><li>Enable immunologic monitoring to measure immune system markers such as cytokines, leukocyte activity, and stress hormones. </li><li>Use standardized electronic health records and real-time symptom reporting, and leverage machine learning approaches to detect emerging disease patterns.</li><li>Conduct retrospective analysis of stored samples and crew health data after conclusion of the mission. This would help to identify delayed infections and refine surveillance strategies.</li></ul><br>Due to the low number of disease events captured by the analyzed dataset, it was not possible to identify statistical significance when attempting to model the relationship between microbial populations and clinical outcomes. The investigators suggested that larger, multidimensional datasets would be required to fully leverage machine learning techniques to better understand the microbial ecology impact on astronaut health outcomes during spaceflight.<br><br></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Disease_Risk_Model</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hoffman, Kristyn</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>NASA JSC</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Clinical medicine, Immunology, Microbiology, Environmental monitoring</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/fd77-3p08</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA.  Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/4648ac36-03bb-5a3e-add0-ad966c86964b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/4648ac36-03bb-5a3e-add0-ad966c86964b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

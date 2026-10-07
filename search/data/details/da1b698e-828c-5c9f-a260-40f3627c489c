@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plant Growth at Sub-Ambient Atmospheric Pressures with Control of the Partial Pressures of Constituent Gases - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/da1b698e-828c-5c9f-a260-40f3627c489c?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNJ04HD77G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Plant Growth at Sub-Ambient Atmospheric Pressures with Control of the Partial Pressures of Constituent Gases</h1>
+        <div class="meta-id">Record ID: NNJ04HD77G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/da1b698e-828c-5c9f-a260-40f3627c489c?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The development of an Advanced Life Support System for Lunar/Mars bases, and space-flight, including orbital-based missions, will incorporate the use of physicochemical and biological components, in which there will be a role for plant growth systems for air and water revitalization and food production. Some environmental conditions to which plants will be exposed are certain to differ from those on Earth (NASA, Advanced Life Support Program: Advanced Life Support Baseline Values and Assumptions), and such conditions have not been extensively tested before with higher plants. A central goal of this research is for the targeted crop species to successfully complete their life cycles at sub-ambient pressure. The objectives of the proposed research are: 
+1. To characterize plant growth, gas exchange (respiration and photosynthesis), constituent gases (oxygen, carbon dioxide, ethylene and other trace gases), and water reclamation (transpirate) under environmental conditions that may apply to an Advanced Life Support System. <br>
+Investigators will determine the effectiveness of plant performance at low total gas pressures. In some experiments low pressure will be combined with high partial pressures of CO2, with or without O2 enrichment. They will test the hypothesis that at low gas pressure, the detrimental effects on cellular respiration of a low partial pressure of O2 will be offset by increased gaseous diffusion, and also by the beneficial effects of high CO2. With newer, leak-tight design, low-pressure plant growth system — ethylene (C2H4), a plant hormone, and water vapor, a byproduct of transpiration — can reach unacceptable levels and need to be controlled. 
+<p>
+2. To model the dynamics of carbon dioxide exchange in a closed microecosystem such as an Advanced Life Support System. Investigators will utilize modeling principles to determine the steady state and transient control parameters of carbon dioxide exchange by plants in an Advanced Life Support System. Modeling will include release of CO2 by plants in dark respiration, and transient changes in CO2 concentration as a result of increased metabolic activity by plants (in response to light or temperature) or by crew during exercise. 
+<p>
+The growth and gas exchange of plants in long-term experiments at different concentrations of O2, CO2, N2, and trace gasses, as well as total gas pressure, have not been extensively characterized. Such data is extremely useful in determining the overall design requirements for Advanced Life Support Systems. This information is also relevant to nutrient cycling, sustainability and closed-system microenvironments on Earth. 1. To characterize plant growth, gas exchange (respiration and photosynthesis), constituent gases (oxygen, carbon dioxide, ethylene and other trace gases, and water reclamation (transpirate) under environmental conditions that may apply to an Advanced Life Support System. 
+<p>
+APPROACH:<br>
+The methodology for the study is embedded in the results section below.
+<p>
+RESULTS:<br>
+Engineering Developments for the Texas A&M Low Pressure Plant Growth System <br>
+The Low Pressure Plant Growth (LPPG) system at Texas A&M University was upgraded to improve performance and enhance data collection. The GCX gas chromatograph was replaced with individual gas sensors for O2 and CO2 in each chamber. Although functional, the GCX had several disadvantages when incorporated with the LPPG: <br>
+The sampling time is five minutes per chamber so that a complete sampling circuit of the six chambers took thirty minutes. This limited the ability to control gas concentrations to tight specifications and limited the accuracy of in situ gas exchange measurements. The GCX removed a small amount of gas (140 mL) for each sample and violated the design goal of maintaining a closed system. The sampling subsystem of the GCX was limited by design to six chambers. The GCX had ongoing maintenance issues and reliability concerns. Much of the work done by the factory field installer had to be reworked by the engineering staff to function as intended. Unfortunately, when the GCX is not functioning correctly the entire LPPG system is shutdown. When one or more of the four columns in the GCX failed and required replacement, the engineering team decided to accelerate incorporation of new gas sensors rather than spend $5,000 per column to repair the GCX, which we wanted to eliminate from the LPPG system anyway. Thus, the engineering focus for the second half of the year was to incorporate the sensors identified under the previous grant into the LPPG system at Texas A&M University. This new system is currently designated as the Generation IV Low Pressure Plant Growth (LPPG) system. 
+<p>
+Generation IV LPPG Hardware Development<br>
+The Generation IV LPPG utilizes individual PIC16F877 microcontrollers (Microchip Technologies, Scottsdale, AZ) for pressure and gas composition control and data acquisition for each growth chamber. This is the same MCU that was used in the Generation III LPPG and it has proven to be highly serviceable. A newer MCU from Microchip, the 18F452, shares the same pin configuration with the 16F877 and could be used to upgrade if additional program memory was needed. 
+<p>
+The selected O2 sensor is a motion stable, weak acid electrolyte oxygen sensor (MAX-250, Maxtec Inc, Salt Lake City, Utah). This sensor provides a stable signal over an oxygen concentration range of 0 – 100% (0 – 101 kPa partial pressure of O2), will operate for 900,000 hours, utilizes a non-caustic electrolyte, and is unaffected by acid gases including CO, CO2, and NOx. Testing of these sensors in two LPPG chambers has shown them to be reliable over the range of total pressure and O2 partial pressures used in our plant growth experiments. The sensor output is approximately 10 mV DC at ambient O2 partial pressure (20.9 kPa) and must be amplified prior to sending it to an available analog to digital conversion (ADC) channel on the MCU. A similar sensor from a different manufacturer (P8R-11-37-D7, Analytical Industries, Pomona, CA) is under evaluation as a replacement for the Maxtec sensor. The Analytical Industries sensor provides an output of about 20 mV at ambient O2 pressures and may improve the resolution on the O2 measurements. 
+<p>
+The CO2 sensor selected utilizes a silicon based non-dispersive infrared (NDIR) technology to optically determine the CO2 concentration (model GMM222, Vaisala). The sensor response is converted to a 1 – 5 VDC signal, which is proportional to the CO2 concentration, and sent to another of the available ADC channels on the MCU. An additional vacuum rated instrumentation conductor fitting was needed for each chamber to incorporate the new sensors. Temperature and relative humidity (RH) will be measured with a HT-761 transmitter from Ohmic Instruments, Co. (Easton, MD). This instrument provides two 0 to 1 VDC outputs, proportional to temperature over the range 0 to 100oC and 0 to 100% RH, respectively. Temperature measurement is to a precision of ± 0.3oC and RH is measured to a precision of ± 2%. The conditions in the LPPG chambers are typically between 25 and 35oC and 60 to 80% RH. 
+<p>
+An additional hardware upgrade between the Generation III LPPG and the Generation IV system was the addition of nine mass flow controllers (MFCs) so that each chamber has a dedicated set for O2, N2, and CO2. With the dedicated MFCs, the response is greatly improved and O2 and CO2 levels are held much closer to the setpoint. Also, the CO2 flow meters were calibrated to a much lower maximum flow (7 mL per minute) which greatly reduced the amount of overshoot in the gas addition. The improved control of the Generation IV system and ability of each chamber to be fully independent has greatly expanded our capabilities. New printed circuit boards (PCBs) were designed to provide access to the MCU analog input pins to read the new sensors and to provide the appropriate power to the RH/Temperature sensor. 
+<p>
+Generation IV LPPG Software Development <br>
+There were only minor software modifications needed from the Generation III LPPG program to accommodate the Generation IV LPPG hardware. The MCU program is written in C and programmed into the MCU using Microchip development tools. In preparation for incorporation of the new sensors, the microcontroller (MCU) program was modified to access the additional analog inputs and to set up a secondary timing circuit to control when the sensors are read. Both the O2 and CO2 sensors have a reported response time to of about 30 seconds to reach 97% of the final reading. The only other significant modification of the program was relocation of the calibration equations from the MCU to the LabVIEW interface program. That allows investigators to recalibrate without having to reprogram the MCUs. The research team has determined to work exclusively in units of partial pressure for CO2 and O2. These units are equivalent to mass by the ideal gas law (PV=nRT) and eliminate any confusion about the environmental conditions surrounding the plants. Partial pressure is also the driving force in gas exchange in the plants. 
+<p>
+Plant Biology Studies at the Texas A&M Low Pressure Plant Growth System <br>
+There are advantages in growing plants under hypobaric (reduced atmospheric pressure) conditions in biomass production for extraterrestrial base or space flight environments. Elevated levels of the plant hormone, ethylene, occur in enclosed crop production systems and in space-flight environments leading to adverse plant growth and sterility. Objectives of this research were to characterize the influence of hypobaria on growth and ethylene evolution of lettuce (Lactuca sativa L. cv. Buttercrunch). 
+<p>
+As reported in the Engineering Section, considerable time was spent on reconfiguring the LPPG system from its reliance on the process GCX gas chromatograph to direct sensor monitoring of the partial pressures of CO2 and O2. Because of the difficulty in changing over the system from the GCX, investigators have been limited to shorter 7-8 day duration studies. They plan on doing longer-term studies under low pressure (25 kPa) and ambient (101 kPa) total pressure. 
+<p>
+Investigators are finding that plants can be grown under low pressure and that dark respiration and ethylene levels are much higher under ambient than low total pressure with lettuce production. The night (dark respiration) levels were greater under ambient than low pressure. The O2 levels increased under both ambient and low pressure. There was a faster draw-down, which had a higher dark respiration and subsequent CO2 substrate level. This suggests a higher net assimilation rate of the ambient pressure plants. A minimum CO2 of 100 Pa was maintained during the light cycle. The dark respiration of 101 kPa (ambient) is greater (larger slope) than low pressure plants. 
+<p>
+Growth was comparable in lettuce grown under low (25 kPa) and ambient (101 kPa) total gas pressures. However, tip burn occurred under ambient, but not low pressure, in part because of adverse ethylene levels (He et al., 2005). Under ambient pressure, there were higher CO2 assimilation rates and dark respiration rates (higher night consumption of metabolites) compared to low pressure. This could lead to greater growth (biomass production) of low pressure plants during longer crop production cycles.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNJ04HD77G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Davies, Fred</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Life support systems, Plant biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Plants</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/7fs3-s371</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>03-OBPR-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/da1b698e-828c-5c9f-a260-40f3627c489c?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/da1b698e-828c-5c9f-a260-40f3627c489c?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

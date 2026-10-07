@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Effect of Skeletal Unloading on Bone Formation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/cc904958-c844-51e3-b843-a2d64dd03be8?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNA04CC67G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Effect of Skeletal Unloading on Bone Formation</h1>
+        <div class="meta-id">Record ID: NNA04CC67G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/cc904958-c844-51e3-b843-a2d64dd03be8?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Skeletal unloading results in an inhibition of bone formation associated with a decrease in osteoblast number, impaired mineralization of bone, and altered proliferation and differentiation of osteoprogenitor cells. Although such changes are likely to be mediated by multiple factors, resistance to the skeletal growth promoting action of insulin like growth factor-I (IGF-I) appears to play an important role. IGF-I mRNA and protein levels rise during skeletal unloading, but the ability of IGF-I to stimulate proliferation of bone cells in vivo and in vitro when taken from unloaded bone is markedly impaired. This resistance to IGF-I is associated with a failure of IGF-I to activate its receptor and the subsequent IGF-I signaling pathways. BMSC from unloaded bone show a reduction in integrin expression, and inhibition of integrin signaling reproduces the findings of IGF-I resistance. 
+<p>
+Specific Aims: 1. Determine the point(s) at which skeletal unloading blocks IGF-I stimulated bone formation. a. Determine whether skeletal unloading alters the mesenchymal pool committed to osteoblast differentiation. b. Determine whether skeletal unloading alters the ability of IGF-I to bind to and activate the IGF-I receptor (IGF-IR) in those cells committed to osteoblast differentiation c. Determine the relative contributions of the ras/MAPK and PI3K/Akt pathways to the proliferative response to IGF-I. d. Determine whether skeletal unloading alters the protein levels and/or activation of the components of the pathway(s) mediating the proliferative response to IGF-I. e. Determine whether skeletal unloading alters the nuclear translocation of ERK, PI3K, and Akt and cellular levels of cyclin D1, p21cip, and p27kip 2. Determine the ability of skeletal unloading to block the response of BMSC to other growth factors such as EGF, PDGF and FGF with respect to: a. Proliferation b. Growth factor receptor number, binding, and activation c. Activation of the ras/MAPK and/or PI3K/Akt pathways 3. Determine the interaction between IGF-I and integrin signaling as affected by skeletal unloading in the regulation of osteoprogenitor cell proliferation. a. Determine the mRNA and protein levels of the various integrins in osteoprogenitor cells from normally loaded and unloaded bone b. Determine which integrins potentiate IGF-I responsiveness with respect to proliferation and activation of the IGF-IR and the ras/MAPK and PI3K/Akt pathways c. Determine whether the effect of integrins on IGF-IR activation requires direct interaction with the IGF-IR d. Determine whether correction of integrin levels, if altered by skeletal unloading, will restore IGF-I responsiveness with respect to proliferation and activation of IGF-I signaling pathways. 
+<p>
+APPROACH:<br>
+The methodologies are embedded in the Objectives above and the Results below. 
+<p>
+RESULTS:<br>
+1) Determine the points at which skeletal unloading blocks IGF-I stimulation bone formation.<br>
+Skeletal unloading does not alter the binding of IGF-I to its receptor. Investigators used an analog of IGF-I, namely des IGF-I, which does not bind to IGF-binding proteins and demonstrated that like IGF-I itself binding to the bone marrow stromal cells (BMSC) from loaded and unloaded bones is equivalent. The down stream events such as activation of the MAPK pathway and the subsequent proliferative response to IGF-I are impaired in BMSC from unloaded bones, but this follows the failure to activate the IGF-I receptor. We have shown that skeletal unloading reduces the expression of a number of integrins, and the use of the integrin inhibitor echistatin reproduces the effects of skeletal unloading on IGF-I responsiveness. Thus, the investigators believe that the loss of bone during skeletal unloading is due to IGF-I resistance caused by the failure of integrins to enable IGF-I to activate its receptor. In contrast when the animals are reloaded, they are able to restore IGF-I responsiveness, integrin expression, and accelerated bone formation. 
+<p>
+2) Determine the ability of skeletal unloading to block the response of BMSC to other growth factors. <br>
+Investigators examined in depth the effect of skeletal unloading on the resistance to PDGF. To their surprise, BMSC from unloaded bones respond quite well to PDGF with respect to activation of the PDGF receptor (via phosphorylation) and proliferation. Furthermore, the integrin antagonist echistatin, which blocks the response of BMSC to IGF-I, fails to block the response of BMSC to PDGF. Thus, the resistance to IGF-I caused by skeletal unloading appears to be specific to IGF-I and is not generalized to all other growth factors. 
+<p>
+3) Determine the interaction between IGF-I and integrin signaling as affected by skeletal unloading.<br>
+As noted above the investigators found that the expression of a number of integrins is reduced in the BMSC from unloaded bones. They are having some difficulty showing that the protein levels are reduced because of the lack of good antibodies to rat integrins. However they have developed methods to selectively knockout specific integrins to determine which if any are critical for BMSC response to IGF-I. These experiments are being performed in both rat BMSC and a human osteoblast cell line for which better integrin antibodies are available. Using this latter cell line, the investigators have had success in showing that at least one of the integrins of interest binds directly to the IGF-I receptor, as shown by co-immunoprecipitation. Furthermore, they have developed an in vitro model using pulsatile fluid flow to test whether integrins per se can activate the IGF-IR when load is applied in the absence of IGF-I. The results show that load can activate the IGF-IR, which appears to be dependent on selected integrins and the matrix containing selected integrin ligands on which the cells are plated. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNA04CC67G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bikle, Daniel</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/dzbm-sw17</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>03-OBPR-03</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/cc904958-c844-51e3-b843-a2d64dd03be8?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/cc904958-c844-51e3-b843-a2d64dd03be8?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inflight Exerciser and Work Tolerance - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/36a4cdd4-8a98-5bd9-8371-dab12949f7e7?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>M003</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Inflight Exerciser and Work Tolerance</h1>
+        <div class="meta-id">Record ID: M003</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/36a4cdd4-8a98-5bd9-8371-dab12949f7e7?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+The response of the cardiovascular system to a quantified workload is a frequently used
+index of the general physical condition of an individual. The objective of the Inflight
+Exerciser and Work Tolerance (M003) experiment was to evaluate the day-to-day general
+physical condition of the Gemini 4 , Gemini 5, and Gemini 7 astronauts during space flight
+by evaluating the cardiovascular system. In this examination, variation in heart rate,
+blood pressure, and respiration rate to a calibrated workload was studied preflight and
+inflight, as the basis for measuring the response of the cardiovascular system. </p>
+
+APPROACH: <br>
+The exercise device used for the experiment consisted of a pair of rubber cords. The
+cords were attached to a nylon handle at one end and to a nylon foot strap at the other. A
+stainless steel cable limited the stretch length of the rubber bungee cords and limited
+the isotonic workload of each pull. The device exercised the arms by holding the feet
+stationary while the astronaut pulled the handle. In flight, a bioinstrumentation system
+was used to collect the cardiovascular data. These data were simultaneously recorded by
+the onboard biomedical magnetic tape recorder (for real-time evaluation) and telemetered
+to the ground-based monitoring stations. </p>
+
+<p>Exercise periods lasted for 30 seconds, during which time the astronaut stretched the
+bungee cords through a full extension one time per second. Ten exercise periods were
+performed by subject A of the Gemini 4 mission, while seven exercise periods were
+performed by subject B. Exercise periods were performed three times daily by the Gemini 5
+astronauts. During the Gemini 7 mission, the exercise was scheduled twice daily.
+Additional isometric and isotonic exercises were performed by the Gemini 7 astronauts
+approximately three times daily. </p>
+
+<p>Heart rate was determined by counting beats during 15-second intervals for 2 minutes
+before and after exercise, as well as during the first and last 15-second intervals during
+each exercise. Blood pressure measurements were obtained before and after each exercise
+period. </p>
+
+RESULTS: <br>
+Comparison of data from preflight exercise periods with data obtained during flight
+revealed little difference in heart rate response for all astronauts. In addition,
+comparison of data collected from the inflight exercise periods from the first to the last
+day of Gemini 5 revealed little difference in heart rate response. Gemini 4 astronauts
+exhibited a moderate rise in heart rate during exercise, with a rapid return to near
+pre-exercise levels within 1 minute following exercise. The astronauts' heart rates
+returned more rapidly to pre-exercise values than did the Mercury 9 astronaut tested (a
+34-hour mission). The heart rate of the Gemini 4 astronauts returned to pre-exercise
+values 45 to 60 seconds after cessation of exercise. The one astronaut of the Mercury 9
+mission had a mean post-exercise heart rate during flight that was slightly increased for
+approximately 2 minutes after exercising. However, the environmental control system of the
+Gemini spacecraft was superior to that of the Mercury spacecraft; therefore, the data were
+not strictly comparable. Evaluation of the heart rate data revealed no significant
+difference between the heart rate responses (of both Gemini 4 astronauts) to exercise
+during the mission and the responses obtained before the mission. Thus, using the rate of
+return of the heart rate to pre-exercise values as an index of physical condition, there
+was no evidence of cardiovascular deconditioning at any time during the Gemini 4 mission.
+Results were similar for Gemini 5 and 7 astronauts. </p>
+
+<p>During Gemini 4, blood pressure changes were minimal. Generally, blood pressure
+measurements, before and after exercise periods on Gemini 5 were not remarkable.
+Post-exercise systolic pressures of both astronauts tended to be higher than pre-exercise
+values. Generally, post-exercise diastolic pressures were slightly higher than, or were
+identical to, pre-exercise values. After the fourth day of flight, both astronauts used
+the exerciser frequently between scheduled medical data passes. Both Gemini 5 astronauts
+remarked that exercise was essential and beneficial on long-duration space flights. The
+results were similar for Gemini 7 astronauts. </p>
+
+<p>On the basis of the data obtained during the missions, investigators concluded the
+following: <br>
+1) The response of the cardiovascular system to a calibrated workload was relatively
+constant for a given individual during space flights lasting up to 14 days. </p>
+
+<p>2) Crewmembers were able to perform mild-to-moderate amounts of work under the
+conditions of space flight and within the confines of the Gemini spacecraft. This ability
+continued essentially unchanged for up to 14 days in flight. </p>
+
+<p>3) Using a variant of the Harvard Step Test as a cardiovascular deconditioning index,
+no decrement in the physical condition of the crewmembers was apparent during space
+flights of up to 14 days. No decrement was observed under the stress of the relatively
+mild workloads imposed in this experiment. <END> </p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>M003</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rapp, Rita</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Gemini</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Gemini 4&#x27;], [&#x27;Gemini 5&#x27;], [&#x27;Gemini 7&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/1h5g-zk69</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/36a4cdd4-8a98-5bd9-8371-dab12949f7e7?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/36a4cdd4-8a98-5bd9-8371-dab12949f7e7?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

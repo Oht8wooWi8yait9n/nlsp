@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Structural Chromosome Aberrations Formed in Response to Changes in Proton Energy and Dose Rate - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/8f7d9af5-02b0-51f2-aadf-9eb89cc45423?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX07AP83G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Structural Chromosome Aberrations Formed in Response to Changes in Proton Energy and Dose Rate</h1>
+        <div class="meta-id">Record ID: NNX07AP83G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/8f7d9af5-02b0-51f2-aadf-9eb89cc45423?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>Risk uncertainties related to radiation exposure during space exploration are unacceptably large. These include the effects of sporadic solar particle events (SPEs) which can produce relatively high levels of radiation, principally from protons. The notion that dose rate effects from protons will be the same as for x- and gamma rays is widely held. However, not much direct experimental evidence to support this contention exists. In fact, the resultant dose to personnel from an SPE can be high enough to warrant concerns of cancer induction. Because human epidemiological data in this area are not available, reduction in risk uncertainties will require data from meaningful surrogate endpoints. For this investigation, structural damage to chromosomes of human cells in culture has been chosen as a surrogate endpoint for cell death and cancer.
+<P>
+An SPE will be simulated using proton emissions from the National Space Radiation Laboratory (NSRL) at Brookhaven National Laboratory (BNL). Owing to differences in ionization density that may translate to differences in biological effect, proton energies of 50 MeV and 250 MeV will be studied. These will be delivered at both high and low dose rates. Results will then be compared to those obtained for gamma rays from a 137-Cesium source. 
+<P>
+Objective 1
+Construct quantitative dose responses for the induction of chromosome aberrations found in cells when they arrive at the first mitosis following exposure. For this and other objectives, multiplex fluorescence in situ hybridization (mFISH) will be used, which effectively paints each of the 23 pairs of human chromosomes a unique color. This allows even very complicated rearrangements among all chromosomes to be visualized simultaneously. 
+<P>
+Objective 2
+Complete an analysis of chromosome damage in clonal descendants of single cells that survive exposure to radiation. Several such clones will be expanded in culture and examined by mFISH for transmissible chromosome aberrations. A subset of these clones will be further examined for structural aberrations that are too small to be seen under the microscope, by employing comparative genomic hybridization applied to DNA microarrays (aCGH). Genetic damage in cells surviving radiation may be diagnostic of the type of radiation encountered, and that such damage has more direct relevance to carcinogenesis. 
+<P>
+APPROACH:<BR>Energies and dose rates that were compatible with the investigation’s scientific objectives were determined on the basis of biophysical modeling, and constraints of NSRL facilities. Two runs were made at NSRL. For the first run, 150 MeV protons and 1 GeV protons were used. Both were delivered at high (30 cGy/min) and low (30 cGy/h) dose rates to telomerase-immortalized human fibroblasts to total absorbed doses of (not including the sham-irradiated zero-dose control) 100, 200, and 300 cGy. For the second run, 50 MeV protons became available, and this energy was used instead of the previous 150 MeV treatment group. As in the first run, 1 GeV protons were used again, serving as a repeat. For both NSRL runs, density-inhibited telomerase-positive BJ-1 human fibroblasts were re-fed with conditioned medium prior to shipment to NRSL. The morning following exposure, flasks were shipped back to UTMB (University of Texas Medical Branch) for immediate subculture.
+<P>
+RESULTS:<BR>The expected diminution of chromosome damage per unit dose following reduction in dose rate was confirmed, as was the predicted attenuation in upward curvature. These results are consistent with the assumption that protons and photons elicit a qualitatively similar biological response. Curvature in the dose response following 150 MeV protons was effectively eliminated at the LDR of 0.05 cGy/min. This is evidence that the limiting low dose rate (LLDR) was reached, and is consistent with expectations based on gamma ray studies. Irrespective of energy, the preponderance of curvature in all responses derives from complex exchanges, which is also similar to the situation for photons.
+<P>
+The above conclusions regarding similarity of effect between high energy protons and gamma rays need to be tempered by the following observations:
+<P>
+The unexpected observation that higher energy protons were more effective at producing chromosome damage per unit dose. More data for the 50 MeV protons would be needed to establish whether this is a trend.
+
+The fact that curvature in the response was not altogether eliminated for the higher energy 1 GeV protons following LDR. It is unknown whether the LLDR hadn’t yet been reached for this radiation, or whether single track action is capable of producing such curvature. Additional work may eventually be needed to put hard numbers on quantitative differences regarding gamma photons versus protons in order to estimate meaningful RBEs. In particular this would include more dose points over the lower dose range.
+<P>
+Regarding clones recovered from exposed cell populations, roughly 25% following 3 Gy of protons harbored transmissible chromosome rearrangements, most of which were simple reciprocal translocations; a significant number contained complex exchanges as well that involve simultaneously three or more chromosomes. These results are consistent with those observed following exposure to 4 Gy 137Cs gamma-rays. Because they are homogeneous for the particular rearrangements they carry, these clonal derivatives serve as ideal material for molecular analysis, as for example, analysis by array-based comparative genomic hybridization (aCGH)
+<P>
+High-density CGH arrays (aCGH) were used to examine the distribution of large (megabase-sized) and small (tens of kilobase size) deletions in several of the surviving clones described above. The size-frequency distribution of such deletions, on both the megabase and kilobase scales suggest that the formation of smaller deletions are favored over larger ones, but that the distributions are characterized as having “long asymmetrical tails.” In at least one case, a clone had suffered a deletion in near proximity to an apparently simple reciprocal translocation, suggesting the rearrangements was “complex,” i.e., a co-deletion, as part of the translocation/exchange process.
+<P>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX07AP83G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cornforth, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/41rk-cj26</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2007 Space Radiation NNJ07ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/8f7d9af5-02b0-51f2-aadf-9eb89cc45423?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/8f7d9af5-02b0-51f2-aadf-9eb89cc45423?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Microgravity on Renal, Endocrine and Volume Regulatory Function - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/67fd2b71-f850-5c84-95fe-58c493db2bf9?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958CA00406</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Microgravity on Renal, Endocrine and Volume Regulatory Function</h1>
+        <div class="meta-id">Record ID: NCC958CA00406</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/67fd2b71-f850-5c84-95fe-58c493db2bf9?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES<br>
+Orthostatic intolerance remains an operational problem following space flight. In addition, there is growing evidence that cardiac dysrhythmias may pose a threat to the health of space travelers. At present, no effective countermeasures exist for orthostatic intolerance and for the probable increased risk of ventricular dysrhythmias. 
+<P>
+In the last six years, investigators have addressed the subject of renal, endocrine and volume-regulating function during head-down tilt bed rest. They have found that simulated microgravity induces changes in the volume-regulating systems and electrolyte excretion, and leads to changes in cardiac electrical stability. They have also found that using their tilt-test protocol, the pre-bed rest tilt-test tolerance was predictive of post-bed rest tilt-test tolerance. Investigators proposed to conduct three double-blinded randomized trials to: 1) Investigate the use of a pre-bed rest tilt-test as a means to screen countermeasures against orthostatic intolerance, and investigate the influence of these countermeasures on the renal and endocrine responses to orthostatic stress. 2) Develop effective interventions for the treatment of orthostatic intolerance in women since from our previous studies this complication of space travel appear to have a gender difference. 3) Investigate the effectiveness of individualized countermeasures identified during a pre-bed rest tilt-test in reducing post-bed rest orthostatic intolerance, as well as their influence on the renal and endocrine responses to orthostatic stress. 4) Investigate the effects of different countermeasures in reducing cardiac electrical instability, and to study the effects of these countermeasures on baseline orthostatic tolerance. 5) Investigate the effects of different countermeasures in reducing cardiac electrical instability after simulated microgravity, and to study the effects of these countermeasures on orthostatic tolerance and on the renal and endocrine responses to simulated microgravity. 
+<P>These studies have implications for the treatment and prevention of maladaptive hemodynamic responses experienced by astronauts particularly in women in flight and on return to Earth. They will provide an innovative way of testing "individualized countermeasures". Finally, the results of these studies may help us better understand the pathophysiology of alterations in volume homeostatic mechanisms in cardiovascular diseases such as congestive heart failure, dysrhythmias and hypertension. 
+<P>
+APPROACH:<br>
+Healthy female and healthy male subjects were given a constant diet for 3 to 5 days, after which they underwent a tilt-stand test (pre-TST) and began 14 to 16 days of head-down tilt bed rest (HDTB), followed by a repeat tilt-stand test (post-TST).
+<p>
+RESULTS:<br>
+Instead of causing orthostatic intolerance, higher calf compliance before bed rest leads to recruitment of compensatory mechanisms for a better toleration of orthostatic stress. With the absence of orthostatic challenge during bed rest, the difference in calf hemodynamic parameters is attenuated between the tilt-tolerant and tilt-intolerant groups.
+<p>
+The frequency of orthostatic intolerance is higher in women than in men and is not modified by midodrine at the dose used. This increased susceptibility is likely secondary to intrinsic basal differences in the activity of volume-mediated parasympathetic and adrenergic systems and in venous tone. Thus, approaches to reduce orthostatic intolerance in women are likely to differ from those effective in men.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958CA00406</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Williams, Gordon</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/krst-wj93</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2003 Biomedical Research &amp; Countermeasures 03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/67fd2b71-f850-5c84-95fe-58c493db2bf9?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/67fd2b71-f850-5c84-95fe-58c493db2bf9?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

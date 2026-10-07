@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Noninvasive Intracranial Diameter and Pressure Measurement Using Ultrasound - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/85164f75-faf2-522c-94af-ff64f8aebd90?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>96OLMSA0ICP</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Noninvasive Intracranial Diameter and Pressure Measurement Using Ultrasound</h1>
+        <div class="meta-id">Record ID: 96OLMSA0ICP</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/85164f75-faf2-522c-94af-ff64f8aebd90?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+NASA and the National Institutes of Health identified intracranial pressure (ICP) as one of the most important parameters to investigate problems of astronauts in space and head trauma of patients on Earth. Current clinical techniques for measuring pressure in the head, however, require surgery to implant a pressure sensor. The primary objectives of the proposed research were to: (1) refine and validate a noninvasive ultrasound technique for monitoring changes in ICP; (2) examine the effects of simulated and actual microgravity on ICP and cerebrovascular hemodynamics; and (3) facilitate transfer of the technology for Space Station and clinical use. <P>
+APPROACH:<BR>
+The device, which was originally developed and patented by co-investigators Yost and Cantrell in 1993 and later modified by Hargens and co-workers in 1996, uses an ultrasonic phase comparison method to measure slight changes in cranial diameter that occur with changes in ICP. The proposed research was conducted over three years. Year one involved correlation with ICP in cadavera and optimization of the ultrasound measurement technique in healthy humans. Years two and three included measurement of cranial diameter and pulsatility in patients with elevated ICP and in healthy individuals during parabolic flight. The proposed research will help refine and validate the noninvasive ultrasound device for future spaceflight investigations and for clinical use. A noninvasive method for monitoring ICP may aid our understanding of the pathophysiology of space adaptation syndrome and post-flight orthostatic intolerance, and may provide a valuable clinical tool for early diagnosis and treatment of patients with elevated ICP.
+<P>
+The ultrasound technique utilized to detect skull pulsation is based upon a modification of the pulsed phase-lock loop (PPLL) design, making it possible to measure slight changes in distance between an ultrasound transducer and a reflecting target. In the typical operation of the PPLL, the instrument transmits a 500 kHz tone burst through the cranium via a transducer placed on the head. The ultrasonic wave passes through the cranial cavity, reflects off the inner surface of the opposite side of the skull, and is received by the same transducer. The instrument compares the phase of emitted and received waves and alters the frequency of the next stimulus to maintain a 90¦ phase difference between the output of the device and the received signal. This repetition takes place at selectable intervals between 0.5 to 20 msec.
+<P>
+RESULTS:<BR>
+Instrumentation modifications were performed to improve reproducibility and clinical utility. Transducers of different diameters (10-25 mm) were evaluated and improved results were obtained as the transducer size increased. The current instrumentation utilizes a 25 mm transducer. The transducer cable was also modified to provide greater durability and flexibility so that incidental contact with the cable, which can occur frequently during clinical use, did not alter the position of the transducer or damage the cable. The graphical user interface was improved to facilitate data acquisition and analysis and increase user-friendliness.
+<P>
+Correlation of noninvasive ICP measurements to invasive ICP clinical instruments: the results obtained from this noninvasive, ultrasonic PPLL instrument were compared to those from the directly-measured ICP obtained from standard clinical instruments in several trauma patients. The standard clinical technique for invasive ICP used a fiber-optic, transducer-tipped catheter placed in the patient's cranium through a burr hole, following standard clinical protocols, to monitor ICP directly. The PPLL instrument employed an ultrasound transducer that is placed on the temporal area above the patient's ear and secured with an elastic wrap. To correlate the PPLL output with direct ICP values, measurements from both instruments were digitized simultaneously and stored on a laptop computer. Blood pressure was also monitored and acquired simultaneously with the data from the ICP instruments.
+<P>
+The PPLL output signal amplitude responded to direct measures of ICP. As the directly-measured ICP increased, the PPLL output signal amplitude also increased. Decreased ICP led to decreased PPLL signal amplitude. The frequency of the pulsatile PPLL signal was the same as that of both the blood pressure and directly measured ICP signals. These results indicate that this noninvasive technique responds similarly to the current invasive techniques and that it is able to detect ICP changes that are clinically relevant and on the order of a few mmHg.
+<P>
+Effects of induced fluid shifts on noninvasive ICP measurements: changes in cranial distance pulsations were measured during induced fluid shifts in healthy volunteers to evaluate the feasibility of the device for future space flight experiments. Six subjects were placed on a tilt table and studied at four different positions. The subjects were positioned randomly at 60¦, 30¦, supine (0¦), and -15¦ for one minute at each angle. Headward fluid shifts were induced as the table was positioned at different angles, with the least shift expected at 60¦ (head-up) and the greatest expected at -15¦ (head-down). Each subject was fitted with an ultrasound transducer and blood pressure cuff, while data were simultaneously acquired from the PPLL and blood pressure instruments. Two additional subjects (identical twins) were studied before and after 30 days of bedrest at a tilt angle of -15¦. This protocol was used to simulate the fluid shifts and resulting physiological adaptations that would be experienced during exposure to microgravity. Data were acquired in two postural positions, upright (90¦) and supine (0¦).
+<P>
+In all subjects, the PPLL output signal amplitude increased as headward fluid shifts were increased. The signal amplitude acquired from the 6 subjects increased linearly as the tilt angle decreased (i.e., greater headward fluid shifts). The signal amplitude acquired from the identical twins was higher in the supine position than the upright position. Blood pressure also increased slightly, but not significantly, as the tilt angle was decreased. The influence of blood pressure was incorporated by using the ratio of PPLL signal amplitude to arterial blood pressure amplitude. This parameter also linearly increased with increased fluid shift induced by decreased tilt angle. The effects of prolonged bedrest on ICP are still being analyzed from measurements performed on the identical twins.
+<P>
+Instrumentation modifications have improved performance and provided a tool suitable for clinical experimentation and potential use in space flight. Early clinical results have demonstrated that this noninvasive instrument responds in concert with the currently employed invasive ICP technique. It can be inferred that measurements reflecting ICP can be performed noninvasively with this tool, providing a significant advantage over current invasive instrumentation. Significant postural dependence was measured with this technique. Our results agree with published data concerning ICP responses to gravity-induced physiological fluid shifts.
+<P>
+Compliance, defined as the ratio of change in volume to change in pressure, is inversely related to pressure in a relatively rigid container. The increased ICP, measured as a function of tilt angle, suggests that there is a reduction of intracranial compliance with a headward fluid shift. We cannot directly extrapolate our results to microgravity exposure, but our experiments were designed to simulate fluid shifts that occur in microgravity and therefore the results may be applicable. This noninvasive ultrasonic technique is sensitive enough to detect slight skull movements associated with normal arterial pressure pulsations as well as those due to trauma and postural changes.
+<P>
+Previously, ICP has been measured using invasive techniques by inserting a catheter or probe into the intracranial or intraspinal space. Invasive procedures are time consuming, labor intensive, risky, and utilized primarily for severe cerebral disorders. Early noninvasive measurements of ICP will help reduce both the mortality and morbidity associated with head trauma, tumors, and cerebrovascular diseases. It may also expand scientific understanding of ICP factors in a variety of common, but less severe conditions, such as migraine headaches, acute mountain sickness, and space adaptation syndrome.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>96OLMSA0ICP</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hargens, Alan</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/r91v-ms70</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>96-OLMSA-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/85164f75-faf2-522c-94af-ff64f8aebd90?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/85164f75-faf2-522c-94af-ff64f8aebd90?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

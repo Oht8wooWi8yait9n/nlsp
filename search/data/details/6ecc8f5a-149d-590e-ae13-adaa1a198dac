@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Does Intermittent or Continuous Artificial Gravity Counteract Long Duration Bed Rest Induced Neurocognitive Declines? - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6ecc8f5a-149d-590e-ae13-adaa1a198dac?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC18K0783</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Does Intermittent or Continuous Artificial Gravity Counteract Long Duration Bed Rest Induced Neurocognitive Declines?</h1>
+        <div class="meta-id">Record ID: 80NSSC18K0783</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6ecc8f5a-149d-590e-ae13-adaa1a198dac?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br><br><div>
+There are numerous untoward effects of space flight on human physiology, which stem directly from the absence of gravity. These include sensorimotor effects such as postflight impairments in posture control and locomotion, as well as inflight spatial disorientation, reduced mass discrimination, and manual tracking errors under cognitive load. Crewmembers gradually adapt their sensorimotor processing inflight in response to body unloading and altered vestibular inputs. This adapted sensorimotor state is then inappropriate upon return to Earth’s gravitational environment, with crewmembers exhibiting slow re-adaptation over days to weeks postflight. Extensive deconditioning of the cardiovascular, muscular, and skeletal systems also occurs as a direct result of microgravity. Compounding the situation for potential deep space exploration to Mars is the fact that many of these declines show dose-dependent effects.
+<div>
+This research opportunity was specifically targeted to compare the protective effects of one single daily bout of intermittent artificial gravity (AG) versus multiple daily bouts of intermittent AG. While it was expected that both protocols would mitigate bed rest-induced cardiovascular deconditioning such as orthostatic intolerance and aerobic power, it would be important to contrast both exposures for both efficacy and tolerance.
+</div><div>
+There are multiple potential countermeasures in use and under investigation for all of these issues. Artificial gravity, by contrast, could provide a single integrated countermeasure by “replacing” Earth’s gravitational effects on the body. It remains unclear what impact this centrifugation might have on sensorimotor control, particularly vestibular function, however. Constant centrifugation is also not well tolerated by subjects, but a recent study found that intermittent delivery of six, five minute bursts of AG were more effective and better tolerated than a single, thirty minute bout for maintaining cardiovascular function after head down tilt bed rest. However, this and previous bed rest studies on the effectiveness of AG as a countermeasure have examined only short-duration bed rest (on the order of days to three weeks) and have not looked at the impact on functional or cognitive behaviors.
+</div><div>
+The investigators recently completed a 70 day 6° head down tilt bed rest study in which they examined a large range of brain structural, brain functional, sensorimotor, and cognitive metrics as outcome measures. Investigators selected those that are sensitive to this space flight analog environment as outcome metrics for the following aims:</div><ol>
+<li>Determine whether 30 minutes per day of supine centrifugation +1Gz at the heart is effective at mitigating declines in brain structure, brain function, sensorimotor and cognitive performance induced by 60 days of 6° head down tilt bed rest in comparison to a control group that is not exposed to AG.<br>
+</li><li>Determine whether centrifugation is more effective and better tolerated as a countermeasure when it is delivered continuously for 30 minutes or in six, five minute sessions separated by breaks of five minutes each.<br>
+</li><li>Identify predictors of individual differences in bed rest and AG responses.</li></ol>
+<div>
+APPROACH:<br>
+Investigators examined whether pre-bed rest measures of brain structure and brain function are predictive of changes in sensory, motor, and cognitive function occurring in association with bed rest, and whether they also predicted AG tolerance. The investigators combined data collected during this study with those they acquired in two predictors studies, Developing Personalized Countermeasures for Sensorimotor Adaptability: A Bedrest Study (NCC958SA03801) and Developing Predictive Measures of Sensorimotor Adaptability to Produce Customized Countermeasure Prescriptions (NCC958SA02801) to increase their predictive power.
+</div><div>
+Investigators aimed to assess changes in brain structure, function, and network integrity prior to, during, and following 30 days of head down tilt bed rest in three groups: control (no AG), continuous AG (30 minutes per day continuous) and intermittent AG (30 minutes per day in five minute bursts). To this end, they acquired a high-resolution structural MRI scan, which allowed them to conduct volumetric measurements of structures, such as the cerebellum, that are likely to exhibit changes. Resting state functional connectivity MRI (fcMRI) and diffusion tensor imaging (DTI) were used to assess brain functional (fcMRI) and structural (DTI) network connectivity, allowing for more integrative assessments of distributed neural systems than in the past. Data acquisition for both techniques was rapid and non-invasive. Moreover, because participants were not performing a task, there were no confounds of the effects of fatigue, attention, or task difficulty that often complicate interpretation of task-driven fMRI studies. The investigators acquired both types of scans as part of their outcome metrics.
+</div><div><br></div><div>
+Twenty-four participants were distributed across three groups for 60 days of head down tilt bed rest (HDBR). The three groups (n = 8 each) comprised of: control (HDBR with no AG), continuous AG (supine centrifugation at +1Gz at the heart for 30 minutes per day) and intermittent AG (supine centrifugation at +1Gz at the heart for 6 bouts of 5 minutes per day, each session separated by 5 minutes rest).
+</div><div>
+Neuroimaging assessments took place at the :envihab MRI facility. Investigators acquired a high-resolution structural MRI scan, allowing them to conduct volumetric measurements of brain structures such as the cerebellum and the motor cortex that are likely to exhibit body unloading-related changes. The investigators also conducted functional MRI while participants performed a variety of cognitive and sensorimotor tasks.
+</div><div>
+Investigators performed several laboratory tests of behavior outside of the MRI scanner to supplement those conducted during neuroimaging. Balance and mobility tests were performed at the pre- and post-bed rest time points. That is, investigators would not ask subjects to stand for the interim bed rest assessments; participants could perform the other behavioral tests in the supine position. These assessments would include measures of cognitive abilities such as spatial working memory capacity and processing speed; measures of hand motor function such as unimanual dexterity and bimanual coordination; measures of posture and locomotor control which has shown to be sensitive to both space flight and bed rest changes; and measures of vestibular function.
+</div><div><br></div><div>
+RESULTS:<br><br></div><div><div>This project was conducted as part of the ‘’AGREBSA’’ campaign
+at envihab in Cologne, Germany. This was a 60-day head down tilt bed rest study
+with daily centrifugation as a potential countermeasure. One group did not participate
+in centrifugation, one received 30 minutes per day of continuous centrifugation,
+and one received 30 minutes per day of intermittent centrifugation in 5-minute
+sessions. <o:p></o:p></div>
+
+<div>In summary, the results revealed that daily centrifugation
+migrated some of the behavioral changes that occurred with long duration head
+down tilt bed rest. The results also showed that the intermittent artificial
+gravity group was less susceptible to post-rotation illusory motion. In some
+cases, effect sizes were moderate, but the results were not statistically
+significant. This could be due to the small sample sizes per group. It could
+also be because several of the measures relied on vestibular inputs, and the
+centrifugation only amounted to 0.3g at the level of the head. Several cases of
+group x time differences in brain functionality were noted during the performance
+of a range of tasks. These changes suggest greater neural efficiency in the
+artificial gravity groups, and/or differential sensory re-weighting between the
+artificial gravity and control groups.&nbsp;<o:p></o:p></div></div><div></div></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC18K0783</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Seidler, Rachael D.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/x7zb-bn83</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Work in progress. Contact LSDA to learn when data is projected to be available for reuse</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2015-16 HERO NNJ15ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6ecc8f5a-149d-590e-ae13-adaa1a198dac?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6ecc8f5a-149d-590e-ae13-adaa1a198dac?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

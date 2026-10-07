@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arabidopsis as a Model for the Study of DNA Double Strand Break (DSB) Repair and DSB Induction by Space Radiation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d31584d0-50b5-54c0-b896-609fdabe66a1?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNA04CL13G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Arabidopsis as a Model for the Study of DNA Double Strand Break (DSB) Repair and DSB Induction by Space Radiation</h1>
+        <div class="meta-id">Record ID: NNA04CL13G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d31584d0-50b5-54c0-b896-609fdabe66a1?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Ionizing radiation (IR) induces oxidative damage, which affects all cellular components. However, the most significant form of damage induced by ionized radiation (IR), in terms of cell death, mutagenesis, carcinogenesis, and effects on the cell cycle, is clustered DNA damage, often resulting in the formation of DNA double strand breaks. The DNA damage induced by high mass, high energy (HZE) space radiation is thought to be more complex than that induced by gamma radiation, as HZE particles generate a denser trail of ionization events in their wake. The investigators proposed to determine whether the same DNA repair pathways required for resistance to gamma radiation are also required for resistance to HZE particles. Because of the importance of double strand break (DSB) repair in prevention of carcinogenic “loss of heterozygosity” events, they have focused on DSB repair pathways. However, they are also interested in signal transduction pathways involved in the detection of IR induced damage- these pathways are important initiators of responses to IR, including cell cycle arrest, induction of repair, and induction of cell death. Thus the investigators are studying the effects of mutations in the nonhomologous end joining genes DNA ligase IV (LigIV), and Ku80, the endonuclease XPF, and the damage response genes ATM, ATR, and SOG. All of these genes are known to affect gamma resistance in mammals, fungi, and plants. Because knockouts in these genes are lethal in mammals (and, in some cases, in fungi), the investigators used the plant Arabidopsis as a model system. They used the NSRL facility at Brookhaven to compare the sensitivity of these lines to gamma versus 1GeV Fe particles. 
+<p>
+APPROACH:<br>
+The methodology for this experiment isn’t available. 
+<p>
+RESULTS:<br>
+Effects of gamma versus HZE on plant growth: The investigators irradiated Arabidopsis seeds of various genotypes and wild-type backgrounds in doses ranging from 25 to 200 Gy. Approximately 40 seeds were then sown on agar plates and the plates digitally imaged eight days later. They used the application NIH Image to trace the roots and enter the length into Excel for statistical analyses. 
+<p>
+In no case did irradiation prohibit germination- at these doses Arabidopsis embryos do not die. Germination is driven by cell expansion, not cell division, but elongation of the root to lengths greater than approx. 1.5 mm requires cell division. At the highest doses of Fe ions (200 Gy), cell expansion as well as cell division was inhibited. Approximately twice this dose of gamma would be required to induce this effect on cell elongation. 
+<p>
+In order to contrast sensitivity in a quantitative fashion, the investigators interpolated their dose-response curves to estimate the dose required to inhibit root growth at eight days by 50 percent. Most mutants that are sensitive to gamma radiation are also sensitive to HZE. In almost all cases, the biological effectiveness of HZE was about three-fold that of gamma radiation, suggesting the all of the mutations tested play similarly important roles in resistance to the effects of both types of radiation on root growth. The RBE numbers, however, need additional statistical analysis to determine their significance. The checkpoint genes ATR and ATM differed widely in their effects on resistance to HZE. Plants defective in ATR were relatively resistant to HZE versus gamma (RBE = 2.7, rather than 3.7), while ATM knockouts were relatively sensitive (RBE = 4.5). Correct interpretation of this result would depend on whether growth inhibition in these mutants is due to the prolonged imposition of a checkpoint, or to the failure of a checkpoint and resulting cell death. The LOH data suggests that the relatively HZE-resistant growth of ATR versus ATM may be due to the loss of the ATR-imposed checkpoint, resulting in enhanced loss of heterozygosity in the prematurely dividing cells. 
+<p>
+The investigators also found that the sog mutation, a defect in a transcription factor required for checkpoint response to gamma radiation in the apical meristem, has little effect on root meristem response to either gamma or HZE. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNA04CL13G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Britt, Anne</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse-ear cress (Arabidopsis thaliana) NA</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/3m15-w095</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2003 Space Radiation Biology and Shielding 03-OBPR-07</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d31584d0-50b5-54c0-b896-609fdabe66a1?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d31584d0-50b5-54c0-b896-609fdabe66a1?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

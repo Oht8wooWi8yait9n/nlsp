@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vestibular Stimulation: A Countermeasure For Bone Loss During Long-Term Space Mission - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ef59df99-0da8-5372-b949-1c332cdfece3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX12AL35G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Vestibular Stimulation: A Countermeasure For Bone Loss During Long-Term Space Mission</h1>
+        <div class="meta-id">Record ID: NNX12AL35G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ef59df99-0da8-5372-b949-1c332cdfece3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Investigators have demonstrated that loss of vestibular information following bilateral lesions in rats and mice decreases lower limb bone density, and that this effect may be mediated by activation of the sympathetic nervous system (SNS). Based on the knowledge that reduced vestibular information, increased sympathetic activation, and bone loss are common hallmarks of long-term space missions, they hypothesized that space-induced bone loss has a vestibular and sympathetic origin, and that vestibular stimulation might increase bone density. 
+<p>
+The main objective of this proposal is to evaluate the effect of vestibular stimulation on bone mass, with the goal of designing a new therapeutic approach to prevent bone loss in space. The project is divided into two specific aims. The first one will define the short and long-term effects of vestibular hair cell dysfunction on the vegetative system and on bone mass in mice, in order to determine whether this effect is compensated with time. Catecholamine levels, brown adipose tissue Ucp1/Gapdh expression, 3D-microcomputed tomography, and quantitative static and dynamic bone histomorphometry will be used. The second specific aim will characterize the effects of vestibular stimulation on the vegetative system and bone. Different centrifuge protocols (continuous and discontinuous, 1.5G/2G/2.5G) and galvanic vestibular stimulation will be used. Centrifugations will be performed in Dr. Makishma (UTMB, USA) and in Dr. Besnard and Prof. Denise (University of Caen, France) laboratories. Galvanic stimulation will be performed in Dr. Elefteriou's laboratory, in collaboration with Dr. Wood (Houston/UTMB, USA). All the bone analyses will be performed at Vanderbilt University (Dr. Elefteriou, Vanderbilt University). The part of the study performed in France is supported by the University of Caen Basse-Normandie and by the CNES. 
+<p>
+The ultimate goal of this multi-disciplinary effort is to determine whether vestibular stimulation could have beneficial effects on bone mineral density and sympathetic function during extended space mission. These findings may have application on Earth as well for the treatment or prevention of low bone mass conditions.
+<p>
+APPROACH:<br>
+Aim1. Define the short and long-term effects of vestibular loss on the vegetative system and on bone mass in mice. Vestibular lesions (VBX) have been performed in all proposed groups for bone analyses 1, 3, and 6 months post-lesion. Group A (1 month VBX) were analyzed by uCT and histomorphometry. The second and third group of mice (3 and 6 months post lesion) were also analyzed. Lastly, we collected bone marrow stromal cells (BMSCs) from sham and VBX mice to assess a possible effect of VBX on osteoblast progenitor differentiation or proliferation. Cfu-ap (=osteoblast commitment) and cfu-ob (osteoblast differentiation) assays were performed using BMSCs collected 1 month post-lesion.
+<p>
+Aim 2. To characterize the effects of vestibular stimulation on the vegetative system and bone.
+a) Centrifugations. 
+b) Galvanic vestibular stimulation. The first phase of this experiment, which consists in establishing the Hindlimb Suspension (HS) model, has been completed to confirm proper animal care and unloading-induced bone loss with our new setting.
+<p>
+Details of the GVS stimulation experiment: The occurrence of nystagmus with the stimulator was confirmed, using the eye tracker recording system. WT mice are currently tested for their response to daily GVS stimulation, in absence of hindlimb suspension (HS). Depending on the results of this experiment, the second phase of the proposed experiment will be performed (GVS+HS).
+<p>
+RESULTS:<br>
+Aim 1:
+Group A (1 month VBX): Significant bone loss and architectural changes were observed in the distal femoral epiphyses of VBX mice compared to sham-operated mice (both genders). Histomorphometry analyses revealed a significant reduction in the bone surfaces covered by osteoblasts in VBX mice, and increase in osteoclast number. These results validate the effect of arsenylate lesions on bone in mice, and serves as our main reference to assess the effect of time on VBX-induced bone loss.
+<p>
+Groups 2 & 3 (3 and 6 months post lesion): uCT analyses did not reveal significant bone changes. These results indicate that the effect of vestibular lesions on bone is transient and compensated for with time. We also collected brown adipose tissues to assess Ucp1 expression as readout of sympathetic outflow. Ucp1 expression was found upregulated in the VBX group 1 month post-lesion but not 3 and 6 months post-lesion, consistently with the bone data. These results suggest that peripheral sympathetic outflow is increased in response to VBX and contributes to VBX-induced bone loss.
+<p>
+No significant changes were detected in Cfu-ap and cfu-ob assays. These negative results suggest that VBX induces bone loss likely by reducing osteoblast proliferation, differentiation, or function in vivo rather than by reducing commitment to the osteoblasts lineage (in that latter case a reduction of cfu-ap colonies would have been observed). These results are in line with previous results and with a contribution of the sympathetic nervous system in VBX-induced bone loss.
+<p>
+Aim 2:
+<br>
+a) Four to five month-old het/+ (Control) and het/het mice (devoid of otoconia from birth) submitted to continuous centrifugation at 2G for 4 weeks in Dr. Besnard’s laboratory (France) did not experience any significant bone changes at the distal femur, as assessed by 3D computed microtomography (12 um resolution). Bone volume/tissue volume and tissue mineral density were indeed not significantly different between groups (n=10 per group). 
+</br>
+<br>
+b) After a set back of several months to get the centrifuge operational in Dr. T. Makishima’s laboratory, 4 month-old female WT mice have been submitted to intermittent centrifugation (2h/day) at 2G for 4 weeks. Here again, no differences were detected in term of bone volume/tissue volume and tissue mineral density between control and treated group, as assessed by 3D computed microtomography (n=10 per group).
+</br>
+<br>
+c) Because of the negative nature of these results, this work has not been submitted for publication.
+</br>
+<br>
+d) Galvanic vestibular stimulation 
+</br>
+<br>
+e) The Hindlimb Suspension (HS) model has been set up successfully in collaboration with Dr. D. Perrien at Vanderbilt. Following our discussions with Dr. Wood and Dr. Makishima in Galveston, we have determined the conditions of GVS stimulation that can induce nystagmus, using an eye tracker recording system. In response to GVS stimulation (0 to 300uA), eye movements in the temporal-to-nasal and upward directions were positive, and increased along with GVS current intensity, reaching a plateau at 200uA. Therefore, subsequent experiments were performed using an intensity of 200uA. Then, WT mice were tested for their response to daily GVS stimulations, in absence or presence of hindlimb suspension (HS). HS, as expected, triggered a significant bone loss in distal femurs of WT mice, as assessed by 3D computed microtomography. A decrease in all bone microarchitectural parameters was observed, as evidenced by a decrease in bone volume/tissue volume ratio (BV/TV), trabecular number (Tb.N), trabecular thickness (Tb.Th) and an increase in trabecular space (Tb.Sp). Daily GVS stimulations for 21 days in ambulatory mice did not significantly alter bone mass, although it slightly reduced body weight. Daily GVS stimulation, however, had no preventive or additional effect when applied in conjunction with HS. Mice in the HS+GVS group indeed experienced the same bone loss as observed in the HS group. Despite the negative nature of these findings, this study is the first of its kind for assessing the potential effect of GVS stimulation on skeletal homeostasis under normal and unloading conditions, and should lead to future studies based on the use of alternative GVS stimuli (duration, frequency, pulse) to prevent the deleterious effect of vestibular alterations on bone mass. The literature reports a wide combination of stimulation parameters (duration, frequency, pulse) that affect sympathetic nervous system outflow. GVS has been shown to increase muscle sympathetic nerve activity and diastolic blood pressure in humans (short 30ms trains of ten, 1ms, constant current pulses at a frequency of 333Hz / 2-4mA, every fourth heartbeat) (PMID 16308690), to decrease femoral vasoconstriction and increase brachial vascular tone in cats (30s continuous train, 0.2ms pulse width, 333Hz, 1.7 times vestibuloocular reflex threshold) (PMID 10896872) and to promote GABA release in the substantia nigra and improve locomotion in hemiparkinsonian rats (30 minutes, random frequencies <30Hz / 0.2-0.6mA) (PMID 22238601). Therefore, other modes of stimulation will have to be assessed for their potential effect on bone mass, in both normal and unloading conditions. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX12AL35G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Elefteriou, Florent</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/cqe2-qz21</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2011 Space Biology NNH11Z</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ef59df99-0da8-5372-b949-1c332cdfece3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ef59df99-0da8-5372-b949-1c332cdfece3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

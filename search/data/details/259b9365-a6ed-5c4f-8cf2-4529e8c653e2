@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cell Signaling in Undifferentiated Cells - Perceiving the Environment without Specialized Tissues - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/259b9365-a6ed-5c4f-8cf2-4529e8c653e2?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX12AK80G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Cell Signaling in Undifferentiated Cells - Perceiving the Environment without Specialized Tissues</h1>
+        <div class="meta-id">Record ID: NNX12AK80G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/259b9365-a6ed-5c4f-8cf2-4529e8c653e2?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVE:<br>
+The goal of this proposal is to explore the mechanism by which undifferentiated cells, cells presumably lacking the specializations typical of gravity response mechanisms, perceive the novel environment of spaceflight. We used undifferentiated callus cells from Arabidopsis to reveal unique gene expression patterns in response to true spaceflight as part of the BRIC-16 experiment in 2010. We followed up with examination of the response of these cells to a variety of terrestrial environments and stimuli, including spaceflight analogs such as clinorotation, hyper-g centrifugation, and parabolic flight. The present proposal moves beyond phenomenon observation to address specific hypotheses derived from these initial spaceflight and ground experiments. In BRIC-16 biologically replicated DNA microarray and RNA digital transcript profiling revealed several hundred genes in seedlings and cell cultures that are significantly affected by launch and spaceflight. While the response in intact Arabidopsis seedlings was significant but moderate in intensity, the response of undifferentiated cell cultures was dramatic, intense, and in completely different gene sets than in the intact seedlings. That undifferentiated plants cells uniquely perceive gravity raises powerful questions of gravity perception and response, and sets the stage for hypothesis-driven experimentation directed toward understanding this perception and response.
+<P>
+APPROACH:<br>
+We will use culture lines derived from gravity signaling mutants to test this hypothesis. This will investigate the underlying mechanisms by which undifferentiated cells detect and respond to the spaceflight environment in the absence of specialized tissue or organized developmental structures known to detect gravity. The read-out data will again be in the form of gene expression patterns that can be directly compared to our previous flight and ground data. These experiments are carefully scaled to the BRIC operational context and enable us to dig deeply and specifically into mechanisms associated with plant responses to the novel environment of spaceflight. Gaining insights into such mechanisms is recognized as fundamental within the previous decadal study and underpin answers to some of the biggest questions in spaceflight plant biology. 
+<P>
+RESULTS:<br>
+The BRIC-17 experiment led to some remarkable scientific developments. First, it showed that undifferentiated cells do respond to microgravity, can sense and recognize the sub-g environment and adjust the cellular processes to continue to perform in the new gravitational condition. The BRIC-17 experiment gave an insight as of how mutated cells, very different on the ground, also coped with the microgravity environment. Second, the BRIC-17 experiment demonstrated that standard approaches of comparing the genes expression in the treated sample relative to the untreated should be taken with great caution, particularly if the mutant cell lines are part of the study. The WT and mutant comparisons with a standard analysis approach looked fundamentally different, yet there were hidden similarities. The novel and original approach of expanding the comparison across the ground or the spaceflight gene expression level with multiple cross-comparisons resulted in a very different conclusion. The cells shared many genes for which expression was brought to the same level, and which could possibly reflect the required changes to cellular processes in microgravity. However, the way each cell line achieved the even expression of specific genes was very different. Therefore the two very distinctive terms were coined, the response to microgravity and the state in microgravity. The response to microgravity was considered as a pool of all genes that expression changed in orbit as compared to the respective ground controls. The microgravity state was considered as a specific level of some genes expression, likely required to readjust structures and processes to the new gravitational filed, so the new order and homeostasis required in the microgravity environment could be achieved. Assuming that being in microgravity would require some structural and physiological changes in the cells, they would be attained but in different ways depending on cell types.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX12AK80G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Paul, Anna-Lisa</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Plant biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;SpaceX-2&#x27;], [&#x27;STS-131&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse-ear cress (Arabidopsis thaliana) Col-0</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/5fcm-9z92</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2011 Space Biology NNH11Z</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/259b9365-a6ed-5c4f-8cf2-4529e8c653e2?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/259b9365-a6ed-5c4f-8cf2-4529e8c653e2?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

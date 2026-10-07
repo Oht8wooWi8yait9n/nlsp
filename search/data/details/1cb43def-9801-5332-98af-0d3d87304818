@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clinical Outcome Metrics for Optimization of Robust Training - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/1cb43def-9801-5332-98af-0d3d87304818?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958SMST03801</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Clinical Outcome Metrics for Optimization of Robust Training</h1>
+        <div class="meta-id">Record ID: NCC958SMST03801</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/1cb43def-9801-5332-98af-0d3d87304818?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The objective of this research is to develop clinical outcome metrics and training tools for physician and non-physician crew medical officers (CMOs) in support of likely medical conditions. Multiple assessment techniques will be employed, centered around medical simulation studies which occur in 3, 6, and 12-month intervals after initial training (e.g. intubation, fundoscopic examination). These studies will systematically compare clinical outcomes of simulations performed by physician and non-physician crew medical officer (CMO) analogs for short-term outcome metrics. To enhance the understanding of long-term implications of imperfectly performed medical procedures, outcomes will be used as input to a modified version of the NASA Integrated Medical Model (IMM). Short- and long-term outcomes will be used to 1) define differences between physician and non-physician CMOs, 2) refine the outcome metrics themselves, and 3) refine or develop novel medical training products. 
+<p>
+There are multiple challenges to crew health care during extended space flight. Medical procedure performance could be affected by asynchronous communications (time delays), inability to evacuate, and prolonged time from initial CMO training to actual mission medical operations (including emergency and non-emergency care, diagnosis, and treatment). Exploration mission crews would ideally be equipped for autonomous medical care. In extreme resource-limited environments such as space flight, it is critical to consider not only the immediate outcome for each procedure, but also the consequences of a missed diagnosis or improperly performed procedure that will endure for the entire mission. 
+<p>
+APPROACH:<br>
+For the proposed research, a two-tiered approach will be used. The first tier will examine the raw clinical outcome metrics by evaluating the performance of both physician and non-physicians in a medical simulation laboratory equipped with a human patient simulator (and other simulation tools as needed) to present the conditions and specific procedures being evaluated. The second tier will examine the mission-long impacts of procedural outcomes. A modified version of the IMM will be created which will accommodate diagnoses and procedures that are not 100 percent correct. Simulation output will become IMM input, with model results informing a novel set of outcome metrics which will demonstrate the true mission impact of medical procedure outcomes. Comparison of physician and non-physician outcomes in both tiers will directly address the value of including physician CMOs on Exploration missions. Based on results from both tiers, deficiencies in training procedures and tools will be identified, and training products refined to improve future outcomes. The experienced multidisciplinary team includes physicians, medical trainers, remote guidance experts, and imaging/technology specialists, human factors experts, and a physician astronaut. The proposed research is expected to produce physician and non-physician clinical outcome metrics and medical condition training tools that will reduce the Human Research Program Exploration Medical Capabilities’ “Risk of Unacceptable Health and Mission Outcomes Due to Limitations of In-flight Medical Capabilities”. In addition to these benefits, the IMM enhancements would allow for the variable success of diagnostic and interventional procedures that could strengthen crew health predictions and expose unidentified medical resource gaps.
+<p>
+RESULTS:<br>
+This experiment is in progress.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958SMST03801</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Ebert, Douglas</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/3v84-8586</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013 HERO NNJ13ZSA002N-Crew Health (FLAGSHIP &amp; NSBRI)</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/1cb43def-9801-5332-98af-0d3d87304818?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/1cb43def-9801-5332-98af-0d3d87304818?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

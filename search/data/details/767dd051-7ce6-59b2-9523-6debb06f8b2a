@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mineral Balance Study - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/767dd051-7ce6-59b2-9523-6debb06f8b2a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>M071</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Mineral Balance Study</h1>
+        <div class="meta-id">Record ID: M071</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/767dd051-7ce6-59b2-9523-6debb06f8b2a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:
+<br>
+Before the Skylab missions were flown, researchers predicted that the various stresses of space flight, particularly weightlessness, would bring about significant changes in the metabolism of the muscular and skeletal systems.  The prediction was based on mineral and nitrogen balance studies of normal, healthy subjects during immobilized or inactive bed rest.  Marked increases in the level of calcium leaving the body in the urine were observed in these ground-based studies.  Significantly negative calcium balances in the body were observed during relatively short periods of bed rest.  Related losses of nitrogen and phosphorus were also observed.  In a seven-month bed-rest study, the elevated urinary calcium partially subsided during the third and fourth months of bed rest.  Nevertheless, urinary calcium remained significantly higher than control levels for as long as bed rest continued, and it did not fall to normal levels until the subjects were back on their feet.
+<P>
+The only attempt at performing controlled metabolic observations in space flight prior to the Skylab missions was during the Gemini 7 flight in 1965.  That relatively short study revealed modest losses of calcium and phosphorus and varied changes in the metabolism of other elements.  The Mineral Balance Study for Skylab was designed to study the effects of long-duration space flight on the muscular and skeletal body systems.  The experiment precisely measured changes in metabolic constituents, particularly water, calcium and nitrogen.
+<P>
+APPROACH:
+<br>
+For the experiment to be successful, it was critical that the nutrient elements to be evaluated be held constant between flight phases and from day to day.  The study required meticulous attention to detail in dietary intake and the collection of excreta.  Benefits of such monitoring included precise measurements of body elements in milligram quantities and descriptions of day-to-day chemical changes.
+<P>
+Dietary consumption of the nine Skylab astronauts was closely monitored before, during and after Skylab missions 2, 3 and 4.  Dieticians prepared six daily menus of similar elemental composition, and the menus were rotated on a regular schedule throughout all phases of the study.  All food items were weighed and analyzed for pertinent mineral elements and vitamins.  The diets were found to be adequate in terms of recommended vitamin intakes.  
+<P>
+During the flight phase, any dietary omissions were communicated to researchers on the ground.  When a particular food could not be consumed, supplements were prescribed to help maintain dietary elemental consistency.  Crewmembers took the prescribed supplements the next day.
+<P>
+Urine specimens were collected on a void-by-void basis before and after flight, and on a 24-hour basis during flight.  Inflight collections were made using urine collection bags.  Because of limitations in return storage weight and volume, approximately 120-ml aliquots of each subject's daily urine collection were frozen and returned to Earth.  A measured quantity of lithium chloride, added to each 24-hour collection bag prior to flight, permitted urine volumes to be calculated by the lithium dilution method.  In addition, crewmembers measured the filled collection-bag thickness with a gauge to provide a real-time estimate of daily urine output.
+<P>
+For each subject, the study required fecal collections for 21 to 31 days preflight, throughout each flight, and for 17 to 18 days postflight, totaling 909 man-days of metabolic study.  Dye markers were ingested at regular intervals to provide information to support fecal analysis.  Vomitus and feces specimens were collected in flight, dried in the workshop, and returned for analysis.  The subject weighed the stool on a mass-measuring device and placed the fecal bag in a vacuum drying processor.  After 16 to 20 hours, the fecal residue was removed and stowed for return to Earth.
+<P>
+Preflight and postflight urine, food, and fecal samples were analyzed for nitrogen content by the micro-Kjeldahl method.  Calcium, phosphorus, magnesium, and potassium were analyzed by spectrophotometric procedures.  In the urine returned from flight, water was determined by measuring dilution (lithium chloride), whereas, in food and feces, it was determined by gas chromatography.  All fecal samples were analyzed for total energy content by bomb calorimetry.
+<P>
+RESULTS:
+<br>
+<U>Calcium</U><BR>
+<I>Urinary calcium:</I>  For the 28-day Skylab 2 mission, inflight urinary calcium increased steadily to a plateau in the same pattern and degree as previously seen in bed rest studies.  The peak levels, reached during the latter part of flight, ranged from 80 percent to more than 200 percent of preflight levels.  Subjects on the 59-day Skylab 3 mission exhibited the same pattern, with a gradual rise in two subjects and an abrupt rise in the third subject; one subject had a total loss that was more than double preflight levels.  Urinary calcium data for Skylab 4 subjects showed the same characteristics, and also showed no decline towards the end of the flight in the high levels of excretion.  
+<P>
+<I>Fecal calcium:</I>  For Skylab 2, fecal calcium increased in one crewmember and decreased slightly in the other two.  Calcium balance became negative in two crewmembers and changed imperceptibly in the third.  The negative shift in calcium balance was more apparent in Skylab 3 due to increases in both urinary and fecal calcium excretions.  The mean calcium balance during the second month in space for the crew of Skylab 3 was -140 mg per day.  This calcium loss was of the same magnitude as seen in the early bed-rest immobilization study.  The mean shift in calcium balance for all six crewmembers from the preflight phase to the last 16 to 18 days in flight was -184 mg per day.
+<P>
+In summary, after approximately 30 days of weightlessness, urinary calcium leveled out at about 100% above preflight levels, and that rate of excretion was maintained for the remainder of the flights.  Total calcium loss generated by the second month in space amounted to approximately 4 grams per month, or 0.3 to 0.4% of total body calcium per month.  Although this rate seemed small in relation to the whole skeleton, the general similarity to bed-rest calcium losses, and the fact that Skylab 4 calcium losses did not subside, and led researchers to conclude that mineral loss might continue for a very long time, presumably many months.  During the postflight period, urinary calcium fell very rapidly to levels lower than preflight control levels for all three missions.
+<P>
+<U>Creatinine</U><BR>
+Urinary creatinine data obtained during all three missions shows that levels increased slightly above preflight levels; the average 24-hour urinary output of creatinine did not appear to be changed by space flight.  The creatinine data also suggests that the glomerular filtration rate (GFR) might have also increased in flight.
+<P>
+<U>Hydroxyproline</U><BR>
+Urinary hydroxyproline, indicative of skeletal turnover and breakdown, increased in flight, with considerable individual differences.  On all three flights, there was a gradual increase in the urinary output of hydroxyproline.  This increase, along with the fact that bone mineral changes occurred in the calcaneus but not the radius, supported the hypothesis that inflight mineral loss only occurs from weight bearing bones.
+<P>
+<U>Phosphorus and Nitrogen</U><BR>
+Significant losses of phosphorus and nitrogen were associated with the observed reduction in muscle tissue.  Both mineral and muscle losses occurred, despite vigorous inflight exercise regimes.  
+<P>
+Phosphorus balance for Skylab 2 showed a distinct increase in inflight urinary phosphate, a small increase in fecal phosphate, and a negative balance overall (a mean negative shift of 400 mg/day).  For Skylab 3, increases in urinary phosphate were less marked than in Skylab 2, and the mean negative balance was lower at 222 mg/day.  Urinary phosphate data for Skylab 4 was very similar to Skylab 2.
+<P>
+Skylab 2 inflight nitrogen balance revealed a pronounced increase in urinary nitrogen, while fecal nitrogen remained characteristically unchanged.  A high negative balance during the first six days of Skylab 3 was due to the lowered dietary intake, resulting from the marked anorexia seen during the first 2 to 3 days of the mission.  Nitrogen balance remained negative for a few weeks, then was only slightly positive despite the high protein and caloric intake.  During Skylab 4, urinary nitrogen increases similar to the first 2 missions were observed.
+<P>
+Researchers concluded that it was reasonable to predict musculoskeletal "safety" for at least 6 months, and probably for up to 9 months, in space.
+<P>
+<U>Magnesium, Potassium, and Sodium</U><BR>
+Compared to other elements, relatively small losses of magnesium, potassium and sodium occurred.  Urinary magnesium increased during the inflight phases of all Skylab flights, with considerable individual variation.  However, the overall balance of magnesium was not indicative of a true loss of the element.   Inflight potassium balances became slightly negative for all three flights, thus being in line with other element measurements in suggesting a potassium loss from the body.  Furthermore, there was significant retention of potassium in the postflight period.  Plasma potassium increased slightly in flight and was still increased in the blood sample taken immediately after recovery.  Total body (exchangeable) potassium averaged at 6.3% for all nine subjects.  For all three flights, sodium also exhibited a slight negative shift in flight, with marked retention during the first few postflight days.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>M071</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Whedon, G.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Skylab</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology, Metabolism and nutrition</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Skylab 2&#x27;], [&#x27;Skylab 3&#x27;], [&#x27;Skylab 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/d22b-fp64</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/767dd051-7ce6-59b2-9523-6debb06f8b2a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/767dd051-7ce6-59b2-9523-6debb06f8b2a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

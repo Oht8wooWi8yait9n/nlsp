@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hybrid Training - A Sensory Stimulation Countermeasure for Long Duration Space Exploration Missions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/7edd3adb-357f-541d-b09e-bb7fd7ab1175?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX16AI53G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Hybrid Training - A Sensory Stimulation Countermeasure for Long Duration Space Exploration Missions</h1>
+        <div class="meta-id">Record ID: NNX16AI53G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/7edd3adb-357f-541d-b09e-bb7fd7ab1175?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This study concentrated on assessing the efficacy of physical exercise while using a cycle ergometer combined with an interactive virtual environment, i.e. Hybrid Training, as a countermeasure for augmenting sensory stimulation during long-duration space missions. This countermeasure combined validated tools and virtual reality (VR) technologies in a new way to reveal the full potential of Hybrid Training, and took into account (a) key needs that fulfill sensory stimulation, (b) “hedonic adaptation”, i.e. a reduced affective response to stimuli with continued or repeated exposure, (c) delivery schedule, and (d) size, mass and volume requirements, and (e) reasonable cost. The system basically consisted of a cycle ergometer, a human computer interaction (HCI) interface, and a visual display. The ergometer was linked via Bluetooth to the HCI and the visual display consisting of a touchpad or alternatively a head-mounted VR system plus a personal computer (PC). In addition, the ergometer was equipped with contact electrodes for logging heart rate as an additional indicator of exercise intensity (as well as haptic feedback). Due to its web-based interface, the system also promoted real-time monitoring of comprehensive metrics for each training session, and provided an easy reporting tool for individuals (feedback to crewmembers including training history). The research had the specific aims of investigating the effect of Hybrid Training on:<ol>
+<li>Brain structure and function,
+</li><li>Cognitive performance,
+</li><li>Biochemical markers of stress and neuroplasticity,
+</li><li>Mood, depression, and subjective assessments of workload, stress, sleep quality, tiredness, sickness, and conflicts,
+</li><li>Sleep duration and sleep-wake rhythms using continuously wrist-worn actigraphy,
+</li><li>Heart rate, heart rate variability, and sleep structure using monthly 24-hour electrocardiogram (ECG) measurements, and
+</li><li>Crew cohesion and team structure (pending crew consent).</li></ol>
+<div>
+The main aim of the study was to assess the effect of Hybrid Training on changes in brain structure and function as well as cognitive performance in subjects during two 1-year Antarctic winter-over missions at Neumayer station and compare these data to data collected in previous Neumayer crews, other Antarctic stations, space analog environments, and the International Space Station (ISS)
+</div><div>
+APPROACH:<br>
+Investigators planned to study a crew in Antarctic winter-over missions in Neumayer station. Both immediate and long-term benefits of Hybrid Training were investigated. Each Neumayer winter-over crew consisted of nine subjects. Investigators intended to investigate two consecutive winter-overs (2017 and 2018), and sampled data in a maximum of 18 subjects. Structural and functional magnetic resonance imaging (fMRI) were performed on Neumayer crewmembers about three months before the winter-over during a crew briefing at the Center for Space Medicine Berlin at Charité, about two months after the winter-over, and again about six months after the winter-over. During the winter-over mission, investigators continuously recorded wrist-actigraphy and proximity (the latter only if the crew consents) information to monitor changes in sleep-wake behavior and crew cohesion with time-in-mission. Data was downloaded from the actigraphs every other week. On a monthly basis, crewmembers performed cognitive testing via the Cognition test battery, the Psychomotor Vigilance Test (PVT-B), and a virtual maze. In addition they recorded a 24-hour ECG as an objective measure of workload and sleep continuity, and filled out four longer surveys. Investigators also assessed biochemical markers of stress and neuroplasticity via blood and saliva samples.
+</div><div>
+RESULTS:<br>This study addressed the risk of Adverse Behavioral Conditions and Psychiatric Disorders, and the need to identify and validate countermeasures and effective methods for modifying the habitat/vehicle environment that promote individual behavioral health and performance during exploration class missions (BMed1, BMed7). The efficacy of physical exercise was investigated, combined with an interactive virtual environment as a countermeasure for augmenting sensory stimulation during long duration space missions. Both, immediate and long-term, benefits of Hybrid Training were examined, and the primary outcomes focused on neurostructural/neurofunctional and cognitive changes. The results showed that crewmembers who exercised a lot were able to improve both accuracy and speed with increasing time in mission, while those with low levels of exercise mostly showed a pattern of higher speed at the expense of lower accuracy. The overall results hinted at the benefits of Hybrid Training (HT) for maintaining high levels of cognitive performance during prolonged delays in ICE environments. </div><div>Biochemical markers of stress and neuroplasticity, along with objective measures of sleep-wake rhythmicity and sleep structure were also assessed. These provided insights into mechanisms and consequences of the observed structural and functional brain changes, and their reversibility by HT. Neurotrophic factors and neuroprotective cytokines, Vitamin D, and cortisol did not change during the mission in the Hybrid Training group. The Hybrid Training group was characterized by significantly higher BDNF and VEGF levels relative to the controls. The crew reported average levels of sleep quality, workload, sleepiness, physical exhaustion, mental fatigue, freshness; high levels of happiness and health; and low levels of stress, depression, boredom, depression, and crew conflicts. The only significant change with increasing time in mission was observed for increased mental fatigue in the Control group only.</div><div>Several differences were observed in the brain function and structure that suggest a neuroprotective effect of Hybrid Training. High-resolution hippocampal imaging revealed some considerable effects of HT on hippocampal subfields. Hippocampal changes strongly predicted tasks assessing working memory.  Widespread decreases in gray matter were noticed in the Control group relative to the Hybrid Training group, the right medial prefrontal cortex, the left precuneus and left supramarginal gyrus, bilaterally in the Para hippocampus, lingual gyrus, the calcarine cortex and the posterior cingulate cortex. Functional connectivity analyses showed hyperconnectivity in the Control group, characterized by increases in connectivity of the bilateral precuneus in the default mode network (DMN), and between the bilateral hippocampus and areas of the posterior cingulate gyrus and right precuneus.</div><div><br></div><div></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX16AI53G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Basner, Mathias</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/sajn-g176</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Work in progress. Contact LSDA to learn when data is projected to be available for reuse</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/7edd3adb-357f-541d-b09e-bb7fd7ab1175?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/7edd3adb-357f-541d-b09e-bb7fd7ab1175?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

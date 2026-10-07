@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Effects of Microgravity on Neuromuscular Development - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/9527a4f6-b1b6-5472-adca-b07418d4c3f5?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9301122</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Effects of Microgravity on Neuromuscular Development</h1>
+        <div class="meta-id">Record ID: 9301122</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/9527a4f6-b1b6-5472-adca-b07418d4c3f5?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <B>Objectives:</B><P>Previous research has indicated that a critical period of weight bearing may exist for the development of the motor system in animals. If this is the case, there are striking implications for raising normal animals, including humans, in the microgravity environment of space. This experiment tested the hypothesis that gravity-associated weight bearing is required postnatally for normal neuromuscular development of motor neurons, neuromuscular junctions, and muscle fiber types of the antigravity soleus muscle, but not for that of the extensor digitorum longus (EDL), a nonweightbearing muscle.<P><B>Approach:</B><P>Rat pups, eight days old at launch, were exposed to microgravity during 16 days of their development. Because of high inflight mortality among the pups, specific studies of the development of soleus and EDL motor neurons and assessment of long-term recovery changes in the neuromuscular system could not be fully completed. The study focused on fiber-type differentiation and neuromuscular junction development. Muscle and spinal cord tissues of Neurolab rats were processed and analyzed to evaluate muscle fiber type differentiation, cytoplasm/nucleus ratios, neuromuscular junction development, and spinal motor properties. A ground-control simulation, consisting of a group of hindlimb-suspended pups with a schedule of four hours unloaded and two hours returned to the dam for nursing, was repeated 24 hours a day for nine days. Litter mates of the hindlimb-suspension control were removed from the dam on the same schedule as the unloaded rats and singly housed to provide isolation controls. The data from the ground controls were used to distinguish unloading effects from isolation effects on neuromuscular system development.<P><B>Results:</B><P>Exposure to space flight resulted in microgravity-induced unloading as well as reduced neonate-dam and neonate-neonate interactions. The inflight retardation of neonate body weight gain was recovered one month postflight. Fewer large soleus fibers postflight suggested stunted growth for some fibers. Higher cytoplasm/nuclear ratios indicated a persistent deficit in soleus myoblast function. Differentiation from embryonic to slow fiber type was transiently retarded and enhanced toward fast type. Space flight temporarily increased the susceptibility of developing soleus fibers to reloading damage. Elimination of multiple innervation was completed during space flight. The pattern of terminal branching of motor nerve endings was less complex, implying delayed maturation. Space flight retarded the growth of spinal motor neurons. Down-regulation of mitochondrial cytochrome oxidase activity and gene expression in lumbar spinal motor neurons indicated lower oxidative capacity in the flight rats. Lower levels of choline acetyltransferase and Cat-301 proteoglycan indicated delayed motor neuron maturation, regarding neurotransmitter synthesis and extracellular matrix organization. Overall, the results from the neonates emphasize the importance of weight bearing exercise for the normal development of the infant neuromuscular system.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9301122</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Riley, Danny</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology, Neuroscience, Developmental biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-90&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus) Sprague-Dawley</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/n7db-x308</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>AO93-OLMSA-01-122</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/9527a4f6-b1b6-5472-adca-b07418d4c3f5?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/9527a4f6-b1b6-5472-adca-b07418d4c3f5?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

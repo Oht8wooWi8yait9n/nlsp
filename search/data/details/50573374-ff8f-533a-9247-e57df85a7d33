@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bioassays of Body Fluids - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/50573374-ff8f-533a-9247-e57df85a7d33?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>M005</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Bioassays of Body Fluids</h1>
+        <div class="meta-id">Record ID: M005</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/50573374-ff8f-533a-9247-e57df85a7d33?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Orthostatic hypotension and weight loss were observed in the crewmembers of Gemini 3, 4, 5, and 6 immediately after flight.  Scientists were concerned that space flight might affect the balance of body fluid and electrolytes since fluid losses can contribute to both of these symptoms.  This led to a series of ground-based studies to simulate some of the conditions of space flight.  An attempt was made to define the physiological parameters that would be affected by the condition of microgravity.  These studies utilized bed rest and water immersion as a means of simulating microgravity.
+<P>
+Both the cardiovascular and musculoskeletal systems experienced changes during the ground-based studies.  Changes in body fluid chemistry were found to be reflective of the status of these systems.  This experiment was designed to obtain objective data concerning the effects of space flight on the human body by examining alterations in the body fluid chemistry.
+<P>
+APPROACH:<br>
+Preflight plasma samples were collected from all crewmembers of Gemini 7, Gemini 8, and Gemini 9 approximately 10 days and 3 days before launch.  Plasma samples were not collected in flight.  Gemini 7 postflight plasma samples were collected immediately after recovery, and 6 hours, 24 hours and 72 hours after flight.  Gemini 9 postflight plasma specimens were collected after recovery, and 6 hours and 72 hours after flight.  The Gemini 8 mission was terminated after 11 hours and no postflight data was collected for this experiment.
+<P>
+Urine sampling was scheduled preflight, inflight, and postflight for Gemini 7, 8, and 9.  Preflight, two 48-hour urine samples were collected approximately 10 days and 3 days before launch.  Inflight urine collection on Gemini 7 and 9 was accomplished by utilizing a specially designed urine transport system.  The urine transport system permitted researchers to calculate the total urine volume for each void by means of tritium dilution.  A 75 ml aliquot of each void was collected into a plastic sample bag and stored for return to Earth.  No refrigeration was used, but benzoic acid was added as a preservative.  Urine was collected continuously for 48 hours after landing.  Inflight and postflight urine samples were not collected for the Gemini 8 crewmembers.
+<P>
+Water and fluid electrolytes were examined to determine the mechanisms associated with weight loss during flight.  The concentrations of plasma sodium, potassium, and chloride ions were measured preflight and postflight, and the rates of urinary excretion of these electrolytes were determined pre-, in-, and postflight.  Total plasma protein concentrations, measured preflight and postflight, were used to indicate dehydration.
+<P>
+Fluid intake and output were measured to determine whether weight loss was caused by sweat and insensible losses or by changes in renal function.  Fluid intake was ad lib, but the quantities ingested during the pre- and postflight phases were recorded.  The majority of the fluid intake was obtained with the diet.  Inflight intake was estimated from a water dispensing device on board the space craft.  The information was not sufficiently precise to perform calculation of fluid balance data.
+<P>
+To complement the water measurements and electrolyte-balance measurements, both urinary antidiuretic hormone (ADH) and aldosterone were measured.  The production of ADH is responsive to thoracic blood volume changes, and it was postulated that microgravity would decrease ADH secretion and result in an increase in urinary volume.  Aldosterone was measured to study the mechanisms associated with sodium excretion.  Increases in aldosterone secretion would result in decreased urinary excretion of sodium, and vice versa.  Researchers hypothesized that aldosterone secretion would be decreased in space flight, resulting in an increased urinary excretion of sodium.
+<P>
+To measure the effects of stress in space, two groups of hormones were assayed.  The first group assayed, 17-hydroxycorticosteroids, was indicative of long-term stress responses.  The second group assayed, catecholamines, was indicative of short-term or emergency responses. These parameters provided an objective, long-term evaluation of the physiologic cost of space flight.
+<P>
+Bone demineralization was evaluated by measuring calcium, magnesium, phosphate, and hydroxyproline in plasma and urine both preflight and postflight and in urine collected in flight.  Changes in bone mineralization were studied by calculating the ratio of bound to unbound calcium in the plasma.  This ratio was approximated from an estimate of plasma protein and calcium.  Hydroxyproline, an amino acid unique to collagen, was measured in urine to study bone and collagen breakdown.  It was presumed that an increased excretion of hydroxyproline accompanying bone demineralization resulted from dissolution of bone matrix.
+<P>
+Urinary urea concentration was measured to study protein intake and tissue metabolism.  Creatinine excretion was measured to study muscle protein metabolism.  Decreases of creatinine excretion are associated with loss of muscle tone and activity.
+<P>
+RESULTS:<br>
+
+When the preflight and postflight plasma samples were analyzed for Gemini 7, by far the longest Gemini flight, electrophoretic patterns were normal.  All values were in the normal range, except for an anticipated increase in 17-hydroxycorticosteroids in the first sample taken after recovery.  These values decreased to preflight values within 6 hours following recovery.  Hydroxyproline did not change significantly.  Plasma uric acid was reduced.  The cause of the reduction was unknown, but presumed to be dietary.  Plasma ADH was significantly elevated in the first postflight plasma sample of one subject of Gemini 7, but returned within normal range as urine output returned to normal.  It was concluded that 14 days of orbital space flight did not result in any gross aberrations of plasma electrolytes.
+<P>
+During the first 24-hours after Gemini 7, there was marked water retention for both subjects.  The output for each subject was approximately 1 liter less than the preflight 24-hour volume.  In addition, there was marked retention of chloride, sodium, and potassium.  The water retention and the rapid weight gain after flight were consistent with the hypothesis that weight loss during flight was the result of fluid loss.  Electrolyte and water retentions observed immediately postflight in the Gemini 7 subjects were consistent with bed rest studies that showed an increased ADH secretion contributed to decreased urinary volume.
+<P>
+During Gemini 9, inflight urine volumes based on the tritium dilution were as great as 12 liters per urination.  This great variation in urine volumes was indicative of an anomaly.  Therefore, no further attempt was made to analyze or interpret the urine samples collected in flight.  The Gemini 9 subjects experienced significant postflight retention of water.  This was accompanied by retention of sodium, potassium, and chloride.  Urinary calcium decreased slightly immediately postflight.  The excretion of 17-hydroxycorticosteroids was increased immediately postflight.  This was probably caused by the stress of re-entry.  Postflight, the increase of plasma protein and a slightly smaller increase of plasma electrolytes were consistent with an inflight water and electrolyte loss that resulted in dehydration followed by the retention of water and electrolytes.  It was not known whether the losses resulted from diuresis during flight or from sweat.
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>M005</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Dietlein, Lawrence</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Gemini</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Endocrinology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Gemini 7&#x27;], [&#x27;Gemini 8&#x27;], [&#x27;Gemini 9&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/j6px-w884</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/50573374-ff8f-533a-9247-e57df85a7d33?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/50573374-ff8f-533a-9247-e57df85a7d33?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

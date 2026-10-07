@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crew Health - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d0f235ce-ab24-5bb1-bbb3-d2596b341dd6?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ASTP011</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Crew Health</h1>
+        <div class="meta-id">Record ID: ASTP011</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d0f235ce-ab24-5bb1-bbb3-d2596b341dd6?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+The objective of the Apollo Soyuz Test Project (ASTP) Crew Health program was to ensure the health and safety of the crewmembers.  To achieve this goal, U.S. and USSR medical specialists met on several occasions, from 1972 to 1975, to discuss inflight crew safety, crew transfers, and inflight medical support systems.  Representatives from both sides exchanged information about pre-, in- and postflight medical evaluations; a Flight Crew Health Stabilization Program; inflight bioinstrumentation; possible drug kit exchange; drug testing; protocols for inflight crew transfers; and schedules.
+<p>
+APPROACH:<BR>
+Previous space missions, such as Apollo and Skylab, elucidated four areas of importance in health preventive maintenance:
+<p>
+1)  The flight medicine support system and drug (tolerance) testing<br>
+2)  The work/rest cycle<br>
+3)  Inflight exercise and bioinstrumentation<br>
+4)  Food and nutrition
+<p>
+Three months prior to flight, individual drug tolerance testing was conducted to determine the response of the crewmembers to each item in the medical kit.  This was done to preclude any allergic reactions or other undesirable side effects inflight.  
+<p>
+A series of physical examinations were conducted in order to determine the preflight physical status for the mission and for postflight comparison and to detect any medical problems during the preflight period that would require remedial or preventive intervention.  Comprehensive examinations were conducted on all three crewmembers 30, 15 and 5 days prior to launch (L-30, 15, and 5).  Abbreviated examinations were scheduled for L-4 to L-1.  
+<p>
+A comprehensive examination was also scheduled for recovery day (R+0), with follow-up examinations scheduled for R+1, R+3, and at 48-hour intervals thereafter, until the crewmen's measurements returned to preflight baseline values.
+<p>
+On L-4, each crewman was switched to a low-residue diet and on L-1, each crewman used a Travid enema and two Pericolace tablets to further reduce the fecal content in his bowels.  Flight menus were designed to meet individual energy requirements under normal gravity conditions.  Total caloric intake requirement was computed before flight from lean body mass measurements.
+<p>
+A modified Apollo Inflight Medical Support System (IMSS), which provided the tools and medications for inflight diagnosis and treatment of possible illness, was utilized for the ASTP mission.  Two cardiovascular drugs, quinidine sulfate and dipyridamole, were added to the IMSS medication list in deference to the medical history of one crewmember.  In addition to the IMSS, data from the flight bioinstrumentation system would also be used as a diagnostic aid to assist in the recommendation for treatment.  Subject B received  a 2-hour training session which covered proper use of the available drugs.
+<p>
+During the 21-day preflight crew health stabilization program, the crew was maintained on a nominal work/rest schedule.  This schedule allowed for daily exercise periods and at least 7 hours of sleep per night.  Each crewman attempted to establish a more operationally desirable sleep/work cycle by going to sleep at approximately 11 p.m. EDT and waking at 9 a.m. EDT.
+<p>
+The health status of the three crewmembers was monitored during flight.  Electrocardiographic and respiratory rate data were obtained through the bioinstrumentation data system during launch and on mission days 2, 7, and 8 in conjunction with the exercise periods.  Additional data were obtained during the entry phase of the mission.  Subject A was not subjected to studies involving radiation procedures because of a history of exposure to high radiation levels.
+<p>
+During reentry, the crew was exposed to toxic gases (mostly nitrogen tetroxide)  from inadvertent reaction control system (RCS) firings.  In the Mobile Laboratories (MOLAB) aboard the primary recovery ship, oxygen was administered to all three crewmembers for approximately 10 minutes.  Because of time constraints, the medical team proceeded with recovery day protocols while the history of exposure to toxic fumes was being reconstructed.  Subject A had a short blood draw and went on to the Lower Body Negative Pressure protocol (this protocol was terminated 3 minutes early during the negative 50 mm Hg period because of a drop in the subject's systolic blood pressure).
+<p>
+Once the history of the toxic gas (nitrogen tetroxide) exposure was completed, the MCC flight surgeons decided that all of the planned medical experiments, with the exception of the clinical examinations needed to assess crew health, would be stopped.  Daily physical examinations were still conducted on all crewmembers as well as chest X-rays, EKG, and pulmonary function tests.  Blood samples were drawn for analysis and microbiological samples were obtained.  Follow-up medical evaluations were conducted four weeks after the initial exposure to nitrogen tetroxide (N<sub>2</sub>O<sub>4</sub>) vapors to determine if there were any lasting ill effects from the gas exposure.
+<p>
+RESULTS:<br>
+Inflight Crew Health Status
+<br>
+Biomedical Instrumentation and Physiological Data - All three crewmembers experienced fullness-of-the-head sensation immediately after entering Earth's orbit.  This symptom was mild and did not interfere with crew performance.  There were no reports of nasal stuffiness or sinus congestion.  Head movements did not provoke symptoms of motion sickness nor were there any instances of nausea, vomiting, disorientation or loss of appetite.
+<p>
+All physiological measurements remained within the expected limits.  No medically significant arrhythmias were detected during this mission.  Isolated premature heartbeats were observed in all three crewmembers.  The fact that the frequency and character of these prematurities remained consistent with data obtained previously during ground-based studies indicated that they were not related to space flight.
+<p>
+On mission day 2, Subject C's exercise harness interfered with his bioinstrumentation electrodes; this resulted in poor quality data which was not suitable for analysis.  On mission day 6, because of ground-support technical difficulties, no biomedical data were received in the Mission Control Center (MCC).
+<p>
+Medications - On mission day 3, Subject A notified MCC that he took 3 Lomotil tablets prophylactically in an attempt to decrease the frequency of inflight bowel movements.  He took another 2 tablets on mission day 4 because of a loose bowel movement and again took 2 more Lomotil tablets prophylactically on mission day 8 before docking module jettison.  Subject B took one scopolamine-dextroamphetamine sulfate tablet (anti-motion-sickness medication) prophylactically immediately after orbital insertion and repeated the dose approximately 5 hours later.
+<p>
+On entry, approximately one hour after the sleep period, Subject A took 2 Actifed tablets prophylactically to prevent possible ear blockage during the entry phase.  No medications for sleep were taken at any time during the inflight period.
+<p>
+Postflight Crew Health Status
+<br>
+Recovery - The crew was exposed to toxic gases (mostly N<sub>2</sub>O<sub>4</sub>) from inadvertent reaction control system  (RCS) firings during the descent phase. During the postflight medical debriefing, Subject A reported that there was a yellowish-brown colored smoke which "smelled like RCS."  Once the crew disabled the RCS, and after initial peak exposure, uncontaminated air was drawn into the cabin until landing occurred.  Simultaneously, the lithium hydroxide (LiOH) scrubbers continued to absorb the N<sub>2</sub>O<sub>4</sub> mixture.
+<p>
+After the spacecraft landed and while it remained in the inverted position, Subject A unstrapped himself (he fell into the command module tunnel, hurting his right shoulder and elbow), unstowed oxygen masks, and proceeded to provide oxygen to the other crewmembers.  Not until the spacecraft had assumed an upright position did Subject A notice that Subject B's mask was hanging on the side of his face and that he was unconscious (it was estimated that he was unconscious for approximately 50 seconds).  This loss of consciousness was thought to be due to the combination of exposure to the toxic fumes and the feet being lower than the head.  Subject B recovered promptly when the face mask was positioned properly and oxygen flow increased.  The total time of crew exposure was 4 minutes 40 seconds, from the closure of the RCS isolation valves until the crew donned oxygen masks after landing.
+<p>
+Initial Recovery Day Physical Findings - In general, the crew complained of burning of the eyes with profuse tearing, burning sensation and itching of the exposed skin surfaces (which subsided shortly after entering the MOLAB), tightness of the chest, retrosternal burning sensation, and an inability to inhale deeply ( which led to a nonproductive and nonspasmodic cough).  The 3 astronauts were in no acute distress and were oriented to times, persons, and place.  The results of examinations of the skin and mucosa were within normal limits.  Detailed neurological examination showed only slight fine tremors of the fingers.  Slight hyperreflexia of the deep tendon reflexes was noted.  Physical examination of the endocrine system was normal and the peripheral vascular system was in good condition.  Generally, the musculoskeletal system was within normal limits, as well.  Chest x-rays of all 3 crewmen failed to reveal any signs of pulmonary involvement.  Electrocardiographic tracings were within normal limits and identical with baseline data.
+<p>
+Subject A's right shoulder and elbow showed slight tenderness on palpation; there was no bruising or limitation of motion.  Subject C experienced some limitation of motion in the lumbar region of the spine and a straightening of the lordosis.  This was caused by a strain sustained during inflight exercise.  Subject C also had a minor bruise over the right temporal region and the right patella.  During the physical examination, following five minutes in the standing position, Subject B experienced a drop in systolic blood pressure to 50 mm Hg with no audible readouts for the diastolic blood pressure.  He complained of generalized weakness.  The test was halted and he was returned to the supine position where he recovered from the orthostatic episode after about 3 minutes.
+<p>
+For the remainder of the evening, the crewmembers did not exhibit any significant changes in general symptomatology.  Following showers and dinner, the crewmen were transferred to sick bay for rest and further observation.  There they spent a relatively quiet evening with only occasional interruptions due to coughing.
+<p>
+Subsequent Course of Events - The astronauts again underwent physical examinations on the day after landing (R+1); examination results were unremarkable.  However, all crewmembers reported a slight tightness of the chest and a more pronounced inability to breathe deeply without coughing.  In fact, they were unable to hold their breaths and to perform the forced expiratory maneuvers required for repeat pulmonary function tests.
+<p>
+Shortly after chest X-rays were taken, and while brushing his teeth, Subject C experienced slight shortness of breath, developed giddiness, and fainted; he was unconscious for about one minute.  There was a slight twitching of the eyelids without evidence of seizure activity.  He recovered quickly when placed in the supine position.  The episode was attributed to orthostatic intolerance.
+<p>
+The repeat chest exams revealed the presence of diffuse, nodular-type infiltrates throughout both lung fields.  A rosette-type pattern with occasional confluence of the infiltrates was present.  Both costodiaphragmatic angles were clear with no evidence of pleural effusion, Kerley B lines, or increased pulmonary vasculature.  There was no prominence of the pulmonary artery and no signs indicative of the left or right heart involvement.  These findings were suggestive of alveolar exudative fillings, characteristic of a diffuse chemical pneumonitis.  Each astronaut was given 16 mg of dexamethasone intravenously and then transferred to the Tripler Army Medical Center in Honolulu, Hawaii, for further medical care.
+<p>
+Additional chest x-rays revealed an increase of the infiltrates (which was more pronounced on Subject C's x-ray).  Blood gas study results indicated mild respiratory alkalosis with hyperventilation and hypoxemia.  A decision was made to  switch  to oral steroid therapy, which consisted of daily doses of 80 mg of Prednisone.  Because of the lack of symptomatology and the absence of cyanosis and/ or signs of severe anoxia, oxygen was not administered.  Vital signs remained stable, and there was no evidence of cardiac rhythm disturbances.  Throughout their stay in the hospital, the crewmen remained afebrile and vital signs remained normal.
+<p>
+The crewmembers continued to experience discomfort with deep inspiration, but this gradually decreased.  By R+3, these symptoms had subsided.  By R+5, chest x-rays had returned to normal and the crew was released from the hospital on R+6.  Corticosteroid administration was gradually tapered then discontinued on R+9.  A period of rest, reconditioning and observation followed.  Daily medical evaluations remained within normal limits.  All crewmembers participated in mild exercise under medical supervision and eventually improved their physical endurance.  They returned to regular duties by R+14.
+<p>
+The follow-up medical evaluations performed 4 weeks after the initial exposure established that there were no obvious residual aftereffects from the exposure to the toxic fumes.<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ASTP011</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bartelloni, Peter, Burchard, Eduard, Hoffler, G., LaPinta, Charles, Nicogossian, Arnauld</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Apollo-Soyuz Test Project (ASTP)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine, Metabolism and nutrition, Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ASTP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/zske-aa27</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d0f235ce-ab24-5bb1-bbb3-d2596b341dd6?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d0f235ce-ab24-5bb1-bbb3-d2596b341dd6?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

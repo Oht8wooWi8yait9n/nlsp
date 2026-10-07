@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bacterial Detection: Correlation of an Automated Real-time System Operated &lt;I&gt;in situ&lt;/I&gt; with Comprehensive Characterization in the Laboratory - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a6e6b041-4358-54e3-9af3-dc6072fbbd6a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NEEMO-SWAB</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Bacterial Detection: Correlation of an Automated Real-time System Operated &lt;I&gt;in situ&lt;/I&gt; with Comprehensive Characterization in the Laboratory</h1>
+        <div class="meta-id">Record ID: NEEMO-SWAB</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a6e6b041-4358-54e3-9af3-dc6072fbbd6a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Bacterial growth within human habitats is not unusual and usually poses no danger to the inhabitants. However, within isolated habitats, where air ventilation and circulation may be limited and the relative humidity high, the levels of bacterial growth may increase to levels high enough to pose a health hazard to the crew. 
+<P>
+Bacterial endotoxin is found in many bacteria, and its concentration has been used as a relative assessment of bacterial levels. However, most traditional enumeration and identification techniques require days to complete.  Habitat swab samples were analyzed with an automated real-time monitor of bacterial endotoxin, called the Portable Test System (PTS).  The PTS was operated by the crew during the mission.  The results were then correlated with advanced microbiological analysis of the same swab samples in the laboratory following the mission. This correlation will determine if this new system can detect trends in bacterial growth that could affect crew health.
+<P>
+At present, there is no rapid, real-time bacterial-detection device for crew use on the International Space Station (ISS). Monitoring of bacteria onboard requires the return of swab samples for microbiological analysis on the ground.  This method provides high-quality identification of bacteria onboard, but with a significant time lag between swab sampling and results. The PTS will enable the crew to obtain quick, "on-the-spot" results of bacterial levels onboard, without assistance from the ground; a factor useful for crews on long duration missions, where supply/re-supply missions may be infrequent. The crew could test key locations (such as air-conditioning vents, fluids for injection, surfaces and the water system), identify "hot-spot" areas of rapid bacterial growth at an early stage, and use cleaning procedures to prevent potential hazards to crew health. 
+<P>
+APPROACH:<br>
+Baseline data (swabs and PTS tests) were collected by National Oceanic and Atmospheric Administration (NOAA) divers on four and three days before the mission began.  The NEEMO 5 crew took daily swab samples from five different areas within the habitat: wet porch, wetsuit, living quarters, Aquarius tap water and cabin air. These samples were both analyzed during (by the crew) and after (in Johnson Space Center (JSC) laboratories) the mission. Both sets of results were compared and correlated. The crew analyzed samples for bacteria using a small, hand-held, automated device, known as the Portable Test System (PTS).  The PTS specifically detects the bacteria cell membrane component lipo-polysaccharide (LPS) and provides results 10 minutes following addition of the sample.   Samples (swabs and PTS tests) were also collected post-mission on R+0 before habitat power-down.
+<P>
+RESULTS:<br>
+The PTS was found to be a robust instrument for detection of bacterial levels during a mission situation. Sterile conditions were not required and the system was found to be user-friendly by the crew. At present, no such portable device is available on ISS to test bacterial levels, and all microbiological analysis must occur on the ground after extensive storage time and transportation in non-refrigerated conditions. NEEMO 5 proved to be a valuable opportunity to correlate results obtained with PTS in Aquarius with those obtained in the Microbiology Laboratory at JSC using culture methods. Results correlated well between the two methods and some bacterial species of potential health concern were identified using culture methods. Since NEEMO 5, the PTS cuvettes have been modified by Dr. Norm Wainwright (Marine Biology Lab, Woods Hole, MA) to allow the detection of fungi, gram–positive bacteria, and potentially dangerous bacterial species by modification of the antibodies used for detection. 
+<P>
+1. Few species in the Aquarius habitat were found to be hazardous:<BR>
+<UL><LI>Wet porch: Bacterial/fungal levels consistently high, as expected
+<LI>Wetsuit: High Bacterial levels, fungi detected on 4 days only 
+<LI><I>Pseudomonas aeruginosa</I>, a bacterium that causes infections of the urinary tract and respiratory system, dermatitis and soft tissue infections was found
+<LI>PTS data was lower and more variable
+<LI>Possibility that following swab, bacteria could have grown within the sample tube to log phase, prior to Standard Culture testing (days/weeks later), but not before PTS testing (same day)
+<LI>Living quarters: Similar microbial levels to office environment 
+<LI>Non-potable water: Low bacterial/fungal levels 
+<LI>Higher pre-mission levels may be due to low/absent use of faucet pre-mission
+<LI>Air: Low bacterial/fungal levels 
+<LI><I>Stachybotrys</I>, a fungus linked to indoor quality problems, was found
+<LI>Potable water (sealed jugs): Higher than desirable bacteria/endotoxin
+</UL>
+<P>
+2.   PTS performed nominally in a humid and hyperbaric environment<BR>
+<UL><LI>Some data errors detected, possibly due to power interruptions</UL>
+<P>
+3.   Positive correlation (0.92) between data obtained with PTS and Standard Culture methods<BR>
+<UL><LI>The greatest variability was observed with wetsuit test</UL>
+<P>
+4.   Minimum training required for crew to operate PTS
+<UL><LI>Crew found PTS easy to use</UL><END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NEEMO-SWAB</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Maule, Jake, Pierson, Duane</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Environmental monitoring, Microbiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NEEMO 5&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ct4f-fh71</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a6e6b041-4358-54e3-9af3-dc6072fbbd6a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a6e6b041-4358-54e3-9af3-dc6072fbbd6a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Integrated Resistance and Aerobic Training Study - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/1494be75-f2df-5406-913c-cd809d275813?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Sprint</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Integrated Resistance and Aerobic Training Study</h1>
+        <div class="meta-id">Record ID: Sprint</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/1494be75-f2df-5406-913c-cd809d275813?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Current exercise countermeasures are insufficient to prevent muscle atrophy, cardiovascular deconditioning and bone loss associated with long-duration space flight. A known limitation has been the inability of the International Space Station (ISS) exercise hardware to provide sufficient loads to the human body that are required for maintaining physiological function. New flight exercise hardware, including the advanced resistance exercise device (ARED) and second generation treadmill (T2) are designed to provide astronauts with the ability to exercise at higher intensity. This opens an array of new possibilities for exercise programming in long-duration space flight. While the ability to do resistance exercises at heavier loads and the ability to run faster and potentially with more body loading are obvious improvements in exercise capabilities, the details of how this new equipment should be used are not so obvious. Towards this end, two workshops were held, the NASA Muscle Workshop in June 2008 and the NASA International Space Station Exercise Prescription Workshop in October 2008. Intramural and extramural experts concluded that using higher intensity resistance exercises and interval aerobic exercise would help to maintain physiological function while simultaneously decreasing total exercise time and volume. Therefore, the purpose of this research is to evaluate the efficacy of a new Integrated Resistance and Aerobic Training (Sprint) program designed to minimize loss of muscle, bone and cardiovascular function during ISS missions. Highlights of the Sprint program include an increase in the intensity and a reduction in the volume of resistance exercises, inclusion of very short, but high intensity interval-type aerobic exercises, and starting the exercise countermeasures as early as possible in the flight, preferably in the first week. Pre-, in- and postflight testing, and data sharing with selected on-going medical assessment tests, will be used to assess the effectiveness of this candidate prescription (active group) versus normal in-flight exercise (the control group). 
+<p>
+APPROACH:<br>
+Subjects will be tested pre-and post-flight for a thorough analysis of muscle, bone and cardiovascular fitness. Muscle Performance Measures include: maximal strength, maximal power, power endurance, and force steadiness for upper and lower body, as well as central activation for the lower body.  Magnetic Resonance Imaging (MRI) scans along the entire leg to characterize space flight-induced change in muscle Cross-Sectional Area (CSA) will be completed pre- and postflight. Ultrasound scans of the thigh and calf will be obtained and compared to the MRI results in an attempt to validate the use of ultrasound in evaluating muscle CSA. Pre-and postflight maximal aerobic capacity (VO2max) will also be evaluated. A muscle biopsy of the thigh and calf will be collected pre- and postflight to determine: single fiber size and contractile function, single muscle fiber type identification, and biomarkers for aerobic and glycolytic enzyme markers. Muscle biopsy is optional and not required to be considered a participant in the study. Bone testing will include the current standard Dual X-ray absorptiometry (DXA) medical requirement and Quantitative Computed Tomography (QCT). Crewmembers will use the ARED and T2 during their normal gym time for several weeks prior to launch to become familiar with the hardware and Sprint exercise prescription.
+<p>
+In-flight monitoring of training loads on ARED and T2 will be evaluated as assessment of muscle function. Cardiovascular fitness will include a monthly measurement of VO2max, heart rate (HR) response to submaximal exercise, ventilatory threshold, left ventricular (LV) mass, and contractility. Subjects will perform the new Sprint exercise prescription six days per week in-flight, beginning as early as possible, preferably on the first full in flight day. The first two weeks in flight will be an acclimation period of reduced training intensity and volume; after week two the full training will begin. The early onset of training is an important evidence-based aspect of the Sprint exercise prescription for prevention of the initial deconditioning that can occur in the first 30 days of unloading in the absence of any exercise program. 
+<p>
+RESULTS:<br>
+Upon completion of this study, investigators expect to provide an integrated resistance and aerobic exercise training protocol capable of maintaining muscle, bone and cardiovascular health while reducing total exercise time over 180 days of space flight. This will provide invaluable information in support of the long-term goal of protecting human fitness for even longer space exploration missions. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Sprint</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Ploutz- Snyder, Lori</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Expedition 36&#x27;], [&#x27;Expedition 41&#x27;], [&#x27;Expedition 45&#x27;], [&#x27;Expedition 46&#x27;], [&#x27;Expedition 30&#x27;], [&#x27;Expedition 35&#x27;], [&#x27;Expedition 39&#x27;], [&#x27;Expedition 40&#x27;], [&#x27;Expedition 37&#x27;], [&#x27;Expedition 38&#x27;], [&#x27;Expedition 27&#x27;], [&#x27;Expedition 28&#x27;], [&#x27;Expedition 29&#x27;], [&#x27;Expedition 31&#x27;], [&#x27;Expedition 32&#x27;], [&#x27;Expedition 47&#x27;], [&#x27;Expedition 48&#x27;], [&#x27;Expedition 49&#x27;], [&#x27;Expedition 50&#x27;], [&#x27;Expedition 51&#x27;], [&#x27;Expedition 52&#x27;], [&#x27;Expedition 43&#x27;], [&#x27;Expedition 44&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/6f9j-b161</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/1494be75-f2df-5406-913c-cd809d275813?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/1494be75-f2df-5406-913c-cd809d275813?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

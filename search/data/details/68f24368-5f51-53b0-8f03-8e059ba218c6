@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Development of Countermeasures to Aid Functional Egress from the Crew Exploration Vehicle Following Long Duration Spaceflight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/68f24368-5f51-53b0-8f03-8e059ba218c6?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>J08ZSA_7530</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Development of Countermeasures to Aid Functional Egress from the Crew Exploration Vehicle Following Long Duration Spaceflight</h1>
+        <div class="meta-id">Record ID: J08ZSA_7530</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/68f24368-5f51-53b0-8f03-8e059ba218c6?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Crewmember adapted to the microgravity state may need to egress the vehicle within a few minutes for safety and operational reasons after g-transitions. During exploration class missions the interactions between a debilitated crewmember during re-adaptation to gravity and the prevailing environmental constraints imposed during gravitational transitions may lead to disruption in the ability to perform functional egress tasks. At present, no operational countermeasure has been implemented to mitigate this risk. Therefore, the overall goals of this project were to: 1) investigate performance of motor and visual tasks during simulated perturbation conditions and 2) to develop a countermeasure based on stochastic resonance to enhance sensorimotor capabilities with the aim of facilitating rapid adaptation during gravitational transitions following long-duration space flight. 
+<p>
+APPROACH:<br>
+Stochastic resonance (SR) is a mechanism whereby noise can assist and hence enhance the response of neural systems by detecting sub-threshold signals. SR thus enables the enhanced detection of relevant sensory signals. SR stimulation using imperceptible noisy vibratory or electrical stimulation has been shown to improve balance function in normal young and elderly subjects, stroke patients, and in the rehabilitation of functional ankle joint instabilities. This project specifically has used imperceptible levels of electrical stimulation of the vestibular system (VSR) as the proposed countermeasure to improve performance in egress tasks. The project has also conducted a series of studies to document human visual performance during simulated low frequency dynamic perturbations and further investigate the efficacy of VSR stimulation on physiological and perceptual responses during otolith-canal conflicts and dynamic perturbations.
+<p>
+RESULTS:<br>
+Goal 1: The objective of two separate studies that were conducted was to document human visual performance during simulated wave motion in the 0.1 to 2.0 Hz range. The main findings of both studies showed that dynamic visual acuity (DVA) is reduced in the vertical plane at frequencies of 2 Hz and in the horizontal plane at frequencies of 0.8 Hz. DVA varies with target location, with acuity optimized for targets in the plane of motion. Thus, low frequency perturbations in horizontal and vertical planes can cause decrements in visual performance that may be exacerbated after long-duration space flight. 
+<p>
+Goal 2: For determining efficacy of VSR stimulation on physiological and perceptual responses during otolith-canal conflicts and dynamic perturbations investigators have conducted the following series of studies: <br>
+1. They have shown that imperceptible binaural bipolar electrical stimulation of the vestibular system across the mastoids enhances balance performance in the mediolateral plane while standing on an unstable surface. They have followed up on the results of this previous study showing VSR stimulation improved balance performance in both mediolateral and anteroposterior planes while stimulating in the mediolateral axis only. <br>
+2. They have shown the efficacy of VSR stimulations on enhancing physiological and perceptual responses of whole-body orientation during low frequency perturbations (0.1 Hz) on the ocular motor system using a variable radius centrifuge (VRC) on both physiological (using eye movements) and perceptual responses (using a joystick) to track imposed oscillations. The variable radius centrifuge provides a selective tilting sensation that is detectable only by the otolith organs providing conflicting information from the canal organs of the vestibular system (intra-vestibular conflict). These results indicate that VSR can improve performance in sensory conflict scenarios like that experienced during space flight. <br>
+3. They have showed the efficacy of VSR stimulation to improved balance and locomotor control on subjects exposed to continuous, sinusoidal lateral motion of the support surface while walking on a treadmill while viewing perceptually matched linear optic flow. <br>
+4. They have developed and tested a practical methodology of finding the optimal amplitude of VSR stimulation using perceptual thresholds indicated by seated subjects using a game pad in response to applied electrical vestibular stimulation with sinusoidal signals of varying peak amplitudes. Preliminary analysis of these data indicated that the optimal amplitude of stimulation was found to be in the range of 10 to 20% of their maximum probability of detecting the signal. <br>
+5. They have developed a methodology to detect the functional vestibular cortex using a magnetic resonance imaging (MRI) compatible device and this study is ongoing to determine the effects of VSR stimulation on brain function. <br>
+6. They have shown the safety of short-term continuous use of up to four hours of VSR stimulation and its efficacy in improving balance and locomotor function in Parkinsonian Disease patients. Thus, maximizing postural, locomotor, and perceptual performance during dynamic movements will have a significant impact on development of vestibular SR as a unique system to aid recovery of function in astronauts after long-duration space flight or in people with balance disorders.
+<p>
+In the last two years of this project investigators focused on three tasks: <br>
+1. Developed a practical methodology to determine optimal stimulation levels that will enable maximizing balance and locomotor task performances during task performance or training. This will enable ease of application of SR stimulation in practice. In order to improve the efficacy of implementation of this countermeasure a practical methodology to determine customized subject specific optimal amplitude if noise was needed to be implemented. Towards this goal investigators have developed and tested a practical methodology of finding the optimal amplitude of stimulation using perceptual thresholds indicated by seated subjects using the joystick on a game pad in response to applied electrical vestibular stimulation with sinusoidal signals of varying amplitudes. They mapped the optimal stimulation levels to the threshold curve obtained in previous experiments in which subjects performed both the balance and locomotor tasks and determined that the optimal levels of stimulation were in the range of 20-40% of threshold. 
+<p>
+2. Investigators examined how VSR affects measures of brain structure, functional network integrity, and vestibular function using Diffusion Tensor Imaging (DTI), Functional Connectivity magnetic resonance imaging (MRI), and Functional MRI. They have developed a methodology for using a MRI compatible tapper device which elicits vestibular evoked myogenic potentials (VEMPs). This device enables the mapping of the functional vestibular cortex. 
+<p>
+3. Investigators studied the safety of use and possible effects of VSR alone and combined with L-DOPA in patients with Parkinson’s disease (PD). Stochastic vestibular stimulation (SVS) or sham stimulation was administered to 10 PD patients in a double-blind placebo controlled cross-over pilot study. Motor symptoms and balance were evaluated in a defined off-medication state and after a 200 mg test dose of L-DOPA, using UPDRS-III, Posturo- Locomotor- Manual (PLM) movement times (MT), static posturography, and force plate measurements of the correcting response to a balance perturbation. Results suggest that short term use of SVS is safe, improves corrective postural responses, and has a small positive effect on motor symptoms in PD patients off treatment.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>J08ZSA_7530</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Mulavara, Ajitkumar</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience, Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/f23m-1n19</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNJ08ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/68f24368-5f51-53b0-8f03-8e059ba218c6?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/68f24368-5f51-53b0-8f03-8e059ba218c6?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

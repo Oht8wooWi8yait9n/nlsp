@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bone Formation through Biomineralization and Bioengineering (Postdoctoral Fellowship) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e0ad1f6d-1f9c-528c-bfe7-ed3a6186fc7f?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958PF01902</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Bone Formation through Biomineralization and Bioengineering (Postdoctoral Fellowship)</h1>
+        <div class="meta-id">Record ID: NCC958PF01902</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e0ad1f6d-1f9c-528c-bfe7-ed3a6186fc7f?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br> 
+Earth has its own host of problems concerning bone repair. Although bone is unique in the body in its capacity to repair without scar formation, there are events due to trauma, surgery, degeneration or diseases that require surgical intervention and the gold standard for treatment is bone grafting. In the United States alone, over 6.3 million fractures occur annually, and of those 550,000 require bone grafting. Autografts are osteoconductive in that they provide a scaffold through which host bone can infiltrate, osteoinductive in that they induce stem cell proliferation or differentiation into osteogenic cells and osteogenic in that they contain osteogenic cells capable of forming bone. Therefore, autologous cancellous bone grafts continue to be the bone repair treatment of choice despite drawbacks such as donor site morbidity and the finite quantity available. Allograft bone does not suffer these drawbacks but will induce varying degrees of immunogenic responses from the host and has the potential for pathogen transfer. There remains an overwhelming need for a bone graft material that reproduces the four desired properties of the autograft: bio-resorbability, osteoconductivity, osteoinductivity and osteogenicity. 
+<p>
+Understanding the signals that direct biomineralization is paramount for successful synthesis of self-assembled artificial bone and dentin biomimetic materials. Bone and seashell are biominerals shown to undergo both whole cell and single protein directed biomineralization. Furthermore, mammalian osteoblasts have been shown to produce shell-like structures in the presence of shells. Bone and nacre chips with no growth factors incubated with osteoblasts demonstrated biomineralization in the intervening gap: new bone near the bone chip and new nacre near the nacre chip. Understanding the concomitant changes in the microenvironment and their impact on osteoblast function and differentiation will enable the design of biomaterials that can create or direct specific functions. The hypothesis of this project is that water soluble proteins from seashell mother of pearl (nacre) cause osteoblasts to build bone and nacre. Nacre-initiated osteogenesis occurs in vivo, but not the production of new nacre. Despite its osteogenicity, nacre is not widely used as an implant material due to its limited dimensions and in vivo results that vary with preparation procedures. Regardless, nacre's presence changes the cellular microenvironment and causes functional changes in mammalian osteoblasts that direct them to build mollusk shell material. This behavior does not occur with the geological or synthetic mineral comprising nacre (aragonite), supporting our hypothesis that soluble factors are responsible. Nacre provides a model for engineering such factors into biomaterials. 
+<p>
+The specific aims of this proposal were: 1) to determine the differences in gene expression of osteoblasts producing bone and osteoblasts producing nacre; 2) to determine the different proteins in the microenvironment of osteoblasts producing nacre vs. those producing bone; and 3) to pattern hydrogels with DMP1 and N40 (Dentin Matrix Protein 1, a hydroxyapatite nucleation protein in bone and dentin; and Nacre 40, an aragonite nucleation protein in nacre) to direct biomineralization in desired patterns.
+<p>
+APPROACH:<br>
+Twenty 8 week experiments were performed in which osteoblasts were cultured with chips of nacre from abalone or pinctada maxima, and/or chips of bone. Each experiment consisted of 6 cases: osteoblasts alone, bone-bone, bone-pinctada, bone-abalone, pinctada-pinctada, or abalone-pinctada. These experiments were observed weekly for mineralization and photographed. Media were collected and frozen for MALDI-TOF mass spectrometry and SDS-PAGE. 
+Three 8 week experiments were performed in which the conditions were repeated as above, except with the goal of patterning the mineralization in poly(ethylene glycol) diacrylate (PEGDA) hydrogels. PEGDA was polymerized with PEG-RGDS and with appropriate bone or nacre chips, and these were seeded with osteoblasts. Media were collected and frozen for MALDI-TOF mass spectrometry and SDS-PAGE.
+<p>
+RESULTS:<br>
+Key findings: <br>
+1) When osteoblasts are in the presence of nacre, they are induced to form bone more rapidly than without nacre present. <br>
+2) When osteoblasts are in the presence of nacre, they will produce altered mineralization, including mineralization that looks like nacre and mineralization that looks like highly rectangular bone formation, rather than the typical spheroid bone nodules. Yet when osteoblasts form this altered mineralization due to the presence of nacre, the effect is spontaneous rather than predictable. Out of 100 experiments, the altered mineralization occurred only once. <br>
+3) In the 99 experiments where there was no altered mineralization, there was a protein at 868.368 Da. When there was altered mineralization, this protein peak was absent. <br>
+4) Nacre proteins can be patterned into hydrogels in a specific pattern. <br>
+5) Osteoblasts will lay down bone on patterned hydrogels in the pattern defined. <br>
+<p>
+Impact of key findings:<br>
+The fact that the "nacregenesis" by osteoblasts was spontaneous rather than repeatable resulted in too few samples to perform gene analysis (specific aim 1). The protein identified at 868.368 Da that is absent when altered mineralization occurs may be a critical regulatory protein (specific aim 2). In future experiments, antibodies to this protein could be constructed to determine whether altered mineralization would occur with an antibody to the protein. This work was the first to ever demonstrate the capacity to pattern bone formation (specific aim 3). This is critical because many orthopedic biomaterials and agents can induce bone formation, but none have spatial control over where that bone will form. This is the first work that may provide such control, which is crucial in bone repair near the brain or spine.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958PF01902</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Olabisi, Ronke</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology, Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Cells, human</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/3vtv-6s83</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2008 NSBRI-RFA-08-03 Postdoctoral Fellowships</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e0ad1f6d-1f9c-528c-bfe7-ed3a6186fc7f?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e0ad1f6d-1f9c-528c-bfe7-ed3a6186fc7f?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

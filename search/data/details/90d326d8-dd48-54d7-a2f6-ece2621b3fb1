@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skylab Crew Health - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/90d326d8-dd48-54d7-a2f6-ece2621b3fb1?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>skych</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Skylab Crew Health</h1>
+        <div class="meta-id">Record ID: skych</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/90d326d8-dd48-54d7-a2f6-ece2621b3fb1?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The Skylab program's biomedical objectives were to evaluate humans' ability to endure flights up to 84 days in length, to understand some of the mechanisms underlying physiological adaptation to weightlessness, and to identify countermeasures that could permit humans to perform effectively in flights of longer duration.  To evaluate overall crew health, evaluations from multiple medical disciplines were necessary.  The clinical studies and biomedical experiments of Skylab were designed along classical lines of biomedical research, involving correlative studies of major body systems to determine the dynamics of physiological and behavioral response to space flight.<P>
+
+APPROACH:
+<br>
+During the pre-, in- and postflight phases of the mission, medical surveillance was provided in the following areas: illness events and required medications, nutrition, personal daily exercise, work/rest schedules, and environmental factors.  For continuous clinical evaluation of the crew, the medical operations team had access to medical parameters derived from experiment data and they monitored radiological health, Skylab environmental data (including toxicological evaluation), and medical data obtained from the Operational Bioinstrumentation System (OBS) for clinically related information.<P>
+Skylab crews were trained to use the Inflight Medical Support System (IMSS), which provided equipment and medication to treat any illness or injury that occurred during flight.  The IMSS also provided the capability, in case of major illness or injury, to stabilize the patient until definitive medical care could be provided on the ground.<P>
+Inflight medical operations support and the necessary interactions with program management, other scientific disciplines, and the flight control team were accomplished through a medical management group.  This group met every morning of the mission to review crew health status, as well as other operations-related topics.  Health trend charts were plotted each day to provide useful data for understanding crew health status.  These charts included crew weight, caloric intake, quantity of sleep, and other pertinent information.  Inflight medical monitoring of each crew began at launch through using the OBS.<P>
+
+Illness Events and Required Medication<BR>
+Medical surveillance of the Skylab crew was accomplished by conducting comprehensive physical examinations on the prime and backup crewmen approximately 30, 15 and 5 days prior to flight.  Medical conditions noted during preflight physical examinations were followed throughout the preflight and inflight phases to possibly predict and prevent astronaut illness or injuries during flight.  Physical examinations were again conducted on recovery day.  Drug sensitivity testing was conducted to screen for allergic reactions to items of the inflight medical support system.  Drug screening began as early as 90 days prior to flight.  The crewmen were tested for reactions to both oral and topical medications.  Electrocardiographic, vectorcardiographic, and electroencephalographic skin sensor sensitivity testing was also conducted.<BR>
+In keeping with the requirements of the Flight Crew Health Stabilization Program, the Skylab crewmen were placed in semi-isolation 21 days prior to the scheduled launch date (See the experiment entitled "Skylab Flight Crew Health Stabilization Program" for a full description of the program).<P>
+
+Nutrition<BR>
+The Skylab food system was developed to provide a balanced and palatable diet that met the necessary requirements for calories, minerals, and other nutrients of the metabolic balance experiment.  Energy requirements for each astronaut were estimated based on age and weight, and was adjusted for known effects of weightless flight.  Activity schedules anticipated for flight, data previously acquired on inflight oxygen consumption, and pulse rates were also taken into consideration for determining energy requirements.<P>
+Control of nutrient intake was achieved by performing a complete chemical analysis of each Skylab food item.  Nutrient uniformity was accomplished by controlling the composition of each food item so that no single serving of any food varied from another in analyzed nutrients by more that two percent.  To enable adjustment of menus during flight, a variety of mineral and vitamin supplements were provided.  This helped maintain a constant intake of the controllable nutrient elements despite omission, substitution, or incomplete consumption of planned menu items.  The nutrients controlled within rigid, day-to-day tolerances were calcium, protein, phosphorus, sodium, magnesium, and potassium (this rigid control was a requirement of the metabolic experiments).<P>
+The crews were encouraged to completely consume their nominal menu items; deviations from the nominal menus were reported.  Average nutrient intakes were based on the assumption that the complete contents of the food in each package were consumed.  Menus were planned for a 6-day cycle and contained a core set of foods that provided the required levels of nitrogen, calcium, phosphorus, magnesium, potassium and sodium.  The crewmen were required to consume their planned food menus for 21 days before flight, throughout the flight, and for 18 days after flight.  Preflight and postflight diets were different than the inflight diets in that the crewmen could select from a list of 10 items for these periods.  Also, the pre- and postflight diets were allowed to exceed the inflight diet by 300 kilocalories (kcal) per man per day, since this was the estimated energy differential between 1-G and 0-G conditions.<P>
+
+Personal Daily Exercise<BR>
+The type, duration, and frequency of personal exercise were not specified as flight requirements.  However, the goals for inflight personal exercise included the maintenance of cardiovascular fitness and muscle tone.  After initial exercise tests were conducted approximately one year prior to flight, recommendations were made to each crewman, who then selected his own program of physical conditioning.<P>
+Preflight data were collected during the 21-day isolation period.  The crewmen used a wide assortment of exercise devices that were available in a well-equipped gymnasium.  Preflight activities included running, bicycle ergometry, paddle ball, weight lifting and calisthenics.  Skylab 2 crewmen primarily played paddle ball and rode the bicycle ergometer.  The Skylab 3 crew ran, rode the bicycle ergometer, and performed weightlifting and calisthenics exercises.  The Skylab 4 crew ran almost exclusively.<P>
+During flight, time was allotted on a daily basis for personal exercise.  Personal exercise was performed in addition to the exercise performed as a part of the Metabolic Activity experiment (M171) protocol, though the same protocol was used in some cases.  During flight, the Skylab 2 crew was provided with two types of exercise devices: (1) the bicycle ergometer, which could be operated in the hand mode or foot mode, and (2) an isometric exercise device called an Exer-Gym (Mark III) that provided resistance via a pull rope friction device with a slide pulley.  The Skylab 2 crew used only the bicycle ergometer for physical conditioning.  They were allotted 30 minutes of personal exercise time per day.<P>
+The Skylab 3 crewmembers were provided the ergometer and Exer-Gym (Mark III) during flight.  A commercial device called a Mini-Gym (Mark I) and a spring set (Mark II) were added to the exercise equipment for this crew.  The Mini-Gym, which was slightly modified for use on orbit, worked on the isokinetic principle, permitting the user to exert maximal forces throughout the full range of limb motions; it was suitable for exercising a number of large muscle groups.  The spring set was an isotonic exercise device.  One crewmember used all the exercise devices provided; the other two used the ergometer and the mini-gym.  Personal exercise time was 60 minutes per day.<P>
+During the Skylab 4 mission, a treadmill-like device, which provided moderate aerobic exercise, was added to the equipment discussed above.  The Skylab 4 mission included a full range of aerobic, isometric, isotonic, and isokinetic exercisers.  Two of the three crewmembers used all the exercise devices in their daily routines; the third used the ergometer, mini-gym, and treadmill.  Personal exercise time was 90 minutes per day.<P>
+
+Work/Rest Schedule<BR>
+Total sleep time obtained during a given sleep period was used as a measure of the sleep adequacy.  The quantity and quality of sleep was monitored for one crewmember on each Skylab mission.  The mission activities included a wake-up time of 6 a.m. and end of day at 10 p.m.  (For a full description of the sleep investigations, see the experiment entitled "Sleep Monitoring on Skylab".)<P>
+
+Environmental Factors<BR>
+Microbiological samples were collected to obtain data that would contribute to the understanding of the response of the crew's microbial flora to the microgravity environment.  Samples were collected from the air, spacecraft surfaces, and the crewmembers before, during and after each flight.  Bacteriological, mycological, and virological analysis was conducted on the samples collected.  (Note: this report only covers the major findings; see the experiment entitled "Skylab Environmental and Crew Microbiology Studies"  for detailed microbiology findings.)<P>
+Toxicological studies were also conducted during the Skylab missions.  The Skylab 2 mission was of particular interest because of the damage to the heat shield and subsequent overheating of Skylab.  The suitability of the Skylab atmosphere was determined by the concentrations of carbon monoxide (CO) and toluenediisocyanate.  (See the experiment entitiled "Toxicological Aspects of the Skylab Program" for a complete description of toxicological studies.)<P>
+Radiological protection planning for the Skylab missions encompassed two major areas: first, radiation exposures that were expected, whose components were known with relative certainty, and second, radiation exposures that were unexpected or completely indeterminate.  The onboard instruments available for crew readout included a portable rate survey meter and four personal radiation dosimeters (one a spare) that displayed integrated dose in 10 millirad integrals.  The personal radiation dosimeters and rate survey meter provided the dual functions of extravehicular activity dosimetry and dose rate monitoring, plus vehicle area monitoring in the intervals between extravehicular activities.  Routine monitoring of dose rates at a fixed location aboard the Skylab vehicle was performed by an ionization chamber instrument, the Van Allen Belt dosimeter.<P>
+Passive dosimetry was accomplished with passive dosimeter packets that were to be worn continuously throughout the mission.  Integrated radiation doses at a tissue depth equivalent to the lens of the eye were obtained daily by crew readouts of the personal radiation dosimeters.  These dosimeters were worn the first four days of each mission and during extravehicular activities.  Passive dosimeters were also placed within the Orbital Workshop (OWS) film storage vault from the beginning to the end of Skylab 2 (28 days) and from the end of Skylab 2 to the end of Skylab 3 (123 days). (A complete description of the radiation monitoring activities and results can be found in the experiment entitled "Radiological Protection and Medical Dosimetry for the Skylab Crewmen".)<P>
+
+RESULTS:
+<br>
+Skylab results indicated that humans could perform well during long-term space flight if they receive proper nourishment, regular exercise, and sufficient sleep.<P>
+
+Illness Events and Required Medication<BR>
+Skylab 2:  All crewmen remained in good health throughout the preflight phase, with the exception of one crewmember, who became ill one month before flight.  The illness lasted approximately 24 hours and appeared to be viral gastroenteritis.<P>
+During flight, Subject A developed a left serous otitis media, which required the extended use of an oral decongestant as well as a topical nasal decongestant.  Subject A also suffered from a mild case of contact dermatitis that was treated with a topical steroid cream.<P>
+On recovery day aboard the recovery vessel, vertigo, postural instability, reflex hyperactivity (hyperreflexia), and paresthesia of the lower extremities were prominent findings in all subjects.  Scaling of the skin on the hands of Subjects A and C was noted.  Subject B experienced a vagal (decreasing heart rate, pale sweaty appearance) response during the metabolic activity experiment; symptoms lasted only a few minutes.  Muscle and joint soreness, generally confined to the lower back and lower extremities, were noted on the first day post recovery.<P>
+During the postflight surveillance period, no significant medical problems developed as an apparent result of the long-duration space flight.<P>
+Skylab 3:  No infectious diseases or other medical problems were experienced by the crew during the 30-day preflight period.  After reaching orbit, all the crewmembers suffered from motion sickness, with Subject B exhibiting the most severe symptoms.  Scopolamine/dextroamphetamine sulfate was used for relief with good results.  The occurrence of motion sickness resulted in a loss of work time during the first 3 days of the mission.  Symptoms lasted until mission day 5.<P>
+On mission day 29, Subject B developed a painless sty on the left upper eyelid which was successfully treated with an ophthalmic antibiotic ointment; the sty cleared by mission day 32.  On mission day 33, Subject A reported a boil forming under the right arm.  He was advised to avoid the use of stick deodorant and tightly fitting garments.  The condition cleared in about 48 hours, without the use of medications.<P>
+In general, the crewmembers remained in excellent health, with the exception of a few minor clinical problems.  Vertigo, postural instability, hyperreflexia, dry skin, and slight fissures of the hands were noted in all subjects.  The overall recovery rate postflight was more rapid than that observed after Skylab 2.<P>
+Skylab 4:  The crew remained in good health throughout the preflight period. The mission was characterized by the absence of any major illness or injury.  However, there were numerous symptomatic events that required variable amounts of medication.<P>
+Anti-motion sickness medication was prescribed for all three crewmen, though only Subjects A and B suffered symptoms.  Subject A experienced only minimal malaise, but subject B suffered significant nausea, vomiting one day and suffering from malaise for two more days after.<P>
+Lip balm and skin cream were prescribed to prevent drying of lips and the skin, respectively.  Decongestants, both topical and systemic, were used during the mission; they were used both prophylactically during extravehicular activities and for specific symptomatic relief of the feeling of fullness in the head, ears, and nose.  Subject C used aspirin twice for the relief of transient headaches (mission days 17 and 67) and used utility wet packs (mission days 75 through 79) for the relief of a minimal papular rash on the left neck and ear area.  Subject B treated a rash on the upper mid-back area with TinactinÆ.  Sleep medication was used periodically throughout the mission.<P>
+Vertigo, postural instability, and hyperreflexia were again noted in all crewmembers postflight.  Subject A experienced a vagal response with presyncope at the end of the forced expiration in pulmonary function testing.  Late on recovery day and the day after, petechiae were noted in the lower legs of all subjects.  Variable joint and muscle soreness, located largely in the lower back and knees, was caused by the resumption of exercise after flight.<P>
+The postflight period was free of any illnesses or injuries.  Postflight physiological readaptation, as shown by experiment results, revealed the crew to be in as good or better condition than the crews of the two earlier missions.<P>
+
+Nutrition<BR>
+Each of the nine Skylab crewmembers found that they were able to eat approximately the same amount of food in space as when they were on the ground.  Through careful menu formulation, protein intakes were generally identical during the pre-, in- and postflight phases; carbohydrate consumption was generally higher inflight than on the ground; crude fiber intake was approximately the same during all flight phases; and fat intake was slightly lower during flight.<P>
+Large variations in daily energy intake indicated that each crewman was permitted to freely consume certain foods containing very low levels of the controllable elements.  However, despite the efforts made to control the intake of macro-nutrient elements (calcium, phosphorus, and magnesium) within strict limits, some deviation from these limits occurred, but not enough that the intake levels were outside the planned dietary allowance.  The differences between element intake levels on the ground and during flight were not significant.<P>
+Vitamins were provided in both the food and, during the Skylab 3 and 4 missions, in pill supplements.  Vitamin A intake exceeded the recommended daily allowance (RDA) by as much as 200 percent, with greater values occurring during flight.  Vitamin D2 was low or absent in the food, but was provided in multivitamin pill supplements that contained 100 percent of the RDA (this was considered advisable because of the absence of UV light during flight).  Vitamin E was present at 100 percent of the RDA, though little originated in the food supply.  Both vitamin B and vitamin C were present at almost ten times the RDA.<P>
+Folic acid intake was of concern because of decreases in red blood cell mass; decreases of ten percent were observed in astronauts from the Apollo and Skylab missions.  Skylab 3 and 4 crews were provided with 200 percent of the RDA for folic acid, as well as adequate intake of copper, zinc, and iron.  Based on these intake values, red blood cell loss was determined to be caused by other variables, and not a nutritional deficit.<P>
+Lean body mass was lost during space flight despite caloric intakes that were not significantly less than ground-based intakes.  Skylab 3 and 4 crewmembers suffered bone mineral mass losses ranging from 4.5 to 7.4 percent.  Recovery of bone mineral mass required up to 87 days postflight for one Skylab 3 crewman and up to 95 days for a Skylab 4 crewman.  A negative calcium balance was noted by measurements of increased urinary and fecal calcium levels.  The excretion of phosphorus increased during each mission.  The possibility that these losses would continue indefinitely during space flight made it imperative to attempt--whether by nutritional, physical, or pharmacological means--to counteract them.<P>
+The Skylab experience has provided evidence that the caloric requirements of space flight are identical to those for an individual on Earth, at least for high-activity missions such as Skylab.  Gemini and Apollo data indicated that inflight caloric requirements were about 300 kcal/day less than the caloric requirements on Earth.  This view may have been influenced by the relatively low-activity profiles of these missions and by the fact that the food provided was often not consumed.  In retrospect, this may have been a manifestation of early motion sickness that was not recognized as such at the time.<P>
+In contrast to previous missions, it was unlikely that nutrient deficiencies contributed significantly to the biochemical and physiological changes observed in Skylab.  Certain deteriorative or adaptive processes that accompany space flight most likely affected nutritional requirements in such a way that intakes appropriate under ground-based conditions were sub-optimal during flight.<P>
+
+Personal Daily Exercise<BR>
+The Skylab 2 crew experienced decreased physical fitness after their 28-day mission as compared to levels immediately preflight. The Skylab 3 and 4 crews improved their fitness levels by the end of their flights as compared to immediate preflight levels.  Statistically, the Skylab 2 crewmen regained preflight physical fitness status within 3 weeks postflight, the Skylab 3 crewmen within 4 to 8 days postflight, and the Skylab 4 crewmen were well within their normal response by postflight day 2 following their 84-day mission.<P>
+Some generalizations were made based on the data collected.  First, if the Skylab crews had exercised at 1-G with the same intensity as during flight, it was felt that their cardiorespiratory fitness would have increased even more than observed.  Second, the exercise regimen accomplished by the Skylab 3 crew provided approximately that amount of aerobic activity required to maintain preflight physical condition during space flights longer than 1 month.<P>
+Muscle function data indicate a need to provide sufficient exercise for the weight-bearing muscles to maintain preflight muscle strength.  Review of muscle exercises performed by the Skylab crews shows that mostly isokinetic exercise with less isotonics and very little isometrics was accomplished.  Isokinetic training appeared to be more effective than either isometrics or isotonics.<P>
+Based on the exercise program results from Skylab crewmembers, a working hypothesis was formulated that stated that exercise could be considered a countermeasure to the effects of weightlessness, and exercise should be a required activity for long-duration missions.<P>
+
+Work/Rest Schedule<BR>
+Skylab 2:  The work/rest cycles of the Skylab 2 crewmen were greatly affected by the thermal and power problems associated with damage to the station heat shield and the subsequent repair activities.  While repairs were in progress, work days averaged 16 to 18 hours.  After repairs were completed, the crew used their planned rest and recreation days catch up on experiment operations and other tasks.<P>
+Analysis of the rest periods, based on inflight reports and limited sleep data from one crewmember, showed that sleep characteristics were not adversely affected.  However, a reduction of sleep time from approximately 7 hours preflight to 5 to 6 hours during flight was noted.<P>
+Skylab 3: Crew activity on mission day 1 lasted approximately 21 hours.  Partly because of this long workday and partly because of the motion sickness, the activities on mission day 2 were reduced considerably.  After approximately 2 days, the crew overcame the residual weakness.  Beginning with mission day 3, the crew operated essentially at pre-mission levels.  No other major work/rest issues occurred during this mission.<P>
+Skylab 4:  The work/rest cycle was a key problem during this mission.  Working at the prescheduled pace proved taxing to the crew.  During the early phase of the mission, the crew was scheduled at a pace comparable to that attained by the Skylab 3 crew in the latter part of the Skylab 3 mission.  New experiments, stowage confusion, equipment malfunctions, and the sheer length of the mission were all contributing factors to psychological stresses that were slowly resolved over the first half of the mission.<P>
+
+Retrospective evaluation of mission events, especially the contents of the operational conference around mission day 45, showed that the Skylab 4 crew seemed to have been scheduled to perform at a pace that was too rapid and too rigid for that early in the mission, especially when considering the overall intended length of the mission.<P>
+
+Environmental Factors<BR>
+Air Microbiology:  Low levels of inflight bacterial contamination were observed on the first two missions, whereas the recovery from Skylab 4 was considerably higher.  These higher counts were due entirely to an influx of Serratia marcescens, a microorganism that has been shown to produce various infections in humans.  This species was not detected in any preflight samples, but was recovered from all three Skylab 3 crewmembers immediately upon recovery.  Subsequent investigation demonstrated several potential sources of this microorganism in the Skylab environment.  However, these potential sources could not be sampled during flight and therefore, a direct correlation could not be made.<P>
+Surface Microbiology:  There was a reduction in the number of aerobic bacteria colony forming units recovered 16 days before returning to Earth on Skylab 2, probably due to the thermal problems experienced during this mission.  Anaerobic bacteria increased by a factor of ten.  Both Aerobic and anaerobic bacteria increased by factors of 10 to 100 on Skylab 3, with no apparent reason other than increased habitation length by crewmembers.  On Skylab 4, the total concentration of aerobic bacteria remained nearly constant although anaerobe recovery decreased significantly.  The decrease was due to the loss of Propionobacterium acnes, which contributed strongly to the anaerobe population of the other two Skylab missions.<P>
+The number of fungal isolations was low until the Skylab 4 mission.  Although overall humidity was low during this mission, local areas of high humidity cannot be entirely eliminated.  In general, the species of fungi isolated from surface and air samples were the same as those isolated from the liquid-cooled garments stowed onboard.<P>
+Crew Microbiology: The total number of viable aerobic bacterial cells recovered was frequently higher postflight, while the number of genera and species decreased in all missions except Skylab 4.  Values obtained from immediate postflight sample analyses were frequently outside of the established preflight ranges.<P>
+Following Skylab 2 and 4, fewer viable anaerobic cells and fewer genera and species were recovered from up to 70 percent of the sites sampled.  However, all of these values increased in some sample areas following Skylab 3.  These postflight increases were due to an unusually high level of contamination with Propionobacterium acnes on the skin of the subjects.  This matched the increased contamination on Skylab surfaces mentioned above.  In summary, one can state that gross numerical changes in the autoflora cannot be correlated with mission duration up to 84 days.  Total numbers of viable bacterial cells tended to increase for aerobes and decrease for anaerobes.  The number of different aerobic genera and species change little, while there is generally a decrease in the number of different anaerobes types recovered.<P>
+Skylab 2 results for yeasts and filamentous fungi were typical of results from Apollo: a significant reduction in the number of isolated fungal species up to launch day, greater reductions after exposure to the spaceflight environment, and a relative increased incidence of the potential pathogen, Candida albicans.  These results, however, were not repeated on Skylab 3 and 4.  Fungal recovery was not depressed after Skylabs 3 and 4, indicating increased exposure to fungi within the OWS.  This was an important observation in light of the report of a rash appearing on one Skylab 4 crewmember.  The rash was presumed to be a mycotic infection, which responded to treatment with Tinactin.<P>
+Toxicology: Skylab 2 - Overheating of the OWS was expected to cause the release of toluenediisocyanate, carbon monoxide (CO), and other decomposition products resulting from thermal degradation of polyurethane foam insulation, and through temperature-accelerated offgassing of other nonmetallic spacecraft materials.  The OWS was purged to a dilution of approximately 12,000 to 1, then the atmosphere verified by sampling the air through the pressure equalization ports.  The toluenediisocyanate concentration was reduced to below the acceptable limit of 0.02 part per million (ppm) and the CO level was reduced to between zero and 5 ppm.<P> 
+On mission day 10 the measured CO levels had increased to between 10 and 15 ppm, and 7 days later was at 25 ppm.  This necessitated purging the workshop between visits to control the CO levels.<P>
+Skylab 3 - The presence of CO, as was determined during the Skylab 2 flight, was not rechecked because the CO detector tubes left in the OWS from the previous mission were considered nonfunctional.<P>
+Two heat exchangers leaked fluid during this flight.  Their fluids were Coolanol 15 (used in the Multiple Docking Assembly) and water-glycol (in the command module).  No toxicological problems were associated with Coolanol 15.  A potential problem with aerosols and fumes of ethylene glycol in the command module was present, and necessary steps were taken to remove the chemical.  No other toxicological problems were reported during this mission.<P>
+Skylab 4 - No toxicological problems occurred on this mission.  An atmospheric volatile concentration measurement device was used to collect and trap organic molecules for postflight quantitative analysis.  No irritating chronic odors existed.<P>
+
+Radiation: Daily dosimeter data provided to ground monitoring crews confirmed a continuously nominal radiation environment throughout each of the three missions.  An upper limit estimate of the hard galactic radiation contribution is approximately 18 millirads per day; the approximate lower limit is 12 millirad per day.  Comparison of these rates with the overall mean dose rates indicate that the galactic component accounted for roughly 20 to 30 percent of the crew mean doses and 30 to 50 percent of the observed film vault doses.  The majority of the remaining dose originates from protons of the Van Allen Belts and softer secondary radiations generated by passage of the primary particles through spacecraft materials.  Instruments placed in designated positions showed a trend towards increased values as use of food, water, propellants, and other expendables reduced the overall spacecraft shielding.<P>
+Due to the low dose rates involved (for example, less than 100 millirem per day to blood forming organs), dose equivalents for each crewman were well below the threshold of significant clinical effects.  These equivalents apply specifically to long-term effects such as generalized life shortening, increased neoplasm incidence, and cataract production.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>skych</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Buchanan, Paul, Hordinsky, Jerry, Ross, Charles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Skylab</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Skylab 2&#x27;], [&#x27;Skylab 3&#x27;], [&#x27;Skylab 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/98ax-4f77</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/90d326d8-dd48-54d7-a2f6-ece2621b3fb1?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/90d326d8-dd48-54d7-a2f6-ece2621b3fb1?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

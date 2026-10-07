@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluation of Exercise Hardware for use in the Crew Exploration Vehicle - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/5256e5fc-2ee4-59eb-a94f-3f63717a13fd?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>EORS_CEV</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Evaluation of Exercise Hardware for use in the Crew Exploration Vehicle</h1>
+        <div class="meta-id">Record ID: EORS_CEV</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/5256e5fc-2ee4-59eb-a94f-3f63717a13fd?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+During space flight, astronauts lose muscle mass, muscle strength, and muscle power.  The decrease in muscle performance is concerning because it might impair the astronauts’ ability to perform various tasks that are critical to mission success and safety.  There are currently exercise devices used on the International Space Station (ISS) to counteract the effects of zero gravity, but those are too large (weight and size) for use on the upcoming crew exploration vehicle, Orion.  With this in mind, new more compact exercise devices are being designed and prototyped to evaluate their capabilities.  The Exercise Physiology and Countermeasures (ExPC) Project was tasked with performing evaluations of these prototype devices in order to assess their potential for being included in an exploration vehicle.  This evaluation was performed as an engineering checkout of two proposed exercise devices: an Inertia Wheel prototype exercise device and an Air Spring prototype exercise device.  During the functional evaluation, a rowing exercise (aerobic and anaerobic) and a series of resistance exercises were performed at sub-maximal effort to ensure the devices were operating properly and to evaluate the performance of each device. 
+<p>
+APPROACH:<br>
+Seven exercise subjects participated in this evaluation. All subjects were approved by the Human Test Subject Facility and provided informed consent. The evaluation was approved by the Committee for the Protection of Human Subjects. Subjects were in general good health with no recent sickness or injury, had no history of cardiovascular or musculoskeletal disease, and were free of significant muscle, joint, or bone injury for the last six months.  Subjects were briefed on the protocol they performed and signed the consent form before proceeding with any testing.  
+<p>
+Prior to any test sessions, subjects participated in a familiarization session during which they had the opportunity to practice exercising on each device, and received instruction on how to properly perform the resistance training exercises in the evaluation on each device. For each resistance exercise, subjects had the opportunity to perform at various loading levels. The resistance in the Inertial Wheel is created by a spinning flywheel, and was dependent upon how fast or slow the subject moved. The resistance in the Air Spring is created by air pressure inside a resistance cylinder, and can be lowered or raised by the user, just like a typical weight lifting machine. Because it was important that subjects lift approximately the same level of resistance with each device, they completed their practices on the Inertial Wheel first, and the loads that they developed during practice were measured and recorded. When subjects completed their practice on the Air Spring, the loads they developed with the Inertial Wheel were used to determine the Air Spring loads. Those loads were used on the Air Spring during the later data collection. After the familiarization session, subjects were scheduled for two exercise tests during which data was collected. There was at least 48 hours between scheduled sessions to ensure that subjects were fully recovered and free from fatigue.
+<p>
+During the exercise tests subjects participated in the following protocol:
+<p>
+Subjects reported to the specified test location in comfortable exercise shoes. They were provided with a spandex shirt and shorts to wear during the testing. They were given a chance to practice with the equipment and perform some simple muscle stretches.  They then began the rowing exercise.  They were instructed to row slowly and with a steady motion, and not to strain themselves or pull hard. While rowing, the test operators recorded force and speed data from the device. Subjects rowed for up to five minutes at a pace that they selected. Subjects were encouraged to row at a pace that made them feel like they’re moderately exercising, but that they could continue at for the entire five minutes. When the five minute session was complete, subjects were given a questionnaire asking about their experience exercising on the device. After they were rested, subjects completed a second rowing exercise trial. During this trial, subjects were asked to complete one minute of exercise, and to exercise at a pace they could sustain for one minute, but would have trouble continuing after a minute had passed. During space flight, the astronauts will need to perform high intensity exercise to stay healthy, and the investigators needed to understand if the devices are capable of allowing high intensity exercise to occur. After one minute, subjects stopped exercising, and were once again asked to complete a questionnaire detailing their experience with the device.
+<p>
+After completing the rowing exercise, subjects completed resistance exercises on the other device. Subjects had another opportunity to try the squat, dead lift, diagonal dead lift, heel raise, bench press, shoulder press, full body press, upright row, bicep curls, bent over rows, and triceps press. For each movement, subjects were asked to perform a light lift, medium lift, and a heavy lift at their self-selected intensity level. If a device was not capable of allowing a certain exercise, it was not attempted. Subjects completed a questionnaire during the rest periods. They rested from 30-90 seconds between each set.  Subjects could request longer rest periods between tests if necessary.  Load and speed data from the device were collected during each set.  
+<p>
+During each exercise session, the motions of the subject’s arms, legs, and upper body were measured using a motion capture system with 12 cameras. Reflective markers were placed on the subjects with double-sided adhesive tape. The markers were attached to their clothing. If markers need to be attached to a body location that is not covered with clothing (knees), the marker was attached to fabric prewrap. A digital video camera recorded the subjects’ movements. They wore a chest strap heart rate monitor that was used to measure heart rate during all exercise.
+<p>
+RESULTS:<br>
+This experiment has concluded.  Data will be used only to characterize capabilities of each device.
+No data will be published; this is an engineering evaluation only.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>EORS_CEV</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>De Witt, John</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance, Muscle physiology, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ECP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/md7c-ye55</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/5256e5fc-2ee4-59eb-a94f-3f63717a13fd?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/5256e5fc-2ee4-59eb-a94f-3f63717a13fd?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

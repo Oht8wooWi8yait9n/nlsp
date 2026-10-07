@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crop Production Technology: Advanced Life Support - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ba4d605c-9f77-5451-a8a3-53787f4c4570?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Crop_Technology</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Crop Production Technology: Advanced Life Support</h1>
+        <div class="meta-id">Record ID: Crop_Technology</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ba4d605c-9f77-5451-a8a3-53787f4c4570?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The first opportunities for using plants in life support systems for space will likely involve a vegetable production unit (VPU) or “salad machine” to provide fresh vegetables and fruits to supplement the crew’s diet. Several crops were identified for initial testing, including: tomato, spinach, radish, chard, lettuce, cabbage, carrot, and green onion. To assess the challenges and potential yields in a typical space cabin environment, radish, lettuce and onion plants were grown at three temperatures (22, 25, and 28 C), three carbon dioxide concentrations (400, 1200, and 4000 ppm), and three light intensities (150, 300, and 450 micro mol m-2 s-1). A similar series of tests was carried out with dwarf tomato and dwarf pepper but only at 25 C. All the studies were repeated to provide statistical confidence, and samples were analyzed for taste and acceptability attributes by taste panels. 
+<p>
+Related studies were carried out with radish and lettuce just at 25 C, 1200 ppm carbon dioxide, and several light intensities but in this case using light emitting diodes (LEDs). LEDs are solid state lamps that have a long operating life and hence are appealing for space applications. In addition, LEDs emit very little long wave radiation (heat) toward the plants, simplifying thermal management issues for space chambers. But the spectra of LEDs is very narrow compared to conventional fluorescent and high-intensity discharge lamps, and plant responses to these narrow spectra need study. 
+<p>
+Findings from NASA sponsored testing with salad crops will provide valuable information to commercial controlled environment agriculture (CEA) operations, where optimizing light, carbon dioxide and temperature are important for maximizing yields. The routine use of recirculating hydroponic systems in NASA studies will also provide useful information for reducing nutrient discharge from commercial CEA systems into ground water and nearby aquatic systems. LED development continues at a rapid pace in the commercial world (e.g., traffic lights and car tail lights), and LEDs have already been tested in commercial CEA facilities in Japan. NASA’s continued testing with crops grown under LEDs will provide valuable information needed to develop acceptable combinations of spectra and intensity for competitive and profitable CEA systems around the world.
+<p>
+APPROACH:<br>
+Radish, lettuce, and green onion plants were grown hydroponically for 35 days at different combinations of temperature (22, 25, and 28 degrees C), carbon dioxide concentration (400, 1200, and 4000 ppm), and light intensity (150, 300, 450 umol m-2 s-1). Each test was repeated twice and harvest weights, texture, and color were assessed. A similar series of tests was conducted with dwarf tomato and dwarf pepper where plants were grown for 105 days at 400, 1200, and 4000 ppm carbon dioxide, 150, 300, and 450 umol m-2 s-1 light, but only at 25 degrees C temperature. For the tomato and pepper studies, fruits were also compared for sensory (taste) analysis. In general, increased light intensity increased growth for all species, but also increased the incidence of leaf tipburn injury in lettuce. Likewise, increasing the CO2 concentration to 1200 ppm from 400 ppm increased the growth for all species.
+<p>
+RESULTS:<br>
+Growth of lettuce and radish plants under red LEDs alone typically resulted in elongated stems and leaves, and occasional bleached (no chlorophyll) areas in radish leaves. Added blue light to the red prevented these effects and resulted in acceptable growth. Addition of green light to the red and blue increased growth in some cases but had no effect in others. But in all cases, the addition of green light provided a more balanced spectrum that allowed visual assessment of the health and development of the plants. When green light was provided alone, stomatal conductance of lettuce plants was reduced, suggesting a direct effect of the green light on the stomatal control mechanism. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Crop_Technology</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Goins, Gregory</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Plant biology, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Not applicable</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/nk4s-ev55</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ba4d605c-9f77-5451-a8a3-53787f4c4570?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ba4d605c-9f77-5451-a8a3-53787f4c4570?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

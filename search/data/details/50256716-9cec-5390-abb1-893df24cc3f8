@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Mercury Ballistic and Orbital Chimpanzee Flights - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/50256716-9cec-5390-abb1-893df24cc3f8?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>CHIMP</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Project Mercury Ballistic and Orbital Chimpanzee Flights</h1>
+        <div class="meta-id">Record ID: CHIMP</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/50256716-9cec-5390-abb1-893df24cc3f8?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVE:<P>
+In April 1959, a chimpanzee test program with the following objectives was established for Project Mercury:<P>
+<P>
+1. Animal verification of a successful space flight prior to manned space flight.<P>
+2. Collection of data on the physical and psychological demands, that would be encountered by the  
+    astronauts during space flight.<P>
+3. Completion of a dynamic test of operational procedures and training of support personnel in handling the  
+    biomedical program for manned flight.<P>
+4. Evaluation of the spacecraft environmental control system and bioinstrumentation under flight conditions.
+<P>
+Two chimpanzee flights were conducted in order to evaluate and accomplish the above objectives.  Mercury-Redstone 2, the first of the two chimpanzee flights, was launched on January 31, 1961.  This flight involved a chimpanzee, Ham, being placed through a ballistic trajectory flight.  During the flight, Ham had to perform a continuous and discrete motor task that had been learned on the ground.  Mercury-Atlas 5, the second chimpanzee flight, was launched on November 29, 1961.  During this flight, a chimpanzee named Enos, performed a complex multiple operant task, while orbiting the earth twice. 
+<P>
+Tests were performed during the Mercury animal flights to ascertain whether the restrained animal, retaining visual and kinesthetic references, could respond normally during weightlessness to a series of problems graded in difficulty and in motivation.  The animal was trained to respond on a schedule that involved mild punishment for error.  In addition, a reward system, in the form of food pellets and drinks of water, was provided.  The purpose of the schedule was both to determine whether there was a loss of appetite for food or water and, to establish that eating and drinking could be carried out normally in the weightless state.  The bioinstrumentation resembled, as closely as possible, that used in the human Mercury flights for which these animal flights were to be an introduction.  One important addition for the Mercury-Atlas 5 flight was the use of a special instrumentation package by which onboard recordings would be made from both the low (venous) and high-pressure (arterial) systems of the circulation before and during flight.
+<P>
+The comprehensive series of operant tasks involving both reward and avoidance was based primarily on previously established conditioning techniques.  Originally, the feasibility of applying such techniques--which had already been worked out for the pigeon, rat and monkey--to the chimpanzee was problematical since previous operant studies of these animals had not used avoidance conditioning.  It is one of the accomplishments of the animal program that solutions to the various problems in comparative psychology were so rapidly found and that a highly effective and complex series of in-flight tasks were developed and successfully used in space.
+<P>
+APPROACH:<P>
+
+<U>Mercury-Redstone 2 (MR-2)</U><BR>
+
+Ham, the MR-2 flight subject, was a male chimpanzee weighing 37 pounds.  On the basis of dental eruptions, his age was estimated at 44 months.  Ham had received 219 hours of training in the behavioral task over a 15-month period; prior to the flight he had been subjected to simulated Redstone launch profiles in a centrifuge.
+<P>
+The following physiological parameters were measured before and during the MR-2 flight: electrocardiogram (ECG), respiration, and rectal temperature.  The subject, along with all the physiological and performance hardware, was housed in a custom-made flight couch.  During flight the subject was restrained in the flight couch using a specially fitted flight suit and harness inside the couch.    Preflight physiological data were recorded on direct writing recorders; flight data were recorded on onboard tape and telemetered to ground stations and to recorders located on inflight aircraft.  During the 18-month period prior to the MR-2 flight, Ham received six complete, quarterly physical examinations.  After recovery of the MR-2 flight capsule, he was given another complete physical examination with blood, urine, and fecal analysis.  Three more such examinations were conducted on Ham 2, 7, and 14 days after the MR-2 flight.
+<P>
+The performance tests were administered to Ham using a performance test panel developed specifically for the MR-2 flight.  The performance test panel contained three lights and two levers, and was mounted perpendicular to the subject at waist level.  The performance task for the MR-2 flight consisted of two components: a continuous-avoidance component and a discrete-avoidance component.  Both components of the performance task were administered to the subject simultaneously.  The continuous-avoidance component required the subject to depress the right-hand lever at least once every fifteen seconds, to avoid a shock.  Each response by the subject on the right-hand lever postponed the occurrence of the next scheduled shock for 15 seconds and, as a consequence, a consistent and stable rate of responding was developed by which the subject could avoid shocks indefinitely.  The discrete-avoidance component employed a signal as a warning of impending shock if the correct response was not made.  The warning signal was the illumination of a blue light.  This light came on once every 2 minutes.  The subject had to press the left-hand lever within 5 seconds of the presentation of the blue light to avoid receiving a shock. The time between the appearance of the blue light and the pressing of the left lever was the subject's reaction time.  
+<P>
+Because redundancy in data collection was desired, five digital counters were included in the programming unit of the flight couch.  These counted the responses on the right-hand lever, the blue-light presentations, responses on the left-hand lever, the number of shocks for failure to perform continuous-avoidance task, and the number of shocks for failure to make discrete-avoidance responses.  Readings from these counters after flight verified the information obtained via telemetry and the onboard tape recorders.
+<P>
+<U>Mercury-Atlas 5 (MA-5)</U><BR>
+
+Enos, the MA-5 flight subject, was a male chimpanzee weighing 42 pounds.  His age was estimated at 63 months.  Enos had received a total of approximately 1,263 hours of training over a 16-month period; 343 hours of this training was accomplished under restraint conditions in a laboratory model of the couch used during the flight.
+<P>
+The physiological parameters measured during the MA-5 flight were the same as for the MR-2 flight with the following two exceptions:  venous and arterial catheters were used for blood pressure measurements, and Enos was catheterized for collection of urine during the flight.  The subject, along with all the physiological and performance hardware, was housed in a custom-made flight couch.  During flight the subject was restrained in the flight couch using a specially fitted flight suit and harness inside the couch.  Physiological data were recorded using the same methods used during the MR-2 flight.  Complete blood analysis was performed on Enos 1, 2, 5, 8, 20, and 50 days after the MA-5 flight.
+<P>
+The performance test panel used for the MA-5 flight was specifically designed for the orbital flight.  The MA-5 performance test panel consisted of three miniature inline digital displays (IDD) and three levers.  The performance test panel also controlled a pellet feeder that was incorporated into the panel, and a lip-lever activated drinking tube that was attached to the flight couch near the subject's head.  
+<P>
+The performance task for the MA-5 flight consisted of a five-component, multiple-operant conditioning schedule.  The first two components of the schedule, continuous-avoidance and discrete-avoidance, were the same as in the MR-2 flight.  The third component of the schedule required the subject to perform on an operant conditioning schedule involving differential reinforcement of a low rate (DRL).  Water was used as the reinforcer or reward.  Performance of the DRL task was measured in terms of the time that the subject waited between reward lever presses.  The fourth component was a fixed ratio (FR) reinforcement program for food reward.  Performance on this component was measured in terms of the time required for the subject to make fifty lever presses (for every fifty lever presses a food pellet is dispensed).  The final component of the schedule consisted of 18 oddity problems.  The oddity problems required the subject to discriminate the odd symbol presented on the three IDDs, and press the corresponding lever within 15 seconds.  The level of performance on this component was measured in terms of discrimination accuracy: number of oddity problems (18) was divided by the total number of discriminations.
+<P>
+Data was collected on the MA-5 flight using three data collection techniques simultaneously.  Data were telemetered to ground receiving stations, continuously recorded on two sub-channels of the onboard recorder tape, and the total of all responses was recorded on a single digital counter mounted behind the performance test panel.
+<P>
+RESULTS:<P>
+
+<U>Mercury-Redstone 2</U><BR>
+
+During the MR-2 ballistic flight, Ham was subjected to the stresses of the prelauch operations, launch, flight, reentry, landing, and recovery from the ocean.  Despite these various stresses, few measurable physiological and behavioral changes were noted.  When compared with a photograph taken before the flight, the postflight picture of Ham indicates his good condition onboard the ship only a few hours after recovery.  One measurable physiological change to Ham, was a significant lag after launch in the return of his heart rate to normal (preflight) values.  Ham's heart rate rose to 158 beats per minute during the third and fourth minute following the launch, and required approximately 4 minutes of weightlessness for it to return to preflight values.  A measurable increase in heart rate also occurred during the reentry acceleration following the period of weightlessness, and again the heart rate returned slowly to normal values.  During this period, drogue parachute opening, main parachute opening, and impact may have deferred the return of the heart rate to normal.  The subject's respiration rate was not greatly disturbed by the launch accelerations and returned to preflight values during weightlessness, varying from a low of 22 to a high of 72 breaths per minute with a mean throughout the flight of 44 breaths per minute.  The environmental control system of the Mercury spacecraft performed so well that the subject's temperature was essentially unchanged throughout the flight.
+<P>
+A physiological change of particular interest was the neutrophile-lymphocyte ratio shift, which was believed to be a result of the exposure to the stresses of launch preparation, flight, and postlanding period in the ocean awaiting recovery.  Upon recovery and release from the spacecraft, the white blood cell count showed a ratio of 94-percent neutrophiles to 4-percent lymphocytes with a total count of 16,000 white blood cells.  Seventy-two hours later, there were 14-percent neutrophiles to 84-percent lymphocytes.  By February 7, nine days after flight, the neutrophile-lymphocyte ratio had returned to the normal 35-percent of neutrophiles.  The shift in the neutrophile-lymphocyte ratio, which is found during periods of stress, has previously been described in the analysis of blood samples obtained from chimpanzee subject studies exposing them to high temperature and humidity.
+<P>
+Ham&#39s excellent performance on the two required tasks was gratifying.  Of the two shocks received during the flight, only one was deserved.  The reliability of the subject on the continuous-avoidance program, shows that this type of work can be monitored by a higher primate under space-flight conditions.  In controlled laboratory experiments in a centrifuge, chimpanzee subjects have been exposed to acceleration of 6-G in simulating the launch of the Redstone vehicle.  At that time, a decrement in performance on a continuous avoidance task was noted; therefore, the decrement observed following launch and reentry was to be expected.  However, the decrement after launch was followed by recovery to preflight values within approximately 1 minute.  There was also a performance decrement following reentry.  Although the reentry decrement&#39s significance has not been determined, it is possible that is was related to oscillation of the spacecraft prior to stabilization by the deployment of the drogue parachute.
+<P>
+<U>Mercury-Atlas 5</U><BR>
+
+Several inflight and postflight physiological events related to the MA-5 orbital flight warrant comment.  The Zanzibar tracking station recorded premature ventricular contractions 26 minutes after launch.  Since launch acceleration lasted for 5 minutes, the first premature ventricular contraction occurred after 21 minutes of weightlessness.  The premature ventricular contractions continued singly, in pairs, and in runs until 3 hours 15 seconds after launch.  At that time, the retrorockets were fired and the subject was subjected to increasing accelerations.  Continuous data on the subject covers the period from 5 hours 30 minutes before launch until 3 hours 21 minutes after launch.  
+<P>
+The chimpanzee&#39s blood pressure was recorded onboard the spacecraft, but was not monitored via telemetry; therefore, no data were available until after the flight.  Although the blood pressure was high, it was not inconsistent with the preflight values, which were also high, nor was it inconsistent with some of the data obtained previously on this subject.
+<P>
+It has not been possible to demonstrate any correlation with performance or shock being a factor in inducing the premature ventricular contractions, only that the premature ventricular contractions occurred during the weightless state.  It may be speculated that they were associated with some changes in the position of the catheter in the heart during weightlessness.  The physiological and psychomotor responses to the flight were as expected except for the sustained high blood pressure.  This condition preceded the flight and was not due to the act of catheterization or to the presence of the catheters in the leg artery and vein.  For example, subsequent studies have shown no increase in blood pressure, with values obtained being the same as those measured by sphygmomanometry.
+<P>
+The subject performed as desired throughout the launch and reentry acceleration and during the weightless state despite the unplanned stress caused by the failure of the center lever in the performance test panel, which resulted in numerous shocks during the oddity problem presentation.  Subsequent to the oddity presentations, performance was within normal limits except during the peak acceleration of reentry.  The data show no significant disturbance in the subject's behavior or physiology that could be attributed to the weightless state, to the other conditions accompanying the flight, or to the lever malfunction during the second orbital pass.
+<P>
+Nevertheless, the extra systoles and the high blood pressure do emphasize the importance of measuring the total subject response in terms of both behavior and physiology.  Both approaches are required to evaluate the flight or any particular portion of it.  That the physiological task recordings showed normal performance despite the cardiovascular irregularities was convincing evidence of the immediate value of the operant technique as a direct measure of the well being and performance capability of the subject.
+<P>
+From the results of the MR-2 and MA-5 flights, the following conclusions were drawn:
+<P>
+1. The numerous objectives of the Mercury animal test program were met.  The MR-2 and MA-5 tests 
+    preceded the first ballistic and orbital manned flights, respectively, and provided valuable training in  
+    countdown procedures and range monitoring and recovery techniques.  The bioinstrumentation was 
+    effectively tested and the adequacy of the environmental control system was demonstrated.<P>
+2. A 7-minute (MR-2) and a 3-hour (MA-5) exposure to weightlessness was experienced by the 
+    subjects in the context of an experiment design, which left visual and tactile references unimpaired.  
+    There was no significant change in the animal's physiological state or performance as measured during a 
+    series of tasks of graded motivation and difficulty.<P>
+3. The results met program objectives by answering questions concerning the physical and mental demands 
+    that the astronauts would encounter during space flight and by showing that these demands would not be 
+    excessive.<P>
+4. An incidental gain from the program was the demonstration that the young chimpanzee can be trained to 
+    be a highly reliable subject for space-flight studies.
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>CHIMP</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Henry, James, Mosely, John</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Mercury</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance, Cardiovascular physiology, Human factors, Metabolism and nutrition</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Mercury 2&#x27;], [&#x27;Mercury 5&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Chimpanzee (Pan troglodytes) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/f5jv-yc85</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/50256716-9cec-5390-abb1-893df24cc3f8?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/50256716-9cec-5390-abb1-893df24cc3f8?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spaceflight Standard Measures: Carotid Intima-Media Thickness - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/4eb27057-4045-508a-a96e-d2d8fcebde1f?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>SSM_cIMT</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Spaceflight Standard Measures: Carotid Intima-Media Thickness</h1>
+        <div class="meta-id">Record ID: SSM_cIMT</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/4eb27057-4045-508a-a96e-d2d8fcebde1f?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR> <p> The Carotid Intima-Media Thickness (cIMT) measure is one of nine Spaceflight Standard Measures conducted on International Space Station (ISS) crewmembers.  Spaceflight Standard Measures are a set of core measurements, representative of many of the risks experienced by astronauts before, during, and after spaceflight. The purpose of this project is to populate a repository with data that enables high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes. These standard measures will support future, hypothesis-driven research that enables planetary missions by providing an optimized minimal set of measures captured from all ISS crewmembers until the end of the ISS program. These measures will be available to other studies under data sharing agreements as well as undergo analysis for trends in the astronaut population.
+<p>
+
+<BR>APPROACH:<BR> <p> Ultrasound scanning is used to measure the cIMT by evaluating the thickness of the two inner-most layers of the carotid artery’s wall (the intima and media, measured from the interior of the artery wall to the border between the media and adventitia). Stroke volume, blood pressure, and heart rate measurements will be monitored and recorded. Data will be collected from subjects pre- and post-flight under three mission scenarios: short duration (up to 105 days flight days), standard duration (between 105 to 240 flight days), and long duration (greater than 240 days). 
+<p> The subject will be placed in the supine position while the electrocardiogram (ECG) electrodes and blood pressure cuff are applied. For the pre-flight session, the sonographer will image the carotid artery to find the appropriate location for the carotid measurements.  The distance from the earlobe to the top of the ultrasound probe will be recorded to ensure proper probe placement for future measures. For post-flight sessions, the sonographer will locate the proper probe location based upon the distance from the earlobe to the probe measured during the pre-flight session. <p> Subjects will answer a short questionnaire by responding to questions from the test operator. Left ventricular outflow diameter (LVOT) may also be measured. After at least 5 minutes of supine rest, brachial blood pressure (left arm) and aortic blood velocity (ultrasound for calculation of stroke volume) is measured. Thereafter, the carotid parameters will be captured via ultrasound allowing for the completion of ultrasound image acquisition. Once this is achieved, the subject is de-instrumented and released. <p> 
+
+<p> The cIMT session will be performed as follows: <p>
+Short Duration Mission:
+<ul>
+     <li> Pre-flight: L-180±30 </li>
+    <li> Post-flight: R+5±2 and R+30±5 </li>
+</ul>
+<BR>Standard Duration Mission:
+<ul>
+     <li> Pre-flight: L-180±30 </li>
+    <li> Post-flight: R+5±2 and R+30±5 </li>
+</ul>
+<BR>Long Duration Mission:
+<ul>
+     <li> Pre-flight: L-180±30 </li>
+    <li> Post-flight: R+5±2 and R+30±5 </li>
+</ul>
+
+<BR>RESULTS:<BR><p> The Spaceflight Standard Measures project is not a hypothesis-driven study, but rather a project to create a collection of ISS data made available to future researchers and for trend analysis. As such, there are no specific hypotheses, outcome measures, or statistical analyses associated with the skeleton of the project. The project will capture a "snapshot" of optimized data that can be investigated by researchers in the future. <P>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>SSM_cIMT</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Clement, Gilles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Expedition 57&#x27;], [&#x27;Expedition 58&#x27;], [&#x27;Expedition 59&#x27;], [&#x27;Expedition 61&#x27;], [&#x27;Expedition 60&#x27;], [&#x27;Expedition 63&#x27;], [&#x27;Expedition 64&#x27;], [&#x27;Expedition 65&#x27;], [&#x27;Expedition 66&#x27;], [&#x27;Expedition 67&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/h0ha-zd72</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing. Available datasets are accessible via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/4eb27057-4045-508a-a96e-d2d8fcebde1f?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/4eb27057-4045-508a-a96e-d2d8fcebde1f?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

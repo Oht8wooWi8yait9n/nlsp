@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Staged Decompression with an Argon-Oxygen (ARGOX) Breathing Mixture to 3.5 PSIA - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/115f17e3-0977-555c-8646-7f3f22c9ee9f?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>T982W</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Staged Decompression with an Argon-Oxygen (ARGOX) Breathing Mixture to 3.5 PSIA</h1>
+        <div class="meta-id">Record ID: T982W</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/115f17e3-0977-555c-8646-7f3f22c9ee9f?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Long-term NASA goals include permanent occupation of the International Space Station (ISS) and missions to both the moon and Mars.  One of the critical issues to be addressed for reaching these goals is the definition of an optimum pressure for extravehicular activity (EVA) suits.  Currently, a 4.3 psia (pounds per square inch absolute) pressure suit is used for space shuttle EVAs in zero gravity.  This suit, in combination with current preoxygenation schedules, is effective for decompression sickness (DCS) prevention.  However, at 4.3 psia, the astronauts experience hand and arm fatigue due to the 'stiffness' of the suit.  Also, due to the gravitational forces that exist on the moon and Mars, the current suit will be too heavy for planetary EVA.  The trade-off for the advantage of a space suit with a lower pressure will be an increase in preoxygenation time.  The first objective of this study was to test a decompression schedule for DCS prevention for a 3.5 psia EVA suit.  In addition to the need for a lower pressure EVA suit, potential changes in the breathing gas composition needed to be evaluated.  The Martian atmosphere has argon as a constituent, which will appear in the breathing mixture unless costly and heavy systems are provided to separate it from the nitrogen.  The second objective of this study was to determine the DCS implications of breathing a 38% oxygen and 62% argon mixture (ARGOX) during decompression prior to EVA.<p>
+	The hypothesis was that breathing the ARGOX during denitrogenation at 7.3 psia for a maximum of 4 hours would not increase the risk of DCS during exposure to 3.5 psia, as compared with an identical exposure with 100% oxygen breathing.  No attempt was made to define an operational preoxygenation schedule, nor to determine an operationally acceptable level of DCS risk.  The data obtained from this experiment provides a crucial starting point, from which future experiments can be designed to determine an operationally specific preoxygenation schedule for a 3.5 psia pressure suit.<p>
+
+APPROACH:<br>
+	Forty (40) subjects completed three hypobaric exposures each.  Exposure A was a 5-hour preoxygenation routine (including ascent time) for exposure to 3.5 psia.  Exposure B was a 5-hour preoxygenation routine (including ascent times) for exposure to 3.5 psia, utilizing a 7.3 psia stage.  Finally, Exposure C was a 5-hour preoxygenation routine (including ascent times) for exposure to 3.5 psia, utilizing a 7.3 psia stage with an ARGOX breathing mixture.  For exposures B and C the subject was decompressed to 7.3 psia and remained at that level for 4 hours.  For this time period, the probability of DCS was expected to be extremely low.  After this 4-hour stage, the subject was decompressed to the final pressure of 3.5 psia and remained there for 3 hours.  During the 3.5 psia portion of the exposure, the subjects performed simulated EVA exercise.  Exercise took place during the first 10 minutes of preoxygenation and consisted of dual-cycle ergometry performed at approximately 75% of each subject's maximal oxygen uptake.  The 10 minutes of supine exercise was estimated to be equivalent to 60 minutes of supine resting preoxygenation.<p>  
+To simulate microgravity, subjects were supine on a gurney for the entire experiment session.  All ascents were at 1,000 ft/min.  Precordial echo-imaging for venous gas emboli (VGE) was accomplished at approximately 15-min intervals throughout the exposures using a Hewlett Packard SONOS 1000 echo-imaging System.  The VGE were graded using a modified 4-grade Spencer Scale, where Grade 1 was infrequent VGE and Grade 4 VGE was of sufficient magnitude to overwhelm heart sounds.  Grades 3 and 4 were classified as severe VGE (SVGE).  The grading system was used as an indication of relative severity of exposure.<P>
+Subjects were continuously monitored for symptoms, including self-reported mild symptoms of joint pain or any other DCS symptoms.  The experiments were terminated with the completion of the 3 hour exposure to 3.5 psia or the occurrence of signs or symptoms of  DCS.  Thus, for any given subject, total exposure to 3.5 psia ranged from 3 hours maximum to a low of 0 hours (if the subject developed DCS during the staged decompression).<p>
+
+RESULTS:<br>
+All statistical tests were performed at a confidence level of 95%.  McNemar's tests for correlated proportions were used to compare the overall DCS, SVGE, and VGE incidence rates among the three profiles.  Kaplan-Meier survival analysis, with associated log-rank tests, was used to compare DCS, SVGE, and VGE incidence curves among the three profiles.  Wilcoxon signed-rank tests were used to compare the maximum VGE of the three profiles.<p>
+Of the 40 subjects, 13 (33%) developed DCS in profile A, 22 (55%) in profile B, and 31 (78%) in profile C.  The difference in DCS incidence between profiles A and B was not statistically significant (McNemar's test), but was significantly different between profiles A and C, and B and C. Kaplan-Meier survival analysis tests showed significant differences between all three profiles, when compared to one another.  13 (33%) of the 40 subjects developed VGE in profile A, 18 (45%) in B, and 29 (73%) in C.   Overall VGE incidence was significantly different (McNemar's test and Kaplan-Meier survival analysis) between profiles A and C, and B and C.  SVGE (grade 3-4) were observed in 8 subjects (20%) in profile A, 13 subjects (33%) in profile B, and 23 subjects (58%) in profile C.  Statistical analysis of SVGE showed the same pattern of statistically significant incidence as was shown for VGE.  The Wilcoxon signed-rank test showed that profile C had the highest maximal VGE score and profile B had the second highest.<P>
+In profile A, the subjects remained at ground-level for preoxygenation before being decompressed to 3.5 psia and, therefore, did not develop any VGE or DCS during that time.  In profile B, two subjects developed VGE during preoxygenation at the stage decompression pressure of 7.3 psia.  In profile B, two subjects also developed DCS at the stage decompression pressure, before the scheduled 3.5 psia was reached.  One subject developed DCS during the 17 min ascent from the stage pressue.  In profile C, six subjects developed VGE during ARGOX breathing at the stage decompression pressure of 7.3 psia.  Three of these subjects also developed SVGE at the staged decompression pressure.  Three subjects developed DCS during the ascent from the stage pressure before the scheduled 3.5 psia pressure was reached.  Of the three, one developed VGE at the stage and SVGE during the ascent from the stage.<P>
+This study showed that the staged decompression pressure of 7.3 psia during oxygen breathing for 4 hours did not protect against DCS at 3.5 psia compared with similarly long preoxygenation period at ground-level pressure.  The overall incidence of DCS and SVGE tended to be higher, the incidence curve of DCS was steeper, and the maximal VGE scores were higher.  The fact that 2 subjects developed VGE and three subjects presented with DCS before that final scheduled decompression to 3.5 psia was completed indicates that the staged decompression pressure of 7.3 psia likely allows development of some nitrogen bubbles in the tissues.  If the staged decompression pressure had been higher (lower altitude), the increased risk of DCS and higher incidence of VGE may have been reduced.  The results of this study suggest that if using 100% oxygen breathing, reduction of risk of DCS can be achieved by either using a higher stage decompression pressure, or by not using a staged decompression at all.<P>
+A breathing mixture of ARGOX during the staged decompression has the advantage of using an inert oxygen diluent obtained directly from the Martian atmosphere, and being acceptably fire-safe.  However, the results of this study indicate that it also results in a higher incidence of VGE and an increased risk of DCS compared with 100% oxygen breathing during stage decompression.<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>T982W</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Pilmanis, Andrew</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine, Hyper- and hypobaric physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/53xb-ah11</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>96-HEDS-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/115f17e3-0977-555c-8646-7f3f22c9ee9f?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/115f17e3-0977-555c-8646-7f3f22c9ee9f?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

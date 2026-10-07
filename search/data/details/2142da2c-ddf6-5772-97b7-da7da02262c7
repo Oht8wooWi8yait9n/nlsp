@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crew Food Systems During the Lunar-Mars Life Support Test Project - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2142da2c-ddf6-5772-97b7-da7da02262c7?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>LMLSTP4.4</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Crew Food Systems During the Lunar-Mars Life Support Test Project</h1>
+        <div class="meta-id">Record ID: LMLSTP4.4</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2142da2c-ddf6-5772-97b7-da7da02262c7?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The Advanced Life Support (ALS) chamber tests provided a unique opportunity to evaluate future space food systems and to assess potential problems associated with conversion of chamber-grown plants to edible foods. The JSC Space Food Systems Laboratory provided food support for all of the life supports tests. The ALS chamber tests provided an opportunity to verify this concept with an isolated crew in a closed environment.</p>
+<p>The objective for the first two tests was to provide a nutritionally sound and acceptable food system with the limited food preparation and storage facilities in the chambers. Crew sensory evaluations, supermarket surveys, menu planning, and nutritional analyses were completed to accomplish the objective. Phase I food system consisted of shelf-stable food and a microwave oven. Phase II evaluated an abbreviated International Space Station (ISS) food system with microwave ovens, a freezer, and a refrigerator. The objective of the Phase IIa mission was to evaluate a more advanced ISS food system. The food system for the 91-day Phase III test evaluated a potential regenerative food system. All of the objectives of the food systems were met for all the tests.</p>
+<p>
+APPROACH:<br>
+Food systems for the chamber studies became more complex, with additional objectives for each progressive chamber test. The JSC Food Lab provided food support for all of the life support tests. The food system being planned for the ISS is 50 percent frozen/refrigerated with microwave/convection heating for food preparation. The ALS chamber tests provided a unique opportunity to verify this concept with an isolated crew in a closed environment. The basic objective for the first test was to supply a shelf-stable food supply for one person for 15 days. Additional crewmembers were added for the subsequent missions and additional requirements were placed on the food system. Menus were planned based upon crew interviews, food questionnaires, and available food. Most of the food was procured from local supermarkets and passed into the chamber on a routine schedule. Crewmembers performed sensory evaluations on the food while in the chamber, and crew debriefs were held after each test to gain feedback.
+<p>
+Early Human Test Initiative (EHTI) Phase I<br>
+The food system for the Phase I test consisted of shelf-stable foods that were heated in a microwave oven. The menu was based upon food sensory evaluations conducted with the prime and back up crewmembers, food questionnaires, and crew interviews. Food from local supermarkets and Shuttle vendors was used to make up the diet. Recommended dietary allowances (RDA) were used as the dietary requirements.
+<p>
+Early Human Test Initiative Phase II<br>
+<i>Facilities, Nutritional Requirements, Sensory Evaluations, and Menu</i><br />
+A combination freezer/refrigerator and two microwave ovens (600 watts each) were included in the chamber for the Phase II food system. The main objective of the food system was to evaluate the use of frozen food and microwave heating in an isolated environment as was being planned for the ISS. The prime and back-up crews completed food frequency and food questionnaires, and the results of the questionnaires were used to develop a supermarket survey to determine available foods. Two sensory evaluations on potential foods were conducted with the crewmembers using a nine-point hedonic scale where nine equals "like extremely" and one equals "dislike extremely". Data from the sensory evaluations were used to develop a menu based upon crew preferences. Caloric requirements were calculated for each crewmember based on the World Health Organization (WHO) equations and the duration of the daily exercise. Macronutrient percentages (carbohydrate, protein, and fat) were calculated based on the nutritional requirements for ISS missions up to 360 days. The menu was designed as a 10- day cycle to repeat three times during the 30-day chamber test. Each crewmember had a standard menu with some minor deviations to accommodate personal preferences. The crew was allowed to make substitutions to the menu during the test if desired. The daily menu included breakfast, lunch, dinner, and two snacks. The breakfast meal consisted of milk or juice, tea/coffee, fruit, and cereal or a bread product. The lunch meal consisted of a salad, a microwaveable lunch item or lunchstyle food, a bread product, and a beverage. The dinner meal included a microwaveable dinner entrée, a microwaveable vegetable, and a dessert. Snacks included fruit, nuts, popcorn, granola bars, and yogurt.
+<p>
+The menu, including planned snacks, was approximately 2,200 kcal for the male subjects and 2,000 kcal for the female subject. Approximately 12 to 15 percent of calories came from protein, 50 to 55 percent from carbohydrate, and 30 to 35 percent from fat. The four test subjects were provided copies of their menus with the nutritional content, a list of commercial products available for substitution, and a sensory evaluation form to be completed during the test. The food was made up of 16 percent fresh, 49 percent refrigerated/frozen, and 35 percent shelf-stable foods. Most of the food was stored outside the chamber and passed into the chamber through the airlock daily.
+<p>
+Advanced Human Life Support Enclosed System Study Phase IIa<br>
+<i>Chamber Test as a Ground-Based Analogue for the ISS Food System</i> <br />
+The main objective for the Phase IIa food system was to evaluate the proposed ISS food system by emulating it as close as possible in the chamber test. The food preparation hardware inside the chamber was the same as the Phase II test except the microwave ovens were 1,000 watts each instead of 600. The menu was developed by identifying commercial products that were comparable to the ISS food list in supermarkets and in the Nutritionist III database. A standard menu was created using the ISS standard menu and the commercial products version of the ISS food list. Prior to the test, two sensory evaluations were held with the crew. Approximately 20 commercial foods were evaluated at each session. The crewmembers were provided the ISS standard menu, the food list, food questionnaire, and a copy of their sensory results. This information was used by each crewmember to develop an individual 20-day cycle personal preference menu for the Phase IIa test. A follow-up meeting was held with the crew to discuss their personal menus, make minor nutritional adjustments, and determine the pantry contents. The pantry was a 20 percent planned overage that the crew could use for substitution. Caloric requirements and macronutrient percentages were calculated as in Phase II.
+<p>
+Each crewmember had a personalized menu, but on three occasions the crew shared a common "theme" meal at dinner. Menu analysis was performed using the Nutritionist III database. The menus consisted of approximately 3,000 kcal for the male subjects and 2,100 kcal for the female subject. Approximately 12 to 15 percent of calories came from protein, 50 to 55 percent from carbohydrate, and 30 to 35 percent from fat. The subjects were provided copies of their menus with nutritional content, a list of commercial products available for substitution, and sensory evaluation sheets to be performed during the test.The food was made up of 15 percent fresh, 50 percent refrigerated/frozen, and 35 percent shelf-stable foods. Most of the frozen food was stored outside the chamber and passed into the chamber through the airlock. Forty days of shelf-stable food was stored inside the chamber prior to start, and was replenished on day 40. Sensory evaluations using the nine-point hedonic scale were completed every Friday by the crewmembers. The evaluation forms were passed into the chamber weekly.
+<p> 
+Lunar-Mars Life Support Test Project Phase III<br>
+The overall objectives of the food system for Phase III were to:<br>
+a) Emulate a food system for a long-duration space mission<br>
+b) Determine the acceptability of the menu over the 91-day duration of the test<br>
+c) Examine the ease and sufficiency of food preparation and processing<br>
+d) Provide a safe food system that supplies a nutritious menu for the crewmembers<br>
+e) Render a food system that may be monitored and controlled to support medical experiments<br>
+f) Satisfy the physiological needs and the psychological food-related needs of the crew<br>
+g) Test a 10-day BioPlex menu to identify its acceptance in a closed-system environment that simulates long-term habitation in the ALS test bed facilities.<br>
+The objectives of the 10-day BioPlex portion of the study were to measure acceptance and determine if the nutritional needs could be met with a plant-based diet that incorporated a large portion of the ALS crops into the food system.
+<p>
+The Phase III 91-day food system was divided into two sections, the 81-day food system (September 19 to December 19, 1997) and the 10-day food system (October 20-29, 1997). The 81-day portion of the test provided a 50 percent plant-based diet (four or less servings of meat per week) utilizing a food system comprised of fresh, frozen, and thermostabilized foods. The Growth Apparatus for the Regenerative Development of Edible Nourishment (GARDEN), from Quantum Devices, Inc., Barneveld, WI, provided fresh Waldman's green lettuce. The GARDEN supplied the crew with four heads of lettuce every 10 days throughout the 91-day test, including one harvest of lettuce during the 10-day BIO-Plex menu test.
+<p>
+A full-size, side-by-side refrigerator/freezer (67.6 x 31.5 x 32.5 in.) was provided inside the chamber. The unit held three days of frozen food and a one-week supply of fresh food, as well as several miscellaneous refrigerated food items. A chest freezer (29.5 x 41.5 x 22.5 in.) was available outside of the chamber for a one-week supply of frozen food storage. Storage was available for shelf-stable food items and dishware in a stainless steel cabinet (24 x 30 x 18 in.) inside the chamber. This cabinet also housed the microwave/convection oven.
+<p>
+Additional space was located behind the television (37 x 86 x 12 in.) on the first floor; this storage space was used for shelf-stable food items and paper goods. A bread maker, blender, stovetop burner, and microwave/convection oven were provided in the chamber. In addition, the Variable Pressure Growth Chamber at Johnson Space Center provided wheat during the test. The wheat berries were harvested and dried prior to the 10-day Bioplex menu. The dried wheat berries were processed into flour, mixed with other ingredients, and individually bagged for use in three bread recipes (whole wheat, soy, and sweet potato bread) that were prepared by the crew. These bags were transferred into the chamber for use during the last half of the test. A second harvest of wheat berries occurred after the 10-day test, and those berries were also processed into flour and used by the crew for bread baking.
+<p>
+The Phase III food system was developed with the aid of food frequency and nutrition questionnaires. The questionnaires helped to determine the selection of food items, recipes, and menus, and also defined food preferences, allergies, and habits. The caloric requirements for the Phase III food system were calculated, using a moderate activity factor, based on the World Health Organization (WHO) equations.
+<p>
+RESULTS:<br>
+Early Human Test Initiative Phase I<br>
+The Phase I food system for the crew of one consisted of shelf-stable foods that were heated in a microwave oven. Since there was only one test subject, limited data was available for analysis. The crewmember was satisfied with the diet for that length of time, but expressed a desire for more variety in the choice of foods.
+<p>
+Early Human Test Initiative Phase II<br>
+More food preparation equipment was included in the Phase II test to meet the food system objective of evaluating a 50 percent frozen/refrigerated food mix in an isolated environment. In general the food system was well accepted by the crew. The higher quality frozen dinners were more desirable, and beverages and juices were preferred to mask the taste of iodine in the water. Even though two microwave ovens were provided, food preparation took longer than expected. The crew maintained one common meal at dinner and enjoyed the special request items, both of which helped to improve morale. Recommendations for future missions were to increase the microwave capability and the frozen food storage in the chamber.
+<p>
+Advanced Human Life Support Enclosed System Study Phase IIa<br>
+The main objective of the Phase IIa food system was to evaluate the ISS food system by emulating it as close as possible in the chamber test. The microwave ovens were upgraded to 1000 watts to improve food preparation time. Overall, the crew was very satisfied with the food system. The ethnic variety of the food selections was good. The crew reported that they missed toast and carbonated beverages. The frozen foods were bagged by day for transfer into the chamber, and this saved time. They would have preferred more fresh vegetables. The only fresh vegetables were prepackaged modified-atmosphere salads. They would have preferred that more of the frozen vegetables be served plain so that each individual could decide what sauce to add. They always ate dinner together since it was easier to prepare one entrée for more than one person. The results from the weekly sensory evaluations inside the chamber were very positive, averaging between 7 (like moderately) and 8 (like very much). The overall daily average for all subjects was 7.85.
+<p>
+Lunar-Mars Life Support Test Project Phase III<br>
+The multiple objectives of the Phase III food system resulted in a much more detailed involvement in the test. The objective of the 81-day menu was to simulate a Bioplex mission where 50 percent of the food would be derived from chamber grown crops. This 50 percent was defined as four or less servings of meat per week. The 10-day menu had 90 percent of the calories derived from the potential chamber-grown crops.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>LMLSTP4.4</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bourland, C.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Life support systems, Metabolism and nutrition</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;LMLSTP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/kzfq-xs87</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2142da2c-ddf6-5772-97b7-da7da02262c7?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2142da2c-ddf6-5772-97b7-da7da02262c7?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

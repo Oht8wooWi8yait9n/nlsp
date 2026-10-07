@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space Flight Effects on Fungal Growth, Metabolism, and Sensitivity to Antifungal Agents - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/66e0bfab-dbd3-5a37-b3eb-8176dff467ad?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9601240</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Space Flight Effects on Fungal Growth, Metabolism, and Sensitivity to Antifungal Agents</h1>
+        <div class="meta-id">Record ID: 9601240</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/66e0bfab-dbd3-5a37-b3eb-8176dff467ad?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <B>Objective:</B><BR>
+From a basic biological research perspective, identification of gravity-dependent physiological processes may add significantly to our overall understanding of how the environment, and gravity in particular, affects the basic processes of life.  Bacteria and yeast are some of the simplest forms of life, yet they exhibit physiological pathways that have been conserved through millions of years of evolution.  In this way, microbes represent the ideal model for studying the most basic life processes.  The simplicity of these organisms allows for targeting of specific bioprocesses without the complications of intercellular and system-level interactions.  Gravity represents an under-utilized tool in the array of environmental parameters used to elicit metabolic responses.  Gravity is unique in this array in that it is the one environmental constant under which all forms of life evolved.  For this reason, researchers believed it would be especially intriguing to observe how microbes adapt to an environmental parameter, which their genetic programming had never encountered. <P>
+
+The hypothesis of this experiment was that microgravity increases gene expression, which could increase resistance to antifungal drugs.  Two species of yeasts were used as a model to study gene expression and response to antifungal drugs as influenced by microgravity.  Yeasts are unicellular eukaryotic microorganisms that are easily grown at various temperatures in well-contained systems.  Compared to higher eukaryotes, their doubling time is very short (2 to 4 hours), thus several generations can be observed within a short period of time.  In addition, their basic biological functions, biosynthetic pathways, and the genes associated with many functions have been identified and sequenced.  <P>
+
+The specific aims for this experiment were:
+<OL><LI>Evaluate VITEK&#174; system for yeast identification and susceptibility testing of antifungal agents. </LI>
+<LI>Develop bioreactor system to function as a model for studying fungi and the effect of microgravity upon their fundamental processes. </LI>
+<LI>Evaluate Microarray technology for measuring gene expression as influenced by microgravity. </LI></OL><P>
+
+<B>Approach:</B><BR>
+Due to hardware commonality, this experiment was teamed with the experiment &#34;Effects of Microgravity on Microbial Physiology (9307562)&#34; on STS-107, and the experiments were jointly referred to as Microbial Physiology Flight Experiments (MPFE).  For this experiment two yeast isolates were evaluated: <I>Candida albicans </I>(ATCC 90028) because it is always diploid with recombination of genetic material and a common opportunistic pathogen that is a component of the normal human flora; and brewer&#39;s yeast, <I>Saccharomyces cerevisiae</I> (ATCC 9763), which is a haploid yeast that is used as a model to study eukaryotic organisms because its entire genome has been sequenced.  The particular strains selected were ones that survived refrigeration well and provided reproducible data using the VITEK&#174; system.  The yeasts were tested with the antifungal drugs Cancidas, Fluconazole, and Amphotericin B.
+<P>
+Ground activities included performing identical studies using the same test isolates and the training hardware concurrently with the inflight experiment.  Parallel Automated Microbiology System (AMS) evaluation of identical VITEK&#174; Test Cards were done at the same time the inflight experiments were run.  The Growth Control Assemblies (GCAs) were incubated for the same time in an incubator set at ambient Shuttle temperature.  Additional GCAs were incubated in a bioreactor, a rotating growth vessel used on Earth to simulate microgravity.  The GCAs allowed for the collection of messenger RNA that could be used to determine the total genomic expression patterns in microgravity and gravity.
+<P>
+Preflight activities included preparation and inoculation of the VITEK&#174; Test Cards and GCAs followed by transfer to the Shuttle&#39;s refrigerator called the Thermoelectric Holding Module (TEHM).  Two types of VITEK&#174; Test Cards were used for this experiment.  Yeast identification cards (VITEK&#174; YBC) contained various growth media formulations and yeast susceptibility cards (unique formulation) contained various concentrations of the three antibiotics tested.  (For a list of specific well components, see the AMS STS-107 hardware configuration.)  Eight VITEK&#174; Test Cards were placed into each VITEK&#174; Card Tray.  Two trays were used for this experiment containing a total of sixteen cards.  In the first tray, all eight cards were identification cards.  The first four cards were replicates in which each well was inoculated with 20 &#181;l of a 6 x 10<SUP>8 </SUP>cells/ml solution of <I>C. albicans.</I>  The other four cards were replicates in which each well was inoculated with 20 &#181;l of a 6 x 10<SUP>8</SUP> cells/ml solution of <I>S. cerevisiae.</I>  Most of the wells contained a nitrogen base medium while a few contained a carbon base medium.  In the second tray, all eight cards were yeast susceptibility cards.  The first four cards of the second tray were replicates in which each well was inoculated with 20 &#181;l of a 1 x 10<SUP>3</SUP> cells/ml solution of <I>C. albicans.</I>  The other four cards were replicates in which each well was inoculated with 20 &#181;l of a 1 x 10<SUP>3</SUP> cells/ml solution of <I>S. cerevisiae.</I>  All wells of the second tray contained organisms in a RPMI, Roswell Park Memorial Institute (where it was developed), medium.  One GCA contained 1 x 10<SUP>3</SUP> cells/ml of <I>C. albicans</I> and the other two contained 1 x 10<SUP>3</SUP> cells/ml of <I>S. cerevisiae.</I>  The cells for the GCAs were in RPMI-1640 medium.
+<P>
+Flight day one (FD1) operations consisted of activation of the AMS and set up of the Laptop Experiment Computer System (LECS).  The other MPFE experiment&#39;s VITEK&#174; Test Trays were processed on flight days one through six.   FD7 activities included the transfer of the first tray from the TEHM to the AMS.  The three GCAs were removed from the TEHM and stored on the module wall to incubate at ambient temperature for two days.  Cards and trays were incubated for 48 hours &#177; 4 hours in the AMS.  The status of the AMS was checked and the filter was cleaned on FD8.  On FD9, the first tray was removed from the AMS and transferred to the TEHM, and the second tray was transferred from the TEHM to the AMS.  The clamps on the GCAs were removed allowing the RNAlater&#153; to mix into the solution thus preserving the genetic material for analysis.  The GCAs were then transferred to the TEHM.  The status of the AMS was checked and the filter was cleaned on FD10.  On FD11, the second tray was removed from the AMS and returned to the TEHM and the AMS was deactivated.
+<P>
+Postflight activities were to include transfer of the VITEK&#174; Card Trays with cards, GCAs, and data from the Shuttle to the investigators for analysis.  The messenger RNA from the flight experiment, ground-based study, and the bioreactor GCAs was to be removed and applied to microarrays to determine which genes were expressed and to what degree.
+<P>
+<B>Results:</B><BR>
+Due to the STS-107 tragedy, this experiment was not completed.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9601240</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>McGinnis, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Microbiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-107&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Yeast (Saccharomyces cerevisiae) ATCC 9763</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4k3w-fb44</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>96-OLMSA-01A</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/66e0bfab-dbd3-5a37-b3eb-8176dff467ad?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/66e0bfab-dbd3-5a37-b3eb-8176dff467ad?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

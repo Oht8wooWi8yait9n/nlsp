@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>In-flight LBNP Test of Countermeasures and End-of-Mission Countermeasure Trial - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/3e6c5420-ca80-5893-91ec-91f1c2de7c87?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 623</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>In-flight LBNP Test of Countermeasures and End-of-Mission Countermeasure Trial</h1>
+        <div class="meta-id">Record ID: DSO 623</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/3e6c5420-ca80-5893-91ec-91f1c2de7c87?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Space flight is known to cause a shift in fluid away from the lower body and results in a decrease in body fluid. Hypovolemia may be one cause of the orthostatic intolerance that is common after space flight. Countermeasures such as fluid loading and the use of a g-suit, have not completely prevented this problem. It’s possible that postflight orthostatic intolerance could be prevented by the ingestion of isotonic saline while negative pressure is applied to the legs and abdomen to allow the plasma volume to increase. The purpose of this study was to conduct a controlled trial of performing this lower body negative pressure (LBNP) and fluid loading countermeasure once, 24 hours before landing.
+<p>
+APPROACH:<br>
+Twelve astronauts participated in the study. Four months and three months before launch, their tolerance of LBNP was assessed by applying LBNP in steps of 10 millimeters of mercury (mm Hg) until they showed signs of presyncope (fainting). Three months and one month before launch, their orthostatic tolerance was assessed independently of gravity in LBNP ramp tests, in which the astronauts spent five minutes at each 10-mm Hg drop of pressure down to -60 mm Hg while heart rate, blood pressure, and electrocardiogram were monitored. Ultrasound echocardiography was used to measure heart dimensions and aortic blood flow in two of the astronauts for correlation with later in-flight measurements. Orthostatic tolerance was assessed in stand tests preflight.
+<p>
+The LBNP chamber that could be collapsed and stowed was used aboard the Shuttle. Negative pressure was provided by connecting it to a vacuum source (the Waste Collection System or the Spacelab Vacuum Vent). The countermeasure treatment, called a "soak," included a stepwise decompression to -50 mm Hg followed by 3.5 hours at 30 mm Hg below ambient pressure. During the first hour at -30 mm Hg, the astronauts ingested one liter of water or artificially sweetened fruit drink and eight grams of sodium chloride to provide isotonic saline. The soak was performed one day before the intended landing day by five of the astronauts, while seven others from the same missions served as controls. Heart rate, diastolic and systolic blood pressure, mean arterial pressure, and pulse pressure were determined at each stage of decompression. In-flight ramp tests were performed by the five test astronauts as well as by one of the controls.  Stand tests were repeated shortly after landing, with g-suits inflated.
+<p>
+Several LBNP tests were conducted on each subject before flight and during the mission.
+Two "ramps," a test consisting of a 10-rain rest period, followed by five 5-min stages at
+each level of decompression (-10, -20, -30, -40, and -50 mmHg), and then completed with a 5-
+min recovery period after recompression to ambient pressure, were performed preflight, as well
+as 4 in flight. One countermeasure session ("soak") was performed on the flight day before the nominal landing day. This soak session consists of a standard "ramp" test followed by 3.5 h of continuous decompression at a level of 30 mmHg below ambient cabin pressure, ending with a 5-min recovery period. During the time spent at -30 mmHg, the crew member ingested the standard landing day fluid load of salt tablets and water. No postflight LBNP sessions were performed, however, orthostatic tolerance was assessed using stand tests on landing day and 3 days postflight.
+Blood pressure, heart rate (HR) and Echocardiographic (2-D and Doppler blood flow) measurements
+were made during each LBNP session. These data were collected approximately every minute throughout the various stages of the tests, except that the Doppler measurements were collected every 30 min during the soak test. Blood pressure (auscultatory technique) was measured using a commercially available automatic blood pressure monitor (ABPM) modified for space flight. A set of ECG leads
+(three) were also attached to the subject via the ABPM to determine HR and document electrocardiographic activity. These data were telemetered to the ground in real-time to monitor the
+crew's responses to the LBNP tests. Echocardiography was performed using the American Echocardiographic Research Imaging System (AERIS), a commercial Ultrasound unit modified for flight at the NASA Johnson Space Center (JSC). These data were recorded onboard and returned to JSC for postflight analysis, specifically cardiac dimensions, stroke volume (SV), cardiac output
+(CO), and total peripheral resistance (TPR). dimensions, stroke volume (SV), cardiac output
+(CO), and total peripheral resistance (TPR).  Preflight testing was performed with flight-like
+hardware and techniques for consistency.
+<P>RESULTS:<br>
+The soak treatments occurred one or two days before landing for two astronauts. Shortly after landing, diastolic blood pressure and heart rate were lower in the treated astronauts than in the controls, whether they were seated or standing. The controls were more likely than the treated astronauts to have a decrease in systolic pressure after standing. No differences were found between treated astronauts and controls in heart rate and blood pressure during stand tests one to three hours after landing. These results show that the combination of LBNP with ingestion of isotonic saline one or two days before landing may be an effective countermeasure against postflight orthostatic intolerance. However, the countermeasure is impractical for use during Shuttle missions because treatment of one astronaut takes approximately five hours.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 623</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Charles, John</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-52&#x27;], [&#x27;STS-58&#x27;], [&#x27;STS-62&#x27;], [&#x27;STS-65&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/cvez-h867</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/3e6c5420-ca80-5893-91ec-91f1c2de7c87?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/3e6c5420-ca80-5893-91ec-91f1c2de7c87?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

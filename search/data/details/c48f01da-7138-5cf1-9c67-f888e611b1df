@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Anti-orthostatic Suspension on Innate Immunity - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/c48f01da-7138-5cf1-9c67-f888e611b1df?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91253</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Anti-orthostatic Suspension on Innate Immunity</h1>
+        <div class="meta-id">Record ID: NAG91253</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/c48f01da-7138-5cf1-9c67-f888e611b1df?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The overall objective of this work is to determine a model of altered inflammation and wound healing, reflecting the possible conditions experienced by individuals in zero gravity. The significance of such a model would be to allow definition of possible molecular and cellular mechanisms, and to serve as a basis for development of therapies to promote effective inflammation and wound healing.
+<p>
+A specific aim of this grant was to assess the effects of hind limb unloading (HU) on wound healing. Previous studies have shown that HU induces liver injury as a result of increased portal endotoxemia, and the current work extends these studies to the evaluation of the inflammatory response associated with wound healing. The investigators have chosen as a model superficial abrasion of the corneal epithelium. This model allows accurate documentation of re-epithelialization and the attendant inflammatory response, including neutrophil, dendritic cell, and Langerhan cell mobilization.
+<p>
+APPROACH:<br>
+The methodology is embedded in the results section below. 
+<p>
+RESULTS:<br>
+There are several important finding in these studies that raise potentially critical questions regarding negative effects of space flight on wound healing. They involve wound healing in the skin and wound healing in the cornea. 
+<p>
+Wound healing in the skin: A commonly used experimental model to study wound healing is to place surgical sponges under the skin for a period of time and then determine the extent to which the tissue attempts to heal the wound. There are several ways to measure this response and the investigators chose to determine the amount of collagen produced since collagen is the most important component of a successfully healed wound in adults. They found that there was a greater than 50% reduction in the amount of collagen in 7 and 10 day old wounds from animals exposed to hindlimb unloading (a model developed by NASA scientists that simulates important physiologic aspects the stresses imposed by zero gravity conditions of space flight). These results are consistent with published studies of rats flown in a shuttle flight. 
+<p>
+Wound healing in the cornea: A common concern among astronauts is foreign body injury to the surface of the eye. Normal healing of these types of wounds is critical to the maintenance of excellent vision. Since the investigators found that healing in the skin was reduced, they were concerned that healing in the cornea may also me impaired. Mice subjected to hind limb unloading for three weeks were given a superficial injury to the cornea. This involved scraping a small portion of epithelium off of the corneal surface, a common type of superficial injury. These wounds normally heal within 18-24 hours, but there was a significant delay in the healing in the animals exposed to hind limb unloading. Healing time needed to re-grow the epithelium so that the wound was covered was extended by 40 – 50%. What was more troubling, though, was the fact that complete healing (determined by the thickness of the epithelium) was not complete even after 11 days. Normally full thickness is complete within 4 days. Additional concern was raised by another observation. That was that the inflammatory white blood cells that normally come into the wound to protect it from infection were also significantly delayed and reduced in number in the animal exposed to hind limb unloading. From these observations, the investigators are very concerned that if the hind limb unloading model in animals reflects the conditions in space flight, astronauts will be at risk for abnormal healing of superficial surface injuries to the eyes. 
+<p>
+Possible mechanism of reduced wound healing in the skin and eyes: The investigators found that hind limb unloading causes an increase in bacterial toxin (“endotoxin”) to appear in the blood flowing into the liver. The liver responds to this toxin in several ways. 1) The liver clears the blood of the endotoxin. Investigators could not find endotoxin in the blood that was coming out of the liver. 2) The liver is activated by the endotoxin. They found that the livers began to synthesize new proteins that are released into the blood that is coming out of the liver and distributed throughout the body. Some of these proteins have the ability to alter the inflammatory and healing responses. Of concern is that these proteins may play important roles in the reduced healing in the skin and eyes described above. 3) The liver is injured by the endotoxin. They found inflammatory cells in the livers and measures of cell death. The importance of endotoxin is shown by the fact that a strain of mice that are genetically unable to respond to endotoxin did not synthesize new proteins or show evidence of liver injury. 
+<p>
+Summary of important findings: Hind limb unloading, a NASA model simulating important physiologic stressors of space flight resulted in significant reductions in wound healing in the skin and the cornea. In addition, there was significant reduction in the influx of white blood cells that normally protect the wound from infection. Also, there were increases in endotoxin in the blood flowing from the intestines into the liver with evidence of liver injury and release of proteins that may have the ability to reduce wound healing. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91253</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Smith, C.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/3450-vw63</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>99-HEDS-03</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/c48f01da-7138-5cf1-9c67-f888e611b1df?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/c48f01da-7138-5cf1-9c67-f888e611b1df?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

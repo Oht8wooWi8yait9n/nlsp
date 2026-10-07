@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Risk of Visual Impairment and Intracranial Hypertension after Space Flight: Evaluation of the Role of Polymorphism of Enzymes Involved in One-carbon Metabolism - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/b47b4174-efb1-589d-838d-d3e85d395b0a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>One_Carbon</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Risk of Visual Impairment and Intracranial Hypertension after Space Flight: Evaluation of the Role of Polymorphism of Enzymes Involved in One-carbon Metabolism</h1>
+        <div class="meta-id">Record ID: One_Carbon</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/b47b4174-efb1-589d-838d-d3e85d395b0a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <p>OBJECTIVES:</p><p>The occurrence of long-term or permanent changes in vision of International Space Station (ISS) crewmembers during and after flight has been described as the most significant clinical issue to date for the U.S. space program. NASA has conducted two workshops in which the clinical issues were characterized as the presence of choroidal folds and occurrence of papilledema, significantly elevated opening pressures after lumbar puncture, and MRI visualization showing optic nerve swelling. A primary forward focus has been the evaluation of intracranial hypertension and fluid shifts. </p><p>
+In evaluating data collected from the Nutritional Status Assessment Supplemental Medical Objective (SMO-016E) study, the investigators identified elevations in four metabolites of the one-carbon metabolism pathway in affected crewmembers studied to date. These elevations and related data strongly suggest that polymorphisms of one or more of the enzymes in this pathway exists in the affected crewmembers. The incidence of such polymorphisms in the general population is relatively high, and they have been associated on Earth with increased risk of stroke and other cardiovascular, and specifically cerebrovascular, events. Therefore it is within the realm of plausibility, given the number and ethnic background of the affected astronauts, that these polymorphisms could cause the cerebrovascular and optical medical issues in astronauts. 
+<p>
+APPROACH:</p><p>Seventy-four past, present, and future ISS crewmembers were recruited to provide blood samples for biochemical, enzymatic, and limited genotype/polymorphism analyses. Genomic DNA prepared from peripheral leukocytes was analyzed for the existence of 5 single-nucleotide polymorphisms in the one-carbon metabolism pathway: 5,10-methylenetetrahydrofolate reductase (MTHFR), serine hydroxymethyltransferase 1 (SHMT1), cystathionine ß-synthase (CBS), and 5-methyltetrahydrofolate homocysteine methyltransferase reductase (MTRR). Data from vision and related eye exams was obtained, and investigators sought to relate those findings to the data from the study.
+</p><p>
+RESULTS:</p><p>These findings document a genetic predisposition for some astronauts to develop Vision Impairment and Intracranial Pressure (VIIP) issues during flight. Investigators have proposed a series of follow-on experiments to clarify and extend these findings. The implications of this research for one of NASA’s highest priority crew health risks are significant, along with the implications for a better understanding of the role of one-carbon metabolism in the health of the general population. 
+</p><p></p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>One_Carbon</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Smith, Scott</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;], [&#x27;Expedition 49&#x27;], [&#x27;Expedition 50&#x27;], [&#x27;Expedition 51&#x27;], [&#x27;Expedition 52&#x27;], [&#x27;Expedition 53&#x27;], [&#x27;Expedition 54&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/cag7-d703</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/b47b4174-efb1-589d-838d-d3e85d395b0a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/b47b4174-efb1-589d-838d-d3e85d395b0a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

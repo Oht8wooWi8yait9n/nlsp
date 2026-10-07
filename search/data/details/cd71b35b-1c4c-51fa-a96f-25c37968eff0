@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NSCOR: Space Radiation and Gastrointestinal Cancer: A Comprehensive Strategy for Risk Assessment and Model Development - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/cd71b35b-1c4c-51fa-a96f-25c37968eff0?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AI21G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>NSCOR: Space Radiation and Gastrointestinal Cancer: A Comprehensive Strategy for Risk Assessment and Model Development</h1>
+        <div class="meta-id">Record ID: NNX15AI21G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/cd71b35b-1c4c-51fa-a96f-25c37968eff0?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+Gastrointestinal (GI) tumors are common in the U.S, and colorectal cancer (CRC) is the third most common cancer, accounting for 10% of all cancer deaths. Precancerous lesions are present in about 10% of adults at age 40 (younger than the average age of astronauts) and increases to about 25% in older adults. Due to the high frequency of CRC among the US population, even a small exposure to space radiation will have a major impact on the risk estimates and planning for future long-term missions into space. <br>
+The overarching goal of this NASA Specialized Center of Research (NSCOR) study is to model the relative risk of colonic and stomach tumorigenesis resulting from exposure to high-priority space radiation beams, and to compare these data to gamma radiation where human epidemiologic data are available. Examining both quantitative in vivo tumorigenesis data and molecular events in mouse tissues and human colonocytes will generate the information needed to scale human epidemiologic data for low-linear energy transfer (LET) radiation exposures. <br>
+In support of this goal, the present study is defined by four main aims:<br>
+(1)	Quantify GI tumorigenesis and qualitatively analyze tumor tissue samples in GI cancer mouse models. These data will be used to understand the mechanisms driving carcinogenic events triggered by space radiation and explore the protective potential of two plausible chemoprotective agents: metformin and 2-cyano-3,12-dioxoolean-1,9- dien-28-oic acid (CDDO), an oral-available anti-inflammatory, anti-oxidant.<br>
+(2)	Deconstruct the signaling events and consequences of space radiation exposure on GI cells, including stem cells, to inform the development of new countermeasures.<br>
+(3)	Characterize IR-induced neoplastic events in normal diploid human colonocytes. Information gleaned from this project will inform countermeasure development and help mitigate cancer risk among crew members.<br>
+(4)	Develop systems biology and mathematical modeling approaches for GI cancer risk assessment. These modeling approaches will allow researchers to identify aberrations in GI cells and predict the effects of persistent exposure to the cocktail of ionizing radiations astronauts will be subject to on long-term missions to Mars and beyond.
+
+
+<p>
+
+APPROACH: <br>
+
+Using the APC1638N/+ and CDX2P Apcflox/+ mouse models, Aim 1 seeks to model risk from exposure to the following high-charge and energy (HZE) ions: protons, 4He, 12C, 16O, 28Si, 56Fe, and gamma rays. Exposure doses for this experiment will include 5, 10, and 50 cGy, and will be performed at the NASA Space Radiation Laboratory (NSRL). Exposures will include both single beam and mixed-field GCR-type beams. Following exposure, the researchers will record tumor incidence, explore the variation in tumor incidence when age and sex are considered, characterize long-term changes in the gut epithelium the potential effects these changes may have on tumorigenesis, and identify genomic, proteomic, and metabolomic signatures that are associated with cancer progression-specific biological changes. 
+    Aim 1 will also explore the chemoprotective potential of metformin and CDDO using male APC1638/+ and CDX2P Apcflox/+ mouse models, respectively. Wild type (WT) mice will be included in each experiment. Each compound will be incorporated into the diet when the mice are 4 weeks old. Mice will be irradiated at 8 weeks old and harvested 150 post-exposure.
+    Aim 3 will also investigate the protective potential of CDDO to low-LET and high-LET irradiation in normal human lung and colonocyte cells cultured in 2D and 3D media and in mouse models (LA1 and CDX2P Apcflox/+). This part of the research will examine the efficacy of providing CDDO prior to or after irradiation in mitigating negative health effects. Cells cultured using 2D and 3D organotypic media will be compared to investigate the potential effects culture structure may have on cell response to radiation.
+    In order to disentangle the signaling events persistent effects in GI cells after radiation exposure, Aim 2 will search for markers of oxidative stress, inflammatory responses, and systemic changes in metabolomics in WT, C57BL/6J, and Lgr5 models in the same strain (C57BL/6J). Mice will be exposed to different doses of 56Fe (1000 MeV/nucleon) or an equal dose of gamma rays and harvested either 7 days, 60 days, or 12 months after exposure. Intestinal cell migration will be assessed by embedding green fluorescent protein- (GFP) labeled Lgr5 cells in paraffin and immunostaining for markers of oxidative stress and senescence.
+    Aim 4 will use a systems biology approach to understand the effects of radiation on GI tumorigenesis. The tumors to be examined in this part of the study will have been collected from mice exposed to 28Si in conjunction with Aim 1. These tumors will be compared to tumors resulting from gamma ray exposure and unirradiated controls. The research team will use a standardized analysis pipeline based on Burrows-Wheeler Aligner (BWA) alignment and the Genome Analysis Toolkit (GATK) software from the Broad Institute in addition to custom bioinformatic tools to generate annotated single nucleotide variant (SNV) and insertion/deletion polymorphism (indel) tables for each tumor. Somatic structural variants will be identified with Manta and CREST software. Transcriptomic and epigenomic sequences will be obtained in order to identify which genes undergo functionally important alterations after HZE exposure.
+
+</p><p>
+
+RESULTS: <br>
+The results of this study will be used to identify risk markers for CRCs and develop an omics-based approach to risk assessment. Estimates will be used to assemble projection models of GI cancer risk for both male and female astronauts.
+
+</p><p>
+<end></end></p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AI21G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Fornace, Albert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology, Omics, Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) Epithelial cells (M10), Mouse (Mus musculus) APC1638, Mouse (Mus musculus) C57BL/6</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/8qc7-x245</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/cd71b35b-1c4c-51fa-a96f-25c37968eff0?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/cd71b35b-1c4c-51fa-a96f-25c37968eff0?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

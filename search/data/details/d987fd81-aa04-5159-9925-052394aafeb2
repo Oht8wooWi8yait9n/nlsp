@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quantification of In-flight Physical Changes - Anthropometry and Neutral Body Posture (NBP) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d987fd81-aa04-5159-9925-052394aafeb2?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Body_Measures</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Quantification of In-flight Physical Changes - Anthropometry and Neutral Body Posture (NBP)</h1>
+        <div class="meta-id">Record ID: Body_Measures</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d987fd81-aa04-5159-9925-052394aafeb2?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+NASA suit engineers and the Extravehicular Activity (EVA) Project Office have identified that suit fit in microgravity could become an issue, as evidenced during a recent incident on-board the International Space Station (ISS).  It has also been noted that crewmembers often need to adjust their suit sizing once they are in orbit.  This adjustment could be due to microgravity effects on anthropometry and postural changes, and is necessary to ensure optimal crew performance, fit, and comfort in space.  To date, the only data collected in space to determine the effects of microgravity on physical human changes have been during Skylab, STS-57, and a recent Human Research Program (HRP) study on seated height changes due to spinal elongation, Spinal Elongation (Young, 2011).  Skylab and the STS-57 studies found that there is a distinct neutral body posture (NBP) based on photographs.  Additionally, Skylab studies found that crewmembers could experience a stature growth of up to 3 percent.  The Spinal Elongation study in 2011 identified that the crewmembers could experience about a 6 percent growth in seated height and a 3 percent stature growth when exposed to a microgravity environment.  The results prove that not all anthropometric measurements have the same microgravity percent growth factor.  In order for the EVA Project Office and the suit engineers to properly update the sizing protocol for microgravity, they need additional anthropometric data from space.  Hence, this study was recommended by the ISS and sponsored and funded by the EVA Project Office to gather additional in-flight anthropometric measurements, such as lengths, depths, breadths, and circumferences to determine the changes to body shape and size due to microgravity effects.  It was anticipated that by recording the potential changes to body shape and size, a better suit sizing protocol could be developed for ISS and other space missions.  In essence, this study aimed to help NASA quantify the impacts of microgravity on anthropometry to ensure optimal crew performance, fit, and comfort.  Additional in-flight physical changes due to NBP and the effects of spaceflight on NBP during extended exposure to microgravity also needed to be quantified.  This study used simplistic data collection techniques as well as digital still and video data to perform photogrammetric analyses and determine the changes that occur to the body shape, size, and NBP while exposed to a microgravity environment.
+<P>
+The objectives were: <br> 
+1.	To initiate an activity to gather and document microgravity effects on body measurements: lengths, breadths, widths, circumferences, and joint angles of subjects exposed to microgravity in an unsuited condition.
+<P>
+2.	To determine if/how the NBP is influenced by the above factors.
+<P>
+3.	This was the first time these proposed measures were collected in space.  It was anticipated that body measurements would change due to microgravity and fluid shifts.  The goal of this study was to gather preliminary data to better understand the magnitude and variability of these changes.  This data is important for NASA to be able to determine the changes that may occur during long-duration space flight and once obtained, NASA engineers may be able to apply these changes to suit fit, suit sizing, work station design, etc. for current and near future missions.  These changes will help NASA to prevent potential crew injury during extended on-orbit missions.
+<P>
+APPROACH: <br>
+Pre and Postflight Baseline Data Summary:<br>
+The data collection methods entailed the collection of anthropometric data using photographic imagery, a tape measure to measure lengths, heights, depths, circumference data for all appropriate body segments, and a body weight measurement from the astronauts for pre- and post-flight conditions.  Pre- and post-flight anthropometric measurements were collected using two methods, standard anthropometric measuring techniques (anthropometer and tape measure) and stereo-photogrammetric method.  
+<P>
+Pre- and post-flight data collection sessions took place at JSC in the ISS U.S. Lab mock-up facility in B9, in the morning.  Pre-flight data collection occurred for one session at L-6 months.  Post-flight data collection occurred for one session within R+30 days.  Each single pre- and post-flight data session was 60 minutes long, and measurements were collected using a standard anthropometer and tape measure three times; for photographic imagery, two pictures per posture were collected using the same procedures as the in-flight data session.
+<P>
+Inflight Operations:<br>
+In-flight measurements were collected using a tape measure for circumferences, still digital cameras on-board ISS to capture photographs, and the Space Linear Acceleration Mass Measurement Device (SLAMMD) for body mass measurements.  In addition, the tape measure could also be used to measure segment lengths for comparison to data from the photogrammetric method in-flight, time permitting.  During in-flight data collection sessions, circumference measurements, photographic imagery, and video imagery were collected twice during three 140-minute sessions (215 minutes with operator time) on FD 15, 80, and R-30 (reserve sessions on FD 45, 105, 135).  The process included setup of the cameras, subject preparation (placing body markers on the subject), collecting two photographs of each of three postures, measuring circumferences with a tape measure, and NBP video.  A camera calibration activity was also conducted prior to each Body Measures data collection session.  Body mass measurements were taken during three 50-minute sessions. 
+<P>
+RESULTS:<br>
+Results for this experiment are not available until this experiment is completed.
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Body_Measures</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rajulu, Sudhakar</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Expedition 41&#x27;], [&#x27;Expedition 42&#x27;], [&#x27;Expedition 37&#x27;], [&#x27;Expedition 38&#x27;], [&#x27;Expedition 45&#x27;], [&#x27;Expedition 46&#x27;], [&#x27;Expedition 39&#x27;], [&#x27;Expedition 40&#x27;], [&#x27;Expedition 50&#x27;], [&#x27;Expedition 51&#x27;], [&#x27;Expedition 52&#x27;], [&#x27;Expedition 43&#x27;], [&#x27;Expedition 44&#x27;], [&#x27;Expedition 47&#x27;], [&#x27;Expedition 48&#x27;], [&#x27;Expedition 49&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/cbhc-jr56</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d987fd81-aa04-5159-9925-052394aafeb2?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d987fd81-aa04-5159-9925-052394aafeb2?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

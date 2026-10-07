@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bioavailability and Performance Effects of Promethazine (PMZ) During Space Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/92bbc8e7-4fc9-5df5-8a8f-65fc4a69ba84?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 490</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Bioavailability and Performance Effects of Promethazine (PMZ) During Space Flight</h1>
+        <div class="meta-id">Record ID: DSO 490</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/92bbc8e7-4fc9-5df5-8a8f-65fc4a69ba84?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Promethazine (PMZ) is the anti-motion sickness medication of choice for treating space motion sickness (SMS) during Space Shuttle missions.  The side effects associated with PMZ when used on Earth include dizziness, drowsiness, sedation, and impaired psychomotor performance, all of which could impact spaceflight crew performance or mission operations.  Early anecdotal reports from crewmembers indicate that these central nervous system side effects of PMZ are absent or greatly attenuated in microgravity.  However, recent reviews of medical debriefs indicate that, at least in some crewmembers, the central nervous system depressant effects are moderate to large.  The pharmacokinetics and bioavailability of medications administered in microgravity may be different than on Earth.  This could significantly alter drug efficacy, as well as the severity of side effects for a given dosage.  Therefore, a systematic evaluation of PMZ bioavailability including the effects on performance, side effects, and efficacy in the treatment of SMS is essential for determining optimal dosage and route of administration of PMZ in flight.  Researchers believed this study would lead to a better understanding of how PMZ is handled by the body in space and that it would help to identify necessary changes for optimizing space motion sickness therapeutics in space.
+<p>
+The specific objectives of this experiment were:
+<P>
+<U><I>Ground-based Testing</I></U><BR>
+<LI> Evaluate the effects of promethazine (PMZ) on Shuttle landing performance using the portable in-flight landing operations trainer (PILOT), and<BR>
+<LI> Collect saliva and urine samples to determine the pharmacokinetics of PMZ
+<P>
+<U><I>Space-flight Testing</I></U><BR>
+<LI> Establish a dose-response relationship of PMZ before and during flight,<BR>
+<LI> Estimate bioavailability of PMZ from the intramuscular, oral, and suppository routes of administration before and during flight, and<BR>
+<LI> Compare and contrast the effect of flight-related variables (e.g. SMS, mission duration, sleep medications, and crew activity schedules) and PMZ administration on sleep quality and efficiency.<BR>
+<p>
+APPROACH:<br>
+<U><I>Ground-based Testing</I></U><BR>
+Nine subjects participated in the study (6 commercial pilots and 3 Shuttle landing simulator trainers).  The study was a double-blind crossover design where each subject received PMZ 50 mg IM in one session and Placebo IM in the other session; the drug/placebo order was counterbalanced across subjects.  Subjects completed 4 training sessions (6-7 landings in each session) to achieve stable performance before drug/placebo sessions began.  Six landings were performed, and saliva samples were collected, before  and at 1, 2, 4, 8, 24, 32 and 48 hours after drug/placebo administration (all urine was collected from the first morning void to the 48-hour period; one additional saliva sample was collected at 36 hours).  For all sessions, the PILOT was configured for completely nominal conditions (i.e., no crosswinds, and daytime landing at KSC), and subjects performed the landing task in a quiet room to minimize distractions.
+<P>
+<U><I>Space-flight Testing</I></U><BR>
+Crewmembers that experience SMS were treated with PMZ. This delineated participants as test subjects versus control subjects.  Before the first PMZ dose, participants collected a saliva sample; thereafter, saliva samples were collected at 1, 2, 4, 8, 24, 36, and 48 hours post-PMZ consumption.  During the same time, participants ranked themselves using the Stanford Sleepiness Score (SSS), a standardized sleepiness index.  The SSS consists of seven numbered statements describing subjective levels of sleepiness/alertness with 1 equal to wide awake and 7 equal to no longer fighting sleep/sleep onset soon.  This entire protocol was repeated each time PMZ was taken.  If a crewmember elected to take PMZ before sleep, saliva samples were collected pre-dose, just before sleep, immediately upon wake-up, one hour after wake-up, and at 24, 36, and 48 hours post-dose.
+<p>
+Both test subjects and/or control subjects wore a small light-weight activity and light recording device (Actiwatch).  As soon as possible upon entry into orbit on flight day 1 (FD1), the crewmember donned the watch and wore it continuously throughout the flight.  In addition to wearing the watch, crewmembers also recorded sleep time in a short paper sleep log every morning within 15 minutes of awakening.  On the last day of the mission, the crewmember doffed and stowed the Actiwatch.
+<p>
+Approximately 30 days after landing (R+30), crewmembers who took PMZ in flight also participated in one additional data collection session.  During a 48-hour data collection period, participants wore the Actiwatch activity monitor, took the same dosage and form of PMZ that was used in flight, completed the SSS, collected eight saliva samples following the same schedule as in flight, and recorded sleep times once a day.
+<p>
+RESULTS:<br>
+<U><I>Ground-based Testing</I></U><BR>
+There were a number of parameters that could be analyzed to measure performance on the PILOT at specific times during the approach and landing.  In addition, the system provided a composite  score (the JNM score) at the end of each landing.  The investigators found no significant effect of PMZ on the JNM composite score and no significant correlation between the JNM score and the Stanford Sleepiness Scale.  However, there were a number of points during the approach and landing where pitch and roll errors were significantly larger following PMZ compared to Placebo-saline (at 2-4  after drug administration).  Unfortunately, due to hardware problems, approximately 50% of the individual parameter data were lost and unavailable for repeated measures analyses.  Nonetheless, despite the loss of a large portion of this data differences between PMZ and Placebo in X and Y runway position approached significance.
+<P>
+Overall, the data supported the conclusion that PMZ affects landing performance.  Moreover, it is important to note that the participants were all highly skilled at approach and landing tasks and that the conditions were all nominal.  Under these conditions, it was expected that much higher doses of medications or alcohol are required to significantly disrupt performance.   This leads investigators to suggest that PMZ (50mg IM) would be expected to produce greater disruption of task performance if the individual is not over-trained in the task, or if task performance occurs under off-nominal conditions.
+<P>
+<U><I>Space-flight Testing</I></U><BR>
+This experiment has concluded. Results will be available once the investigator publishes her findings.
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 490</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Harm, Deborah, Putcha, Lakshmi</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine, Pharmacology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-108&#x27;], [&#x27;STS-120&#x27;], [&#x27;STS-122&#x27;], [&#x27;Expedition 13&#x27;], [&#x27;Expedition 15&#x27;], [&#x27;Expedition 16&#x27;], [&#x27;Ground&#x27;], [&#x27;STS-113&#x27;], [&#x27;STS-109&#x27;], [&#x27;STS-112&#x27;], [&#x27;STS-114&#x27;], [&#x27;STS-121&#x27;], [&#x27;STS-118&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/mvy3-ce60</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NRA-96-OLMSA-01A</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/92bbc8e7-4fc9-5df5-8a8f-65fc4a69ba84?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/92bbc8e7-4fc9-5df5-8a8f-65fc4a69ba84?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

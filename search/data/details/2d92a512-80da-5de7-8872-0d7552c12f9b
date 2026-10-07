@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Early graviperception and polarity in single cells - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2d92a512-80da-5de7-8872-0d7552c12f9b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARC00XX65</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Early graviperception and polarity in single cells</h1>
+        <div class="meta-id">Record ID: ARC00XX65</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2d92a512-80da-5de7-8872-0d7552c12f9b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<P>
+The objective of this research will be to understand the fundamental mechanisms associated with the primary process of gravity sensing and the initial stages of signal transduction and cellular polarity development. These studies will focus on the use of Ceratopteris richardii as a model system for gravity sensing. We will focus on the initial mechanoreceptors associated with the trans-cellular calcium current, and will seek to identify the specific membrane component (pumps and channels) associated with these early electrophysiological events using molecular and biochemical approaches. Based on preliminary work we have identified two different annexins and a Ca2+-ATPase as central elements in controlling the gravity-directed flow of calcium through single-celled spores of Ceratopteris. Our project will utilize new technology for advanced-throughput cell electrophysiology, based on novel microfabricated silicon microdevices. We will use this established new method to measure transcellular calcium signaling to further characterize the biophysical properties of gravity sensing and signaling. We are specifically interested in determining how altering the secondary signal transduction signaling events (NO and cGMP) may feedback and control cell responsiveness by altering the primary calcium current. We also will combine the molecular and biophysical approaches in experiments that alter specific gene activities and measure calcium current activities using the lab-on-a-chip systems.
+<P>
+The proposed work utilizes a dynamic approach that combines modern molecular cell biology with new advanced-throughput tools for cell physiology, based on silicon microfabricated biosensing. We envision that this will lead to spaceflight experiments that utilize microsatellite opportunities, based on the second generation of the lab-on-a-chip concept. This is based on a centrifugal disk, that will accommodate a variable gravity experiment on orbit. This flight experiment will allow us to directly measure and assay the threshold value for graviperception in the single-cell spores, by directly measuring the transcellular calcium current at variable gravity levels.
+<P>
+APPROACH:<P>The haploid spore of the fern Ceratopteris richardii is an important single cell plant model for studying gravity sensing at the molecular level. Recent research shows that a transcellular Ca2+current is associated with the gravity vector during the time that cell polarity is being established. Treatment with Nifedipine, a known Ca2+ channel blocker, blocks this current and randomizes cell polarity (Chaterjee et al., 2000). Additionally, temporal Ca2+ flux measurements at multiple locations around the spore are required to understand the correlation between Ca2+ flux directionality and rhizoid growth within the spore model (ul Haque et al., 2006, 2007). Existing biosensing technologies, including the self-referencing technology, are limited to temporal and spatial constraints that prohibit the continuous measurements of Ca2+ fluxes at multiple cell membrane locations around multiple cells (Porterfield et al., 2000; Smith et al., 1998). This ability is necessary to further study the mechanism for directing the Ca2+ current and to perform advanced experiment in NASA flight experiments.
+<P>
+We have developed a second generation cell electrophysiology lab-on-a-chip, (i.e. the CEL-C2 biochip), to investigate the gravitysensing
+mechanism of Ceratopteris richardii spores. The CEL-C2 biochip overcomes the spatial and temporal constraints of previous biosensor
+designs by offering continuous multiplexed sensing of Ca2+ flux with 15 pyramidal wells (each holding 1 cell). Ion-selective electrodes that
+extend into the four walls of the pyramidal wells provide four-point Ca2+ current-selective recordings. We improved upon our previous CEL C
+biochip designs by replacing the Ag/AgCl electrodes with Pt/PEDOT:CaSO4 electrodes. The hydrophilic Ag/AgCl layer previously utilized
+prevented the formation of an interfacial aqueous layer, causing drift in the Nernstian calibration slope after prolonged biochip storage in ionrich
+solution. This improvement in integrated reference electrode design reduces electrical noise during Ca2+ flux monitoring and substantially enhances the biosensor lifetime. Furthermore, the PEDOT:PSS transducer layer provides potentiometric stability with change in
+temperature and can withstand prolonged storage in liquid medium environment. In summary this work highlights the advantages of the
+improved CEL C2 biochip system in comparison to its predecessor.
+<P>
+RESULTS:<P>The results of our characterization of the CEL C2 biochips showed improved performance in terms of stable Nernstian response from four-point electrodes of each wells, and between electrodes of different biochips (e.g. average Nernstian slope of 29 mV/decade of Ca2+ for all electrodes, with minor drift in the slope after prolonged storage time in ion-rich solution). It also has increased stability in calcium concentration measurements due to longer conductive polymer conjugate transducer lifetime in comparison to a AgCl layer. Continuous recordings of Ca2+ from C. richardii fern spores show peak signal after 8-10 hrs of germination. We demonstrate that these recordings are repeatable and reproducible.
+<P>
+Although this work specifically compares the technology of multiple cell recordings between the second and the first generation CEL C biochips, we anticipate that the CEL C2 biochip with improved stability and robustness could be broadly applied to measure other cell types. This enables pharmacological measurement to be conducted in a lab-on-a-chip format. This further has implications in biomedical, pharmacological, and space biology research. The small size and multiplexed sensing capability of the CEL C2 biochip is conducive to space biology and thus can be potentially used for astronaut health monitoring.
+<p>
+No data submitted. Summarized and analyzed data may be available through publications.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARC00XX65</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Porterfield, D. Marshall</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Fern (Ceratopteris) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/99a0-5826</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNH08ZTT003N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2d92a512-80da-5de7-8872-0d7552c12f9b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2d92a512-80da-5de7-8872-0d7552c12f9b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

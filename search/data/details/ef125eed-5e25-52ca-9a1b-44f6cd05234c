@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Identification of Cardiometabolic Vulnerabilities Caused by Effects of Synergistic Stressors Commonly Encountered during Space Missions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ef125eed-5e25-52ca-9a1b-44f6cd05234c?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX10AR10G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Identification of Cardiometabolic Vulnerabilities Caused by Effects of Synergistic Stressors Commonly Encountered during Space Missions</h1>
+        <div class="meta-id">Record ID: NNX10AR10G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ef125eed-5e25-52ca-9a1b-44f6cd05234c?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Microgravity affects cardiovascular (CV) function by decreasing circulating blood volume and central venous blood pressure and increasing stroke volume and cardiac output, potentially leading to cardiac rhythm disturbances, which have been documented during space flight  On top of this, astronauts experience additional CV stress, for example, during space walks or robotic operations during Extravehicular Activities (EVAs). In addition, during any space mission, astronauts experience unusual light-dark cycles leading to some degree of chronic circadian disruption which can take the form of: (a) the whole body being at the ‘wrong time’ given the prevailing behaviors. For example, astronauts are often awake, eat, and perform activities at the time when their internal biological clocks are preparing the body for optimal physiological rest and sleep; or they may be trying to sleep during the biological day when their circadian clock normally prepares the body for activities; or (b) parts of the body can be set to suboptimal times, such ‘internal desynchrony’ when varied cells and organs are shifting to new time zones at different rates. Thus, circadian disruption may result in maladaptive physiological responses. In addition, the inevitable sleep loss that accompanies circadian disruption itself can further stress the CV system. Undoubtedly, mission requirements, such as ‘slam shifting’ before EVAs and working extended shifts during EVAs will contribute to sleep loss. The environmental conditions on the International Space Station (ISS), such as noise, and heat, also contribute to sleep loss. 
+<p>
+Cardiac arrhythmias have been observed in astronauts and are considered a major risk endangering the success of space missions. In addition to structural changes, such arrhythmias can be triggered by numerous interacting and summating stressors such as exercise, sleep loss, working during the biological night, causing changes in cardiovascular risk markers, such as increased blood pressure, cardiac vagal withdrawal, sympathetic activation, and promotion of hemostatic mechanisms. While such responses can be vital homeostatic responses to such challenges, chronic activation of these mechanisms, or activation in individuals with underlying can be counterproductive and lead to adverse cardiovascular events, including stroke or myocardial infarction. This study had the following specific aims:<ol>
+<li>The effect of circadian disruption on CV function, including the CV responses to physical and mental challenges commonly encountered during space flight. 
+<li>The effect of sleep loss on CV function, including the CV responses to physical and mental challenges commonly encountered during space flight. 
+
+<li>The synergetic effects of circadian disruption plus sleep loss on CV function, including the CV responses to physical and mental challenges commonly encountered during space flight. </ol>
+<p>
+APPROACH:<br>
+Investigators studied healthy participants throughout two 11-day ‘inpatient’ protocols that combined circadian disruption with extended sleep opportunity (sufficient sleep) or short sleep (insufficient sleep). Eight males and six females participated in the study. Each participant was studied in both the Short Sleep and Long Sleep conditions. These two protocols were called ‘forced desynchrony’ protocols because the day length was shorter than 24 hours such that the behavioral rest/activity cycle became desynchronized from the internal circadian cycle. This was achieved by scheduling participants to live on recurring 20 hour ‘days’ in dim light, allowing the endogenous circadian pacemaker to oscillate at its inherent period rather than being reset by daily exposure to the light-dark cycle. One protocol (Short Sleep) permitted sleep for five hours per 20 hour ‘day’, which is equivalent to six hours of sleep opportunity per 24 hours for an entire week. The other protocol (Long Sleep) allowed eight hours and 20 minutes sleep per 20 hour ‘day’, which is equivalent to 10 hours sleep opportunity per 24 hours for an entire week. This approach allows investigators to uniformly distribute the sleep/wake cycle across the circadian cycle to quantify the independent influences of the circadian system and behaviors and also their interacting effects. 
+<p>
+Under these carefully controlled conditions investigators tested the hypothesis that circadian disruption combined with sleep restriction would result in unfavorable changes in CV function during behavioral challenges commonly faced by astronauts. A behavioral test battery was performed at the same time during the sleep protocol. Before each test battery, participants had been supine for at least five hours during the sleep periods in both the Long Sleep and Short Sleep conditions. Subsequently, when lights were switched from darkness to the dim light condition, participants remained in a semi-recumbent posture (upper body at 45º) for two hours. During this time participants consumed breakfast one hour after scheduled wake time. An identical behavioral test battery was repeated on each 20 hour ‘day’ and included three standardized stressors performed in the following order: (i) a mental challenge; (ii) a postural challenge; and (iii) an exercise stressor.
+<p>
+Astronauts experience various stressors that may result in inhibition of cell mediated immunity and increased reactivation of latent viruses. Thus, comprehensive immune assessment was performed from whole blood samples collected with heparin at the beginning of study before either protocol, and twice during each of the Short Sleep and the Long Sleep protocols. Immune function was assessed using standard techniques including peripheral leukocyte distribution by flow cytometry, T cell function, intracellular cytokine profiles, and secreted cytokine production profiles following T cell or monocyte stimulation. In addition, innate reactivation of latent Epstein Barr Virus (EBV), herpes simplex virus 1 (HSV1), and Varicella Zoster Virus (VZV) was assessed from the DNA in liquid saliva samples taken at the beginning of study before either protocol, and every alternate day across both the short and long sleep protocols. 
+<p>
+RESULTS:<br>
+Results show that short-term circadian disruption and sleep loss in healthy adults does not cause measurable deleterious effects on cardiovascular structure, increased susceptibility to arrhythmias, or sub-optimal cardiovascular function even during exercise and postural stresses. The duration of partial sleep loss and circadian disruption was limited to a period of 5 x 24 hour days. Thus, any physiological findings would be interpreted as acute changes across a period that is akin to a workweek. The circadian misalignment in this study was performed in continuous dim light to avoid circadian clock phase adjustment. It is conceivable that misalignment performed with exposure to bright light during the biological night may cause more internal circadian desynchrony and manifest in adverse effects. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX10AR10G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Shea, Steven</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/rhhc-0j20</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2009 Crew Health NNJ09ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ef125eed-5e25-52ca-9a1b-44f6cd05234c?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ef125eed-5e25-52ca-9a1b-44f6cd05234c?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Validation of Assessment Tests and Countermeasures for Detecting and Mitigating Changes in Cognitive Function during Robotics Operations - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/b829eee4-87cd-5453-82a5-1744fd1036c4?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>J08ZSA_7523</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Validation of Assessment Tests and Countermeasures for Detecting and Mitigating Changes in Cognitive Function during Robotics Operations</h1>
+        <div class="meta-id">Record ID: J08ZSA_7523</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/b829eee4-87cd-5453-82a5-1744fd1036c4?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+An effective, safe, well-tolerated, non-invasive countermeasure for circadian- and fatigue-related deficits in cognition is required for use during in space environments to enhance the safety of crewmembers. Light exposure has the potential to fulfill this role. Although monochromatic blue light exposure at night has been shown to be most effective at shifting the circadian pacemaker, and improving alertness and performance, these results have not been tested for broadband blue-enriched white light or for light exposure during the biological day. Before light therapy as fatigue countermeasure is operationalized, further research is required to fully understand the effect on complex performance, such as robotics performance. Similarly, while caffeine use is widespread, including on the International Space Station (ISS), uncontrolled use of caffeine may not be optimally timed or of the correct dose to alleviate sleepiness on duty and may interfere with subsequent sleep, thereby increasing fatigue the next day. The study investigated the effects of light and caffeine as fatigue countermeasures in a controlled environment with the long-term view to developing specialized countermeasure schedules to maximize alertness and performance of space crew in an environment where even small fatigue-related errors could have catastrophic consequences.
+<p>
+The specific aims of this study were to: (1) characterize the changes in performance and mental workload during simulated robotic operations, (2) validate proxy cognitive and drowsiness assessment tests as predictors of performance changes in a complex operational task, and (3) test the efficacy of fatigue countermeasures such as blue enriched white light and caffeine to improve cognition during robotic operations. Initial experiments were to validate robotics training, performance, and mental workload paradigms, and to confirm the relationship between spatial ability tests and performance. 
+<p>
+APPROACH:<br>
+Massachusetts Institute of Technology (MIT) completed the development of a virtual reality based Robotic Workstation Simulator (RWS), including simulations of representative fly-to/grapple, autosequence, and track-and-capture tasks, and associated performance metrics. Brigham and Women's Hospital (BWH) and MIT completed the protocol development. Subjects were screened at BWH then followed a normal sleep schedule (eight hours per night) for two to three weeks. During this time, they received up to six sessions of robotic training as long as they achieved criterion performance during each session. Over a 20 month period subjects were screened for robotics aptitude and medical factors, and followed a normal eight hour night for several weeks while training on a battery simulated space telerobotics tasks. They then underwent a week of six hours per night sleep restriction, and entered a time-cue-free laboratory environment, where they were tested over a 12 day period, before and after repeated 9 hour slam shifts in their sleep-work schedules. Sixteen subjects completed the study. Robotics tasks included ISS-like fly-to/grapple, autosequence monitoring, and track-and-capture manual control tasks. An imbedded secondary visual detection task was used to assess spare attention and thus mental workload. Performance on proxy cognitive and psychomotor tasks was evaluated at intervals. By the end of the 6 hour robotics session, subjects had been awake for 18 hours. Physiological measures (plasma and saliva melatonin and EEG), subjective sleepiness, and alertness measures were taken throughout. After each slam shift, subjects were allowed eight hours of recovery sleep on the pre-slam schedule. The first slam shift performance study was performed in 90 lux white light, and served as a control. In subsequent three day cycles, subjects were tested under three treatment conditions, whose order was randomized across subjects: a) 90 lux blue-enriched white light, b) 90 lux white light and hourly caffeine (0.3 mg/kg), and c) 90 lux blue-enriched light and caffeine.
+<p>
+RESULTS:<br>
+Investigators have suggested to their colleagues in the Robotics Branch of the NASA Astronaut Office that tracking the performance in early training lessons with a broader range of objective measures (e.g., time needed to complete lessons) will be necessary to improve the predictive capabilities of the models. Other tests of working memory and dynamic spatial ability should be evaluated for their correlation with other task performance or hand-controller categories.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>J08ZSA_7523</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Oman, Charles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/j47s-y760</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNJ08ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/b829eee4-87cd-5453-82a5-1744fd1036c4?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/b829eee4-87cd-5453-82a5-1744fd1036c4?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

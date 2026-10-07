@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How the Brain Constructs Stable Visual Representations: Cortical and Subcortical Mechanisms - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/899986d1-df03-54c3-b1a7-4c1854d024a3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>GSRP_6624</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>How the Brain Constructs Stable Visual Representations: Cortical and Subcortical Mechanisms</h1>
+        <div class="meta-id">Record ID: GSRP_6624</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/899986d1-df03-54c3-b1a7-4c1854d024a3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+When making our way through the environment our eyes are constantly moving, scanning the scene. Though images move on the retina, our perception of the world remains stable. What is the neural basis of this stability? Neurons in several cortical areas are capable of “remapping” visual representations in conjunction with eye movements. Recent experiments have suggested, surprisingly, that subcortical pathways can be recruited as well when the normal cortical pathways are interrupted. The aim of this study is to determine how subcortical pathways contribute to solving the problem of maintaining stable spatial representations. 
+<p>
+APPROACH:<br>
+The investigators were focused on determining the brain circuits that contribute to creation of stable visual representations. These interests build upon illuminating studies done previously in the lab that focused on the transfer of visual information for the updating of an internal representation. The investigators asked whether updating of a visual representation across hemispheres depends on the forebrain commissures, the fiber bundle that connects the cortical hemispheres. Investigators tested the integrity of spatial updating in two ways. First, they used a behavioral test that required spatial information to be updated when the eyes move. Second, they analyzed the neural signal in the Laterial Intraparietal cortex (LIP), an area known to contain remapping signals. In both sets of experiments they examined the difference between a condition where the internal representation of the visual stimulus remained within a single hemisphere and a second condition where the internal representation must pass across to the opposite hemisphere. They hypothesized that when the internal representation of a visual stimulus remains within a single hemisphere, the behavioral task would be performed correctly and LIP neurons would have a normal remapped response. In contrast, when the representation of the stimulus has to move across hemispheres, they expected that the monkeys would be unable to perform the task and LIP neurons would not have a remapped response.
+<p>
+RESULTS:<br>
+A first, the monkeys’ performance confirmed their hypothesis. The monkeys were unable to complete the task when the visual information needed to pass across hemispheres. Surprisingly, recovery began almost at once. Both monkeys ultimately recovered to the point where they could correctly perform the task that required across-hemisphere remapping of visual information. Additionally, when thy recorded physiological activity in area LIP, they found neurons that fired both when the representation remained within a hemisphere and when the representation crossed hemispheres. 
+<p>
+Three important discoveries were made. First, the investigators found that even in the absence of the forebrain commissures, neural activity in LIP is related to the monkey’s behavior during a task dependent on accurate spatial updating. These results suggest that LIP still plays a role in the behavior of the monkeys. After the removal of the forebrain commissures, the behavioral recovery might have been due entirely to subcortical mechanisms. Instead, it appears that information about the opposite visual field still reaches LIP, and this activity contributes to the overall behavior of the monkey. 
+<p>
+Second, investigators determined that the remapping activity in the split brain animals is not due to representation of ipsilateral and contralateral visual fields in a single hemisphere. Investigators found that while in normal monkeys there is a small representation of ipsilateral space, that represenatation is absent when the forebrain commissures have been transected. This result indicates that a sub-cortical structure must be the source of the across hemifield remapping observed in the split brain animals. 
+<p>
+Third, investigators determined that neurons in the superior colliculus (SC) in the intact monkey are capable of remapping when the visual information remains within or must pass across hemifields. The difference between the LIP and SC is the number of neurons that have remapping activity. In LIP, investigators found that approximately 70% of the neurons have remapping activity; this is compared to about 30% in the SC. Even thought the total numbers of neurons are different, theses structures are similar in their participation in across and within hemifield remapping. Neurons in both areas have potential access to visual information from large portions of the visual field. The across hemifield remapping observed in the SC may be the source of the across hemifield remapping that remains in the LIP of the split brain monkey. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>GSRP_6624</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Dunn, Catherine</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Monkey (Macaca mulatta) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/qfv8-n731</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>GSRP</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/899986d1-df03-54c3-b1a7-4c1854d024a3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/899986d1-df03-54c3-b1a7-4c1854d024a3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

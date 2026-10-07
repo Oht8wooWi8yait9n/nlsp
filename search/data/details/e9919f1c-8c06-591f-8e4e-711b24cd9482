@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ultrasonic Assessment of Anisotropic Mechanical Properties of Cancellous Bone after Disuse with and without Anti-Resorptive Therapy (Postdoctoral Fellowship) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e9919f1c-8c06-591f-8e4e-711b24cd9482?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Ultrasonic_Therapy</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Ultrasonic Assessment of Anisotropic Mechanical Properties of Cancellous Bone after Disuse with and without Anti-Resorptive Therapy (Postdoctoral Fellowship)</h1>
+        <div class="meta-id">Record ID: Ultrasonic_Therapy</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e9919f1c-8c06-591f-8e4e-711b24cd9482?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br> 
+Currently, the approach most widely used to examine bone loss is bone densitometry, which cannot show the microarchitectural aspects of cancellous bone that are key to estimate bone’s mechanical integrity. Recently, a novel architecture-density based approach for acoustic wave propagation in a poroelastic media was developed. This approach provides the potential to use ultrasound measurements in bone to examine tissue architecture in addition to bone mass. Initial studies show that this approach significantly improves prediction of mechanical properties of bovine and human cancellous bone when compared to density-based approaches. Better estimation of bone mechanical properties is expected to result in enhanced discrimination of osteoporotic and non-osteoporotic bone. The Aim of the study was to investigate the ability of this microstructural-based approach to discriminate quantitatively the changes on density, microstructure and mechanical properties of bone in the real-world situations of a rapidly evolving osteoporosis (disuse), both with and without antiresorptive treatment, and after recovery. The present research builds on the ongoing NSBRI studies.  From these studies, canine cancellous bone samples were obtained and split into four groups: Immobilized (Im), Immobilized and treated with antiresorptive therapy (ImTx), Non-immobilized control bones (Cn), and non-immobilized control bones treated with bisphononate (CnTx). Ultrasound wave velocities were measured in three anatomical directions (SI, ML and AP). The values of ultrasound velocities and the bone density were used to directly compute the directional anisotropic mechanical properties of cancellous bones in the four analyzed groups. In particular, from these measurements it was found a noticeably change in mechanical properties when comparing control and immobilized cancellous bone samples. The group of bones immobilized and treated with antiresorptive therapy has shown an intermediate level of mechanical properties when compared against the control and immobilized bone samples. These results were found in close agreement with previous results from Dr. Schaffler’s research project, which have shown that anti-resorptive treatment with bisphosphonate reduced bone loss in disuse but did not completely inhibit it. Dr. Schaffler data suggest that disuse osteoporosis differs from other osteoporoses in its sensitivity to antiresorptive treatment.
+<p>
+APPROACH:<br>
+The methodology for the study is embedded in the results section below.
+<p>
+RESULTS:<br>
+The results from the project support this suggestion and demonstrate the ability of ultrasound procedure to assess differences between normal, disuse-induced osteoporotic and normal bone. Moreover, the analysis of the data for the three anatomical directions have shown that beside changes in bone density, the ratio of anisotropy in healthy bone is highly modified during disuse. However, this ratio of anisotropy can be preserved in disuse-induced osteoporotic bone when using the antiresorptive therapy. Observations of directional (anatomical) changes of bone loss undergoing disuse and treated with anti-resorptive therapy were effectively assessed through changes in mechanical properties from ultrasound measurements. Furthermore, mechanical properties obtained from ultrasound measurements were compared against mechanical properties computed from a poroelastic model using measurements from 3D images of the trabecular bone samples from microCT images. In particular, it was found a high correlation between mechanical properties derived from ultrasound measurements and obtained from direct measurement of the microstructure in samples. Finally, using the poroelastic model, the directional information of the microstructure was extracted from each ultrasound measurement and compared to direct measurements from microCT images. The correlation between the bone density obtained from ultrasound and microCT images was moderated, but highly improved when the bone density was directionally modulated with this structural information. The structural information derived from ultrasound measurements were then shown relevant to improve the assessment of mechanical properties when analyzing anisotropic cancellous bone. The results obtained during the first year of the present project suggest that the ultrasound measurements and/or the use of the new poroelastic model can effectively distinguish directional and global changes in trabecular bone undergoing disuse and treated with antiresorptive therapy. The effectiveness of the ultrasound measurements to determine anisotropic changes in mechanical properties of bone was demonstrated against direct analysis of 3D images obtained from microCT. The Aim of the proposed research for the coming year consist in determine microstructure and mechanical properties of bone that has been allowed to recover from long-term disuse (restoration of mechanical loading + bone anabolic agent). In these experiments, anisotropic mechanical and structural properties of cancellous bone will be analyzed from a newly initiated series of experiments (NSBRI grant, Bone recovery after bisphosphonate and PTH treatment of disuse osteoporosis BL00406) that examines recovery potential for disuse and bisphosphonate treated bone, once mechanical loading has been restored. Data suggest that once trabeculae are lost, recovery can only occur through thickening of the remaining trabeculae. These studies will determine whether our acoustical anisotropy approach remains a good predictor of anisotropic mechanical properties in “restored” as well as normal and osteoporotic bone. Anisotropic mechanical properties of bone in which recovery was augmented using a bone anabolic agent (PTH) will be also examined.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Ultrasonic_Therapy</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cardoso, Landa</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/v5za-st74</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e9919f1c-8c06-591f-8e4e-711b24cd9482?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e9919f1c-8c06-591f-8e4e-711b24cd9482?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

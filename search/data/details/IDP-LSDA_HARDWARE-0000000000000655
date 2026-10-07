@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Automated Microbiology System (AMS) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000655?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>1170</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Automated Microbiology System (AMS)</h1>
+        <div class="meta-id">Record ID: 1170</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000655?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Automated Microbiology System (AMS) is a reader/incubator adapted from commercial hardware manufactured by bioM&#233;rieux, Inc.  The AMS maintains a 95.7&#176;F (35.4 &#176;C) environment for automated optical monitoring of microbial growth in test card experiment wells configured with various growth media and antibiotic substrates.  Microbial metabolism is inferred from changes in the intensity of light transmitted though each experiment well (optical density).  The optical densities of the growth wells are measured every fifteen minutes.  The AMS also contains a floppy disk drive, but it has been disabled and is no longer in use.  The AMS is stowed in a middeck locker onboard the Space Shuttle.  
+<P>
+<B>AMS Control Assembly</B><BR>
+The AMS control assembly consists of a Reader Interface Board (RIB), and Enhanced Intelligent Reader Board (EIRB), and a Heater Control Board (HCB).  A control assembly fan facilitates heat dissipation from the RIB, EIRD, and HCB.  A Low Cost Reader Board (LCRB) is also contained in the AMS, although it has been disconnected due to low reliability and no longer performs any function.<P>
+
+<B>AMS Reader Interface Board</B><BR>
+The RIB controls the heater assembly to regulate incubator thermistor temperature to 95.7 &#176;F &#177; 0.4 &#176F (35.4 &#176;C &#177; 0.2 &#176;C).  The RIB also provides signal conditioning for the incubator thermistor and the control assembly thermistor.<P>
+
+<B>AMS Enhanced Intelligent Reader Board (EIRB)</B><BR>
+The EIRB disables the heater when the control assembly thermistor temperature exceeds 104 &#176;F (40 &#176;C).  The EIRB also processes data from the detector array.<P>
+
+<B>AMS Power Control System</B><BR>
+The power control system controls the 28 Vdc power input; it reduces signal noise, provides circuit protection, and regulates voltage to various AMS components.  The heater is powered from the 28 Vdc supply, while the fans are powered from a 24 V DC-DC converter.  Several DC-DC converters (+24, +12, -12, and +5 Vdc) supply the remaining AMS components.<P>
+
+<B>AMS Incubator Heater Assembly</B><BR>
+The Incubator Heater Assembly consists of a heater element, a heat exchanger, an incubator circulation fan (for distribution of heat to the incubation chamber), and a thermal fuse that terminates power to the heater if the heater element temperature exceeds 184 &#176;F (84 &#176;C).  The heat exchanger is an aluminum tube with an outer diameter of 2.36 inches, an inner diameter of 1.375 inches, and a length of 1.72 inches.  The heater element is wrapped around the outer surface of the heat exchanger.  The incubator circulation fan draws air through the holes drilled in the heat exchanger.  The thermal fuse is mounted inside the heat exchanger close to the exchanger&#39;s outer edge in order to provide optimal thermal communication between the thermal fuse and the heater element. <P>
+<B>AMS Test Card Position System</B><BR>
+A vertical drive cassette handler and horizontal drive card handler are used to position each test card relative to the optical reader head.  The two handlers are controlled by the Vertical Position Board and Horizontal Position Board, respectively, which are mounted on the optical reader assembly.  Each of the two drive controllers disable the appropriate drive motor when light-emitting diode (LED) position feedback signals are inconsistent with commanded motion.<P>
+
+<B>AMS Cassette Handler</B><BR>
+This handler raises and lowers an AMS card tray to support reader access to an individual test card within the card tray.  Crewmembers will manually load a single card tray onto the cassette handler via an aluminum Cassette Grasp Interface (CGI).<P>
+The AMS read cycle begins and ends with the cassette handler at a low-position-limit, which is controlled by a sensor located one inch above the incubator chamber floor and a mechanical stop located 5/8 inch above the incubator chamber floor.  When a final (i.e. bottom) card in the cassette has been read, the cassette handler begins a three second descent to the low-position-limit.<P>
+
+<B>AMS Card Handler</B><BR>
+This handler pulls a test card horizontally across the stationary reader head so that each row of experiment wells on the card may be read.<P>
+
+<B>VITEK&#174; Test Card</B><BR>
+The VITEK&#174; Test Card is made of a clear plastic (crystal styrene), is credit-card-sized (94.9 mm x 57.7 mm x 3.2 mm), and weighs less than 15 grams.  Each card has 30 experiment wells for microbial metabolization of growth substrates.   The experiment wells are drilled completely through the test card, and then transparent Teflon film is sealed to the upper and lower surfaces of the card, providing containment of the experiment well contents.  Each card has a single port connected in parallel to all 30 test wells for inoculation with a microbial suspension during ground operations.  The inoculation port is plugged following inoculation. <P>
+
+<B>VITEK&#174; Card Tray</B><BR>
+The VITEK&#174; Card Tray provides a mechanical interface for positioning the cards for analysis in the AMS instrument.  Each card tray has an eight-card capacity and is contained in a resealable plastic bag when stowed in the Thermoelectric Holding Module (TEHM).<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Automated Microbiology System (AMS)</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>STS-107</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Effects of Microgravity on Microbial Physiology; Space Flight Effects on Fungal Growth, Metabolism, and Sensitivity to Antifungal Agents</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>Version Used During the STS-107 Mission</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000655?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000655?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

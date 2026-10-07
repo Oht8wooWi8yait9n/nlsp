@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluation of Skeletal Muscle Performance and Characteristics - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/710c9085-7973-5c39-a2e9-1a9ba66a1abe?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9401630</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Evaluation of Skeletal Muscle Performance and Characteristics</h1>
+        <div class="meta-id">Record ID: 9401630</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/710c9085-7973-5c39-a2e9-1a9ba66a1abe?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Traditional muscle deconditioning is characterized by atrophy and decreases in metabolic enzymes. Previous studies have demonstrated post-flight or post-bed rest decreases in muscle tone and other alterations in neuromuscular functions. Different degrees of altered performance (strength, endurance, and coordination) appear in different muscle groups and may be related to these changes after exposure to real or simulated microgravity. Altered integrated muscle performances (walking, running, standing, etc.) have been noted after exposure to real or simulated microgravity. All changes have been reported from a series of separate flight and simulation studies on different subjects and species over "flights" of different duration using a variety of in-flight exercise countermeasures. Muscle deconditioning may be better understood by examining multiple individuals doing the same countermeasures and tests during a single space flight. The objective of this experiment was to increase the understanding of muscle deconditioning and to evaluate the effects of the inflight countermeasures on muscle performance and characteristics. Based upon previous research, the investigators evaluated the following hypotheses.<P> 
+
+<UL>
+<LI>Muscle performance will change in a non-uniform manner during flight and will slowly readapt to before flight levels upon return to 1-g. These non uniform changes include:</LI>
+
+<OL>
+<LI>Legs, arms, back and neck muscles will decondition to different levels,</LI>
+<LI>Extensors muscle characteristics will have greater changes than flexors, and</LI>
+<LI>Different types of contractions will have disproportionate changes after flight.</LI>
+</OL>
+
+<LI>The major mechanisms for muscle deconditioning will be atonia and changes in other muscle characteristics. These changes will slowly readapt to before flight levels upon return to 1-g.</LI> 
+
+<LI>There will be significant decreases in integrated muscle performance (treadmill and cycle exercise) during the flight which will slowly readapt to before flight levels upon return to 1-g.</LI> 
+<LI>The decreases in integrated muscle performance will be due to the changes in the individual muscle performance and their underlying mechanisms.</LI>
+</UL>
+<P>
+APPROACH:<BR>		
+Skeletal muscle characteristics and performance will be measured prior to, during and after space flight on NASA 3 crewmembers.  Muscle tone will be quantified as muscle stiffness.  Muscle stiffness is defined as the slope of the torque versus degree line of a concentric contraction, which immediately follows an eccentric contraction.  Evoked isometric contractions (tendometria) will be used to assess the maximal force transmitted to the Achilles tendon.  Single and tetanic maximal twitch forces will be recorded.  The time to peak tension, one-half relaxation time, total contraction time and fatigue index also will be evaluated.  The test will be performed before and after flight only.<BR> 
+Strength velocities characteristics will be assessed with the LIDO (LIDO Active Multi-Joint Isokinetic Dynamometer).  Instruments will be adjusted for differences in body size and shapes.  Subjects will be asked to contract muscles of the ankle, knee, and back on the LIDO at maximal levels against a lever arm that is moving in the same direction as the muscle contraction (concentric contraction), and in the opposite direction as the muscle contraction (eccentric). All tests will be done on the right side unless contraindicated.  EMGs will be recorded on select muscle groups.  This test will be performed before and after flight only.<BR>  
+Voluntary Isometric contractions will be assessed with the LIDO.  Subjects will be asked to contract muscles of the ankle, knee, and neck on LIDO at maximal levels against a stationary lever arm.  EMGs will be recorded on select muscle groups.  All tests will be completed on limb that is contralateral from isokinetic strength testing.<BR>
+Fatigability will be assessed a hand dynamometer (hand).  Hand endurance will be assessed at current and relative strength levels.  The crewmember will be asked to hold 50% of current maximal voluntary contraction (MVC) for as long as possible.  The absolute endurance will be assessed with a series of contractions (3 second contraction, 2 second relaxation) at 75% of preflight MVC.  The test will terminate when the target force cannot be met.<BR>
+Graded Cycle Exercise was performed to evaluate integrated muscle performances.  This test will be performed on a supine ergometer and consists of a 2-min warm-up (50 watts), 3 5-minute stages of steady-state exercise (100, 125, and 150 watts), followed by 25 watt/min increases until the subject reaches volitional fatigue (pre-post flight) or 85% of preflight values (inflight tests only).  The test concludes with at least 1-min of cycling at 50 watts or less.  EMG, aerobic economy, a-VO<SUB>2</SUB>, submaximal lactate production and heart rate will also be measured during this test.<P> 
+
+RESULTS:<BR>
+Initial metabolic gas analysis system (MGAS) and muscle strength data is complete.  Electromyograph (EMG) data analysis is about 25% completed.  Initial individual muscle strengths were close to preflight values.  These values either improved or were maintained for all muscle groups except for knee extensors and flexors for 2 crewmembers.  The one crewmember showed initial decreases but returned toward preflight values by the third week of recovery.<BR>  
+Mir22/NASA 3 crewmembers showed that the Russian countermeasures were generally effective for maintaining gross muscle function.  However, integrated muscle function was slightly compromised.  The Russian countermeasure program provides and excellent starting point to refine neuromuscular countermeasures for space flight.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9401630</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Kozlovskaya, Inessa, Siconolfi, Steven</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NASA 3&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0fhx-rx59</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/710c9085-7973-5c39-a2e9-1a9ba66a1abe?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/710c9085-7973-5c39-a2e9-1a9ba66a1abe?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STS-29 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000211?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>STS-29</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>STS-29</h1>
+        <div class="meta-id">Record ID: STS-29</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000211?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          STS-29 was the 8<sup>th</sup> launch of the Shuttle Discovery.  It's crew consisted of Commander Michael L. Coats, Pilot John E. Blaha, and Mission Specialists James P. Bagian, James F. Buchli, and Robert C. Springer.  The February 18 launch was rescheduled for a later March launch to replace suspect liquid oxygen turbopumps on Discovery’s three main engines and faulty master events controller. On March 13, after a one hour, 50 minutes delay caused by morning ground fog and upper winds, the STS-29 crew began their mission. 
+<P>
+Six hours into the STS-29 mission, the crew released the primary payload, the fourth of NASA's Tracking and Data Relay Satellites (TDRS), into geosynchronous orbit.  The secondary payloads flown on STS-29 included the Orbiter Experiments Autonomous Supporting Instrumentation System-1 (OASIS-1), Space Station Heat Pipe Advanced Radiator Experiment (SHARE), Protein Crystal Growth (PCG), Chromosomes and Plant Cell Division (CHROMEX), two Shuttle Student Involvement Program (SSIP) experiments, and an Air Force experiment that used the orbiter as a calibration target for a ground-based experiment for the Air Force Maui Optical Site (AMOS) in Hawaii.  The crew also took large-format movie pictures of Earth with a hand held IMAX camera and returned clear photographs of the jettisoned external fuel tank.  <P><B>Chromosomes and Plant Cell Division in Space Experiment (CHROMEX-01)</B><br>STS-29 was the first flight of the CHROMEX small payload's flight project.  CHROMEX payloads fly in the middeck of the Orbiter.  The payload consists of experiments flown using the Plant Growth Unit which allows scientist to grow whole plants on orbit.  The plants are allowed to grow for the length of the mission and are analyzed after the mission to determine the effects of microgravity and space flight on their chromosomes, and mitotic structures; little to no crew interaction with the payload is required. <P><b>Shuttle Student Involvement Program (SSIP) Payload</b><br>The Shuttle Student Involvement Program (SSIP) is sponsored jointly by the National Science Teacher's Association and NASA. The program gives students in U.S. secondary schools the opportunity to propose experiments for flight on the Space Shuttle. A contest is held every year to select experiments for flight. Each experiment is sponsored by an individual or organization in the private sector.<P>Ames Research Center (ARC) has been involved in three SSIP life sciences experiments. These were flown on STS-8, STS-41B and STS-29.<P>The five-day STS-29 mission flew two SSIP life sciences experiments. Only one of these was developed by ARC. Its objective was to study the effects of weightlessness on the healing of bone fractures. Four specific pathogen-free Long Evans rats with bone fractures were flown inside an Animal Enclosure Module (AEM). A microgravity rodent bottle provided water for the rats. Tissues from flight rats, ground controls, and tail-suspension controls (simulated microgravity) were examined postflight by light and electron microscopy. Results indicated that healing of fractures is delayed in rats maintained in actual and simulated microgravity.<P><b>CHROMEX-01 Payload</b><BR>The CHROMEX payload is a middeck payload that utilizes the Plant Growth Unit  (PGU).  CHROMEX-01 was the first flight of the CHROMEX series.  On the STS-29 mission, there was one experiment comprising this payload entitled Chromosomes and Plant Cell Division in Space.  This flight experiment had two primary objectives: 1) to test whether the normal rate, frequency and patterning of cell division in the root tip can be sustained in microgravity; 2) to determine whether the fidelity of chromosome partitioning is maintained during and after flight.<P>In order to study these objectives, shoots derived from aseptic suspension cultures of the monocot daylily (<i>Hemerocallus</i> cv Autumn Blaze) and tissue-cultured plantlets of the dicot <i>Haplopappus gracilis</i>  were co-cultured in the Plant Growth Unit with the newly implemented Atmospheric Exchange System.  <P><b>Detailed Supplementary Objectives (DSOs)</b><br>Detailed Supplementary Objectives (DSOs) were performed on this mission.  ADSO is a NASA-sponsored investigation that is performed by SpaceShuttle crewmembers, who serve as the test subjects.  These studies aredesigned to require minimal crew time, power and stowage.  Biomedical DSOsfocus on operational concerns, including space motion sickness,cardiovascular deconditioning, muscle loss, changes in coordination andbalance strategies, radiation exposure, pharmacokinetics and changes in thebody's biochemistry. <P>On STS-29, seven life sciences DSOs focused on several research areas. Two DSOs studied the pharmacology of drug absorption during space flight.  Three DSOs in the research area of cardiovascular physiology, focused on the noninvasive estimation of central venous pressure, the influence of space flight on the baroreflex control mechanism and pre- and postflight assessment of cardiovascular function.  Two DSOs studied the vestibular system.  These experiments investigated the preflight adaptation training of visual vestibular interaction, including a determination of the perceived effects of head movements made on orbit, and correlation of changes in cerebral and regional blood flow in the microgravity environment to the onset and severity of space adaptation syndrome.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>STS-29</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1989</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>5</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Daylily, Haplopappus, Rat</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000211?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000211?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

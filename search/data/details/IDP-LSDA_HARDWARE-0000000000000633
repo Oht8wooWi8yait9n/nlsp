@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Growth Hormone Concentration and Distribution (GHCD) in Plants Experiment Hardware - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000633?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>148</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Growth Hormone Concentration and Distribution (GHCD) in Plants Experiment Hardware</h1>
+        <div class="meta-id">Record ID: 148</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000633?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Growth Hormone Concentration and Distribution (GHCD) in Plants experiment consists of two major pieces of hardware, the gaseous nitrogen (GN2) freezer and specially designed plant canisters.<p></p>GN2 FreezerThe Passive Freezer was used to freeze Plant Canisters on STS-34 to arrest plant growth inflight and keep plant specimens frozen until landing and recovery.  The passive freezer uses GN2  (gaseous nitrogen) as the cryogen.  A Cryogenic Freezer Bag is used to insulate the freezer, and Cryogenic Gloves are used to protect the crew from extreme cold temperature while interacting with the Freezer.  <p></p>Passive Freezer:The Passive Freezer consists of two flasks, one contained within the other.  The freezer fits into a standard middeck locker and requires no power to operate.  The space between the flasks is evacuated for thermal insulation.  The inner flask contains calcium silicate which is used to absorb the LN2  (liquid nitrogen) fuel source, hold it, and release GN2 as heat is absorbed from the freezer cargo and surroundings.  At the center of the calcium silicate is a cylindrical space where a Plant Canister or other cargo may be inserted.  The inside diameter capacity is 8.9 cm and the length is 34 cm.  The freezer temperature range is between -195 to -185 °C, and freezer holding time is eight days minimum.  The freezer has no controls and contains only two moving parts: 1) a rotating neck plug can be removed from the freezer body to allow insertion or removal of samples and 2) a cap over the evacuation valve must not be removed.<p></p>Cryogenic Freezer Bag:The Cryogenic Freezer bag is used to insulate the Freezer and meas- ures 17.5 inches in height and 10 inches in diameter.  The bag is made of a quilted Nomex pad- ding cover with Pyrel polyurethane padding.  There are two handles made of Nomex webbing.  Strips of velcro are mounted on the end pad of the bag for attachment of handles and gloves.<p></p>Cryogenic Gloves:The Cryogenic Gloves are used to protect the crew from the cold tempera- tures generated by the GN2.  The outer material of the gloves is made of Taslan-100% nylon which is resistant to most acids and chemicals, laminated with a 100% waterproof, semiporous membrane, having nine billion pores per square inch.  The glove is insulated with Poly-olefin fiber, which is 65% olefin (polyporlene) and 35% polyester, thus having warmth without bulk.  The insulation is machine washable and dryable.  The liner is made of 100% cotton.  The gloves are very lightweight, weighing only 6 oz per pair.<p></p>Plant CanisterThe Plant Canister consists of two hollow cans threaded together, constructed of anodized aluminum.  There are four light-baffled holes in both the upper and lower cans, providing gas exchange for the plants contained within.  The total canister assembly measures 355 mm tall and 82 mm in diameter and is contained in a hollow stainless steel container that contains a two- stage light filter.  There is an end cap with a knob at one end to facilitate handling.  Canisters are encased in plastic foam for placement in a middeck locker of the orbiter for flight.  The foam is made of 2 lb/3 ft density, nominal 70 pores/inch Pyrel foam, which is a standard  cushion material for middeck lockers, and the Ambient Temperature Recorder is utilized to monitor the temperature profile experienced during flight.  Canisters can be fit into the Passive Freezer, to freeze tissue during flight.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Growth Hormone Concentration and Distribution (GHCD) in Plants Experiment Hardware</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>STS-34</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Effects of Microgravity on Growth Hormone Concentration and Distribution in Plants</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>As Flown on STS-34</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000633?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000633?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

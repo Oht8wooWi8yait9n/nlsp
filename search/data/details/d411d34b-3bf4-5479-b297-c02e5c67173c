@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Computational Model Prediction and Biological Validation using Simplified Mixed Field Exposures for the Development of a GCR Reference Field - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d411d34b-3bf4-5479-b297-c02e5c67173c?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX16AR97G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Computational Model Prediction and Biological Validation using Simplified Mixed Field Exposures for the Development of a GCR Reference Field</h1>
+        <div class="meta-id">Record ID: NNX16AR97G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d411d34b-3bf4-5479-b297-c02e5c67173c?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>This project addresses the need to develop and utilize mixed field irradiation protocols that approximately<br>represent the shielded tissue environment in space and that can be combined with single-beam studies to validate<br>and further improve cancer risk models. Extensive studies have been carried out on the induction of chromosomal<br>aberrations by low- and high- linear energy transfer (LET) radiation in human lymphocytes, fibroblasts, and<br>epithelial cells exposed in vitro. The results, which are consistent with computational modeling predictions,<br>establish chromosome aberration models as an LET-sensitive tool for predicting damage from single ion<br>exposures. However, there is a lack of data on chromosome aberrations induced by low dose rate chronic<br>exposure and mixed field beams such as those expected in space.<br><br>This investigation will define a simplified mixed field and make model predictions of the effects of dose rate,<br>mixed fields, and shielding on expected biological damage. Chromosome aberration studies at NASA’s Space<br>Radiation Laboratory (NSRL) will provide the biological validation needed to extend the computational models<br>over a broader range of experimental conditions leading up to the galactic cosmic radiation (GCR) simulator,<br>which will help to reduce uncertainties in radiation quality effects and dose-rate dependence in cancer risk<br>models. These models can then be used to answer some of the open questions regarding requirements for a full<br>GCR reference field, including particle type and number, energy, dose rate, and delivery order.<br>This study has the following specific aims:<br><br>1) Evaluate the effects of dose rate on biological damage using acute and chronic exposures with single ion<br>and mixed field beams to irradiate normal human fibroblasts and to measure chromosome aberrations.<br>2) Compare the external field versus local tissue field approach by measuring chromosome aberrations in<br>normal human fibroblasts using shielded and unshielded.<br><br>APPROACH:<br>hTERT-immortalized human normal skin fibroblast cells 82-6 were grown as monolayers at under typical culture<br>conditions supplemented with 10% fetal bovine serum (FBS), antibiotic antimycotic and L-glutamine. Cells were<br>irradiated in a confluent state. The premature chromosome condensation (PCC) technique will be used to collect<br>G2/M-phase chromosomes. After irradiation, fibroblast were allowed to repair for 16 hours, and then subcultured<br>at low density. After 10-18 hours of incubation, cells were arrested in mitosis by adding colcemid to a final<br>concentration of 0.1 ug/ml in the culture media and then cells were incubated for an additional six hours.<br><br>Approximately 30 minutes before collection, 50 nM of calyculin were added to the culture media to condense the<br>chromosomes in the G2 phase of the cell cycle.<br><br>Whole blood was collected from healthy volunteers and irradiated with accelerated heavy ions. Immediately after<br>exposure, whole blood cultures containing RPMI 1640 media supplemented with 20% calf serum, and 1% were<br>incubated at 37 degrees Celsius.<br><br>Chromosomes were analyzed using the 3-color whole-chromosome fluorescence in situ hybridization (FISH)<br>technique during the first cell division after irradiation, and chromosome aberrations will be identified as either<br>simple exchanges (translocations and dicentrics) or complex exchanges (involving at least two chromosomes and<br>at least three double strand breaks).<br><br>RESULTS:<br>Chromosome analysis of 150 samples (human fibroblasts, epithelial cells and lymphocytes) collected during the<br>first three years were completed. Chromosome samples collected from mouse bone marrow 16 months after<br>exposure to single or mixed beams were analyzed. Both 4 beam mix and 6 beam mixed exposure shows less than<br>additive effects in chromosome aberration frequency both in human fibroblasts and blood lymphocytes. In<br>addition, 4 beam mix and 6 beam mix showed similar frequency of chromosome aberrations.<br><br>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX16AR97G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hada, Megumi</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Cells, human, Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/y5kx-6305</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing. Available datasets are accessible via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d411d34b-3bf4-5479-b297-c02e5c67173c?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d411d34b-3bf4-5479-b297-c02e5c67173c?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

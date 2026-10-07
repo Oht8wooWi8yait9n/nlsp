@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Radiation and Gliomagenesis: A Sensitive Model System to Evaluate the Tumorigenic Potential of HZE Particles - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/0daef6b9-1a5b-56d8-9eef-1273d4f5062b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX10AE08G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Radiation and Gliomagenesis: A Sensitive Model System to Evaluate the Tumorigenic Potential of HZE Particles</h1>
+        <div class="meta-id">Record ID: NNX10AE08G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/0daef6b9-1a5b-56d8-9eef-1273d4f5062b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+There is a paucity of systematic studies carried out with well-defined model systems to evaluate the tumorigenic potential of HZE particles that are presumed to pose a significant cancer risk to astronauts. The investigators have shown that these particles induce DNA double-strand breaks (DSBs) that are repaired slowly and incompletely and trigger persistent DNA damage signaling events. In order to evaluate the carcinogenic consequences of such unrepaired DNA lesions, they utilized genetically engineered astrocytes and neural stem cells (NSCs) as well as transgenic mouse models representing progressive steps in the development of Glioblastoma Multiforme (GBM). These lethal brain tumors are the third leading cause of cancer-related death among adults aged 30 to 50 years that are known to be induced by ionizing radiation. The past years have seen unprecedented advances in the genomic analyses of adult GBM tumors by the Cancer Genome Atlas Network, which reveal that these tumors have radically altered genomes with five key genetic changes dominating: loss of Ink4a, Arf, p53, or PTEN and amplification of estimated glomerular filtration rate (EGFR) (especially the constitutively active EGFRvIII). The investigators developed astrocyte and NSC lines as well as mouse models with targeted deletions of these genes in logical combinations representing the progression of primary or secondary GBMs. This genetic progression model, though reductionist in approach, provides a realistic framework for evaluating and understanding how known genetic mutations may cooperate with charged particle radiation and contribute to the initiation and progression of high-grade gliomas. The investigators hypothesized that poorly repaired DNA damage produced by charged particles will result in malignant progression towards brain cancer, and that this progression can be accelerated by predisposing oncogenic activations/tumor suppressor losses. More importantly, these "pre-initiated" murine astrocytes/NSCs will allowed investigators to rapidly quantify the transforming potential of charged particles relative to gamma rays both in vitro and in vivo.  
+<p>
+This study had the following specific aims:<ol>
+<li>Evaluation of DNA damage responses to charged particles in neural stem cells (NSCs) and astrocytes in vitro and in vivo.
+<li>Evaluation of the tumorigenic potential of charged particles relative to gamma rays in vitro and in vivo.
+<li>Identification of the genetic and gene expression changes underlying particle-induced tumorigenesis.</ol>
+<p>
+APPROACH:<br>
+This study consisted of two components: 1) An ‘in vitro’ component where primary murine astrocytes and NSCs with glioma relevant genetic alterations are assayed for transformation after particle radiation; and 2) For the ‘in vivo’ component, investigators used genetically engineered mice in which deletions of the most critical, glioma-relevant tumor suppressor genes (Ink4a, Ink4b, Arf, p53, and/or PTEN) can be targeted to the mouse brain. The Ink/Arf and p53 deletions are generally mutually exclusive in GBM, hence two distinct cohorts of mice were used. These models, in a reductionist manner, represent progressive steps in gliomagenesis, and based on published in vitro work, investigators hypothesized that they may have heightened sensitivity to transformation by particle radiation. Furthermore, investigators compared brain tumor development in these models after irradiation with 1Gy or 0.5Gy of 600 MeV/n Fe ions, in comparison with 1Gy or 4 Gy of x-rays. 
+<p>
+RESULTS:<br>
+The investigators discovered that Fe ions are more tumorigenic than gamma rays and that loss of the Ink4a/4b/Arf tumor suppressor locus is a critical event in HZE-induced transformation. Brain tumor incidence observed at nine months with loss of Ink4a and Arf alone was low after exposure to X-rays (4Gy) or Fe ions (1Gy). Importantly, the incidence of brain tumors increased significantly with additional loss of Ink4b, corroborating in vitro studies which showed that Ink4b is an important barrier to radiation-induced transformation. The tumor incidence was the same (25%) with 1Gy of Fe ions and a 4-fold higher dose of X-rays, suggesting a RBE of 4 for transformation by Fe ions. Genomic analyses indicate that MET amplification is a critical event in HZE-induced gliomagenesis in this model and that MET signaling supports a GBM cancer stem cell phenotype. Similar tumor incidence (~30%) was observed in the second mouse cohort which carries heterozygous deletions of the p53 and Pten genes. Deletion of a single allele of either gene, in combination with 0.5 Gy of 600 MeV/n Fe ions, is sufficient to trigger gliomagenesis with low frequency. Heterozygous deletions of both p53 and Pten (p53+/-;Pten+/-) increase the frequency of tumor formation to 30 percent.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX10AE08G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Burma, Sandeep</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Cells</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/sa3a-3941</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2009 Space Radiobiology NNJ09ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/0daef6b9-1a5b-56d8-9eef-1273d4f5062b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/0daef6b9-1a5b-56d8-9eef-1273d4f5062b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

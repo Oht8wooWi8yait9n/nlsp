@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latent Viral Shedding in Small Isolated Groups - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/cd06f3a8-5903-594f-8288-9617d54a6131?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NEEMO-E049</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Latent Viral Shedding in Small Isolated Groups</h1>
+        <div class="meta-id">Record ID: NEEMO-E049</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/cd06f3a8-5903-594f-8288-9617d54a6131?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Long-duration space missions require that astronauts live and work together in extremely isolated conditions, apart from family and friends. Data from previous studies in the Antarctic suggest that many of the psychological difficulties experienced in the isolated environment of winter-over stations and traverses are due to interpersonal tensions and conflicts, and separation from the home environment. Other studies have shown that psychological stress and the availability of social support may play a role in maintaining immune function. Virtually all adults carry latent viruses as a result of previous viral infections. When the immune system is not functioning optimally, it allows these latent viruses to become active, which results in viral shedding (the viruses appear in various body fluids, like blood, urine and saliva). This situation is quite common and does not mean that the affected individual is sick or unhealthy. Two of the most common viruses studied are Epstein-Barr and herpesvirus, because almost all adults have been exposed to them in their early years. This study seeks to better understand the relationships among psychological stress, social support, and shedding of Epstein-Barr and herpesvirus in extreme environments.
+<P>
+The purpose of this research was to examine the moderating effects of social support on the relationship between stress and viral reactivation in space analog environments.
+<P>
+APPROACH:<br>
+Saliva samples were collected every day during a 14-day period 3-4 months prior to the NEEMO 5 mission. Blood and urine samples were also collected on the first day of that period. 
+<P>
+During the mission, saliva samples were collected daily by each crewmember.  Blood and urine samples were to be collected on Mission Day 7 and stored at -20 degrees C.   Urine and saliva samples were evaluated for the quantities of stress hormones, cytokines, Epstein-Barr and herpesviruses present.
+<P>
+Perceived Stress Scale (PSS) and Positive Affect Negative Affect Scale (PANAS) questionnaires were also filled out as a part of this study.  The PSS consisted of questions regarding the subject’s feelings and thoughts during the 24 hours prior to filling out the questionnaire.  In each case, the subject was asked to indicate how often he/she felt or thought a certain way (0=never; 1=almost never; 2=sometimes; 3=fairly often; 4=very often).
+<P>
+The Positive Affect and Negative Affect Scale (PANAS) consisted of a number of words that described different feelings and emotions.  Each item was scored 1 to 5 indicating to what extent the subject felt the item during the 24 hours prior to filling out the questionnaire (1 = very slightly or not all; 2 = a little; 3 = moderately; 4 = quite a bit; 5 = extremely).
+<P>
+Post-mission saliva samples were collected on days 1 through 14 after return. Blood and urine samples were collected on the day of return, about 30 days thereafter, and during the annual medical exam. 
+<P>
+During each phase of the experiment (pre, during, and post), three additional saliva samples were collected from each subject [on any 3 days during the period]. The three samples were collected at 45 min after, 4 hours after, and 8 hours after wake up.
+<P>
+RESULTS:<br>
+Data collected before, during, and after the NEEMO 5 diving mission suggested that reactivation of the herpes viruses, such as Epstein-Barr virus (EBV), cytomegalovirus (CMV), and Varicella Zoster (VZV), occurred during all three phases of the dive.  The frequency of EBV shedding in saliva was greater before the study (39%) than during (32%) and after (22%).  However, the number of copies of EBV DNA was about two-fold greater during the dive than before and after.
+<P>
+The titer of antibody to EBV viral capsid antigen (VCA) was significantly greater on day seven during the dive than it was before and after the dive.  Measurements of EBV DNA in saliva indicated that EBV was being shed intermittently, similar to control subjects.
+<P>
+Evidence of mild VZV reactivation was found during the NEEMO 5 mission, as shown by the amount of viral DNA and the titer of antibody to the virus. In the saliva samples collected before the mission, no VZV DNA was found by real-time PCR with Taqman 7700 (no samples positive out of 98 samples collected). However, evidence of mild reactivation (< 20 copies/ml) of VZV was found during the 14-day mission (12 samples positive out of 72 samples collected) and after (11 samples positive for VZV out of 70 samples collected). A modest reactivation of CMV was noticed in the urine samples collected during the study.  Viral reactivation occurred but was less pronounced than that observed during space flight.
+<P>
+<U>Behavioral Assessment</U><BR>
+PSS and PANAS scores of the NEEMO crew were measured before, during, and after the NEEMO 5 mission. Perceived stress and negative affect were lower during the mission than before it, but positive affect increased significantly during the mission (p < 0.001). These results indicate that we can assess affective changes during training for a mission. We see no problem with collecting this information during space flight. Stress (anticipation) may have occurred before the NEEMO study began, and perceived stress decreased after it began.
+<P>
+<U>Cortisol Assessment </U><BR>
+Salivary cortisol (CORT) concentration was determined using a commercial high-sensitivity enzyme immunoassay (EIA) kit (Salimetrics) that detects CORT levels in the range of 0.007 - 1.8 mg/dl. The change from usual waking time to 30-45 min later has frequently been associated with the magnitude of distress an individual is experiencing. Salivary CORT was significantly (p < 0.01) higher after the mission than  
+before. Also, the time of the peak salivary CORT concentration shifted during the study, suggesting that some level of anxiety was present during the mission. Increased levels of CORT may have resulted in a Th1-to-Th2 shift in immunity; this is supported by the finding by others in other stress models that the number of B lymphocytes increased.  Overall, these data are similar to results from short-term space flights. 
+<P>
+<i>Conclusions</i><BR>
+The Aquarius habitat served as a very useful ground-based analog for space flight.  Viral reactivation patterns were similar to space flight and other ground analogs (e.g., Antarctic isolation). Asymptomatic herpes virus reactivation occurred in the crew during NEEMO-5 mission as shown by viral DNA and viral antibody titers.  Two-fold increase in EBV copies per ml of saliva was found during the 14-day NEEMO mission as compared to before and after. No reactivation of VZV was found in the saliva samples collected before the mission. However, evidence of mild reactivation (very low copy numbers) of VZV was found during and after the 14-day mission.
+<P>
+PSS scores showed a decreasing trend during the mission as compared to before the mission, whereas PANAS showed a significant increase during the mission. These results suggest that stress (anticipation) may have occurred prior to the study, and that perceived stress decreased after the beginning of the study. There was a shift in the peak of salivary cortisol during the study suggesting some level of anxiety during the mission.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NEEMO-E049</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Wood, Joanna</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors, Immunology, Microbiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NEEMO 4&#x27;], [&#x27;NEEMO 5&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/avgd-pe59</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/cd06f3a8-5903-594f-8288-9617d54a6131?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/cd06f3a8-5903-594f-8288-9617d54a6131?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

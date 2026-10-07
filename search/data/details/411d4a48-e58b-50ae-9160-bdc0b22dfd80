@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microgravity Plant Nutrient Experiment - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/411d4a48-e58b-50ae-9160-bdc0b22dfd80?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>HVT9801</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Microgravity Plant Nutrient Experiment</h1>
+        <div class="meta-id">Record ID: HVT9801</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/411d4a48-e58b-50ae-9160-bdc0b22dfd80?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <p>OBJECTIVES:<p>
+Among the investigations that have grown plants in space, none have claimed to have
+achieved optimal conditions for plant growth. It is believed the most crucial components
+holding back major advancements in this research are providing adequate levels of water
+and oxygen to the root zone. Previous studies utilizing other hardware designs have found
+that the surface tension of water under microgravity conditions has often been found to
+lead to either severe water-logging or excessive drying in the root zone. Consequently,
+differences in plant growth responses between space flight experiments and their ground
+controls occur based merely upon differences in moisture distribution patterns between the
+two conditions. Until a better means of controlling these critical aspects of plant
+culture are developed, results of all investigations will be called into question. The
+Microgravity Plant Nutrient Experiment (MPNE) hardware was designed to address these
+concerns.<br>
+<br>
+The primary objective of this test was to demonstrate the potential use of porous tubes to
+provide water and essential minerals to higher plants grown in microgravity. This was
+accomplished by: (1) assessing whether the Water Availability Sensors and Water Delivery
+System could work in concert to maintain a predetermined volume of nutrient solution at
+the root zone, (2) collecting and archiving system performance data from various sensors
+for post-flight analysis of system operation, and (3) automatically imbibing and
+germinating seeds on-orbit.<p>APPROACH:<p>
+A Hardware Verification Test (HVT) of MPNE was conducted on STS-89 in the Space Shuttles
+Middeck. As a biological indicator of hardware performance, wheat (Triticum aestivum cv
+Yecora rojo) seeds were flown. The seeds were loaded dry three days prior to Orbiter
+lift-off. Environmental conditions were set to 80-100% relative humidity and 15-35 degrees
+C. The system was initiated by the crew after three days on-orbit.<p>RESULTS:<p>
+Several hours after the system was initiated a failure of the Water Availability Sensor
+(WAS) resulted in the inability of the fluid circuit to adequately manage the plant
+nutrient solution for the plant tubes. MPNE requires that the delivery of water to roots
+grown in microgravity be done in a precisely controlled fashion. This involves the
+non-invasive detection and monitoring of a thin-film of the nutrient solution on the
+surface of the porous tubes by the WAS and the subsequent active control of this
+"wetness level" via a "fuzzy-logic" feedback system. When the WAS
+failed to perform this function early in the mission, the system switched to the back-up
+operational mode where the calculated reservoir volume was divided into time specific
+delivery volumes required to last for the missions duration, and these amounts (ca
+65 microliters) were delivered once a minute. Ground tests have shown that when this
+back-up mode was implemented (even at the start of an experiment), plant germination and
+subsequent growth proceeds nominally. However, during the MPNE space flight test, without
+gravity pulling downward on any excess nutrient solution being provided to the tubes, the
+seed cylinders became flooded at the time of system initiation and consequently
+germination failed to proceed. Hence, our water delivery rate in the fixed-feed mode was
+incorrect for the pattern of water distribution as it occurred in microgravity. Despite
+most of the MPNE subsystems functioning nominally, the failure of the WAS (although
+followed by a successful automatic switch to the back-up, fixed-feed, mode of operation)
+coupled with this excessive water delivery characteristic (in microgravity) of the back-up
+control method, resulted in the flooding of the seeds. <br>
+<br>
+</p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>HVT9801</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Plant biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-89&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Wheat (Triticum aestivum) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/872y-rs67</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/411d4a48-e58b-50ae-9160-bdc0b22dfd80?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/411d4a48-e58b-50ae-9160-bdc0b22dfd80?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

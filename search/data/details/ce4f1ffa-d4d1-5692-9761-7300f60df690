@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulated Microgravity-Induced Systemic Inflammation and Its Impact on Circulatory Function and Structure (Postdoctoral Fellowship) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ce4f1ffa-d4d1-5692-9761-7300f60df690?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC19K0426</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Simulated Microgravity-Induced Systemic Inflammation and Its Impact on Circulatory Function and Structure (Postdoctoral Fellowship)</h1>
+        <div class="meta-id">Record ID: 80NSSC19K0426</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ce4f1ffa-d4d1-5692-9761-7300f60df690?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Long-term exposure to the weightless environment causes astronauts to become sick and develop issues like constipation, skin rashes, and increased likelihood of developing a cold. This microgravity environment also induces a redistribution of bodily fluids towards the head. This fluid redistribution causes their heart and circulatory system (i.e., the arteries, veins, and lymphatic vessels that transport blood and lymph throughout the body) to work differently. No one has explored whether the increased likelihood of astronauts developing colds/being sick is linked to changes in how the cardiovascular system functions in spaceflight. This is a concern, as how the immune system (which is responsible for making sure your body stays healthy) functions is linked to how well components of the immune system can travel throughout the body through the circulation. Therefore, our general hypothesis is that an inability for components of the immune system to circulate normally causes the increased likelihood of astronauts becoming sick, as well as also playing a role with how the circulatory system adapts to a weightless environment due to the consequences of impaired immunity. We will test this hypothesis in the gold-standard rodent model for simulating microgravity effects on Earth, the hindlimb-unloading (HU) model. Using HU, we will test long-term simulated microgravity effects on the digestive and hindlimb systems of the rodents for their changes in immune factors and circulatory system responses. This will be done utilizing techniques that can measure a broad-spectrum of immune factors in the tissues from the digestive system and hindlimb, to identify the most relevant target(s) that could influence altered immune response and changes in circulatory function. Furthermore, we will test the function of the arteries, veins, and lymphatics in the digestive and hindlimb systems to compare responses between the two organ beds in response to long-term simulated microgravity. Finally, we have discovered a novel therapeutic, anti-inflammatory agent, irisin, that we have shown in other rodent models of impaired immunity to resolve and beneficially improve outcomes of digestive and hindlimb structure, function, and immune state. We will use irisin as a countermeasure in our simulated microgravity studies to treat the predicted immune-driven circulatory changes in the digestive and hindlimb systems, for our long-term goal of a treatment that can holistically treat astronauts and disease conditions on Earth. These studies investigate novel and unexplored mechanisms, biological responses, and treatments in relation to NASA Space Biology's goals to understand the basic mechanisms that animals use to adapt/acclimate to spaceflight, and to contribute basic knowledge of biological adaptation/acclimation to spaceflight that may accelerate solutions to biomedical problems affecting human space exploration as well as human health on Earth. We will discover new knowledge addressing topics of interest including immunology, musculoskeletal changes, digestive system changes, vascular and lymphatic drainage, and adaptation of life to space. Indeed, through support of these research aims, we will discover new knowledge and therapies for the benefit of human space exploration and biomedical problems on Earth. 
+<p>
+Aim 1. To determine whether simulated microgravity alters GI immune cytokines comparably to that in the unloaded hindlimbs.
+<p>
+Aim 2. To determine whether simulated microgravity alters rodent GI and hindlimb artery, vein, and lymphatic structure and function comparably between organ beds.
+<p>
+Aim 3. To determine whether the immunomodulator, irisin, ameliorates GI inflammation caused by simulated microgravity and consequently attenuates or abolishes hindlimb unloading-induced vascular adaptations in the GI and hindlimbs.
+<p>
+APPROACH:<br>
+Aim 1 Approach:<br>
+We propose to do 8-week HU studies, utilizing 12-month old Sprague-Dawley rats. We will also address the requirement of “how physiological changes in one system affect those in others”, as we are characterizing GI immune changes in association with hindlimb.
+<p>
+Aim 2 Approach:<br>
+12-month old Sprague-Dawley rats will be used to address the
+objectives outlined in Aim 2. This aim will test whether simulated microgravity in the GI and hindlimb modulates artery, venous, and lymphatic function via various pressure, flow, constrictor/dilator, and cytokine treatment responses. The cytokine treatments used for vessels
+will be determined based on tissue cytokine analysis from Aim 1.
+<p>
+Aim 3 Approach:<br>
+12-month old Sprague-Dawley rats will be used to address the objectives outlined in Aim 3. This aim will test whether irisin beneficially modulates HU induced inflammatory and vascular adaptations. We will perform the same tissue harvests and tests as aims 2 and 3.
+<p>
+RESULTS:<br>
+This experiment is currently in progress. Results will be available at the conclusion of the study.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC19K0426</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Narayan, Anand</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus) Sprague-Dawley</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/cd7h-jk43</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2016-17 Space Biology (ROSBio) NNH16ZTT001N-FG</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ce4f1ffa-d4d1-5692-9761-7300f60df690?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ce4f1ffa-d4d1-5692-9761-7300f60df690?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

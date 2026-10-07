@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Metabolic Assessment of Suited Mobility Using Functional Tasks - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a60f35fd-d9d8-53c6-ace2-54a48735e66c?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Suited_Mobility</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Metabolic Assessment of Suited Mobility Using Functional Tasks</h1>
+        <div class="meta-id">Record ID: Suited_Mobility</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a60f35fd-d9d8-53c6-ace2-54a48735e66c?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Existing methods for evaluating extravehicular activity (EVA) suit mobility and verifying requirements have typically relied on measurement techniques such as motion capture and joint torque measurements looking at several isolated joint range of motions. These methods are straightforward and can be clearly defined, but they have little to do with how well a crewmember can actually perform in an EVA suit. EVA tasks often rely on the movement of several joints concurrently to complete the task. This study evaluated alternate methods of evaluating suited mobility through measurement of metabolic rate and time to completion of functional tasks. 
+<p>
+This study had the following specific aims:<ol>
+<li>Determine the feasibility of assessing suited mobility requirements using functional tasks.
+<li>Determine a task battery and effective execution methods of the selected tasks.
+<li>Determine the metabolic variability in repeated measures for the same task in the same suit by the same subject.
+<li>Determine the metabolic variability for the same task in the same suit by different subjects.</ol>
+<p>
+APPROACH:<br>
+Traditional joint torque and isolated joint range of motion measurements may be quantifiable and measurable, but they do not provide information that describes how the EVA suit as a whole allows the crewmember to function. Investigators proposed that by focusing on crewmember physiological performance of functional tasks, they can define metrics that verify that a suit is meeting suit mobility requirements. 
+<p>
+Six male subjects completed two-three trials of five functional tasks (walk, side step, stair climb, and upper body and full body object relocations) in each of three different space suits including two prototype planetary EVA suits, the Mark III (64 kg) and Rear Entry I-suit (REI, 43 kg), and a modified intravehicular activity suit (Demonstrator, 27 kg) with enhanced mobility for contingency EVA. All tasks were performed in 1g. Rate of carbon dioxide (CO2) production was determined by measuring suit inlet flow and outlet CO2 concentration. Respiratory exchange rate was assumed to be 0.85 for the conversion to kilocalorie (kcal). Mixed-effects regression methods were used to compare metabolic cost across the three different space suits, incorporating random intercept terms to accommodate the within-subjects experimental design, and random variance terms to accommodate the observed heterogeneity of variance among the three suits. Five separate models were evaluated; one per functional task. 
+<p>
+RESULTS:<br>
+The metabolic cost (MC) of all functional tasks was significantly higher in the Demonstrator suit, averaging 33-62% more depending on task. The Mark III and REI suits elicited similar MC, except in response to the side step and stair climb tasks. In these tasks, MC was significantly lower in the REI relative to the Mark III.  Although the Demonstrator is the lightest space suit evaluated here, it required the highest MC to complete functional tasks, suggesting poor relative functional mobility. Differences between the Mark III and REI were evident on tasks that required vertical travel, with REI suit having lower MC for side step and stair climb. When normalizing MC results to system mass (subject + suit), then MC per kg favors the Mark III; therefore, these small differences in MC at 1g may not be as evident on the moon or Mars. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Suited_Mobility</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Norcross, Jason</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Extravehicular Activity (EVA), Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0nbt-4d44</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013 HERO NNJ13ZSA002N-Crew Health OMNIBUS</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a60f35fd-d9d8-53c6-ace2-54a48735e66c?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a60f35fd-d9d8-53c6-ace2-54a48735e66c?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

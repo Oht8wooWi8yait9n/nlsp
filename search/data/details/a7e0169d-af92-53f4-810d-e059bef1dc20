@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Changes in Mouse Thymus and Spleen after Return from the STS-135 Mission in Space - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a7e0169d-af92-53f4-810d-e059bef1dc20?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARC00XX95</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Changes in Mouse Thymus and Spleen after Return from the STS-135 Mission in Space</h1>
+        <div class="meta-id">Record ID: ARC00XX95</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a7e0169d-af92-53f4-810d-e059bef1dc20?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVE:<br>
+Our published findings on the thymus and immune data from FLT mice (STS-108 and STS-118), as well as from mice exposed to simulated SPE protons, support our hypothesis that spaceflight conditions increase the risk for cancer by up-regulating genes associated with cancer development and dysregulation of T cell maturation.
+<p>
+Specific Aim1. Determine expression level of proteins derived from significantly modulated cancer genes.<br>
+Specific Aim2. Determine the functional status of genes and protein levels associated with T cell subset (Th1, Th2, Th3) development and signaling pathways.
+The data are needed to determine whether the genetic changes previously found in the thymus from FLT mice (STS-118) correlate with the levels of the encoded proteins. In addition, dysregulation of T cell subset maturation in the thymus would have a negative impact on
+functions and interactions of the cells after their transit to other body sites, thus compromising capacity to destroy malignant or potentially malignant cells throughout the body.
+<p>
+APPROACH:<br>
+Organs were further evaluated in C57BL/6 mice after Space Shuttle Atlantis returned from a 13-day mission. Thymuses and spleens were harvested from flight (FLT) mice and ground controls housed in similar animal enclosure modules (AEM). Organ and body mass, DNA fragmentation and expression of genes related to T cells and cancer were determined. 
+<p>
+RESULTS:<br>
+Although significance was not obtained for thymus mass, DNA fragmentation was greater in the FLT group (P<0.01). Spleen mass alone and relative to body mass was significantly decreased in FLT mice (P<0.05). In FLT thymuses, 6/84 T cell-related genes were affected versus the AEM control group; 15/84 cancer-related genes had altered expression. In the spleen, 8/84 cancer-related genes were affected in FLT mice compared to AEM controls. Pathway analysis (apoptosis signaling and checkpoint regulation) was used to map relationships among the cancer-related genes. The results showed that a relatively short mission in space had a significant impact on both organs. The findings also indicate that immune system aberrations due to stressors associated with space travel should be included when estimating risk for pathologies such as cancer and infection and in designing appropriate countermeasures.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARC00XX95</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Gridley, Daila</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;PMA&#x27;], [&#x27;STS-135&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus) C57BL/6J</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/9yka-0m25</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Unsolicited</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a7e0169d-af92-53f4-810d-e059bef1dc20?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a7e0169d-af92-53f4-810d-e059bef1dc20?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

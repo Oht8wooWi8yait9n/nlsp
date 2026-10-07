@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stability and Precision of Human Performance During a Spaceflight Mission - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/4090c3ea-fb89-5798-a2f7-9b13958451e3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>8913010</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Stability and Precision of Human Performance During a Spaceflight Mission</h1>
+        <div class="meta-id">Record ID: 8913010</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/4090c3ea-fb89-5798-a2f7-9b13958451e3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The success of long-term space flights with humans depends in part on harmonious individual and group behavior.  The development of a technology that can effectively predict and provide behavioral support for individuals during prolonged exposure to confined environments is of primary importance.  Performance studies of small groups over the past two decades have demonstrated that the consequence of any single individual's behavior is a critical determinant of both individual and group behavior under conditions of prolonged social and cultural isolation.<P>
+
+Computerized procedures have been developed during ground-based studies for engendering and maintaining stable measures of complex human behaviors, including cognitive and psychomotor performances.  In studies involving continuous performance monitoring, human participants were able to work productively and energetically over extended time intervals.  The stability and sensitivity of the measures generated made it possible to assess both decrements and enhancements of performances affected by such things as sleep deprivation, medications, and other stressful conditions.  The sensitivity and utility of these computerized tests allowed crewmember performance to be evaluated during space flight.<P>
+
+APPROACH:<br>
+Four subjects participated in this study.  A computerized task battery was administered preflight, inflight and postflight.  The task battery required approximately 20 minutes to complete and consisted of the following components:<P> 
+<OL>
+<LI>A 72 item research version of the Profile of Mood States (POMS) questionnaire requiring a 1 (not at all) to 5 (extremely) keypad rating of adjectives associated with eight empirically derived mood scales.</LI>
+	
+<LI>An 11 item Visual Analogue Scale (VAS) requiring the use of a computer tracking ball to move an indicator to a location on a line between the labels titled "not at all" (on the left) and "extremely" (on the right).  The action was in response to words on the computer display screen representing the subject's feeling at the time of presentation.</LI>
+	
+<LI>A Time Estimation Task (timing measure) requiring that repeated presses on the keypad be spaced by a fixed time interval.  The action would advance a point counter and increase the monitoring gauge on the computer display screen.</LI>
+	
+<LI>A Repeated Acquisition Task  (learning measure) requiring that the subjects learn to press four designated keys on the keypad to complete a sequence of 10 responses.  Feedback for correct and incorrect responses was provided on the computer display screen.  A new order for pressing the four designated keys was learned each time the task was presented.</LI>
+	
+<LI>A Number Recognition Task  (measure of short-term memory performance) requiring the subject to hold down two keys simultaneously on the key pad, one of which was designated a "yes" key and the other a "no" key.  An array of numbers presented on the computer display screen disappeared after a brief exposure and a single test number appeared.  If the test number was presented in the previous array, the finger was lifted from the "yes" key and if not, the "no" key finger was lifted.</LI>
+	
+<LI>A Digit Symbol Substitution Task  (psychomotor performance measure) requiring presses on a 9 digit keypad corresponding to the location of filled squares in signaled boxes in 3x3 patterns of boxes that appeared on the computer display screen.  The location of the filled squares and the 3x3 signaled boxes on the computer display screen were changed frequently to prevent memorization of the patterns.</LI>
+
+<LI>daily log was also completed during each phase of the study, which provided information on sleep, diet, exercise and medication usage.  In addition, debriefing reports were obtained during postflight interviews conducted with each individual.</LI>
+</OL>
+<P>
+Performances during the computerized task battery were recorded on separate individualized computer diskettes.  The time and duration of each data collection session were recorded along with rating scale responses and the number of correct and incorrect responses to each of the programmed tasks.  The number of data collection sessions during each phase of the study varied between subjects.  Each subject had 6 or more training sessions followed by 5 or more preflight baseline sessions, 5 or more inflight sessions, and 6 or more postflight sessions.<P>
+
+RESULTS:<br>
+All four subjects learned the computerized task battery without difficulty and maintained stable levels of performance during preflight baseline data collection.  Results obtained with the self-report mood (POMS) and feelings (VAS) scales reliably reflected changes in selected items during each study phase.  For example, on measures of  fatigue from both the POMS and the VAS,  increased ratings obtained inflight (relative to preflight baselines) were significantly decreased postflight.  POMS and VAS data obtained from individual subjects also showed consistency in the relationship between scale items, reflecting progressive changes inflight.<P> 
+
+Timing performances for all four subjects, as measured by the Time Estimation Task, remained stable and accurate throughout the study with no evident perturbations during any phase of the investigation.  Learning performances as measured by the Repeated Acquisition Task were also found to hold up well throughout the study with no identifiable changes.  Within each data collection session, all four subjects rapidly learned the correct 10-response sequence.   There was evidence of increased efficiency of the learning performance across preflight, inflight, and postflight phases of the study. Across sessions, the efficiency with which these sequences were learned remained stable in the absence of any conditions that affected learning ability.<P>
+
+Results obtained with the Number Recognition Task were consistent with the outcome of preliminary studies showing differences in information processing response times, specifically the times associated with determining whether the matching stimulus number was a "yes" or  "no" response and whether the number of digits in the sample display was large (4 to 6) or small (1 to 3).  In addition, evident increases in the response times were recorded inflight.  A significant three-way interaction between the yes/no response times, the number of digits in the sample display array and the phase of the study was also recorded.  A selective and significant (p<0.01) increase in "no" trials reaction times existed with sample display arrays of 4-6 digits inflight compared to the performances preflight and postflight.<P> 
+
+Psychomotor performances as measured by the Digit Symbol Substitution Task showed selective inflight changes.  While the performance rate increased modestly during the preflight and postflight testing phases, significant decreases in performance rates were observed inflight.<P>
+
+Preliminary examination of daily log sheets and debriefing reports has been undertaken to identify factors of potential relevance to the outcome of the study.<P>
+
+The results of this study show clearly that the stability and precision of human performance during spaceflight can be reliably and sensitively assessed with a computerized battery of cognitive and psychomotor tasks requiring only minimal training.  Although the research findings identified significant changes in the performances of subjects inflight, no mission-impairing decrements were apparent.  However, the nature of the changes during the inflight phase of the study do suggest that some elements of performance are sensitive to microgravity environments.  Additional research is needed to further delineate the nature of these effects, and to assess the potential value of such measures as an index of other mission-critical dimensions of behavior over more extended space flight intervals.<P>
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>8913010</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Brady, Joseph</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance, Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-89&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/7r17-j392</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>89-13 OSSA IML-2</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/4090c3ea-fb89-5798-a2f7-9b13958451e3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/4090c3ea-fb89-5798-a2f7-9b13958451e3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minimally Invasive Diagnosis and Therapy of Microgravity Medical Contingencies - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/7eebfabb-3338-5cd3-b054-160ecbd63a89?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958SMS00301</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Minimally Invasive Diagnosis and Therapy of Microgravity Medical Contingencies</h1>
+        <div class="meta-id">Record ID: NCC958SMS00301</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/7eebfabb-3338-5cd3-b054-160ecbd63a89?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The diagnosis and management of acute health problems in space is problematic due to limited training of the Crew Medical Officer (CMO), human and environmental factors, and a lack of reference of the changes in anatomy, disease presentation, and therapy in micro-gravity. There is no planned radiological capability aboard the International Space Station (ISS) further complicating medical diagnosis in space. 
+<p>
+Recent terrestrial investigations suggest expanded clinical applications of ultrasound and laparoscopy with miniature instrumentation which have applicability for aerospace medicine. This proposal will initially determine the diagnostic utility of ultrasound and/or micro-laparoscopy in select health contingencies with high potential mission impact. These diagnostic modalities will then be used to facilitate minimally invasive, definitive surgical therapy of selected contingencies in animal models in ground based and simulated micro-gravity scenarios. Optimal just-in-time training regimens and computer based refresher modules for non-physician CMOs to accomplish these tasks will be developed. 
+<p>
+The unique constraints imposed by training and equipment limitations and the space environment requires the development of novel diagnostic and therapeutic strategies for crewmember health problems including the expansion of ultrasound and mini-laparoscopy. Thoracic ultrasound, initially investigated by NASA as an alternative diagnostic modality for pneumothorax, has proven accuracy in terrestrial and micro-gravity applications and will have wide spread impact in acute care on Earth in the future. Although some of the techniques investigated in this proposal are appropriate only for a micro-gravity environment, the majority of the diagnostic and therapeutic algorithms are readily transferable to terrestrial medicine including rural and military applications. The expanded use of the diagnostic and training modalities described in this proposal, if verified, would provide a significant, clinically relevant advance in space medical capabilities with profound Earth-based ramifications.
+<p>
+APPROACH:<br>
+High school students (N = 10) and NASA astronauts (N = 4) completed a brief ultrasound training session which focused on basic ultrasound principles and the detection of foreign bodies. The operators used portable ultrasound devices to detect foreign objects of varying location, size (0.5-2 mm), and material (glass, plastic, metal) in a gelatinous ocular model. Operator findings were compared to known foreign object parameters and ultrasound experts (N = 2) to determine accuracy across and between groups.
+<p>
+RESULTS:<br>
+Investigators have completed pre-flight training and in-flight experiments on the ISS increment 10 and 11 crews and have completed post flight data acquisition on 11 after landing. They have done numerous outreach activities with high school students and astronauts.  They worked with the Detroit Tigers, Detroit Red Wings, Detroit Lions, and United States Olympic Committee to modify their NSBRI developed training methodologies for use in these sporting arenas. They have completed preliminary ground investigations for microgravity flights on the new NASA research facility, and have completed a C9 flight comparing ultrasound with microlaparoscopy and have completed another set of experiments to evaluate cardiovascular ultrasound with or without the Russian Bracelet Device. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958SMS00301</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Dulchavsky, Scott</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/fhsd-4779</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>01-OBPR-07</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/7eebfabb-3338-5cd3-b054-160ecbd63a89?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/7eebfabb-3338-5cd3-b054-160ecbd63a89?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

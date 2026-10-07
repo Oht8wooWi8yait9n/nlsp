@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Integrated Measurement of Cardiovascular Effects of  Space Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e854bd06-0ace-5abf-8cec-d3ec10d48d7b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 631</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Integrated Measurement of Cardiovascular Effects of  Space Flight</h1>
+        <div class="meta-id">Record ID: DSO 631</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e854bd06-0ace-5abf-8cec-d3ec10d48d7b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Launch, orbital insertion, re-entry, landing, and egress are the portions of a Shuttle mission when the cardiovascular system is perhaps under the most stress. Documenting the cardiovascular responses during these mission phases, enabled investigators, flight surgeons, and the crewmembers themselves to understand the physiological responses, and provided a basis for developing ways to protect crewmembers’ health from launch to egress.
+<p>
+The first objective of this experiment was to assess the stroke volume changes during early exposure to microgravity. The second objective was to assess the flow redistribution through the body during the acceleration phases of launch and to quantify the peripheral vasomotor response during the launch and entry into microgravity phase. The third objective was to evaluate arterial tone (vascular resistance) after several days in microgravity, which was achieved by taking a resting measurement prior to de-orbit burn. The fourth objective was to study the peripheral response (cerebral and femoral) of the fluid shifts toward the legs during re-entry. The last objective was to study the peripheral response (cerebral and femoral) of the fluid shift toward the legs during the orbiter stand test.
+<p>
+APPROACH:<br>
+<i>Preflight:</i><br>
+The first training session was a demonstration by the investigators as a refresher for finding the Doppler signals on the femoral artery, carotid artery, cerebral artery, and aorta. All preflight training was conducted at the Johnson Space Center (JSC) in Houston, Texas. The next session was an integrated training session for the entire Integrated Cardiovascular Monitoring System (ICMS). Here the subject learned about the Entry Monitoring aspect of the ICMS and how it was integrated with the Doppler system. The following training session incorporated the Launch Entry Suit (LES) and the subject practiced donning the hardware and LES in preparation for entry.  The last training session was in the crew compartment trainer (CCT) where the crewmember practiced donning the LES as well as entry protocols. Two 2 hour baseline data collection (BDC) sessions with the ICMS hardware and an Integrated Tilt Test occurred at L-60 and L-30 in the Cardiovascular Laboratory.  An Integrated Tilt Test is an Operational Tilt Test with the addition of the French Doppler sensors worn during the test. An Integrated Tilt Test with ICMS hardware was also performed on one other crewmember that had a requirement to participate in a Tilt Test.
+<p>
+<i>In-flight:</i><br>
+Early on the last flight day, the subject donned the Entry Monitoring System and performed a functional checkout of the Entry Monitoring hardware. The Entry Monitoring hardware was then disconnected, except for the blood pressure cuff, Korotkoff sound microphone, and ECG leads. Approximately one hour before time of ignition (TIG), the crewmember donned the ICMS hardware, performed another functional test on the entire ICMS unit, and activated the ICMS hardware via the remote control. The crewmember then donned the LES or Advanced Crew Escape Suit (ACES) and prepared for landing. Throughout re-entry the crewmember stated into the microphone the activities that were taking place. Data collection continued throughout re-entry.
+<p>
+<i>Postflight:</i><br>
+Postflight data collection continued upon wheel stop. In the Orbiter, the crewmember activated the automatic blood pressure machine (ABPM) and collected three seated measurements and then three standing measurements. After exiting the Orbiter, the crewmember removed the LES/ACES, but left the hardware connected and activated for the Integrated Tilt Test taken at the data collection facility on R+0. An Integrated Tilt Test with lCMS hardware was performed on the pre/postflight only crewmember.  On R+3 the same tilt test was done using the ICMS hardware with both crewmembers.
+<p>
+RESULTS:<br>
+Results for this experiment are not available at this time.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 631</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Meck, Janice</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-93&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ww66-ky13</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e854bd06-0ace-5abf-8cec-d3ec10d48d7b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e854bd06-0ace-5abf-8cec-d3ec10d48d7b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

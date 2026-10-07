@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NASA Extreme Environment Mission Operations (NEEMO) - 14 Project: Advanced Extravehicular Activity (EVA) Exploration Activities Study to Assess Human Performance Responses in Partial Gravity Environments - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/f34e8138-cab8-5fc5-9a81-15c4ea7c0b8b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>EPSP_Tasks</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>NASA Extreme Environment Mission Operations (NEEMO) - 14 Project: Advanced Extravehicular Activity (EVA) Exploration Activities Study to Assess Human Performance Responses in Partial Gravity Environments</h1>
+        <div class="meta-id">Record ID: EPSP_Tasks</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/f34e8138-cab8-5fc5-9a81-15c4ea7c0b8b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The Space Exploration Vehicle (SEV) is regarded by the Exploration Systems Mission
+Directorate (ESMD) as an integral part of the current exploration architectures under consideration. The SEV offers numerous health and safety advantages that accrue from having a pressurized safe haven/radiation shelter in close proximity to the crew at all times during exploration operations. It also combines a comfortable shirtsleeve, sensor-augmented environment for gross translations and geological/mapping observations with the ability to rapidly place suited astronauts outside of the vehicle using suitports to take full advantage of the unique human talents of perception, judgment, and dexterity. Data from the Desert Research and Technology Studies (DRATS) 2008 field test demonstrated that this combination of features and capabilities increases the productivity of suited crew time by an average of 370% during exploration/mapping/geological operations using an SEV compared to suited crew time with an unpressurized rover.
+<p>
+The SEV concept is being developed through an aggressive process of designing, prototyping, and testing in close coordination with the development of other exploration systems including the extravehicular activity (EVA) suit. Different test objectives necessitate different test sites, and the objectives of the NASA Extreme Environment Mission Operations (NEEMO) 14 test required a simulated reduced-gravity environment. The ability to simulate microgravity and reduced gravity for extended durations during EVA tasks means that NEEMO missions represent a cost-effective opportunity to understand the operation and interaction of hardware and humans in these environments. The ultimate success of future exploration missions is dependent on the ability to perform EVA tasks efficiently and safely, whether those tasks represent a nominal mode of operation or a contingency capability; all systems must therefore be designed with EVA accessibility and operability as important considerations. During the 2-week NEEMO 14 mission, four crew members performed a series of EVA tasks under different simulated EVA-suit configurations and gravity levels and used full-scale mock-ups of an SEV and a cargo lander. Quantitative and qualitative data collected during NEEMO 14 will be used to directly inform ongoing hardware and operations concept development of the SEV, exploration EVA systems, and future EVA suits.
+<p>
+APPROACH:<br>
+Subjects were recruited from the active astronaut corps as well as through a space life sciences selection process. Through this selection, four male astronaut subjects, consisting of two active astronauts and two space life sciences investigators, participated in the mission. All subjects successfully passed a modified Air Force Class III Physical or equivalent examination.
+Each subject was provided verbal and written explanations of the testing protocols and the potential risks and hazards involved in the testing and signed NASA JSC Human Research documentation indicating his/her understanding and consent. All testing protocols were reviewed and approved by the NASA JSC CPHS, and appropriate test readiness reviews were conducted before testing began.
+<p>
+Crewmembers were briefed on the objectives and methods of the study before departure for the field test site, and participated in a comprehensive training program that included review and practice of the following: 1) Study hypotheses, 2) Metrics and data collection procedures, 3) Mission rules, 4) Task procedures, 5) CG rig familiarization, 6) Mock-up familiarization, 7) Aquarius familiarization, and 8) Communications protocols.  On deployment to the field test site, all crewmembers completed a brief refresher course before the start of the mission.
+<p>
+The SEV mock-up used in this study is based on the cabin 1B prototype that was developed as a collaborative effort among NASA Johnson Space Center (JSC), NASA Langley Research Center (LaRC), NASA Ames Research Center (ARC), and NASA Glenn Research Center (GRC). The SEV mock-up also incorporated the features necessary to achieve mission objectives. A full-scale mock-up of the
+SEV was constructed near the Aquarius habitat to achieve the rover-based test objectives. This SEV mock-up had side-hatches that were 101.6 cm (40 in.) wide and an adjustable height from 101.6 cm (40 in.) to 152.4 cm (60 in.). The aft bulkhead of the mockup featured suitport simulators. The height of the door thresholds, suitport thresholds, and aft deck accurately simulated the expected lowest possible heights based on prototypes. The SEV interior was minimally simulated by employing fold-up benches and side-hatch doors.
+<p>
+The next iteration of the SEV-rover development process was the conceptual design of a Generation II (Gen II) SEV rover, which began in early fiscal year (FY) 2010. The size of the SEV side-hatches was one of the most significant drivers for the cabin geometry; and a primary driver for the hatch dimensions is the ability to transfer an incapacitated EVA crewmember into the SEV. Data regarding the adequacy of a 101.6 cm wide by 101.6 cm high (40 in. wide by 40 in. high) side-hatch for transferring an incapacitated EVA crewmember into the SEV was used by the SEV team to finalize the SEV side-hatch dimensions.
+<p>
+EVA interfaces, task design, suit weight and suit center of gravity (CG), and hardware accessibility and operability were quantitatively and qualitatively evaluated in simulated reduced gravity during the following EVA tasks at NEEMO 14:<br>
+1. Unloading an SEV mock-up from the deck of a cargo-lander mock-up<br>
+2. Off-loading small payloads from the deck of a cargo-lander mock-up<br>
+3. Transferring small payloads from the surface onto the deck of a cargo-lander mock-up<br>
+4. Transferring an incapacitated crewmember from the surface onto the deck of a crew-lander
+mock-up<br>
+5. Transferring an incapacitated crewmember from the surface into an SEV-rover mock-up via a:<br>
+6. Crewmember translation through hatchways:<br>
+7. Transferring an incapacitated crew member from the crew-lander deck into an airlock and
+ascent module<br>
+8. Crewmember translation into an airlock and ascent module<br>
+<p>
+Each of the EVA tasks was performed a total of nine times by each of the four crewmembers to enable the combined effects of three different simulated suit weights and three different suit CG locations to be evaluated and compared. Data regarding the effects of suit weight and CG on task performance were systematically analyzed and will ensure that the implications of suit weight and CG location on EVA performance are adequately understood and considered during the development of exploration EVA suits. In addition to the EVA tasks listed above, crew members also completed a standard exploration EVA task protocol used during all EVA Physiology, Systems, and Performance (EPSP) Project tests, including previous NEEMO missions. The protocol consisted of ambulation, kneel/recover, fall/recover, shoveling, rock pick-up, and ladder climbing tasks, each of which was performed according to the EPSP protocol under each of the nine weight/CG configurations.
+<p>
+RESULTS:<br>
+Please refer to the document NASA TP-2011-216152.  This document contains images, graphs, tables, and summarized results for each protocol of the study. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>EPSP_Tasks</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Gernhardt, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Constellation</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NEEMO 14&#x27;], [&#x27;EPSP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/d8jr-zf12</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/f34e8138-cab8-5fc5-9a81-15c4ea7c0b8b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/f34e8138-cab8-5fc5-9a81-15c4ea7c0b8b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

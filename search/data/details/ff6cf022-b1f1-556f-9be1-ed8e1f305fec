@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Relation between Cognitive Injury, Network Stability, and Epigenetic Change Following Exposure to Space Radiation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ff6cf022-b1f1-556f-9be1-ed8e1f305fec?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX13AD60G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Relation between Cognitive Injury, Network Stability, and Epigenetic Change Following Exposure to Space Radiation</h1>
+        <div class="meta-id">Record ID: NNX13AD60G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ff6cf022-b1f1-556f-9be1-ed8e1f305fec?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This project focused on changes in hippocampal network stability and epigenetic mechanisms involved in the development of cognitive dysfunction after space irradiation. Radiation exposure of the central nervous system (CNS) can significantly affect the hippocampus, a structure critical for cognitive function. During spatial exploration, when an animal enters a specific location a distinct cell responds (known as the cell's place field). As a result of these place fields, hippocampal pyramidal neurons in the CA areas display robust high frequency activity. The place fields create an environment-specific "map," thought to be critical in establishing the context of a memory. Following visits to an environment for a second time, the same cells form stable neural networks and respond as a result of cellular activity induced by a learning experience. While place fields are highly reproducible and stable across multiple visits to the same environment, this stability is not seen in when different environments are visited. The detrimental effects of charged particles on hippocampus-dependent cognition are likely associated with changes in hippocampal networks. Analysis of the precise temporal kinetics of the plasticity-related immediate early gene (IEG) activity-regulated cytoskeletal associated protein (Arc) using a method called cellular compartment analysis of temporal activity using fluorescence in situ hybridization (catFISH ) provides an ideal and reliable approach for studying network stability.
+<p>
+Gamma and space irradiation, including 56Fe ions and protons, induce changes in DNA methylation. Of significance for this project, recent studies show that a second form of DNA methylation, termed 5-hyrdroxymethylation (5hmC) is abundant and stable in the brain. The ten eleven translocation (TET) enzymes convert 5mC to 5hmC, which likely play a role in gene regulation because 5hmC is often found at promoters of active genes. In contrast, 5mC is found at the promoters of inactive genes. Changes in 5mC, which are induced by environmental exposures including radiation and behavioral modification, play a role in processes including cancer and neurological disease. A similar role for 5hMC can be assumed due to its abundance in the brain, though 5hmC changes after radiation exposure and in neurological disease has not yet been elucidated. The investigators hypothesized that the detrimental effects of charged particles on hippocampus-dependent cognition are associated with Arc-related changes in the hippocampal networks involved in synaptic plasticity and memory. They further hypothesized that these changes are related to perturbation of 5mC and/or 5hMC in the hippocampus that affect Arc expression and expression of other learning and memory genes in the same signaling pathways and networks. 
+<p>
+To test these hypotheses, investigators used the following specific aims:<ol>
+<li>Determine short- and long-term effects of irradiation with 56Fe ions or protons on novel object recognition and spatial learning and memory. 
+<li>Determine the short- and long-term effects of irradiation with 56Fe or 28Si ions or protons on hippocampal networks mediating spatial information processing, and whether the detrimental effects of charged particle radiation on hippocampus-dependent cognition are associated with changes in hippocampal network stability. 
+<li>Determine whether cognitive changes resulting from charged particle exposure are associated with altered DNA methylation (5mC and 5hMC) profiles for Arc and other genes involved in learning and memory in the same signaling pathways; and whether DNA methylation changes correlate with stable changes in gene expression. 
+<p>
+APPROACH:<br>
+The investigators examined object recognition in six-month-old mice irradiated with 56Fe ions, a biological age more relevant to the typical ages of astronauts. Moreover, because the mechanisms mediating the detrimental effects of 56Fe ions on hippocampal function are unclear, they examined changes in hippocampal networks involved in synaptic plasticity and memory, gene expression, and epigenetic changes in cytosine methylation (5mC) and hydroxymethylation (5hmC) that could accompany changes in gene expression. They further assessed the effects of whole body 56Fe ion irradiation at early (2 weeks) and late (20 weeks) time points on hippocampus-dependent memory and hippocampal network stability, and whether these effects are associated with epigenetic changes in hippocampal DNA methylation (both 5mC and 5hmC) and gene expression. 
+<p>
+RESULTS:<br>
+In year two of the study, investigators finalized the analysis of the novel object recognition data of mice irradiated at BNL and tested 2 and 20 weeks after irradiation. The mice were all six-month-old male C57Bl6/J mice (no retired breeders). The doses of irradiation were: 56Fe (600 MeV/n; 0.1, 0.2, and 0.4 Gy); 28Si (600 MeV/n; 0.3, 0.6, and 0.9 Gy); and protons (150 MeV, 1 Gy). For each radiation condition and time point, 16 mice were cognitively tested. As last cognitive test, eight mice of each experimental radiation condition were exposed twice to the same environment and eight mice of each experimental radiation condition were exposed to two different environments for assessments of hippocampal network stability. In addition to these 16 mice, there were 5 cage controls. 
+<p>
+For the novel object recognition test, the mice were habituated to an open field for three subsequent days. On day four, the mice were exposed to the open field containing two objects. On day five, the mice were exposed to the open field with two objects but one familiar object (present on day four) was replaced by a novel one. The time spent with each object was recorded by video and hand-scored by a researcher blinded to the treatment of the mice. The data show impairments in novel object recognition following 56Fe, 28Si, and proton irradiation. 
+<p>
+Three days after the last water maze test day, exploration of identical or different environments was used to study the stability of hippocampal networks. Eight mice from each experimental radiation condition were placed individually into a novel environment (A) and allowed to explore for five minutes. Another eight mice of each experimental radiation condition explored environment A for 5 minutes, and 25 minutes later they were placed in a different environment (B), a circular arena 45 cm in diameter, and allowed to explore for 5 minutes (AB Paradigm). Following behavioral testing, the mice were sacrificed by cervical dislocation and the brains quickly removed. One hemisphere was quickly frozen for catFISH and fluorescence immunostaining. Using catFISH, Arc mRNA appear as discrete nuclear foci (recent transcription ~5-10 min), and/or as diffuse mRNA in the cytoplasm (earlier transcription). Nuclear and cytoplasmic Arc can be distinguished using intronic and full-length probe respectively labeled with digoxigenin or fluorescein. Arc staining was classified as: a) None (no Arc staining); b) Arc-foci (containing only the intranuclear foci transcript); c) Arc-cyto (containing only cytoplasmic staining); or d) both Arc-foci/Arc-cyto (containing both foci and cytoplasmic staining). Using the catFISH analysis, we can identify the population of neurons activated during the first (Arc-cyto), the second (Arc-foci), and both exploration sessions (Arc-foci/Arc-cyto) and if irradiation affects these parameters. Furthermore, because of sensitiveness of the catFISH technique, investigators are able to detect possible translocation problems in the movement of Arc mRNA from the nucleus to the cytoplasm. They can determine if the neurons responding (i.e. Arc+) to an initial experience (exploration of environment A) are the same neurons that respond to a second and identical experience as expected based on sham-irradiated animals (AA Paradigm), and if the hippocampal networks activated during exploration of the first environment are statistically independent from those activated by the exploration of a different environment (AB Paradigm). The data shows that 4 weeks following 56Fe and 28Si irradiation, the percentage of Arc-positive cells is not significantly different in the following exposure to the two distinct environments as compared to exposure to twice the same environment as seen in sham-irradiated mice. 
+<p>
+Finally the omics-related changes in DNA methylation are tissue specific. Investigators compared DNA methylation levels and metabolomics in the hippocampus and left ventricle 20 weeks following proton irradiation (150 MeV, 1Gy). As expected, 5mC was enriched in poorly expressed regions of the genome. Tissue-dependent DNA methylation, as well as DNA methylation shared in the left ventricle and hippocampus, was revealed. The gene methylation data in the left ventricle reveal significant major pathway changes that are related to known pathophysiologic processes. There was also tissue-specifc radiation-induced changes in metabolomics and in immunoreactivity of the TET2 protein, a methylcytosine dioxygenase that catalyzes the conversion of methylcytosine to 5-hydroxymethylcytosine. These data are very encouraging and indicate that all proposed outcome measures are sensitive to detect effects of relative low dose irradiation at the two-week time point and some proposed outcome measures are sensitive to detect effects of relative low dose irradiation at the 20-week time point. These data are also encouraging as they indicate the anatomical specificity and networks involved in these effects.
+<p>
+No datasets exist for this study. A final report was archived.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX13AD60G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Raber, Jacob</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology, Neuroscience, Omics</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4vj4-ab34</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2012 Space Radiobiology</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ff6cf022-b1f1-556f-9be1-ed8e1f305fec?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ff6cf022-b1f1-556f-9be1-ed8e1f305fec?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

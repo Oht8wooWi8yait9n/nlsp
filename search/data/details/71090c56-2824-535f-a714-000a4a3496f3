@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Electrophoresis Experiment - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/71090c56-2824-535f-a714-000a4a3496f3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>MA-014</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Electrophoresis Experiment</h1>
+        <div class="meta-id">Record ID: MA-014</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/71090c56-2824-535f-a714-000a4a3496f3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+Cell membranes are the site of many important biological phenomena.  To understand specific cell functions and membrane systems, protein characterization and separation must be examined.  Electrophoresis is a highly efficient method used to separate cells or other biological particles, and it can be applied without producing damage or loss of viability.  Because of this, electrophoresis was considered an essential tool for investigation in space.  Separation capability was expected to be increased under weightless conditions, resulting in new applications that depended on improved resolution.  The objective of the Apollo-Soyuz Test Project (ASTP) electrophoresis experiment was to investigate and evaluate sample resolution and flow rates achievable in space for future Spacelab applications. 
+<P>
+APPROACH:<br>
+The concept was based on a principle known as free-flow electrophoresis.  By this method, the sample is introduced continuously into a 5<U>±</U>3 degree Celsius separation chamber, in which a buffer solution flows in a layer (laminar flow).  An electric field is generated perpendicular to the direction of flow.  Particles having different surface charge densities are deflected from the buffer flow direction at an angle, which is determined by the sample flow rate and electrophoretic mobility of the particles.  
+<P>
+Samples of rat bone marrow cells, rat spleen cells, rat lymph node cells (mixed with human erythrocytes) and a mixture of human and rabbit erythrocytes were studied.  With the exception of the human/rabbit erythrocyte mixture, all samples were freshly prepared 15 to 20 hours prior to liftoff.  All samples were stored at 4 degrees Celsius for approximately 45 hours before the start of the experiment.  The erythrocyte mixture was prepared 2 weeks before liftoff, and the cells were preserved by fixation in 2% glutaraldehyde.
+<P>
+Bone marrow cells of rats were flushed out of the bone using a syringe containing a Puck TC solution combined with 2.5% bovine serum albumin.  A single-cell suspension was prepared by passing the cells several times through a plastic syringe without a needle.  The cells were then washed twice and resuspended in ampholine buffer.  Spleen and lymph node cells were prepared by teasing the organs in Puck TC solution at 4 degrees Celsius with injection needles.  These cells were washed twice with the same solution, filtered through cotton wool, and resuspended in ampholine buffer.
+<P>
+For sterile tests, the buffer solution and cell suspensions were inoculated onto blood agar and incubated for 5 hours at 28 degrees Celsius.  This test, as well as light microscopy, showed no bacterial contamination of the cell suspensions or buffer solutions.  Cell viability (tested with trypan blue exclusion test) was more than 90% in each sample.  
+<P>
+All containers were sterilized with formaldehyde and washed 5 times with 20 ml of sterile ampholine buffer.  Four days prior to liftoff, the deep freezing container was filled with a 0.8 ml mixture of rat lymph node cells (25XE6 cells/ml) and human erythrocytes (30XE6 cells/ml) and kept in liquid nitrogen.  Fourteen hours prior to liftoff, the other three sample containers were filled with 1.4 ml each of the fixed human (30XE6 cells/ml) and rabbit (50XE6 cells/ml) erythrocytes mixture, rat bone marrow cells (80XE6 cells/ml) and rat spleen cells (80XE6 cells/ml).
+<P>
+The experiment began on July 16, 1975, and lasted for one Earth orbit (1.85 hours). Sample containers were stored at 0 to 5 degrees Celsius.  For experiment operation, they were removed from the freezer and inserted into the electrophoresis apparatus so that the sample flow entered the buffer flow.  Flow was directed by a peristaltic pump.  The equipment was designed for successive runs of four 1.6 ml samples.  
+<P>
+Each sample was subjected to the following sequence:<P>
+1)  During prerun, the sample circuit was refilled with sample fluid and any remainder of the previous sample was removed from the separation chamber.<P>
+2)  The following settings were established:<p>
+	Electric field:  60 V/cm<BR>
+	Buffer flow rate:  0.275 cm3/s<BR>
+	Sample flow rate:  5 cm3/h<p>
+3)  The sample flow rate was decreased from 5 to 1 cm3/h, maintaining the two other conditions.<p>
+4)  Finally, the electric field intensity and the buffer flow rate were reduced to two-thirds of their original values, keeping the flow rate constant (1 ml/h).
+<P>
+Sample separation was evaluated by an optoelectronic method, in which a narrow slit across the downstream end of the separation chamber, parallel to the electric field, is illuminated.  Light passes through the quartz plates of the separation chamber and is expressed as a function of biomaterial distribution density.  Light intensity, which is related to cell density, is measured on the other side of the chamber with a photodiode array, and is recorded in digital form on a magnetic tape.
+<P>
+After passing through the separation chamber, the sample buffer and chamber buffer mixture enter the waste container, which is combined with the storage container but separated by a membrane.  Two flow rates were included for each sample to study the influence of buffer velocity.  Data acquisition, evaluation and processing, as well as flow rates and temperatures were performed by electronic units of the electrophoresis apparatus. 
+<P>
+RESULTS:<br>
+During the separation process, a "true" cell distribution curve was not obtained, because baseline values were above the maximum peak absorption.  The optical system had produced a light too bright to discern true cell distributions.  Experiment analysis appeared to be impossible.  However, during the stationary phase of separation (i.e., during the 90 second separation time) irregularly occurring pulses, called events, were recorded.  Event patterns reflected the expected course of the separation curves.  Pulses were caused by cell aggregations in the region of the separated bands.
+<P>
+To confirm this assumption, an aliquot of the sample used aboard ASTP was separated under the same conditions at Kennedy Space Center in an identical apparatus under one-g conditions (electrophoresis engineering model (EM) with a 0.7 mm buffer film thickness).  In addition to the expected cell distribution curves, stray pulses were shown to be caused by cell aggregation, which had a greater absorption. Event accumulation at the same location during a separation time of approximately 2 minutes yielded distribution curves similar to normal separation curves.
+<P>
+To check this finding and obtain a reliable interpretation, such separations were repeated many times with the EM apparatus.  Each experiment was performed and evaluated with normal and increased lighting.  It was clearly established that the cell aggregations were representative of actual cell distributions. 
+<P>
+These studies allow assertions to be made regarding all electrophoresis samples.  Bone marrow cells tend not to aggregate, and although only a few events could be analyzed, excellent separation was indicated by the distribution curve.  Insufficient human and rabbit erythrocyte data were available to determine a distribution curve for this sample, because these cells have a weak tendency to form aggregations.  The best results were obtained for spleen cells; 358 events were recorded, which were sufficient to identify fine details of separation.  Good separation, similar to that of spleen samples,was inferred under one-g and zero-g conditions for lymph node cells with added human erythrocytes.
+<P>
+Postflight examination of the flight unit indicated all housekeeping data (i.e., electrophoresis sequences, voltages, temperatures, electrical fields, etc. ) were within the tolerance range. Buffer and sample amounts corresponded to the required specification according to volume measurements. Buffer samples revealed no bacterial contamination despite the long storage period, and cell particles were present in the separation buffer (collection container).  The expected remainder of cell suspension, more than 3 months old, was found in the sample containers.  However, the gold-plated containers were unexpectedly corroded.  All buffer tube systems were intact and penetrable, and the pump systems were fully operational.
+<P>
+This information reveals accurate operation of the buffer and sample courses and the electronic system.  Surprisingly, the error in the optical detection system shown by the tape (saturation of photodiodes) was at first not identifiable.  Both the current and the voltage of the lamp were normal.  By contrast, the light intensity measured by the diode array was, as expected, too low because of turbidity.  This phenomenon was caused either by a fault in the electrical contact, which arose during the flight, or an increase in lamp helix temperature attributed to zero-g conditions.  The latter could be explained by the absence of thermal convection in the gas-filled tube.
+<P>
+In conclusion, applicability of free-flow electrophoresis under zero-g conditions was confirmed.  The technical problems arising from the special environmental conditions in a Spacelab were controlled.  This observation applies to the technical concept of the electrophoresis apparatus as well as the manual operation by crewmembers.  Buffer flow systems operated despite the difficult conditions imposed by a closed system.  Effective gas removal from the electrode buffer was a necessary part of the experiment.  Under zero-g conditions, cells were separated with viability maintained, and cell aggregations did not correspond to a decrease in viability.
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>MA-014</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hannig, Kurt</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Apollo-Soyuz Test Project (ASTP)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ASTP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A, Rat (Rattus norvegicus) Wistar, Rabbit (Oryctolagus cuniculus) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/qjff-jj02</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/71090c56-2824-535f-a714-000a4a3496f3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/71090c56-2824-535f-a714-000a4a3496f3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

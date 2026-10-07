@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spaceflight Standard Measures: Actigraphy - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/3a65fc6b-71da-5ce1-b9ef-0d208fbef40e?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>SSM_Actigraphy</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Spaceflight Standard Measures: Actigraphy</h1>
+        <div class="meta-id">Record ID: SSM_Actigraphy</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/3a65fc6b-71da-5ce1-b9ef-0d208fbef40e?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br> <div> Actigraphy is one of nine Spaceflight Standard Measures conducted on International Space Station (ISS) crewmembers.  Spaceflight Standard Measures are a collection or set of core measurements, representative of many of the human spaceflight risks, collected on astronauts before, during and after International Space Station (ISS) missions. The purpose of this project is to populate a repository with data that enables high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes, as well as support future, hypothesis-driven research that enables planetary missions, as well as, optimized minimal set of measures captured from all ISS crewmembers until the end of the ISS program. These measures will serve the population as a data repository and be available to other studies under data sharing agreements, as well as, undergo analysis for trends in the astronaut population. </div> 
+<br>APPROACH:<br> <div> The purpose of utilizing the Actigraphy standard measure is to monitor sleep-wake behaviors of crewmembers and/or subjects. Subjects will wear an Actiwatch during pre-flight, in-flight, and post-flight periods of the space missions. The Actiwatch is a wrist-watch like device worn on the wrist of the non-dominant arm that measures accelerations induced by wrist movements.</div><div><br> </div><div> The Actiwatch Spectrum data collection mode will be set to record activity, photopic light and red/green/blue (RGB) light. Collection of actigraphy data will be performed pre-, in- and post-flight under three mission scenarios: short duration (up to 105 days flight days), standard duration (between 105 to 240 flight days), and long duration (greater than 240 days). Pre-flight, a brief post-sleep survey that includes questions related to sleep quality, is completed daily during a two-week period. During flight, the same survey will be completed along with a pre-sleep questionnaire containing questions related to mood, workload, and crew living. Both are to be completed once per month during flight.</div><div><br> </div><div>The participants will don an Actiwatch Spectrum shortly after docking and wear the watch continuously throughout the remainder of the mission (to the extent possible).  Every 32 days, crewmembers will doff the Actiwatch and connect the Actiwatch to a PC that will allow ground personnel to download the data and reconfigure the watch as needed.  The final doff/download will occur on the day of hatch closure following the crewmembers’ last scheduled sleep session.</div><div><br>
+</div><div>Actiwatch Spectrum Remote Desktop Protocol (RDP) Operations:</div><div><br></div><div>
+Every 32 days, subjects will doff the Actiwatch Spectrum and connect the Actiwatch Spectrum hardware (Actiwatch Dock, Actiwatch USB Cable, and Actiwatch Spectrum) to a Human Research Facility (HRF) personal computer (PC) that will allow ground personnel to manipulate the Actiwatch Spectrum using a Remote Desktop Protocol (RDP). Ground personnel will download the data and reconfigure the watch as needed. The final doff/download will occur on the day of hatch closure following the crewmember’s last scheduled sleep session. </div><div>
+
+<br> The Actigraphy data collection sessions will be performed as follows: 
+Short Duration Mission:
+</div><ul>
+     <li> Pre-flight: 2 weeks/session and daily post-sleep logs (L-270±21, L-180 ±21) </li>
+    <li> In-flight: 1 initialization and 2 downloads </li>
+    <li> Post-flight: 2 weeks and daily post-sleep logs (R+0 to 14) </li>
+</ul>
+<br>Standard Duration Mission:
+<ul>
+     <li> Pre-flight: 2 weeks/session and daily post-sleep logs (L-270±21, L-180 ±21) </li>
+    <li> In-flight: 1 initialization and 2 downloads </li>
+    <li> Post-flight: 2 weeks and daily post-sleep logs (R+0 to 14) </li>
+</ul>
+<br>Long Duration Mission:
+<ul>
+     <li> Pre-flight: 2 weeks/session and daily post-sleep logs (L-270±21, L-180 ±21) </li>
+    <li> In-flight: 1 initialization and 2 downloads </li>
+    <li> Post-flight: 2 weeks and daily post-sleep logs (R+0 to 14) </li>
+</ul>
+
+<br>RESULTS:<br><div> The Spaceflight Standard Measures project is not a hypothesis-driven study, but rather a project to create a collection of ISS data made available to future researchers and for trend analysis. As such, there are no specific hypotheses, outcome measures, or statistical analyses associated with the skeleton of the project. The project will capture a "snapshot" of optimized data that can be investigated by researchers in the future</div><div></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>SSM_Actigraphy</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Theriot, Corey</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>NASA JSC</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Expedition 67, Expedition 66, Expedition 65, Expedition 64, Expedition 63, Expedition 60, Expedition 58, Expedition 61, Expedition 59, Expedition 68, Expedition 69, Expedition 70, Expedition 71, Expedition 72, Expedition 73, Expedition 62</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ct85-fz22</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing.  Available datasets are accessible via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/3a65fc6b-71da-5ce1-b9ef-0d208fbef40e?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/3a65fc6b-71da-5ce1-b9ef-0d208fbef40e?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

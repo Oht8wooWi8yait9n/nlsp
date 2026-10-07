@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Near Vision Acuity and Contrast Sensitivity - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/b6233ba4-d783-5205-a6da-fea001921696?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 408</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Near Vision Acuity and Contrast Sensitivity</h1>
+        <div class="meta-id">Record ID: DSO 408</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/b6233ba4-d783-5205-a6da-fea001921696?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Both American and Soviet astronauts have reported conflicting experiences with visual capability in space. While some astronauts report considerable increases in visual capability, some report marked decreases in capability, and still others report no change. Since weightlessness causes disruption of the vestibular-ocular system and a redistribution of fluid throughout the body which could cause
+cerebral edema and changes in eyeball shape, changes in visual capability would not be unexpected. Studies using two different testing methods, near visual acuity and contrast sensitivity, were undertaken to determine the effects of weightlessness on vision. Near visual acuity was selected to determine changes in accommodation and other possible changes affecting vision. Contrast sensitivity testing was selected as a more precise measure of general vision loss as well as an aid in determining the possible physiological location and nature of vision changes. Evidence shows that significant losses in contrast sensitivity can occur with little or no effect on visual acuity.
+<P>
+APPROACH:<BR>
+Twenty-three crewmembers were tested for near vision acuity. Sixteen crew members were evaluated for contrast sensitivity. Using the near point of accommodation, near vision acuity was measured in diopters from a Krimsky rule. Contrast sensitivity was measured using five specially designed contrast sensitivity charts (vision chart cards). The contrast levels and orientations of the test patches for each chart were randomized to control for guessing and memorization. Six spatial frequencies of 1, 2, 4, 8, 12, and 24 cycles per degree were tested at a distance of 18 inches. Luminance differences between ground and space testing were controlled. Specifically, the crewmember measured his/her near vision acuity by resting the Krimsky rule against the cheekbones, placing the vision chart cards at the end of the rule, and noted the smallest size print that could be seen clearly.  Then the crewmember slid the card toward the eyes until the print began to blur. The point at which blurring occurred was marked on the card. Measurements were taken at thirty days preflight, ten days preflight, during flight (flight days 1, 3 and 5 desired), at landing, and seven days postflight.
+<P>
+RESULTS:<BR>
+This experiment was performed on nine Shuttle flights; 32 of 36 requested subjects were obtained. Near vision acuity data were analyzed for differences in the near point of accommodation among the preflight, in flight, postflight, and average of pre- and postflight measurements. Paired t-tests and analysis of variance with repeated measurements showed that no significant differences in diopter measurements existed among the three phases of flight. Contrast sensitivity data were analyzed for differences between the average preflight contrast sensitivity data and those obtained
+in flight, at landing, and postflight. Statistically significant individual differences in
+contrast sensitivity changes in space were found. Crewmembers exhibited different magnitudes of change at different spatial frequencies.
+<P>
+Conclusions:<br>
+No clinically significant changes in near vision acuity in the microgravity environment of space were found during space shuttle flights. However, changes in contrast sensitivity were seen under these conditions. Alterations in contrast sensitivity occurring in the low and middle but not the high spatial frequencies cannot be readily attributed to changes in accommodation, but reflect more central effects. In general, the changes in contrast sensitivity are less than a factor of two and
+would not be expected to cause major visual performance increases or decreases. The possible physiological reasons for the changes in contrast sensitivity during space flight will require further research.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 408</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Ginsburg, Arthur, Vanderploeg, James</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience, Clinical medicine, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-41C&#x27;], [&#x27;STS-41D&#x27;], [&#x27;STS-41G&#x27;], [&#x27;STS-5&#x27;], [&#x27;STS-51C&#x27;], [&#x27;STS-6&#x27;], [&#x27;STS-7&#x27;], [&#x27;STS-8&#x27;], [&#x27;STS-41B&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/jw8m-1f51</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/b6233ba4-d783-5205-a6da-fea001921696?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/b6233ba4-d783-5205-a6da-fea001921696?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

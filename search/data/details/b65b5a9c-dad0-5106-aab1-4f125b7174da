@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Optimization of the Integrated Advanced Water Recovery System Post-Processing System - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/b65b5a9c-dad0-5106-aab1-4f125b7174da?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Water_System</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Optimization of the Integrated Advanced Water Recovery System Post-Processing System</h1>
+        <div class="meta-id">Record ID: Water_System</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/b65b5a9c-dad0-5106-aab1-4f125b7174da?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+A Post Processing Subsystem (PPS) was previously tested as part of the Integrated Advanced Water Processing System (IAWRS). The PPS, which processed reverse osmosis, permeate and air evaporation condensate, performed final treatment of an International Space Station (ISS) -equivalent wastewater stream, and produced NASA-potable water during 180 days of testing.  Processes utilized by the PPS include ion exchange, photo-oxidation, photo-sterilization, microfiltration, and residual biocide addition, and a modular design allows for the replacement of all subassemblies. The subsystem’s technology readiness level is 6 (tested in a relevant environment), and follow-on testing is intended to evaluate functional improvements to the integrated subsystem. The proposed work focuses on optimizing the organic and inorganic contaminant removal subassemblies. 
+<p>
+Organic contaminants are destroyed using ultraviolet (UV) photo-oxidation. IAWRS testing demonstrated that a single 40-W, 185-nm photo-reactor was sufficient to maintain effluent organic carbon < 50 ppb, an order of magnitude less that the NASA requirement. However, sufficient data was not collected during the IAWRS test to determine the minimum acceptable size of the UV photolytic subassembly.  Commercially available mixed media ion exchange (IX) resins are used for the removal of inorganic contaminants such as ammonium, and chloride. However, IAWRS test results showed that more than 30% of the IX bed capacity was consumed by the removal of bicarbonate, which has no effect on water potability. 
+<p>
+The overall objective of this work was to collect sufficient data to accurately size a minimum mass, power, and volume Post Processing Subsystem (PPS). Two tasks were addressed: 1) determining the minimum power required by the UV photolytic subassembly, and 2) evaluating methods to increase IX bed life by reducing bicarbonate loading. 
+<p>
+APPROACH:<br>
+To fulfill the objectives of the TDP, testing was divided into three phases: Phase I was intended to evaluate an alternative separate cation/anion (SC/A) IX configuration designed to increase bed life by reducing bicarbonate loading. In this configuration, a SAC (strong acid cation) IX resin and a vacuum MC function to extend downstream bed life by reducing bicarbonate loading on the SBA (strong base anion) IX resin. The performance and bed life of the new configuration was evaluated against the standard mixed-media IX (MIX) bed configuration. Phase II focused on testing the UV photolytic subassembly. Two 14-W UV photo-reactors were tested in place of the original 40-W units at flow rates sufficient to identify organic contaminant breakthrough. ROP and AES condensate ersatz was used as the feed streams. Phase III evaluated the performance of the optimized PPS and verified that the targeted reductions in IX resin and electrical power were achieved while processing ersatz solutions. 
+<p>
+RESULTS:<br>
+Phase I: The SC/A and MIX bed PPS configurations were evaluated using ersatz solutions representing ROP and AES condensate. For the SC/A configuration, total inorganic carbon (TIC) removal averaged 70 and 82% for the ROP and AES feeds, respectively. No apparent variation or degradation in TIC removal was observed over the seven month testing cycle. The SC/A configuration reduced ROP and AES anion loading on the SBA bed by 35% and 85%, respectively. Overall, the SC/A test configuration exhausted an average of 44% less SBA resin when processing ROP than the standard MIX bed configuration. For AES feed, even greater SBA savings (upwards of 77%) were observed for the SC/A configuration compared to the MIX configuration. The calculated SBA resin capacity averaged across test runs was 1.1 + 0.1 meq/ml-resin, a value that is in agreement with the manufacturer’s specification of 1.1 meq/ml for UP4000.
+<p>
+Average water loss due to vapor diffusion across the vacuum MC was 24.9 ml/day. Although this mass loss must be counted against the SC/A configuration, it is noted that there was no attempt to optimize (i.e. minimize) the size of the MC, which was considered to be oversized for the current application. To mitigate this water loss, future designs of this PPS configuration could include both proper scaling of MC size and recovery of water from the vacuum line. 
+<p>
+Neglecting water loss, the SC/A operating at 64 mL/min exhibited a mass savings of 28 and 53% for the ROP and AES feeds, respectively. For a typical 9:1 ROP to AES feed solution, the SC/A mass savings was improved by 30% when compared to the MIX configuration. In the final test configuration, SC/A with UV lamps, 75% of the samples tested exhibited total organic carbon (TOC) levels below the prescribed detection limit of the TOC analyzer (< 0.5 ppm). The specific power consumption calculated for two runs of SC/A-UV test stand processing AES feed at 64 mL/min were 7.8 and 5.6 W-hr/(mg TOC removed). Continued testing of the SC/A-UV configuration is planned for Phase II of the PPS TDP.
+<p>
+Phase II: Results aren’t available.
+<p>
+Phase III: Results aren’t available.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Water_System</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Finger, Barry</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Life support systems, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Not applicable</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/f06q-0z88</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/b65b5a9c-dad0-5106-aab1-4f125b7174da?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/b65b5a9c-dad0-5106-aab1-4f125b7174da?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

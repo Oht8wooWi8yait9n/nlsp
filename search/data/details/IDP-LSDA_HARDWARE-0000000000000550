@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cosmos Rodent-BIOS - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000550?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>54</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Cosmos Rodent-BIOS</h1>
+        <div class="meta-id">Record ID: 54</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000550?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          For rodent experiments on Cosmos 1514,  Cosmos 1887 and Cosmos 2044,  rats were group-housed in a single compartment called the Rodent-BIOS. The BIOS was formed by removing the partition that separated males and females in the Cosmos 1129 rodent mating chamber. It was equipped with ten nozzles for delivering paste food and ten nozzles for dispensing water. Food was provided at regular intervals; water was available ad lib to the animals. Unidirectional airflow moved wastes and debris into a waste collector located at the bottom of the cage. The light/dark cycle was regulated to 12:12.  <p></p>Ground support equipment for the rat neuroontogeny experiment included maternity cages with video monitors, rotation and tilt devices for vestibular tests and an olfactory, respiration, auditory and visual testing system.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Cosmos Rodent-BIOS</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>Cosmos 1514, Cosmos 1887, Cosmos 2044</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Actin mRNA and Cytochrome-C mRNA Concentrations in the Triceps Brachia Muscle of Rats; Biochemical and Histochemical Observations of Vastus Medialis; Biomechanical, Biochemical, and Morphological Alterations of Muscle and Dense Fibrous Connective Tissues After 14 Days Spaceflight: I. Connective Tissue Studies; Biomechanical, Biochemical, and Morphological Alterations of Muscle and Dense Fibrous Connective Tissues: II. Composition of the Invertebral Disk; Biomedical, Biochemical, and Morphological Alterations of Muscle and Dense, Fibrous Connective Tissues During 14 Days of Spaceflight; Bone Biochemistry and Mineral Distribution in the Femurs of Rats after Two Weeks in Space: Circulating Parathyroid Hormone, Calcitonin, and Osteocalcin; Developmental Morphology of the Eye, Vestibular System, and Brain in 18-Day Fetal and Newborn Rats Exposed In Utero to Null Gravity During the Flight of Cosmos 1514; Distribution and Biochemistry of Mineral and Matrix in the Femurs of Rats; Early Postnatal Development of Rats Exposed In Utero to Microgravity; Effect of Microgravity on: I. Metabolic Enzymes in Type I, IIA, and IIB Muscle Fibers; Effect of Microgravity on: I. Metabolic Enzymes of Individual Muscle Fibers; Effect of Microgravity on: II. Metabolic Enzymes of Hippocampus and Spinal Cord; Effect of Microgravity on: II. Metabolic Enzymes, Neurotransmitter Amino Acids, and Neurotransmitter Associated Enzymes in Selected Regions of the Central Nervous System; Effect of Spaceflight on Level and Function of Immune Cells: I. Immunology Studies; Effect of Spaceflight on Level and Function of Immune Cells: II. Proliferation and Cytokines; Effect of Spaceflight on Levels and Function of Immune Cells; Effect of Zero Gravity on Myosin Isoform Expression in Rodent Skeletal Muscle; Effects of Microgravity in the Adductor Longus Muscle and Receptors in the Forebrain of Rats; Effects of Zero Gravity on Myofibril Protein Content and Isomyosin Distribution in Rodent Skeletal Muscle; Erythroid Colony Formation In-Vitro and Erythropoietin Determinations; Gravity and Skeletal Growth: I. Gravity and Skeletal Growth; Gravity and Skeletal Growth: II.  Morphology and Histochemistry of Bone Cells and Vasculature of the Tibia from Cosmos 1887; Gravity and Skeletal Growth: II. Morphological Studies of Bone and Tendon; Gravity and Skeletal Growth: III. Nuclear Volume Analysis of Osteoblast Histogenesis in Periodontal Ligament Cells of Cosmos 1887 Rats; Gravity and Skeletal Growth: III. Recovery of Osteogenic Potential; Gravity and Skeletal Growth: IV.  Intervertebral Disc Swelling Pressure Associated with Microgravity; Growth Hormone Regulation, Synthesis and Secretion in Microgravity: I. Secretion of Growth Hormone; Growth Hormone Regulation, Synthesis and Secretion in Microgravity: II. Hypothalamic GH-Releasing Factor, Somatostatin Immunoreactivity, and mRNA Levels; Growth Hormone Regulation, Synthesis and Secretion in Microgravity: III. Plasma Analysis Hormone Measurements; Growth Hormone Regulation, Synthesis, and Secretion in Microgravity: I. Somatotroph Physiology; Growth Hormone Regulation, Synthesis, and Secretion in Microgravity: II. Immunohistochemical Analysis of Hypothalamic Hormones; Growth Hormone Regulation, Synthesis, and Secretion in Microgravity: III. Plasma Analysis; Hepatic Function in Rats After Spaceflight; Hepatic Function in Rats After Spaceflight: I. Analyses of Selected Parameters of Carbohydrate, Amino Acid, Lipid, and Xenobiotic Metabolism; Hepatic Function in Rats After Spaceflight: II. Glycogen Studies; Histologic Examination of Lung Tissue; Measurement of Heart Atrial Natriuretic Peptide Concentrations; Messenger RNA Levels in Skeletal and Smooth Muscles: I. mRNA Decrease in Skeletal Muscle During Spaceflight; Messenger RNA Levels in Skeletal and Smooth Muscles: II. mRNA Levels in Smooth Muscle; Metabolic and Morphologic Properties of Muscle Fibers After Spaceflight; Metabolic and Morphologic Properties of Muscle Fibers and Motor Neurons after Spaceflight: I. Muscle Fibers; Metabolic and Morphologic Properties of Muscle Fibers and Motor Neurons after Spaceflight: II. Ventral Horn Cell Responses to Spaceflight and Suspension; Mineral Distribution and Balance in Rats During Spaceflight; Morphohistochemical, Immunocytochemical, and Biochemical Investigation of Microgravity Induced Nerve and Muscle Breakdown: I. Muscle Histology; Morphohistochemical, Immunocytochemical, and Biochemical Investigation of Microgravity Induced Nerve and Muscle Breakdown: II. Muscle Biochemistry; Morphological and Biochemical Examination of Heart Tissue: I. Effects of Microgravity on the Myocardial Fine Structure of Rats Flown on Cosmos 1887 - Ultrastructure Studies; Morphological and Biochemical Examination of Heart Tissue: I. Ultra- structural Alterations in Rat Hearts After Cosmos 2044 Compared to Cosmos 1887; Morphological and Biochemical Examination of Heart Tissue: II. Cardiac Morphology After Conditions of Microgravity; Morphological and Biochemical Examination of Heart Tissue: II. Cellular Distribution of Cyclic AMP-Dependent Protein Kinase Regulatory Subunits in Heart Muscle of Rats Flown on Cosmos 1887; Morphological and Biochemical Examination of Heart Tissue: III. Cyclic AMP Receptor Protein Distribution in Heart Muscle of Rats Flown on Cosmos 2044; Morphological and Biochemical Examination of Heart Tissue: IV. Altered Myosin Expression in Rat Ventricular Muscle; Morphological and Biochemical Investigations of Microgravity-Induced Nerve and Muscle Breakdown: I. Investigation of Nerve and Muscle Breakdown During Spaceflight; Morphological and Biochemical Investigations of Microgravity-Induced Nerve and Muscle Breakdown: II. Biochemical Analysis of EDL and PLT Muscles; Morphometric and EM Analyses of Tibial Epiphyseal Plates from Cosmos 2044 Rats; Morphometric and EM Analysis of Tibial Epiphyseal Plates From Cosmos 1887 Rats; Morphometric Studies of Atrial Granules and Hepatocytes: I. Morphometric Study of the Liver; Morphometric Studies of Atrial Granules and Hepatocytes: II. Atrial Granular Accumulations; Pineal Physiology in Microgravity, Relation to Gonadal Function; Pineal Physiology in Microgravity: Relation to Rat Gonadal Function; Rat Testis Morphology and Physiology; Rodent Tissue Repair: I. Skin Repair Studies; Rodent Tissue Repair: II. Changes in Muscle Serine Proteases, Serpins, and Matrix Molecules; Rodent Tissue Repair: III. Skeletal Muscle; Skeletal Muscle Atrophy in Response to 14 Days of Weightlessness; Structural Changes and Cell Turnover in the Rat&#x27;s Small Intestine Induced by Spaceflight; Structural Changes and Cell Turnover in the Rat&#x27;s Small Intestine Induced by Spaceflight.; Study of Muscarinic and GABA (Benzodiazepine) Receptors in the Sensory-Motor Cortex, Hippocampus, and Spinal Cord; The Effect of Cosmos 1887 Flight on Spermatogonial Population and Testosterone Level in Rat Testes; The Effect of Spaceflight on Pituitary Oxytocin and Vasopressin Content; The Effect of Spaceflight on Pituitary Oxytocin and Vasopressin Content of Rats; The Maturation of Bone and Dentin Matrices in Rats Flown on Cosmos 1887; Trace Element Balance in Rats During Spaceflight</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>As Flown on Cosmos Missions</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000550?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000550?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

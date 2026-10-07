@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Long-Term Effect of Space Radiation on Cardiomyocyte Turnover - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a48d0f04-cbac-5022-848d-58e679573858?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AE06G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Long-Term Effect of Space Radiation on Cardiomyocyte Turnover</h1>
+        <div class="meta-id">Record ID: NNX15AE06G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a48d0f04-cbac-5022-848d-58e679573858?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The risks to astronauts from exposure to space radiation have long been of great concern to NASA. These risks are now more important with the advent of long-duration space missions, which raise the risk of exposure to space radiation. While the effect of space radiation on the incidence of cancer and coronary artery disease has been studied, little is known about the effect of space radiation on the heart muscle, in particular on the ability of the heart muscle to replenish itself. The adult heart is incapable of regenerating itself after injury because the vast majority of heart muscle cells cannot divide. Nevertheless, the adult human heart slowly replenishes one to two percent of its muscle every year, and it is estimated that in a human heart close to 50 percent of the heart muscle is renewed during its lifespan. Therefore, preventing the formation of new heart muscle cells could result in a loss of up to 50 percent of heart muscle leading to heart failure. 
+<p>
+Investigators recently discovered that after birth, the increase in oxygen in the atmosphere results in formation of harmful reactive oxygen species (ROS), which in turn damage the DNA of heart muscle cells (cardiomyocytes) and cause them to stop dividing. However, a small population of dividing heart muscle cells is protected from DNA damage by maintaining themselves in a low oxygen environment within the heart. If prolonged exposure to space radiation damages the DNA of these cells, then the heart will lose any ability to replenish itself. The long-term goal of this study was to develop countermeasures to reduce heart failure risk in astronauts due to space radiation exposure.
+<p>
+This study had the following specific aims:<ol>
+<li>Characterize the effect of space radiation on oxidative DNA damage in cardiomyocytes.
+<li>Determine the effect of space radiation on cardiomyocyte turnover in the adult heart.
+</ol>
+<P>
+APPROACH:<br>
+Using echocardiography to verify the effect of space radiation on cardiac function, investigators exposed a group of 9-12 middle aged (6 months old) mice to both acute (1 Gy) and fractionated (0.2 Gy per day for five consecutive days) doses of 600 MeV/n iron particles. Afterwards, left ventricular systolic function was determined via echocardiography on conscious mice. Ejection fraction and fractional shortening was calculated based on end diastolic and end systolic dimensions obtained from M-mode ultrasound. Echocardiography was performed at multiple time points after each type of radiation exposure - three months and one year after exposure.
+<p>
+RESULTS:<br>
+Investigators found that iron particles-induced complex double-strand breaks (DSBs) are irreparable in cardiomyocytes and that iron particles trigger cardiac hypertrophy in mice. In addition, both fractionated (20 cGy X 5) and acute (100 cGy) doses of 600 MeV/n iron particles significantly increase the ejection fraction of mouse heart approximately one year after the iron particle irradiation.
+<p>
+No datasets are available. A final report was archived. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AE06G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Sadek, Hesham</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/w84t-hw36</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013-14 HERO NNJ13ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a48d0f04-cbac-5022-848d-58e679573858?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a48d0f04-cbac-5022-848d-58e679573858?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

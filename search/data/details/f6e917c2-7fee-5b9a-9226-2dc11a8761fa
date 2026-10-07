@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Astronaut: Bone Remodeling Model - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/f6e917c2-7fee-5b9a-9226-2dc11a8761fa?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Bone_Model</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Digital Astronaut: Bone Remodeling Model</h1>
+        <div class="meta-id">Record ID: Bone_Model</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/f6e917c2-7fee-5b9a-9226-2dc11a8761fa?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Under the conditions of microgravity, astronauts lose bone mass at a rate of one to two percent a month, particularly in the lower extremities such as the proximal femur. The most commonly used countermeasure against bone loss in microgravity has been prescribed exercise. However, data has shown that existing exercise countermeasures are not as effective as desired for preventing bone loss in long-duration space flight. This space flight related bone loss may cause early onset of osteoporosis to place the astronauts at greater risk of fracture later in their lives. Consequently, NASA seeks to have improved understanding of the mechanisms of bone demineralization in microgravity in order to appropriately quantify this risk, and to establish appropriate countermeasures. 
+<p>
+In this light, NASA’s Digital Astronaut Project worked to implement well-validated computational models to help predict and assess bone loss during space flight, and enhance exercise countermeasure development. More specifically, computational modeling is a way to augment bone research and exercise countermeasure development to target weight-bearing skeletal sites that are most susceptible to bone loss in microgravity, and thus at higher risk for fracture.
+<p>
+This study had the following specific aims:<ol>
+<li> For individuals in the age range of the astronaut corps, predict changes in trabecular and cortical volumetric bone mineral fraction and density as a function of time since measurement, gravity level, and applied loads.
+<li>Support the bone fracture standard by accepting and providing data in the same form as that of a Quantitative Computed Tomography (QCT) scan.</ol>
+<p>
+APPROACH:<br>
+The model consisted of three major research areas, (1) the orthopedic science or mechanics of the removal and replacement of bone packets via remodeling units, (2) the biology and physiology of cellular dynamics of remodeling units, and (3) mechanotransduction, which describes the function of skeletal loading and its role in maintaining bone health. 
+<p>
+In implementation, the bone remodeling model is based on a first principles physiological and mathematical description of the components of bone physiology, including responses by the endocrine, biochemical, autocrine, and paracrine systems. The model mathematically formulates the key elements based on well-accepted knowledge and experimental studies of bone. In particular, the model uses the RANK-RANKL-OPG signaling pathway to describe the cellular dynamics. For skeletal loading, the model includes the effects of nitric oxide (NO) and prostaglandin E2 (PGE2). In the computational model, reduced skeletal loading triggers a decrease in NO and PGE2, which in turn triggers an imbalance in the pathway in favor of resorption. This leads to a decrease in mineralized volume M and osteoid volume O, and hence a decrease in bone volume fraction (BVF). The loading portion of the model is based on the concept of a minimum effective strain stimulus, which takes into consideration strain rate as opposed to strain magnitude only.
+<p>
+RESULTS:<br>
+A mathematical model of bone remodeling, the physiological mechanism for maintenance, renewal, and repair in the adult skeleton, was developed. The model consists of three major aspects of the remodeling process: 
+<p>
+(1) The removal and replacement of bone packets via remodeling units, which is done by the coupled action of bone cells on the same cell surface. Bone resorbing cells, osteoclasts, remove old or damaged bone. Then bone forming cells, osteoblasts, fill in new bone. <br>
+(2) The biology and physiology of the cellular dynamics of remodeling units. This includes the effects of hormones and biochemical mediators that drive the dynamics. <br>
+(3) Mechanotransduction, which describes the function of skeletal loading in maintaining bone health and strength. The model includes the release of NO and PGE2 by the sensing cells, osteocytes, as a result of cyclic loading, which can act as anabolic mediators. <br>
+<p>
+Although the adaptation to the full proximal femur is a major effort, some testing of the code’s ability to produce results close to proximal femur data was carried out. This was done by taking the femoral neck code and making some minor changes. The changes included an alternate activation density, a slightly smaller cortical origination frequency (ages 30-50), and a slightly smaller cortical osteon width consistent with the data from a reference on the femoral neck. For a 90 day bed rest study, comparison of model prediction to experimental results showed trabecular results to be just outside of the standard error and cortical results to be within standard error. 
+<p>
+For a validation of the model’s general trend, the code for the femoral neck model was run for a year or more to see if bone density is maintained under sufficient loading and if bone mass is lost under insufficient loading. For maintenance, the simulation was carried out that used skeletal loading equivalent to the number of walking steps that is reported in the literature to be sufficient. The result was that there was no change in bone mineral density over the duration of a year. Using the number of walking steps below the lower limit reported to be sufficient for maintenance produced results that showed a decrease in bone mineral density with a tendency toward a plateau. The simulation cannot continue indefinitely however, as the model will break down. 
+<p>
+Finally, a computational tool was created that uses probabilistic machine learning techniques to build subject specific finite specific finite element models of the femur. The femur models were coupled with the computational bone remodeling model to predict cortical and trabecular vBMD of the exercisers at the end of a 70 day bed rest study. Stochastic optimization was used to predict the required femoral forces required to match the bone state at the end of 70 days. Applying the tool to pre and post flight data to obtain output forces might aid in the development of customized exercise regimens.
+<p>
+No datasets exist for this study. A final report was archived.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Bone_Model</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Pennline, James</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology, Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/rt2e-yp03</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/f6e917c2-7fee-5b9a-9226-2dc11a8761fa?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/f6e917c2-7fee-5b9a-9226-2dc11a8761fa?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

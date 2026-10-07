@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STS-74 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000236?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>STS-74</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>STS-74</h1>
+        <div class="meta-id">Record ID: STS-74</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000236?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          On November 12, 1995, STS-74 was launched into orbit aboard the Space Shuttle.  During the STS-74 mission, the U.S. Space Shuttle Atlantis docked with the Russian Mir Space Station, the second such docking in a series of four long-duration flights. The STS-74 crew consisted of Commander Kenneth D. Cameron, Pilot James D. Halsell, and Mission Specialists Jerry L. Ross, William S. McArthur, Jr., and Chris A. Hadfield.<P>The main objective of the STS-74 mission was to transport the permanent Orbiter Docking Module to the Mir Space Station to accommodate subsequent Shuttle-Mir docking missions.  Atlantis also delivered water, supplies, and equipment, including two new solar arrays to upgrade the Mir.  Returned to Earth by the Shuttle were experiment samples, equipment in need of repair and analysis, and products manufactured on the station.<P>Few science experiments were conducted during the STS-74 mission, since the focus of the mission was to transport supplies to Mir.  One of these investigations, Collecting Mir Source and Reclaimed Waters for Postflight Analysis, analyzed the water on the Mir Space Station to study the effectiveness of the Mir water purification system.  Potable water, water used to maintain hygiene, and water that accumulates from humidity condensate was analyzed to confirm that any potentially harmful contaminants were maintained at acceptably safe levels.  The data gathered by this research was critical for the development and evaluation of water purification units, water quality standards, and inflight water sampling hardware for the upcoming International Space Station.<P>Another investigation, Analysis of Volatile Organic Compounds on Mir Station, collected air samples on the Mir to characterize the air chemistry found in the space station.  Air samples were collected with the Solid Sorbent Air Sampler (SSAS) and Grab Sample Containers.  Samples were then transferred from Mir to the Shuttle and, when back on Earth, to a laboratory for analysis.  The results have a number of uses for advanced life support research.  These include demonstration of new technology for air quality monitoring, toxicological evaluations of the Mir environment, and support of correlation studies to link the presence of particular volatile organic compounds with materials, human presence and biological experiments.<P>Additional life sciences experiments performed during the STS-74 mission included several Detailed Supplementary Objectives (DSOs).  A DSO is a NASA-sponsored investigation performed by Space Shuttle crewmembers, who serve as the test subjects.  These studies require minimal crew time, power and stowage.  Biomedical DSOs focus on operational concerns, including space motion sickness, cardiovascular deconditioning, muscle loss, changes in coordination and balance strategies, radiation exposure, pharmacokinetics and changes in the body's biochemistry.<P>Other payloads carried on board STS-74 were the Shuttle Amateur Radio Experiment-II, IMAX Cargo Bay Camera, Shuttle Glo Experiment, and the Photogrammetric Appendage Structural Dynamics Experiment.<P>Although no crewmember was transported to the Mir during this mission, the delivery of supplies and equipment was essential for six remaining long-duration increments.  The international Euro-Mir mission (a joint space mission between Russia and the European Space Agency) occurred simultaneously with the NASA mission, marking the first time astronauts from the European Space Agency, Canada, Russia and the United States were in space on the same orbiting complex at one time.<P>The Shuttle landed after a successful eight-day mission at Kennedy Space Center in Florida on November 20, 1995.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>STS-74</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1995</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>8</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000236?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000236?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Self-guided Depression Treatment on Long-duration Space Flights: A Continuation Study - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/306f1975-0150-5881-95d6-a03fa2a7153d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958NBPF00404</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Self-guided Depression Treatment on Long-duration Space Flights: A Continuation Study</h1>
+        <div class="meta-id">Record ID: NCC958NBPF00404</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/306f1975-0150-5881-95d6-a03fa2a7153d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Depression could present a threat to the success and safety of long-duration space missions, and crews need the ability to manage it effectively. The primary objective of this study was to develop a self-guided interactive multimedia program that is capable of facilitating clinical improvement in persons with depression, when used in an entirely self-help format. Software developed through this study enables evidence-based treatment for depression to be made available to astronauts at any time in any location. It could be used autonomously or in combination with other medical resources. 
+<p>
+Specific Aims:<br>
+1. Complete the development of a training module to recognize and prevent depression. <br>
+2. Develop a module to implement computer-based Problem-Solving Treatment (PST), an evidence-based treatment for depression. <br>
+3. Evaluate the efficacy of the computer-delivered PST module for depression in a randomized controlled trial. <br>
+<p>
+APPROACH:<br>
+The methodologies for this study are embedded in the Results below. 
+<p>
+RESULTS:<br>
+To address Aim 1, investigators produced a brief training video, in which Dr. Mark Hegel discusses the signs and symptoms of depression, how it can affect performance, and how it can be treated. A self-assessment of depression was created in a previous study, and already exists in the system. There is evidence from other studies that going through a course of PST can help prevent the future onset of depression in at-risk populations. Therefore, Aim 1 was addressed via the training video and the PST program, itself. 
+<p>
+Addressing Aim 2 was the most challenging and time-consuming part of this project: designing and producing a fully-automated self-treatment program for depression. The end product was a six-session interactive media program in which users are guided step-by-step through a full course of PST, an evidence-based treatment for depression. Each session involves a coach (Dr. Mark Hegel, a psychologist who is an expert in PST) who appears in numerous video and audio clips to help users/patients proceed through the stages of the treatment. The program was designed to exercise a form of "clinical judgment," by helping users/patients troubleshoot ways to improve their work on particular problems. The program also tracks 9 variables which are utilized to analyze the user's/patient's work across sessions and problems, and give suggestions on how to improve their problem-solving success, in general. This work has resulted in what appears to be the most sophisticated self-help program ever developed, in terms of media usage and data handling. It includes 247 audio and 160 video files to tailor the PST session to the individual. 
+<p>
+Aim 3 was addressed via a randomized clinical trial pilot study, comparing the PST program to a seven-week waitlist control condition. Investigators had originally planned to include 68 persons with minor depression in the study; however, the time required to complete development of the PST intervention program precluded enrolling this number. Therefore, they enrolled 14 persons in a pilot study (7 in the experimental group and 7 in the control group). The mean age of participants was 50 years, and all had completed at least 4 years of college, making them somewhat analogous to the astronaut population. The primary outcome was depression, as measured via the Hamilton Depression Inventory (HDI). No differences were found between groups on the HDI at pre-test. 
+<p>
+The investigators partnered with another NSBRI study (PI: Dr. Gary Strangman), by sharing some participants. Participants were to be evaluated via magnetic resonance imaging (MRI) and near-infrared spectroscopy at three points: pre-treatment, mid-treatment (between sessions 3 and 4) and post-treatment. Unfortunately, MRI malfunctions and scheduling problems caused two of the seven participants assigned to the experimental group to have a four- and a nine-week lapse between sessions three and four. Because their a-priori study procedures called for participants who lapse for more than three weeks between sessions to be removed from the study, data from these two participants were not included in the final analysis. Investigators did, however, allow them to complete the final three sessions, since they wished to continue and had not caused the lapse of time. Also, one control group participant dropped out, leaving six in that group. 
+<p>
+Percent change was compared using Kruskal-Wallis Chi Square at pre- and post-treatment for the experimental group and pre- and post- a no-treatment period of seven weeks for the control group. A 52.65% reduction in depression was found for the five experimental group participants, whereas an 11.12% reduction was found for the control group. The difference in percent change was significant (p<.04), and an extremely high effect size was found (Cohen's d=1.73). 
+<p>
+It is notable that if data from the two persons who lapsed longer than two weeks is included, the percent change is not significant, which suggests that if the treatment is used as recommended (i.e., with no more than a three-week lapse between sessions), it is likely to help, but if not used as recommended, it is unlikely to help. It is also notable that no subjects ever "no-showed" for a scheduled PST session with the software. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958NBPF00404</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cartreine, James</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition, Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/1n9z-1v57</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2003 Biomedical Research &amp; Countermeasures 03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/306f1975-0150-5881-95d6-a03fa2a7153d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/306f1975-0150-5881-95d6-a03fa2a7153d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

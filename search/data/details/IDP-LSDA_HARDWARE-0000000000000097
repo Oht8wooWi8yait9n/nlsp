@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space Linear Acceleration Mass Measurement Device (SLAMMD) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000097?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>963</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Space Linear Acceleration Mass Measurement Device (SLAMMD)</h1>
+        <div class="meta-id">Record ID: 963</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000097?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Space Linear Acceleration Mass Measurement Device (SLAMMD) is intended to provide an accurate means of determining the on-orbit mass of humans between the 5th percentile Japanese female and the 95th percentile American male.  SLAMMD is mounted in the Human Research Facility Rack in a 4 panel unit (PU) drawer (approximately 7 inches tall) and will utilize an 8 PU drawer (approximately 14 inches tall) for stowage.   It can be calibrated either to the right or to the left of the main 4 PU drawer, providing on-orbit flexibility. 
+<P>
+The guiding principle of SLAMMD follows that of Sir Isaac Newton's Second Law of Motion, F=ma, i.e., force is equal to mass times acceleration.  Therefore, to find mass, the acceleration is divided into the force: m=F/a.  For the HRF SLAMMD, the force is generated by two springs inside the SLAMMD 4 PU drawer.   The acceleration used in calculating the mass is actually a calculated average acceleration with regression analysis.  The acceleration is measured through the use of a precise optical instrument which detects the position versus time trajectory of the SLAMMD guide arm and a micro controller which collects the raw data and provides the precise timing.  The final computation is done via portable laptop computer with SLAMMD unique software. 
+<P>
+As mentioned earlier, the force is generated by two springs inside the 4 PU SLAMMD drawer.  Each spring has Vectran attached to one end that is fed around a separate pulley and back towards a central cam.  The cam is attached to a centrally located shaft which also has a flywheel and an encoder disk attached to it.  The cam is designed and constructed so that throughout the distance the springs stretch a constant force will be applied the central shaft.  This is an important design so that the mass can be calculated using the m=F/a equation.  The large flywheel has a Lanyard attached to it and is fed through a small slit on the SLAMMD front panel outside and attached to a connector.  The latch connector during SLAMMD operation is connected to a latch assembly on the SLAMMD guiding arm.  With the cam design and presently selected springs, the force &#34;pulling&#34; the guide arm assembly inward is therefore constant at 5.25 lbs (23.3 N). 
+<P>
+For human mass calculations, the astronaut wraps the legs around the leg support assembly like one would for a leg curl machine, align the stomach against the belly pad and either rest the head or chin on the head rest.  For calibration and control calculations, a calibration arm assembly is attached to the SLAMMD guide arm.  Using an 18 pound calibration mass at different lengths from the pivot point, different mass values can be simulated.  The range will be from 90 pounds to 240 pounds. 
+<P>
+The HRF SLAMMD is capable of: <BR>
+- Operating as a rack-mounted device<BR>
+- In-flight calibration.<BR>
+- Displaying mass values in pounds and kilograms<BR>
+- Being powered by the Human research Facility Rack (28 Vdc)<BR>
+- Storing and downloading data to a computer<BR>
+- Maintaining accuracy over the range of body masses from 90 to 240 lbs.  An accurate averaged measurement should be obtained from the device after no more than five runs<BR>
+- Determining the mass of a crewmember to within 0.5 pounds accuracy<BR>
+- Accommodating a minimum memory capacity of 250 KB or enough memory to store at least 145 runs<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Space Linear Acceleration Mass Measurement Device (SLAMMD)</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>Expedition 14, Expedition 15, Expedition 16, Expedition 17, Expedition 18, Expedition 19, Expedition 20, Expedition 21, Expedition 22, Expedition 23, Expedition 24, Expedition 25, Expedition 26, Expedition 27, Expedition 28, Expedition 29, Expedition 30, Expedition 31, Expedition 32, Expedition 33, Expedition 34, Expedition 35, Expedition 36, Expedition 37, Expedition 38, Expedition 39, Expedition 40, Expedition 41, Expedition 43, Expedition 44, Expedition 45, Expedition 46, Expedition 47, Expedition 48, Expedition 49, Expedition 50, Expedition 51, Expedition 52, Expedition 53, Expedition 54, Expedition 55, Expedition 56, Expedition 57, STS-69</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Dietary Intake Can Predict and Protect Against Changes in Bone Metabolism during Space Flight and Recovery; NASA Biochemical Profile Project; Nutritional Status Assessment; Quantification of In-flight Physical Changes - Anthropometry and Neutral Body Posture (NBP); Space Linear Acceleration Mass Measurement Device Evaluation</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>Version Used Onboard the International Space Station (ISS)</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000097?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000097?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

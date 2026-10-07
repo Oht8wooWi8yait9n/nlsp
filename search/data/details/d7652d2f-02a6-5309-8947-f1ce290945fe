@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skeletal Muscle Tissue Morphology and Biochemistry - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d7652d2f-02a6-5309-8947-f1ce290945fe?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>STM26</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Skeletal Muscle Tissue Morphology and Biochemistry</h1>
+        <div class="meta-id">Record ID: STM26</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d7652d2f-02a6-5309-8947-f1ce290945fe?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+The primary objective was the exposure to Artificial Gravity (AG) would maintain muscle protein synthesis in much the same way as moderate activity.  It was hypothesized that bed rest (BR) will reduce the mRNA levels and phosphorylation state of the various molecular markers relative to pre-BR state. AG will reverse these reductions in the molecular markers and or elevate them relative to the pre-BR response.
+<P>
+APPROACH:<BR>
+Whole-body protein metabolism was determined before, during, and after bed rest. These measures permited an investigation of the mechanisms affecting muscle protein metabolism. Ferrando et al. (1996) previously determined that a decline in muscle protein synthesis was the primary mechanism responsible for loss of muscle mass during bed rest. It was hypothesize that exposure to AG would maintain muscle protein synthesis in much the same way as moderate activity (Ferrando et al. 1997). With these methodologies, adaptations was determined during bed rest and compared to baseline (pre-bed rest) measures and recovery (post-bed rest) measures.
+<P>
+In order to determine the mechanisms associated with the protein balance state of the muscle among the experimental groups as determine by protein synthesis analyses, a number of molecular markers of protein balance was analyzed using tissue samples obtained from soleus and gastrocnemius muscles. Total protein content, total DNA, and total RNA was determined using standard biochemical analyses.  Provided that muscle tissue was available, skeletal Muscle insulin-like growth factor-1 was also measured. 
+<P>
+The measured outcomes of protein synthesis and molecular marker analyses was consistent with the hypotheses. 
+<P>
+RESULTS:<BR>
+Results indicative from post-absorptive venous blood samples and muscle biopsies of the vastus lateralis and soleus were obtained during a one hour pulse bolus infusion protocol.  Outcome measures included mixed muscle fractional synthesis and breakdown rates.  The experiment group experienced one hour of longitudinal loading of 2.5G at the feet, via a short-radius centrifuge during each day of bed rest.  Mixed muscle fractional synthesis in the control group was reduced by 48.5% in vastus lateralis muscle after 21 days of bed rest, whereas the experiment group maintained their rate of protein synthesis. A similar but non-significant change in fractional synthesis was noted for the soleus muscle.  No changes in muscle protein breakdown were observed. As a result, the one hour of daily exposure to artificial gravity maintained the rate of protein synthesis of the vastus lateralis and may represent an effective adjunct countermeasure to combat the loss of muscle mass and functional during extended space flight.
+<P>
+An additional goal of this experiment was to examine the effects of artificial gravity on skeletal muscle strength and key anabolic/catabolic markers known to regulate muscle mass. Centrifugation was produced using a short-arm centrifuge with the foot plate 220 cm from the center of rotation. The torque-velocity relationships of the knee extensors and plantar flexors of the ankle were determined pre and post treatment. Muscle biopsy samples were obtained from the vastus lateralis and soleus muscles which were used for a series of gene expression analyses (mRNA abundance) of key factors implicated in the anabolic versus catabolic state of the muscle. Pre and post torque-velocity determinations revealed greater decrements in knee extensor performance in the control versus the experiment group. The plantar flexors of the experiment subjects demonstrated a net gain in the torque-velocity relationship, whereas in the control group responses declined. The muscle fiber cross-sectional area decreased by 20% in the control group, and no losses were evident in the experiment group. Reverse transcription-polymerase chain reaction (RT-PCR) analyses of muscle biopsy specimens demonstrated that markers of growth and cytoskeletal integrity were higher in the experiment group, while catabolic markers were elevated in the control group. These patterns were seen in both muscles and conclude that the paradigms of the experiment group have the potential to maintain the functional, biochemical, and structural homeostasis of skeletal muscle in chronic unloading.
+<P>
+This experiment has concluded in ground-based studies sponsored by the National Aeronautics and Space Administration's Human Adaptation and Countermeasures Division. This experiment was conducted during Artificial Gravity Bed Rest Study. LSDA does not expect to receive results from this study.<P>
+For more detailed results please refer to the article which is freely available via the Journal of Applied Physiology's website, http://jap.physiology.org/. 
+
+ <end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>STM26</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Baldwin, Kenneth, Paddon-Jones, Douglas</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Artificial Gravity (AG)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Pilot&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ghz1-0915</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d7652d2f-02a6-5309-8947-f1ce290945fe?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d7652d2f-02a6-5309-8947-f1ce290945fe?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

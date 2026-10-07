@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Processing Motion Signals in Complex Environments - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d474b710-f2f5-5ccf-ab3b-f6f0423abe09?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91163</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Processing Motion Signals in Complex Environments</h1>
+        <div class="meta-id">Record ID: NAG91163</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d474b710-f2f5-5ccf-ab3b-f6f0423abe09?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+A human visual error in the judgment of trajectory likely contributed to a nearly catastrophic accident during a MIR docking attempt. The overall goal of this research is to increase the understanding of how humans perform visual trajectory estimation. Specifically, in a combination of empirical and computational studies, this project will determine how a neural network model incorporating a priori constraints (likely related to development or learning under normal gravity) might enhance the detection of motion trajectories, yet perhaps also promote errors when exposed to altered environments. While current neurophysiological models are able to predict human detection and discrimination of local motion signals, previous results have shown that human sensitivity to motion trajectories far exceeds the predicted performance of any model that linearly combines the output of independent local mechanisms. Thus, linear combinations of local motion signals by themselves are insufficient to guide human locomotion or to provide information about depth, object boundaries, and surface structure. A better understanding of the non-linear processes involved in trajectory estimation would allow the development of models that explain how an astronaut maneuvers a telecontrolled object or navigates in a cluttered environment with multiple moving objects, and how this might be adversely affected by microgravity. Prior to developing a focused proposal that addresses the issues of space flight affects on motion perception, this research is a critical first step in establishing a baseline for how trajectory estimation works under normal gravity, including any a priori expectations that humans may use under these conditions. This research will provide fundamental new knowledge that will improve models of human performance and provide new insights into human performance with potential future applications in space flight countermeasures. <p>
+APPROACH:<br>
+Motion information is critical for human locomotion and scene segmentation. Currently we have excellent neurophysiological models that are able to predict human detection and discrimination of local signals. Local motion signals are insufficient by themselves to guide human locomotion and to provide information about depth, object boundaries, and surface structure. This research is aimed at understanding the mechanisms underlying the combination of motion signals across space and time. A target moving on an extended trajectory amidst noise dots in Brownian motion is much more detectable than the sum of signals generated by independent motion energy units responding to the trajectory segments. This result suggests that facilitation occurs between motion units tuned to similar directions, lying along the trajectory path. The investigators explored whether the interaction between local motion units along the motion direction is mediated by contrast. One possibility is that contrast-driven signals from motion units early in the trajectory sequence are added to signals in subsequent units. If this were the case, then units later in the sequence would have a larger signal than those earlier in the sequence. To test this possibility, the investigators compared contrast discrimination thresholds for the first and third patches of a triplet of sequentially presented Gabor patches, aligned along the motion direction. According to this simple additive model, contrast increment thresholds for the third patch should be higher than thresholds for the first patch. The lack of a measurable effect on contrast thresholds for these various manipulations suggests that the pooling of signals along a trajectory is not mediated by contrast-driven signals. Instead, these results are consistent with models that propose that the facilitation of trajectory signals is achieved by a second-level network that chooses the strongest local motion signals and combines them if they occur in a spatio-temporal sequence consistent with a trajectory.  
+<P>
+RESULTS:<br>
+This study has introduced the concept of discriminability in search and has shown how the signal detection theory approach, based on noisy internal representations of these stimuli, accounts for the psychophysical data. Furthermore, adding a biologically plausible array of filters to this signal detection framework predicts search performance in dense visual displays. Visual attention has been implicated in searching for targets among distractors, but it is only recently that converging evidence from physiology and psychophysics has clarified the mechanisms by which attention influences search. Attention acts mainly be enhancing the response to the attended stimulus, and be restricting the range of units responding to the stimulus, so as to exclude distractors and noise. The response gain associated with signal enhancement seems to occur in a way that increases the discriminability of the signal. Thus attention improves visual search by increasing the response to the target and by excluding distractors. <end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91163</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Verghese, Preeti</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience, Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/03ma-9y05</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>98-HEDS-02</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d474b710-f2f5-5ccf-ab3b-f6f0423abe09?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d474b710-f2f5-5ccf-ab3b-f6f0423abe09?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visual Acuity in the Space Environment - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2dfab176-347f-5663-9f8e-1f89b0a756f7?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>S008</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Visual Acuity in the Space Environment</h1>
+        <div class="meta-id">Record ID: S008</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2dfab176-347f-5663-9f8e-1f89b0a756f7?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Sightings of small objects on the ground by Mercury astronauts initiated a controlled visual acuity experiment, which was conducted during Gemini missions 5 and 7.  The first objective was to measure the visual acuity of crewmembers before, during and after long duration space flights to determine the effects of a prolonged spacecraft environment.  The second objective was to test the use of basic visual acuity data, combined with measured optical properties, of ground objects and their natural lighting, as well as the atmosphere and spacecraft window, to predict the crew’s naked-eye visual capability to identify objects on the earth’s surface in daylight.
+<P>
+APPROACH:<BR>
+The experiment was performed on a total of four subjects from both Gemini 5 (subjects A and B) and Gemini 7 (subjects C and D).  The visual acuity of the crew was tested one or more times each day using an inflight vision tester, which was a binocular optical device containing a transilluminated array of 36 high-contrast and low-contrast rectangles.  Half of the rectangles were oriented vertically in the field of view, and half were oriented horizontally.  Rectangle size, contrast and orientation were randomized; the presentation was sequential; and the sequences were not repetitive.  Each rectangle was viewed singly at the center of a 30-degree adapting field, the apparent luminescence of which was 116 foot-lamberts.  The flight crew made forced-choice judgments of the orientation of each rectangle and indicated their responses by punching holes in a record card.<P>Rectangles presented for viewing within the inflight vision tester were reproduced photographically on a transparent disk.  Two series of rectangles were included, the major series set at a contrast of -1 and the minor series set at about one-fourth of this value.  The higher contrast series constituted the primary test and was chosen to simulate the expected range of apparent contrast presented by the ground panels to the eyes of the crewmen in orbit.  The series consisted of six rectangular sizes, which covered a sufficient range to guard against changes in the visual performance of the astronauts during the long duration flight.  Size intervals were small enough, however, to provide a sufficiently sensitive test.  Each of the six sizes were displayed four times to produce a sufficient statistical sample that would make the sensitivity of the inflight test comparable to that achieved with a clinical wall chart.  This sensitivity corresponds to the ability to separate performance at 20/15 from performance at 20/20.  A secondary test, which was included as a safeguard against the possibility that visual performance at low contrast might change in a different way, presented three widely different rectangle sizes four times each for the low-contrast array.<P>Ground observation sites were provided on the Gates Ranch, 40 miles north of Laredo, Texas, and on the Woodleigh Ranch, 90 miles south of Carnarvon, Australia.  At the Texas site, 12 squares of plowed, graded and raked soil 2000 by 2000 feet were arranged in a matrix of 4 squares deep and 3 squares wide.  White rectangles of Styrofoam-coated wallboard were laid out in each square.  Their length decreased in a uniform logarithmic progression from 610 feet in the northwest corner to 152 feet in the southwest corner of the array.  Each of the 12 rectangles was oriented in one of four positions (north-south, east-west, or one of two diagonal positions), and the orientations were random within the series of 12.  Advance knowledge of the rectangle orientations was withheld from the flight crew, since their task was to report the orientations.  The rectangle orientations were changed between passes and their sizes were adjusted in accordance with the anticipated slant range, solar elevation and visual performance of the astronauts on preceding passes.  The Australian observation site was similar to the Texas site.<P>Experience gained on Gemini 5 pointed to the need for a more prominent orientation marking at the ground observation sites during Gemini 7.  This was achieved by placing east-to-west strips of crushed white limestone 26 feet wide and 2000 feet long across the center and south rows of background squares.  The largest and smallest rectangles used during Gemini 7 were of the same size as those used in Gemini 5.  <P>Ground site instrumentation consisted of a single tripod-mounted, multipurpose, recording photoelectric photometer capable of obtaining all the data needed to specify the apparent contrast of the pattern as seen from the spacecraft at the moment of observation.  The apparent luminance of the background squares needed to evaluate the contrast loss from the spacecraft window was also ascertained by this instrument.  A 14-foot-high mobile tower, constructed of metal scaffolding and attached to a truck, supported the tripod-mounted photometer high enough above the ground to enable the plowed surface of the background squares to be measured properly.<P>Design of the inflight vision tester, as well as the ground sighting experiments, and the interpretation of the results from both experiments, required that a preflight physiological baseline be obtained for the crewmembers.  For this purpose a NASA van was modified to serve as a portable vision research laboratory to train the astronauts to perform visual acuity threshold measurements and to obtain a preflight physiological baseline descriptive of their visual performance and its statistical fluctuations.
+<P>
+RESULTS:<BR>
+Inflight Vision Testing<BR>A comparison of the correct scores made by the Gemini 5 and 7 crewmembers using the vision tester both preflight and inflight ascertained whether visual performances differed in the environments or changed during the missions.  All Student t-tests show no significant difference in means.  All Snedecor’s F tests showed no significant difference in variances at the 0.05 level, with the exception of crewmember A’s high-contrast comparison of Gemini 5 data, which showed no significant difference at the 0.01 level, and crewmember C’s low-contrast comparison of Gemini 7 data, which showed a weakly significant difference at the 0.01 level.<P>All Student t-test and Snedecor’s F test comparisons between the inflight data at the beginning of the mission with those at the end showed no significant differences at the 0.05 level, with the exception of the F test on crewmember B’s low-contrast comparison of Gemini 5 data, which showed no significant contrast at the 0.01 level, and crewmember C’s low-contrast comparison of Gemini 7 data, which showed no significant contrast at the 0.01 level.<P>Gemini 5 Ground Observations<BR>Quantitative observation of ground markings was achieved only once during Gemini 5.  This observation occurred during revolution 48 at the ground observation site near Laredo, Texas, on the third day of the flight.  Despite early identification of the smoke marker by the command pilot and further identification of the target pattern well before the point of closest approach, the pilot could not acquire the markings until the spacecraft had been turned to eliminate sunlight on his window.  Telemetry records from the inflight photometer show that the pilot’s window produced a heavy veil of scattered light until the spacecraft was rotated.  Elimination of the morning sun on the pilot’s window enabled him to make visual contact with the pattern in time to observe the orientation of some rectangles.  During the approach, the reduction of contrast due to light scattered by the window was more severe than that due to light scattered by the atmosphere.  An ambiguity exists between the transcription of the radio report made at the time of the pass and the written record in the flight log.  The writing was made "blind" while the pilot was actually looking at the pattern.  The orientation of the rectangles in the sixth and seventh squares appears to have been correctly noted.  The verbal report given several seconds later correctly records the orientation of the rectangle in the sixth square, if it is assumed that the spoken words describe the appearance of the pattern as seen from a position east of the array while going away from the site.<P>Despite the hurried nature of the only successful quantitative observation of a ground site during Gemini 5, there seems to be a reasonable probability that the sighting was a valid indication of the pilot’s correctly discriminating the rectangles in the sixth and seventh squares.  Since he did not respond to squares 8 through 12, it can only be inferred that his threshold lay at square 6 or higher.  The pilot’s visual performance at the time of revolution 48 was within the statistical range of his preflight visual performance.<P>Gemini 7 Ground Observations<BR>Observations of the Texas ground-pattern site were made on revolutions 16, 17, and 31 under very favorable weather conditions.  Heavy clouds blanketed the site throughout the remainder of the mission, however, and no further observations of the site were possible.  Contamination of the outer surface of the pilot’s window made observation of the ground pattern difficult and the result uncertain.  The contamination, which was observed to have occurred during launch, was mapped during revolution 19 by means of a window scan with the inflight photometer.<P>The command pilot’s window was not measurably contaminated on its inboard side.  Successful observations of the ground pattern were made by the command pilot on revolutions 17 and 31 (flights days 2 and 3) at 27:04:49 and 49:26:48 GET (Ground Elapsed Time), respectively, through this clear portion of his window.  Direct sunlight did not fall on the window during those observations.<P>In conclusion, the stated objectives of the visual acuity experiment were achieved successfully.  Data from the inflight vision tester show that change was not detected in the visual performance of the Gemini 5 and 7 crewmembers.  Results from observations of the ground site near Laredo, Texas, confirmed that the visual performance of the astronauts during space flight was within the statistical range of their preflight visual performance and demonstrated that laboratory visual data can be combined with environmental optical data to predict the limiting visual capability of astronauts to discriminate small objects on the surface of the Earth in daylight.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>S008</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Duntley, Seibert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Gemini</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience, Clinical medicine, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Gemini 5&#x27;], [&#x27;Gemini 7&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/acn2-n773</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2dfab176-347f-5663-9f8e-1f89b0a756f7?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2dfab176-347f-5663-9f8e-1f89b0a756f7?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

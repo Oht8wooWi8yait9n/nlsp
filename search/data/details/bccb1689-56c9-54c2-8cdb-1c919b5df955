@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hypovolemia as a Model of Space Flight: Cardiovascular Exercise Effects and Countermeasures - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/bccb1689-56c9-54c2-8cdb-1c919b5df955?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>EORS_HVS</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Hypovolemia as a Model of Space Flight: Cardiovascular Exercise Effects and Countermeasures</h1>
+        <div class="meta-id">Record ID: EORS_HVS</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/bccb1689-56c9-54c2-8cdb-1c919b5df955?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Reduced exercise capacity, orthostatic tolerance, and plasma volume are common observances following space flight and bed rest. The Johnson Space Center Cardiovascular Laboratory (CVL) investigated the relationship between orthostatic hypotension and plasma volume by pharmacologically inducing hypovolemia in normal subjects. The Exercise Physiology Laboratory (EXL) sought to extend this information to understanding the factors involved in decreased exercise capacity. Following orthostatic testing in normal and hypovolemic conditions, a subset of the subjects recruited performed a graded cycle exercise test to volitional fatigue to determine peak oxygen consumption (VO2pk). 
+<p>
+The CVL was responsible for the overall administration of the project, and the EXL was responsible for the additional measurements and analyses. Specifically, the CVL recruited and instructed subjects, scheduled the testing, and was responsible for measurement of plasma/blood volume and orthostatic tolerance. The EXL was responsible for administering the test of exercise capacity using a cycle ergometer protocol similar to that used for International Space Station (ISS) and Space Shuttle (STS) astronauts. In addition to the ISS and Flight Analog Project standard measures during the cycle ergometer test, the CVL obtained echocardiographic measures of cardiac function and plasma catecholamines, and the EXL measured blood lactate concentrations and peripheral muscle metabolism by near infrared spectroscopy (NIRS). 
+<p>
+Oxygen consumption, heart rate, rating of perceived exertion, and blood pressure were measured per standard laboratory protocols. Additionally, echocardiographic measures of stroke volume, systolic and diastolic function, blood lactate, plasma catecholamines, and peripheral muscle metabolism by NIRS was measured. Data from these testing sessions assist in understanding the factors associated with reduced exercise capacity after space flight; served as a basis of comparison for responses to similar tests after space flight and bed rest; and aided in the continued development of NIRS as a non-invasive metabolic measurement system for space flight and extravehicular activities. 
+<p>
+The primary purpose of this study was to determine the specific effects of decreased plasma volume, independent of deconditioning, on aerobic exercise capacity (VO2pk), cardiac function, and peripheral muscle metabolism. The investigators also sought to collect pilot data regarding two pharmacological interventions that are being considered for the treatment of post-flight orthostatic hypotension that may similarly protect VO2pk. The secondary purpose of this project was to validate the use of a National Space Biomedical Research Institute (NSBRI) funded sensor as a surrogate measure of oxygen consumption in an analogue of space flight and as non-invasive method to determine anaerobic threshold. 
+<p>
+<i>Specific Aims were:</i> 
+<p>
+(1) To determine whether central cardiac and peripheral skeletal indices of exercise performance are related to reduced VO2pk and anaerobic threshold in subjects whose plasma volume is reduced.
+<p>
+(2) To determine whether near infrared spectroscopy can be used to non-invasively, unobtrusively measure oxygen consumption during cycle ergometer exercise in normal and hypovolemic conditions. 
+<p>
+APPROACH:<br>
+Subjects gave written informed consent prior to participation. Twelve healthy subjects (8 men and 4 women), passed a modified Air Force Class III physical examination, and volunteered to participate in this study. Subjects received written and verbal explanations of the testing procedures and provided written documentation of informed consent prior to participation. Study protocols and procedures were reviewed and approved by the NASA Johnson Space Center Committee for the Protection of Human Subjects.
+<p>
+Following a familiarization session, subjects participated in testing in both the normovolemic and hypovolemic conditions in cross-over design. For the seven days prior to the normovolemia testing day, subjects were encouraged to drink fluids ad libitum and consume a normal diet supplemented with 2 g of sodium each day. To induce hypovolemia, subjects received a single dose of furosemide and consumed a low salt diet provided by the investigators. The order of the conditions was not randomly assigned initially due to the constraints of a companion study, but the investigators attempted to balance the order of the test conditions. Seven of the 12 subjects completed testing in the normovolemic condition first.
+<p>
+<i>Hypovolemia</i>
+<p>
+Subjects received a single dose of furosemide through a catheter in an antecubital vein.  Blood pressure and urine output were monitored during and after the infusion until they had stabilized, typically one to two hours. Following the infusion, the catheter was removed and subjects consumed a controlled, low-sodium, caffeine-free diet for 30 hours.
+<p>
+The diet was developed by dieticians at Memorial Hermann Hospital General Clinical Research Center (Houston, TX), and the food was prepared by the Space Food Systems Laboratory at Johnson Space Center. The diet was limited to 600 calories and 250 mg sodium per day. Subjects were allowed to drink sodium-free bottled water ad libitum.
+<p>
+<i>Plasma Volume</i>
+<p>
+Plasma volume was measured using the carbon monoxide rebreathing technique, as previously described. In short, an intravenous catheter was inserted into an antecubital vein. After 20 minutes of supine rest, a 3 mL baseline blood sample was collected. Thereafter, subjects breathed 100% oxygen for two minutes using a closed breathing circuit with a two-way non-rebreathing valve. Sixty mL of carbon monoxide were then added to the system and rebreathed for 10 minutes, followed by the collections of a second blood sample. 
+<p>
+<i>Graded Exercise Test</i>
+<p>
+Subjects reported to the laboratory in comfortable exercise clothes which allowed access to the chest for echocardiographic measures and 12-lead ECG and to the thigh for near infrared spectroscopy (NIRS) measurements. Subjects performed the exercise test in the upright posture to simulate orthostatic characteristics of normal gravity exercise following space flight exposure. Prior to the start of the test, subjects were instrumented with electrodes for the monitoring of 12-lead electrocardiogram (ECG) and heart rate. Also, a small non-invasive NIRS sensor was adhered to the skin overlying the mid-point of <i>vastus lateralis</i>, and a catheter was inserted into the antecubital vein by a registered nurse to obtain resting, exercise, and immediate post-exercise blood samples.
+<p>
+During the cycle ergometer test, heart rate, metabolic rate, and NIRS were continuously measured. Stroke volume and cardiac output were measured halfway through each stage. Blood pressure, Rating of Perceive Exertion (Borg Scale, 6-20), and blood lactate were obtained near the end of each stage. Blood also was drawn from the catheter during exercise to determine plasma catecholamines, blood glucose, serum electrolytes, hemoglobin, hematocrit, and carboxy-hemoglobin at exercise stages corresponding to approximately 75% of VO2pk, estimated from RPE reported in the previous exercise stage. Based upon data previously collected in the investigator’s laboratory using the same testing protocol, the investigators estimated that the 75% VO2pk exercise stage would correspond to the exercise stage following that which a subject reported a RPE of 11 or greater. The exercise stage in which blood was drawn was determined in the first exercise test irrespective of whether the subject was normo- or hypovolemic.
+<p>
+RESULTS:<br>
+The primary finding of this study was that plasma volume loss to levels similar to those reported following short-duration Space Shuttle missions does not result in a decrease in VO2pk as great as that previously observed following space flight. In this study, VO2pk during a graded exercise test on a cycle ergometer, using a protocol similar to that used in previous space flight investigation conducted at JSC, was eight percent lower during pharmacologically-induced hypovolemia, but this is only one half to one third that which has been reported after Space Shuttle missions. Additionally, submaximal stroke volume and cardiac output were lower during hypovolemia, as has been observed after space flight, but other symptoms of deconditioning such as elevated submaximal heart rate, respiratory exchange, and ventilation rate, were not evident.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>EORS_HVS</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lee, Stuart</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Pharmacology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ECP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/jzbt-8v31</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/bccb1689-56c9-54c2-8cdb-1c919b5df955?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/bccb1689-56c9-54c2-8cdb-1c919b5df955?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

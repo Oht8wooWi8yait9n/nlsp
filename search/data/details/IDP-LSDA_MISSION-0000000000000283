@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STS-55 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000283?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>STS-55</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>STS-55</h1>
+        <div class="meta-id">Record ID: STS-55</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000283?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The German Spacelab Mission D-2 was the second Shuttle mission sponsored by Germany (its precursor mission, D-1, flew on board STS-61A in October, 1985).  A wide range of experiments encompassing numerous research disciplines were conducted, including Materials Science, Life Sciences, Earth Observations, Atmospheric Physics, Astronomy, and Technology.  The D-2 payload was launched on board the Space Shuttle Columbia on April 26, 1993, from Kennedy Space Center in Florida.  D-2 marked the 55th flight in the Space Shuttle program and the 14th flight of the orbiter Columbia.  The orbiter crew included Commander Steven R. Nagel, Pilot Terence T. Henricks, Mission Specialists Jerry L. Ross, Charles J. Precourt, and Dr. Bernard A. Harris, Jr., and Payload Specialists Dr. Ulrich Walter and Hans Schlegel.<P>The D-2 mission utilized the orbiting laboratory Spacelab, and its primary mission goal was to conduct 88 scientific investigations.  After ten days of scientific research and 159 orbits of the Earth, the D-2 mission landed at Edwards Air Force Base in California on May 6, 1993.<P>Mission management was the responsibility of the German Aerospace Research Establishment (DLR).  The overall program responsibility for the D-2 mission, including finance, objectives, international agreements etc., belonged to the German Space Agency, DARA.  Numerous universities, research institutes and industrial concerns in Germany and other countries, contributed to the scientific experiment program.  The cooperation between NASA and DARA/DLR went beyond the provision of the Shuttle/Spacelab system; two of the experiments were supported by NASA.  Furthermore, the European Space Agency (ESA), the French Space Agency (CNES) and the Japanese Organization MITI also took part in the mission.  <P>For the second time in the Space Shuttle program, the payload was managed by an agency other than NASA (the first was D-1).  The Payload Operations Control Center, which supported all payload activities during the mission, was located for the first time outside the U.S. in the German city of Oberpfaffenhofen, near Munich.  <P>The life sciences research conducted during the D-2 mission included human life sciences, biology and radiation experiments.  Anthrorack was a Spacelab rack designed to support 20 different human life sciences investigations. Cardiovascular, pulmonary and hormonal adaptation were investigated by a set of noninvasive measurements and stimulation equipment, like the Ultrasound Monitoring System, and the Respiratory Monitoring System, as well as equipment for exercise, like the bicycle ergometer.<P>Aside from human studies, 14 biology investigations were conducted in the Biolabor rack.  Cell functions, gravisensitivity of cells and plants and biological processing investigations that studied electrofusion processes were the three major focuses of the biological experiments.<P>Five radiation investigations studied the effects of UV-radiation and HZE particles, especially heavy ions, on different biological specimens.  These two kinds of radiation do not reach the Earth's surface, but UV-radiation is believed to have influenced evolution and the early history of life on Earth, before the protective atmosphere developed.  HZE radiation is a major concern for long-duration space flight missions.<P>Two human life sciences experiments were funded by NASA: the Baroreflex experiment and the Cardiovascular Regulation experiment.  The Baroreflex experiment investigated the relationship between postflight cardiovascular deconditioning and the baroreflex.  Cardiovascular deconditioning is measured by a characteristic fall in blood pressure when the astronauts stand up after space flight.  This effect is associated with the decreased work load of the heart during space flight, and the baroreflex, which acts to maintain appropriate blood pressure throughout the body. <P>The second U.S. experiment, Cardiovascular Regulation at Microgravity, examined mechanisms involved in cardiovascular responses of the body to microgravity and readaptation to Earth gravity.  The responses of crewmembers to saline loading, a method of rapidly expanding the intravascular volume, were studied under microgravity conditions to investigate the mechanisms responsible for postflight cardiovascular deconditioning and orthostatic intolerance.<P>Additional life sciences experiments performed during the STS-55 mission were those classified as Detailed Supplementary Objectives (DSOs).  A DSO is a NASA-sponsored investigation performed by Space Shuttle crewmembers, who serve as the test subjects.  These studies are designed to require minimal crew time, power and stowage.  Biomedical DSOs focus on operational concerns, including space motion sickness, cardiovascular deconditioning, muscle loss, changes in coordination and balance strategies, radiation exposure, pharmacokinetics and changes in the body's biochemistry.<P>The materials science investigations encompassed the study of fluid physics by observing the behavior of fluid columns under microgravity conditions.  Nucleation and solidification processes of metallic alloys were investigated, as was crystal growth.  The atmospheric physics investigation studied the interaction of the space environment with different materials.  The Astronomy studies included observations of the Milky Way Galaxy, and the earth observation studies tested photogrammatic and thematic mapping of the Earth's surface.  Finally, technology investigations studied robotics, telescience and residual acceleration and vibrations in the Spacelab.<P>The D-2 mission was one of the most ambitious Spacelab missions performed with 88 experiments from the science disciplines of materials science, life sciences, earth observation, astronomy and technology.  With researchers from eleven countries around the world, the mission was a premier example of an international effort to increase the knowledge of life and other sciences in space.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>STS-55</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1993</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>10</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Human, Bacteria, Hay bacillus, Horse chestnut, South African Toad, Cichlid fish, Garden cress, Tobacco, Digitalis, Sunflower, Yeast, Fungus</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000283?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000283?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

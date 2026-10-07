@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Head-eye Coordination During Simulated Orbiter Landings - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2b12bdd2-d97e-5403-bdfb-4eb29a82ffdf?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNJ04HF51G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Head-eye Coordination During Simulated Orbiter Landings</h1>
+        <div class="meta-id">Record ID: NNJ04HF51G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2b12bdd2-d97e-5403-bdfb-4eb29a82ffdf?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Up to 90 percent of crewmembers experience spatial disorientation during reentry and landing of the Orbiter, with prevalence proportional to the length of the mission. The possibility of extending shuttle missions is currently under investigation, and it is likely that the incidence and severity of spatial disorientation during reentry will increase with flight duration. This is a critical issue, as Orbiter landing data shows a decrement in performance following microgravity exposure compared to simulated landings in the Vertical Motion Simulator (VMS) at NASA Ames and the NASA Shuttle Training Aircraft. Despite the potential impact on landing operations, the basis of microgravity-related spatial disorientation is poorly understood. The aim of this proposal was to obtain basic data on the characteristics of head and eye movements during simulated Orbiter landings. This information was used to determine landing tasks that may induce spatial disorientation. In addition, two paradigms were used to model spatial disorientation due to microgravity exposure: 1) long-duration hyper-gravity exposure in a centrifuge, and 2) galvanic vestibular stimulation (GVS). Preliminary results suggest that post-centrifuge disorientation, and per-GVS exposure, generate symptoms of spatial disorientation comparable to space flight. 
+<p>
+This project addressed several questions from the Bioastronautics roadmap concerning disorientation and vertigo during g-level transitions, such as experienced during landing. Development of a ground-based model helped improve shuttle landing performance in the short term and significantly improved mission safety, as several SD incidents impacting Orbiter safety during landing have been documented. In the long term, the SD model developed by this project has applications to future long-duration missions to ensure pilots can monitor automatic landings, and can take manual control of the space craft in off-nominal situations. The SD model may also be used to train astronauts for emergency egress and EVA on a planetary body after g-level transitions.
+<P>
+APPROACH:<br>
+Simulated landings in the VMS were performed both post-centrifugation and with GVS, to test the hypothesis that spatial disorientation diminishes head-eye coordination and landing performance. This served as a model for the deterioration in pilot performance during reentry, and provided a training regimen to allow commanders and pilots to experience spatial disorientation in a simulator. To develop a model of spatial disorientation (SD) due to microgravity exposure that can be used to familiarize shuttle pilots with SD symptoms during simulated landings, as well as a training tool to improve landing performance after space flight.
+<p>
+RESULTS:<br>
+Fulfillment of the project aims was carried out in four phases.<br>
+<i>Phase I: Measurement of head and eye movement during vehicle operation</i><br>
+The investigators developed a laptop-based system which simultaneously measures 6 degree-of-freedom (6DOF - triaxial angular rate and triaxial linear acceleration) head movement (using Inertial measurement Units, IMUs), 3D eye movement (yaw, pitch, and roll), and 6 DOF motion of a vehicle (or simulator cabin, using an IMU).
+<p>
+<i>Phase II: Head-eye coordination during simulated shuttle landings</i><br>
+The investigators obtained head and eye movement data from six pilots during simulated shuttle landings in an Airbus A340 level-D flight simulator at the Airbus flight training centre in Toulouse, France. In addition, head and eye movements were obtained from a NASA test pilot performing a shuttle landing in the VMS at NASA Ames. During the HAC maneuver (where the shuttle banks around a virtual cylinder to align with the runway) the head and eyes rolled towards the visual horizon with a combined gain of 0.14 of bank angle. Pilots alternated fixation between the instruments and the runway during final approach, almost exclusively focusing on the runway after preflare. Optokinetic nystagmus was observed during rollout. During final approach a Heads-Up Display (HUD) reduced pitch head and eye movement. Roll tilt of the head and eyes during the HAC tended to align the retina with the visual horizon. Overlaying critical flight information and the approaching runway with the HUD reduced pitch head and eye movement during orbiter final approach in the VMS relative to the A340 (no HUD installed). 
+<p>
+<i>Phase III: Development of ground-based analog of spatial disorientation after space flight </i><br>
+In the initial study description the investigators proposed using long-term (60 min) 3 Gx centrifugation (3-g linear acceleration applied along the naso-occipital axis) to replicate the sensorimotor effects of microgravity exposure, as developed by a Dutch group at TNO. Although centrifuged subjects exhibited sensorimotor effects consistent with those observed post-flight the effects were short-lived (<60 min) and often accompanied by motion sickness; 40 percent of veteran astronauts tested experienced nausea and vomiting following one hour of 3-Gx centrifugation. The logistical complexity of hyper-g centrifugation and the high incidence of motion sickness limited its value as an analog of post-flight sensorimotor deficits. They therefore developed a novel system utilizing electrical stimulation of the vestibular nerve (Galvanic vestibular stimulation - GVS) to replicate the effects of space flight on neurological function. The current waveform used in their GVS analog, a pseudorandom sum of sines, was devised such that sensorimotor performance of normal subjects exposed to acute GVS replicated post-landing data from shuttle and International Space Station (ISS) astronauts, namely postural sway, locomotor impairment, and decrements in dynamic visual acuity. Subjective validation was provided by seven veteran astronauts (5 shuttle, 1 ISS, 1 Skylab), who reported that the motor effects and illusory sensations of movement generated by the GVS analog were remarkably similar to their post-landing experience.
+<p>
+<i>Phase IV: Validation of GVS as an analog of post-flight spatial disorientation </i><br>
+The aim of this study was to validate an analog of the sensorimotor effects of microgravity, utilizing pseudorandom bilateral bipolar Galvanic vestibular stimulation (GVS), during shuttle landing simulations. Pilot (N=11) performance was assessed during simulated shuttle landings in the Vertical Motion Simulator at NASA Ames (used for shuttle pilot training). Subjects performed eight pairs of identical landing profiles (final approach and touchdown) with and without GVS, presented in a pseudorandom order. Target touchdown speed was on target (204 kts) without GVS but increased significantly (P=0.02) during GVS exposure and was at the upper limit (209 kts) of the target range. Unsuccessful (crash) landings increased from 2.3 percent without GVS to nine percent with GVS. Hard landings, with touchdown speed in the 'red' (unacceptable) range (>214 kts), almost doubled from 15.9 percent without GVS to 30.7 percent with GVS. GVS was an effective analog of decrements in post-flight shuttle pilot performance. The ability of GVS to replicate a wide range of post-flight sensorimotor deficits (postural, locomotor, oculomotor, fine motor) supports the hypothesis that central changes in processing of low-frequency otolith input underlie space adaptation syndrome. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNJ04HF51G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Moore, Steven</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0642-c961</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NRA-03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2b12bdd2-d97e-5403-bdfb-4eb29a82ffdf?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2b12bdd2-d97e-5403-bdfb-4eb29a82ffdf?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

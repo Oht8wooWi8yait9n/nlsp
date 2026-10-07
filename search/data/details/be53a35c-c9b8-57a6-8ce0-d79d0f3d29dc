@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluation of Samples Obtained from the Urine Monitoring System - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/be53a35c-c9b8-57a6-8ce0-d79d0f3d29dc?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 323</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Evaluation of Samples Obtained from the Urine Monitoring System</h1>
+        <div class="meta-id">Record ID: DSO 323</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/be53a35c-c9b8-57a6-8ce0-d79d0f3d29dc?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The Urine Monitoring System (UMS) provides for collection, volume measurement, and sampling of void-by-void urine in 0-g or 1-g environments. However, UMS data gathered from STS-40 (SLS-1) indicated that verification of in-flight sample dilution from residual fluids was required along with volume measurement. This DSO was flown on two missions, STS-47 and STS-55, with the objective to determine if the in-flight sample dilution and volume measurement by the UMS was comparable to the method used in ground-based testing.  
+<p>
+APPROACH:<br>
+Evaluation of the UMS sample dilution was performed by first comparing lithium solution concentrations before and after dispensing into the UMS, then determining the lithium recovery, thus the dilution effect of remaining  fluids. One mL of lithium chloride solution (250 mmol/L lithium), used as a volume marker, was added to Shuttle beverage pouches then diluted with different volumes of water. These solutions were poured into the UMS, then samples were obtained for lithium analysis.  Electrolytes and specific gravity were determined on these samples, and recoveries were also calculated for each analyte. Volume measurement evaluation was performed by comparing UMS mass readouts to known volumes either measured during ground-based testing or calculated from lithium concentrations of in-flight samples collected before dispensing into the UMS.
+<p>
+Three sample configurations were used for STS-47 UMS testing: (1) 24 Shuttle beverage pouches containing lithium chloride marker, (2) three Shuttle beverage pouches containing 240 or 360 mL of saline solution, and (3) three urine voids each collected into Contingency Urine Collection Assemblies CUCAs. Preflight lithium-filled pouches were diluted with 120, 240, or 360 mL of milliQ water and dispensed into the UMS. Water (180 mL) was decanted into the UMS between some of the lithium samples to determine the amount of residual lithium remaining after the flush cycle. Saline and urine void configurations were not included, but were later added for in-flight and postflight testing. In-flight and postflight lithium-filled pouches were diluted with 4, 8, 12, or 16 ounces of galley water, while postflight pouches were diluted with 120, 240, 360, or 480 mL. Each sample was dispensed into the UMS. Second syringe aliquots were collected on some of the UMS samples. Saline and urine void configurations were included for testing. 
+<p>
+Two sample configurations were used for STS-55 UMS testing (saline solution samples were not configured for testing): 15-18 Shuttle beverage pouches containing lithium chloride marker, and 14-15 urine voids each collected into CUCAs.  Lithium-filled pouches were diluted preflight and postflight with 120, 250, 360, or 480 mL of milliQ water (postflight also included 700 mL volume). In-flight samples were filled with 4, 8, 12, or 16 ounces of galley water. During the flight, some bags were not filled to specified volumes which resulted from low water pressure. Lithium-filled pouches were diluted preflight and postflight with 120, 250, 360, or 480 mL of milliQ water (postflight also included 700 mL volume). In-flight samples were filled with 4, 8, 12, or 16 ounces of galley water. During the flight, some bags were not filled to specified volumes which resulted from low water pressure.  
+<p>
+RESULTS:<br>
+<i>STS-47:</i><br>
+The UMS performance on STS-47 (SL-J) was considered nominal until postflight inspection of the UMS flush water showed the presence of urine instead of clean water. It was later confirmed that the UMS flush water line was improperly connected in flight to the waste quick disconnect (QD). Postflight analysis of in-flight DSO 323 lithium samples confirmed the presence of urine constituents. It was expected that the dilution evaluation portion of this DSO would not result in reliable data due to lithium contamination from the waste water. Percent lithium recoveries were generally higher than STS-55 data, indicating probable lithium contamination, although postflight lithium testing of the in-flight waste water samples confirmed negligible lithium concentrations. In general, in-flight lithium recoveries were lower than pre- or postflight data, with greater dilution present in the smallest volume category (120 mL).
+<p>
+In-flight volume calculations (calculated UMS volume dispensed) derived from lithium concentration of diluted samples dispensed into the UMS were not affected by urine contamination from the flush water.
+These calculated volumes were slightly higher than corresponding UMS mass readings. In-flight mass readings were slightly lower than ground-based mass readings of similar volumes.
+<p>
+Comparison of saline and urine void data for in-flight and postflight testing periods was inconclusive due to in-flight urine contamination from the waste water and also inconsistent and insufficient postflight data.
+<p>
+<i>STS-55</i><br>
+Lithium data showed decreased percent recoveries with lower volumes. Second syringe samples of urine and lithium were less dilute than first syringe samples. Higher percent recoveries were noted in preflight samples versus in-flight and postflight samples. Calculated UMS volumes dispensed were slightly higher than adjusted UMS mass readings. Mass readings were adjusted according to in-flight calibration data and appeared to be more linear as compared to ST8-47 data (in-flight calibration not performed).
+<p>
+<i>Conclusions</i><br>
+In-flight and ground study comparisons of UMS samples show that dilution of samples is more pronounced and is more varied with lower sample volumes, as expected. In general, in-flight samples were more diluted and had lower mass readings than ground samples with similar volumes.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 323</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lane, Helen</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-47&#x27;], [&#x27;STS-55&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/w381-qq48</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/be53a35c-c9b8-57a6-8ce0-d79d0f3d29dc?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/be53a35c-c9b8-57a6-8ce0-d79d0f3d29dc?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

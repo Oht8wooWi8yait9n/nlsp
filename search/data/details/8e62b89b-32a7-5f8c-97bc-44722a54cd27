@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Individual Susceptibility to Postflight Orthostatic Hypotension - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/8e62b89b-32a7-5f8c-97bc-44722a54cd27?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 496</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Individual Susceptibility to Postflight Orthostatic Hypotension</h1>
+        <div class="meta-id">Record ID: DSO 496</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/8e62b89b-32a7-5f8c-97bc-44722a54cd27?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+One of the most important changes negatively affecting flight operations and crew safety is the postflight loss of orthostatic tolerance. Astronauts who have orthostatic intolerance have difficulty ambulating independently, experience presyncope (lightheadedness) or syncope (fainting), and may be impaired in their ability to egress the Shuttle after landing. Recent evidence implicates postflight autonomic dysfunction as a contributor to orthostatic intolerance. Susceptibility to postflight orthostatic intolerance is highly individual. Some astronauts are affected little; others have severe symptoms. Women are more often affected than men. The goal of this experiment was to explain mechanisms responsible for these differences in order to customize countermeasure protocols. 
+<p>
+APPROACH:<br>
+Preflight:<br>
+A familiarization session was completed at L-6 months. There was one preflight data collection at approximately L-10 days. Pretest constraints included no medications within 24 hours, no caffeine within 12 hours, and no heavy meal within 4 hours (light snack of complex carbohydrates within 2 hours is desirable). 
+<p>
+Testing consisted of the following:<br>
+1) Instrumentation: Participants were instrumented with an electrocardiogram, beat-to-beat finger blood pressure device, and manual blood pressure cuff. Indwelling catheters were inserted in arms, one for infusions and one for withdrawal of blood samples. A total of 28 ml of blood was drawn during each test session.<br>
+2) Supine Rest Period: After catheter insertions, a 20-minute rest period (supine on tilt table) was given. After the rest period, a baseline blood sample (13 ml total) was drawn and a saliva sample taken.<br>
+3) Carbon Monoxide Rebreathe (CORB) Test: A CORB test, for determination of blood volume, followed the rest period and lasted approximately 10 minutes. Blood draws (6 ml total) were made at the beginning and end of the CORB test.<br>
+4) Tvramine Injection: After the CORB, echocardiographic measurements were made and physiological parameters were measured for three minutes. A dose of 2.0 mg of tyramine was injected via catheter; a blood draw (3 ml) followed 1 minute after injection. After a 3-minute rest period, 4.0 mg of tyramine was injected via catheter; a 3 ml blood draw followed 1 minute after injection. All measures continued during the one minute period following each injection. A 10-minute rest period followed the tyramine injections. Physiological parameters were monitored during the rest period.<br>
+5) Phenylephrine Injection: After the 10-minute rest period, echocardiographic and physiological parameter measurements resumed, and a test dose (based on 75 ug/meter2 of body surface area) of phenylephrine was injected via catheter. After a rest period, a second phenylephrine dose (based on 150 ug/meter2 of body surface area) was injected via catheter. (No blood draws were made during the phenylephrine phase of the testing.) This was followed by a 10 minute rest period.<br>
+6) Tilt Test: At the end of the 10-minute rest period, physiological measurements resumed for 2 minutes in the supine position. Echocardiographic measurements resumed prior to the subject being moved, using the tilt table, to the vertical position. This vertical position (80 degrees upright) lasted for 10 minutes unless presyncopal symptoms occurred. Just prior to the end of the test, a 3 ml blood sample was drawn.<br>
+<p>
+Test Termination Criteria:<br>
+1) A sudden drop in heart rate<br>
+2) A significant drop in blood pressure<br> 
+3) Significant cardiac arrhythmias<br>
+4) Severe nausea, clammy skin, profuse sweating, pallor, lightheadedness, dizziness, or tingling<br>
+5) Any new loss of motor activity in extremity or any sudden chest tightness or difficulty breathing<br>
+6) Subject request at any time<br>
+<p>
+Inflight:<br>
+There were no on-orbit activities associated with this experiment.
+<p>
+Postflight: <br>
+Repeat preflight protocol on R+0 and R+3 days. Postlanding, participants were requested not to perform an Orbiter walkaround and to remain supine until the data session was complete.
+<p>
+RESULTS:<br>
+Eight male subjects completed the ground-based study portion, as well as several pre-menopausal and post-menopausal female subjects.  Seven crewmembers completed the flight study.  The data collected during this experiment show that astronauts experience autonomic dysfunction during and after space flight, but that they recover spontaneously without intervention; Earthbound patients who suffer from autonomic dysfunction never recover. In addition, the information this experiment provided to the clinical community regarding the spontaneous recovery of orthostatic tolerance several days after spaceflight is valuable to the understanding of irreversible clinical hypotension caused by autonomic dysfunction.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 496</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Meck, Janice</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-88&#x27;], [&#x27;STS-100&#x27;], [&#x27;STS-102&#x27;], [&#x27;STS-106&#x27;], [&#x27;STS-93&#x27;], [&#x27;STS-98&#x27;], [&#x27;STS-99&#x27;], [&#x27;STS-104&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/fg5m-fq77</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/8e62b89b-32a7-5f8c-97bc-44722a54cd27?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/8e62b89b-32a7-5f8c-97bc-44722a54cd27?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

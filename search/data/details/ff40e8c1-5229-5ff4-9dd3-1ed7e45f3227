@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eye-Head Coordination During Target Acquisition - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ff40e8c1-5229-5ff4-9dd3-1ed7e45f3227?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>4.2.1</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Eye-Head Coordination During Target Acquisition</h1>
+        <div class="meta-id">Record ID: 4.2.1</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ff40e8c1-5229-5ff4-9dd3-1ed7e45f3227?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+A number of investigators have assessed the role of vestibular-based subsystems both during and immediately following exposure to microgravity. While providing information specific to one or more sensorimotor subsystems there is little documentation of changes in the strategies used for coordination among subsystems or for those strategies supporting performance of natural, goal-directed behaviors. In particular, there may be several strategies selected for use during the process of adaptation to microgravity. These strategies may become more reliable for missions of increasing duration. Prime among these strategies are: (1) the reduced use of head movements during the early phases of the mission, (2) the reliance on either an internal coordinate system (intrinsic)or environmental coordinates (extrinsic) during different phases of space flight for spatial orientation, and (3) compensation for the changing role of proprioceptive information during flight. These strategies, we believe, can be evaluated using goal-directed head and eye coordination tasks. Therefore, the primary objective of this study was to investigate the emergence or alteration of goal-oriented strategies required to maintain effective gaze when the interactive sensorimotor systems required for this function have been modified following extended exposure to the stimulus rearrangement of space flight.
+<P>
+APPROACH:<BR>
+For baseline data collection, all subjects sat in a chair facing a visual display which consisted of miniature LED targets in the shape of a cross. The LEDs were illuminated to create either a
+static or moving visual pattern. The following physiological measures were taken preflight and postflight: (1) Eye movements: monitored by electrodes placed vertically above and below the right eye, horizontally over the left and right temples, with a ground behind the left ear, and (2) Head movements: measured by a tri-axial rate sensor fixed to the head. 
+<P>
+All responses were collected on a Data Acquisition System which consisted of Macintosh computer, Data Acquisition box with Anti-aliasing filters, and custom acquisition and control software.
+<P>
+The following measurements constituted the experiment:<BR>
+<LI> Predictable Target Acquisition (PTA): Used both head and eyes to acquire +/-20°, +/-30°, and +/-60° horizontal and +/-15°, +/-20° and +/-50° vertical targets in a predetermined sequence.
+<LI> Unpredictable Target Acquisition (UTA): Used both head and eyes to acquire +/-20°, +/-30°, and +/-60° horizontal and +/-15°, +/-20° and +/-50° vertical targets in a random sequence.
+<LI> Smooth Pursuit Tracking (SP): Moving eyes only or eyes /head together to follow a moving target. Target motion is sinusoidal using four frequencies (SP1=0.2 Hz, SP2=0.33 Hz, SP3=0.8 Hz, SP4=1.4 Hz) in both the horizontal or vertical planes, or ramp to an unpredictable displacement. NOTE: The ramp portion of smooth pursuit was never completed on any of the Mir 18/STS-71 crewmembers.
+<LI> Head Shakes (HS): Keeping eyes on center target, oscillate head in the horizontal or vertical plane in cadence with an auditory tone at 0.2, 0.33, and 2.0 Hz. Repeat with vision occluded.
+<LI> Memorized Head Rotations (MHR): View a sequence of target illuminations while head is stationary, then attempt to recreate the pattern by rotating the head to remembered target positions with vision occluded.
+<P>
+A cruciform target arrangement was used to provide the visual stimulation for target acquisition, pursuit tracking,memorized head rotations, and sinusoidal head oscillations (as a spacecraft fixed target). The target arrangement, placed approximately 75 cm from the subject's retinal plane, was used to provide a variety of static, time optimal, and dynamic visual stimuli to the subject in both
+the horizontal and vertical planes. Each axis of the cross was approximately 1.25 m long and contained a line of 495 miniature LEDs with a spacing between LEDs of 2.54 mm. Illumination of the LEDs were under microprocessor control, and multiple LEDs could be illuminated at any given time. Software drivers were developed to enable concurrent or sequential illumination of “special” standard target positions in the horizontal (0°, ±20°, ±30°) and vertical (0°, ±15°, ±20°, ±30°) planes, as well as to present both sinusoidal and non-predictable,constant-velocity ramp-type target motion along either axis. The device was also equipped with the capability of controlling remote or eccentric LEDs beyond the effective ocular-motor range (EOM range). For these experiments at least one set of these targets was located at ±60° horizontal and ±50° vertical. Targets within the EOM range are defined as those that can be acquired with the eyes alone and do not require a head movement to foveate the target. This target device was planned to be positioned 75 cm in front of the subject, but provisions could be made to enable entering the subject-to-target distance so that the illuminated LED targets would actually represent true angular positions with respect to the subject, and the LED representing a given angular displacement would change if the subject-to-target distance changed.
+<P>
+Head position measurements were calibrated by activating a low-power laser mounted at the browpiece of the head cap. Following adjustment of the laser to align with the 0° target (with head in the zero-position), visual feedback from the laser allowed the subject to accurately align the head with a given calibration target. Movements were made successively between the central target and
+each calibration target in both the horizontal and vertical planes. At least two trials to all targets were performed at the beginning of the experiment, and repeated if for any reason the head cap is disturbed or removed.
+<P>
+Target Acquisition: Following eye and head calibration, the subject acquired targets with both head and eye movements using a time-optimal strategy (move the head and eyes together as quickly and as accurately as possible to acquire the target). Target acquisition was performed successively between
+the 0° target and each of the horizontal and vertical targets used for eye calibration as well as the eccentric targets intentionally located outside the EOM range (±60° horizontal; ±50° vertical), thereby forcing an appreciable head movement. Tests were performed using both predictable and unpredictable target sequences. In the predictable sequence all targets for a given displacement
+and plane were illuminated simultaneously, and the subject made gaze shifts using the time optimal
+strategy, maintaining fixation upon each target for a minimum of 2 seconds before returning to the center target. For these trials, the investigator quantified the dynamics of target acquisition to predictable, visible targets in terms of the relative contributions of eye and head to gaze as well
+as how these dynamic relationships change with respect to target amplitude and mission duration. Data from these trials were then compared with data previously collected on other astronaut subjects. For the unpredictable target acquisition trials, the targets were successively illuminated in a random sequence and the subject was paced through each target acquisition by the visual stimulus device. This task allowed characterization of latency changes in acquiring newly-visible targets. The timing between successive illuminations was randomized to prevent the subject
+from anticipating the onset of changes in target position. Each target was acquired at least two times for each type of acquisition stimulus per session. 
+<P>
+Pursuit Tracking Studies: The pursuit tracking studies were designed to measure the effectiveness of both smooth pursuit eye movements and combined eye-head tracking in acquiring and maintaining
+gaze on a moving target. All trials required crewmembers to track a small, smoothly moving target,
+first with just their eyes (smooth pursuit), and subsequently using eye movements in concert with active, self-generated head movements (combined eye-head tracking). By comparing results from preflight, inflight, and postflight testing, differences between the smooth pursuit and combined eye-head tracking responses to similar types of target motion helped further discriminate the loci of neural pathways that are affected by exposure to microgravity. Subjects were positioned 75 cm from and facing a display surface upon which the target was presented. In the initial set of trials, the target moved horizontally with respect to the subject; the trials were then repeated
+using vertical target motion. The stimulus involved predictable target motion. The target oscillated at 0.3 Hz with a peak deflection of ±30° horizontally or ±20° vertically. For each trial, tracking was performed for at least 6 cycles. The responses to the non-predictable
+stimuli helped identify operational impacts on the ability to visually acquire moving targets due the effects of exposure to microgravity. They also helped elucidate and quantify changes in the central processing mechanisms brought about by this exposure. The responses to the predictable stimuli helped extend understanding of the operational impacts of microgravity exposure by assessing
+the ability to maintain fixation on a moving target once acquired.
+<P>
+Sinusoidal Head Oscillations (Head Shakes): To assess adaptive (and readaptive) changes in the active VOR during (and after) space flight, its gain and phase characteristics were measured in each subject using three frequencies: 0.2, 0.8, and 2.0 Hz. The VOR was characterized in this manner in both the vertical (pitch) and horizontal (yaw) planes, with the subject either fixating or
+imagining a far (75 cm) target. To perform this test, the subject was first positioned so that the wall-fixed target (cruciform target's center LED) was located at the center of his/her visual field.
+The subject then attempted to maintain visual fixation on the target while smoothly oscillating his/her head in the plane of interest in cadence with an audio tone that was sinusoidally modulated at the frequency of interest. The angular displacement of head oscillation was selected by the subject to maximize comfort. Following a collection of responses to a minimum of 10 cycles at each
+frequency, the subject's visual field was occluded by electronically activating a polymer dispersed liquid crystal (PDLC) goggle assembly (also known as an Electronic Light Occluding goggle [ELOG]) worn by the subject. Immediately upon occlusion of the visual field, the subject repeated the individual frequencies while attempting to maintain visual fixation on the remembered location of the target. The subject repeated this entire procedure in the each plane for each visual condition.
+Throughout the experimental period, the subject's head and eye movements were continuously measured using a specially designed angular rate sensor system and an EOG system, respectively. Gain and phase of the VOR were determined for each frequency of stimulation by comparing the eye movement velocity to the head movement velocity, and changes in these parameters were assessed as a function of inflight adaptation to microgravity and readaptation to 1-G. Special attention was paid to cross-axes head movements, and changes in head movement control.
+<P>
+Memorized Head Rotations: Using a scheme similar to the memory-guided ocular saccade paradigm employed by two cosmonauts on the ARAGATZ mission, the crewmembers’ ability to recreate horizontal and vertical head rotations following the occlusion of vision was studied. For this task, the visual stimulus device successively illuminated a pseudorandom combination of 4-6 of the LED targets in either the horizontal or vertical plane for approximately 2 seconds each. With the aid of the headmounted laser (otherwise used for aligning the head with the targets during the head calibration trials), the subject rotated the head in a time-optimal way to successively align the laser spot with each illuminated target. After acquisition of the last illuminated target (at 0°), the headmounted laser was extinguished, vision was occluded using the ELOGs, and after a variable, prespecified time (5-30 sec) the subject was required to recreate the head rotation pattern as closely as possible without the aid of visual feedback. [Note: there was some concern with respect
+to calibrating head rotations when the targets were acquired with vision and laser feedback. In the event that preflight trials suggested that this task influenced the without-vision trials, the visually guided trials with laser were eliminated from the protocol]. Sixteen trials were performed per session in both the horizontal and vertical planes. Analysis involved determining the head position errors between the vision-available and vision-occluded parts of a trial, and efforts were made to correlate head rotation position errors with target displacement, time period following vision occlusion before the remembered response is performed, and mission duration.
+<P>
+Spontaneous, Gaze, and Positional Nystagmus: Inflight spontaneous nystagmus was tested with the
+subject visually fixating on a spacecraft fixed target, imagining the same spacecraft fixed target with vision occluded, and then with eyes closed (for 20 seconds each). Gaze nystagmus, with vision occluded was evaluated following a change in eye position by requiring the subject to deviate the eyes within the orbit as far as possible to the right, left, up, and down for 20 seconds each followed by a return of the eye to the center gaze position for each deviated position. No attempt was made to evaluate positional nystagmus in flight. Pre/Postflight: Both spontaneous and gaze nystagmus were evaluated with the inflight procedures (substituting the spacecraft fixed target for a wall fixed target). Positional nystagmus tests consisted of eye movement recording for approximately 30 seconds. 
+<P>
+Verbal Responses: Following each experiment condition, crewmembers provided verbal quantitative descriptions of perceived self and/or visual surround motion or changes in orientation/position. Primarily, they were asked to specify distinct difference between the preflight, inflight, and postflight sensations, and specifically, to describe the perceived amplitude and rate of the rotational and/or translational components of self/surround motion.
+<P>
+RESULTS:<BR>
+Six crewmembers from Mir 18, STS-71 and Mir 19 participated in this experiment.  Three of four preflight data collection sessions were performed at L-120 (120 days before launch), L-45 and L-15.  The fourth session at L-80 was cancelled.  Data collected for one subject on L-15 was partial due to illness.  Inflight measurements were not taken because of hardware failure.  Postflight data was lost because the protocol collection sessions were reduced from 9 to 6 sessions.  Because of these time constraints and protocol reductions, data can only be compared for Predictable Target Acquisition (PTA) and Smooth Pursuit 2 (SP2) tracking at 0.33 Hz.
+<P>
+Findings strongly suggest that the effects seen on short duration missions (delayed target acquisition, reduced head velocity following flight, high gain in the visual vestibulo-ocular system, failure to suppress the VOR during eye/head target pursuit, etc.) are present following long duration missions.  That is, long duration flights tend to produce long lasting effects.  Recovery, particularly in the pursuit system was not observed in all crewmembers 64 days after flight.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>4.2.1</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Kozlovskaya, Inessa, Reschke, Millard</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Mir 18&#x27;], [&#x27;Mir 19&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/e06d-nr95</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ff40e8c1-5229-5ff4-9dd3-1ed7e45f3227?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ff40e8c1-5229-5ff4-9dd3-1ed7e45f3227?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Slow Rotation Room Facility - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000282?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>1138</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Slow Rotation Room Facility</h1>
+        <div class="meta-id">Record ID: 1138</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000282?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The slow rotation room facility was designed, fabricated, and assembled at Brandeis University to aid in the study of human behavioral and physiological responses to greater than 1-G force environments, adaptation to unusual forces, and  transitions between force levels.  It is the newer of only two such facilities that exist in the United States, the first of which was constructed under the direction of Dr. Ashton Graybiel at the Naval Aerospace Medical Institute in Pensacola, Florida.
+<p>
+The slow rotation room facility is 22 feet in diameter, fully enclosed, with a ceiling height of between 7 feet, 10 inches at the center of rotation and 7 feet 3 inches at the periphery.  It has a net weight in excess of 7 tons, and can carry a 6,000-pound payload while producing a gravitoinertial resultant in excess of 4-G at the periphery.  The room has two separate drive systems.  The linear induction motor system was designed specifically for this rotation application.  It can accelerate the room to 35 RPM at up to 15°/sec².  The belt drive system can also operate the room over the entire 0 to 35 RPM speed range, but with a maximum acceleration rate of 4°/sec².  The belt system is used during experiments requiring minimum noise and vibration levels, or experiments requiring constant velocity over long durations.  It provides the capability of running the room continuously for periods of days or even weeks.  If such long runs are desired, cooking, sleeping, and sanitation facilities can be installed in the room with additional funding.
+<p>
+The controller for both drive systems consists of a dedicated industrial computer running multitasking software that controls room speed and acceleration through feedback hardware, and also monitors many safety and operational parameters of the slow rotation room, while providing this information to personnel in an external control room.  The software will shut down the room if certain parameters exceed pre-set limits.  The feedback hardware includes three independent tachometers that close the feedback loop through a failure tolerant voting circuit with independently set able speed limits.  The room speed can also be controlled by a 0 to 10 volt external speed reference.  The external reference, when used, usually comes from an onboard computer, which provides the speed reference signal through slip rings.  This is necessary when one computer must control both the onboard experiment and the speed of the room, or when the speed of the room must be contingent on the subject's responses.
+<p>
+The dedicated computer usually controls room speed through previously programmed speed profiles.  It can accurately control room speed in either direction over the entire 0 to 35 RPM speed range in increments as small as 1/10°/sec.  Feedback control ensures a constant room speed while people or objects are moving within the room.  Acceleration rates of 0.1°/sec² to 15°/sec² in 0.1°/sec² increments can be achieved; constant velocity can be maintained to within ± 0.001% at low speeds and 0.1% at the highest speed.  The room can also be sinusoidally oscillated over a wide range of frequencies. Over the entire speed range z-axis vibration has been measured at < 0.001g.
+<P>
+The computer control of the slow rotation room is monitored by a trained operator, who also monitors the onboard experiments through onboard video cameras and microphones.  The operator has redundant two-way communication with the onboard experimenter, and can take over manual control of the slow rotation room, and apply emergency adjustable electric braking (independent of the two drive systems) if necessary.<p>
+<P>
+The slow rotation room can accommodate a wide variety of test devices with on board power for those requiring ± 15 VDC, 110 VAC single phase current, or 220 VAC single or three phase current.  The floor of the room is laid out with a 20-inch grid for securing apparatus.  The grid pattern and screw thread are compatible with that of NASA's KC-135, reduced gravity test aircraft so that consoles can be interchanged between the test facilities.
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Slow Rotation Room Facility</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>BRC</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Motor Adaptation to Coriolis and Contact Forces</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>As Used During the NAG1037 Experiment</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000282?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000282?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

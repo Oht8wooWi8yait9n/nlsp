@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Extra Ocular Motion (EOM) Studies, Pre-, In and Post Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/85a08b6a-0473-57c4-8401-e5c943099d53?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 404</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Extra Ocular Motion (EOM) Studies, Pre-, In and Post Flight</h1>
+        <div class="meta-id">Record ID: DSO 404</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/85a08b6a-0473-57c4-8401-e5c943099d53?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This Detailed Supplementary Objective (DSO) consisted of studies of the electro-oculogram (EOG) during a voluntary head motion protocol on Space Shuttle missions. There were eight variations to this study, which occurred during STS-5, STS-6, STS-7, STS-8, and STS-51D. 
+<p>
+The general objectives across all of these missions were to: <br>
+1. Document any abnormalities of horizontal and vertical extra ocular motion (EOM), including pathological nystagmus and oscillopsia, or image slip, preflight, on orbit, postflight, and during and after space motion sickness (SMS).<br>
+2. Measure visual/vestibular-ocular (VVOR), vestibulo-ocular gain (VOR), and visual and vestibular suppression during flight and after space motion sickness. <br>
+3. Demonstrate the technique and hardware in space flight for the first time. <br>
+<p>
+APPROACH:<br>
+Standard clinical techniques and protocol were used with voluntary head oscillation and fixed targets, with eyes closed and with head-synchronized targets. Electro-oculography (EOG) recorded extra ocular eye motion (EOM) and a precision potentiometer recorded head motion. EOG was calibrated by pseudo-random light position. In-flight data were transmitted via a Shuttle data channel and graphically recorded. Analysis included a search for anomalies and standard analysis for reflex gains. EOG were routinely recorded. Analog data were recorded with magnetic tape and transcribed to charts postflight for analysis. 
+<p>
+Orbit/entry on STS-6: a model-airplane gyroscope with battery supply was mounted on the subject's flight helmet and replaced the flexible cable potentiometer. On orbit on STS-8: a miniature 2-axis rate designed for missile use was repackaged and placed on a head harness such that rotational velocities around the Z (vertical) and Y (pitch) axes could be recorded. A minimal support structure for a kneeling subject in weightlessness allowed subject rotation around the Z (vertical) axis. Low friction bearings were connected to a spiral spring whose rate could be varied. A subject could thus be passively rotated at various rates in damped angular oscillation. 
+<p>
+RESULTS:<br>
+STS-5: Two subjects were studied in flight and EOGs were routinely recorded. A flexible shaft on the head position potentiometer induced errors. No EOM abnormalities were found, and the practicality of the technique was demonstrated. One record had EOG artifacts.  There wasn't any evidence of abnormal EOM during space flight, with or without SMS. Investigators found that a flexible shaft coupling for a head potentiometer is unsuitable for use. 
+<p>
+STS-6: Except for loss of the data channel for head motion during the initial in-flight study, two subjects were routinely studied, and data were received and analyzed. No abnormalities were found and reflex gains were essentially unchanged.  EOM was unchanged during space flight and there wasn't any evidence of SMS in these subjects. A slight increase in horizontal VVOR and VOR gain was observed in some subjects. The single-axis gyro was flown successfully on ascent and entry by one subject on STS-6; however, an improved pantograph mounting for the potentiometer proved superior and was used in subsequent flights.
+<p>
+STS-7: Recording of EOG was routine in 3 subjects. An error was detected in on-orbit head position and was found to be caused by the head position potentiometer being mounted out of limits. No abnormalities were noted. Optokinetic motion was unchanged. No abnormalities were noted during space flight, or during or after SMS. No significant changes were seen in saccadic EOM or in EOM reflexes. There were significant increases in saccade velocity in flight, with and without SMS, but no significant differences in accuracy.
+<p>
+STS-8: Data were routinely recorded in 5 subjects without evidence of abnormality. EOM was unchanged during space flight and SMS in these subjects. There were significant increases in saccade velocity in flight, with and without SMS, but no significant differences in accuracy.  A slight increase in horizontal VVOR and VOR gain was observed in some subjects. The 2-axis rate gyro was used to record horizontal motion from two subjects on the rotating device on STS-8 and horizontal and vertical head motion on EOG studies during entry on one subject. The data were routinely reproduced on analog strip charts and a preliminary analysis done; however, resources were not available to complete the analysis and report the results. Both the 2-axis rate gyro and passive subject rotators demonstrated ample capacity for on orbit studies at a fraction of the weight, size, and cost of conventional hardware. 
+<p>
+STS-51D: The subject was severely affected by SMS for the initial 48 hours in flight and did not perform any studies during this time. All studies done following this period, including postflight, were unremarkable. EOM was normal after severe SMS.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 404</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Gainer, Phil, Thornton, William</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-5&#x27;], [&#x27;STS-51D&#x27;], [&#x27;STS-6&#x27;], [&#x27;STS-7&#x27;], [&#x27;STS-8&#x27;], [&#x27;STS-4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/veaf-xj33</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Not applicable</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/85a08b6a-0473-57c4-8401-e5c943099d53?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/85a08b6a-0473-57c4-8401-e5c943099d53?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

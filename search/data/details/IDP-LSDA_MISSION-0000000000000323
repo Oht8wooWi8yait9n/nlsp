@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NASA 6 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000323?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>NASA 6</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>NASA 6</h1>
+        <div class="meta-id">Record ID: NASA 6</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000323?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The start of the NASA 6 mission was marked by the launch of STS-86 in September 1997.  Astronaut Wendy Lawrence was scheduled to replace Michael Foale onboard Mir for the sixth NASA increment.  However, due to her small size and concerns that the Russian Mir Orlan EVA spacesuit would not fit properly, David Wolf was selected to join the Mir 24 crew in her place.  David Wolf took Michael Foale's place as the sixth U.S. long-duration astronaut to stay on the Russian space station.  Foale took Wolf's place on the Shuttle for the return trip to Earth.<P>During STS-86's docked phase, water, food and other resupply items, along with Mir 24/NASA 6 research hardware and equipment was transferred from the Shuttle to Mir.  A 6-hour extra vehicular activity (EVA) also took place during the docked phase to retrieve scientific hardware.<P>Thirty-six investigations in 6 disciplines were performed during the NASA 6 mission.  These disciplines were human life sciences, microgravity sciences, space biology, advanced technology, International Space Station (ISS) risk mitigation, and Earth sciences.<P>Human life sciences experiments investigated human responses to long duration space flight and readaptation to Earth's gravity in the areas of bone mineral density, muscle volume, crew interactions, immune response, autonomic function, and the role of sleep in circadian rhythms.<P>Microgravity sciences experiments characterized the Mir microacceleration environment, and studied material sciences to gain a better understanding of physical processes in microgravity.  Some experiments also used the microgravity environment and various growth methods in protein crystal studies and biochemistry 3-D tissue engineering.<P>The single space biology investigation studied the overall radiation environment inside and outside of the Mir Space Station, as well as the dosages received by the station.<P>Advanced technology investigations examined alloy formation in microgravity and tested temperature controlled life sciences cell research modules.<P>Experiments in the ISS risk mitigation discipline evaluated the structural dynamics of a complex space vehicle, such as how crew activities impacted the structure of the vehicle.  Some also tested materials, hardware, facilities, and operational techniques planned for the International Space Station.<P>Earth sciences experiments analyzed biospheric and atmospheric temporal and seasonal changes over several oceanic and land-based test sites using both hand-held photography and remote sensing instrumentation aboard the Mir Priroda module, and photodocumented internal and external window surfaces.<P>Nearly all Shuttle-Mir investigations were joint efforts between the United States and Russia.  In addition to the benefits of international cooperation, the NASA 6 mission added to the understanding of many scientific areas, including how living organisms are affected during long-duration space flight.  Despite the setbacks experienced during NASA 5, the Mir 24/NASA 6 crew and ground-based teams made the necessary repairs to the Mir station and were well on their way to re-establishing a successful science research program to continue the study of life sciences in space.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>NASA 6</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1997</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>129</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Not applicable, Human</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000323?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000323?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

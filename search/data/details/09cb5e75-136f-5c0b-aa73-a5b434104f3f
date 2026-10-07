@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Psychosocial Performance Factors in Space Dwelling Groups - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/09cb5e75-136f-5c0b-aa73-a5b434104f3f?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958NBPF01602</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Psychosocial Performance Factors in Space Dwelling Groups</h1>
+        <div class="meta-id">Record ID: NCC958NBPF01602</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/09cb5e75-136f-5c0b-aa73-a5b434104f3f?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+The aims of this project focused upon the development of an experimental test bed for modeling performance effectiveness and psychosocial adaptation in support of exploratory space flight missions beyond Earth's atmosphere. The physical, hardware, and software environment which serves as the experimental platform is referred to as the Planetary Exploration Simulation (PES), and provides an automated means for analyzing space crew performance as well as monitoring electronically the interactive effects of simulated communication modality constraints, mission management systems, and other stressful conditions. Within this context, the objectives of this project were to provide risk assessment and countermeasure evaluation of the following fundamental behavioral interaction operations that would most likely affect crew performance effectiveness and psychosocial adaptation: 1) the structure and function of communication channels within and between simulated space-dwelling and Earth-based groups; 2) factors associated with variations in the behavioral management systems between space-dwelling and Earth-based groups; 3) factors associated with variations in workloads, stressful time pressure, and conflict conditions; and 4) behavioral and psychosocial interaction systems between spaceflight crews and Earth-centered mission support operations that are most likely to influence individual and group performance during long-duration missions.
+<P>
+APPROACH:<br>
+Newly-initiated studies on management system variations consisted of developing methodologies for assessing crew performance effectiveness under rigid schedule-based management of crew activities by Mission Control versus more flexible, contingency-based, autonomous management of crew activities by themselves. Autonomous management consisted of having a crew arranging all aspects of their exploratory activities. Schedule-based management was simulated by Mission Control-defined performance requirements with regard to ordering and time spent in each geographic region and surface vehicle task assignments, and requiring that this schedule be strictly adhered to. Tests of this methodology have shown clear adverse effects of mission control-defined schedule limitations that resulted in both decrements in crew performance effectiveness and increases in negative psychosocial adaptation self-report measures.
+<P>
+RESULTS:<br>
+In a follow-up study to the first investigation of what is now known as "bounded autonomy," the psychosocial and performance effects of autonomous mission management were robust to communications constraints despite a physiological stress reaction to the unexpected loss of audio and text-messaging abilities. A subsequent experiment further supported the performance and psychosocial benefits of autonomy as assessed in longer-duration, 12-hour simulation missions conducted during different phases of the 24-hour circadian cycle (Early: 9am-9pm versus Late: 9pm-9am). As with previous work, crew performance was higher and physiological stress reactivity lower under autonomous conditions; however, overnight workloads produced significant decrements in individual performances that included reaction time deficits, attentional lapses, psychosocial communication reductions, and decreases in voluntary cooperation. Importantly, despite these decrements, crew performance efficiency remained normal. Lapses in individual performances thus appeared to be compensated for in the overall crew performance, indicating the utility of multi-person crews as a countermeasure to individual performance lapses under heavy workload and circadian disruption. Nevertheless, the dramatic decrease in psychosocial communication during late missions could be an early warning sign of crew fragmentation that could hinder cohesion and adaptability to malfunctions, environmental disruptions, or schedule demands. 
+<p>
+The newly-developed Team Performance Task (TPT) has moved from initial software development into an early application phase as a simple, rapid, and objective measure of voluntary cooperative behavior as an assay of group cohesion. Extensive laboratory tests have established the basic parameters and novel behavioral economic analysis methods for TPT data, and preliminary TPT tests in intact work-groups show that the task is easily learned and remarkably sensitive to task duration, external incentives, and stable inter-crew differences. The results of this work are now being prepared for peer-reviewed publication. Additional larger-scale validation efforts are now ongoing both domestically and with ESA-supported international partners, and reveal the TPT's ability to objectively discriminate between 3-person groups composed of friends versus groups composed of strangers. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958NBPF01602</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Brady, Joseph, Roma, Peter</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/rkq8-2236</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNJ07ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/09cb5e75-136f-5c0b-aa73-a5b434104f3f?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/09cb5e75-136f-5c0b-aa73-a5b434104f3f?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

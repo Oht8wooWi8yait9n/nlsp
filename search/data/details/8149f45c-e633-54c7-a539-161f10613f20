@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Key Contributors to the Maintenance and Regulation of Team Function and Performance on Long Duration Exploration Missions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/8149f45c-e633-54c7-a539-161f10613f20?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX13AM78G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Key Contributors to the Maintenance and Regulation of Team Function and Performance on Long Duration Exploration Missions</h1>
+        <div class="meta-id">Record ID: NNX13AM78G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/8149f45c-e633-54c7-a539-161f10613f20?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br><br><div>
+The Hawaii Space Exploration Analog and Simulation (HI-SEAS) is a habitat on an isolated Mars-like site on the Mauna Loa side of the saddle area on the Big Island of Hawaii at approximately 8200 feet above sea level. HI-SEAS is unique, in addition to its setting in a distinctive analog environment, as investigators select the crew to meet their research needs (in serendipitous analogs, such as Antarctic stations, crew selection criteria are not controlled by researchers); - the conditions (habitat, mission, communications, etc.) are explicitly designed to be similar to those of a planetary exploration mission; - the site is accessible year round, allowing longer duration isolated and confined environment studies than at other locations; - the Mars-like environment offers the potential for analog tasks, such as geological field work by human explorers and/or robots. The ability to select crewmembers to meet research needs and isolate them in a managed simulation performing under specific mission profiles makes HI-SEAS ideal for detailed studies in space flight crew dynamics, behaviors, roles and performance, especially for long-duration missions. 
+<div><br></div><div>
+Investigators conducted a ground-based investigation to measure and track the factors expected to have significant impacts on team function and performance, and assessed that impact, over three high-autonomy missions of differing durations (four, eight, and twelve months). During crew selection for each mission investigators measured participants’ cognitive capacities, communication skills, preferred communication strategies, interpersonal strategies, coping strategies, mission and crew role specific knowledge, and planning and collaborative problem-solving ability. During the missions, investigators monitored crew communication, communication strategies, crew coping strategies, crew workload and job sharing, and conflict resolution and conflict management, as well as taking several measures of crew performance. Finally, investigators examined how each of the factors affects crew performance during the missions. 
+</div><div><br></div><div>
+Specific Aims:</div><ol>
+<li>To measure key factors that may contribute to crew function and performance over three high-autonomy missions of varying length. 
+</li><li>To assess the impact of these factors on crew function and performance. 
+</li><li>To assess the relative impact of these factors for different duration missions. 
+</li><li>To suggest potential countermeasures (e.g. crew selection strategies) and interventions (e.g. responses to deteriorating crew cohesion) to maximize crew function and performance.</li></ol>
+<div>
+APPROACH:<br>
+Three crews consisting of six members apiece were recruited. Participants were selected and then screened using measures of cognitive resources and personality. Participants were assigned to crews based on primary skill set (e.g. geology, medicine etc.), cognitive functioning, and personality, such that each crew consisted of members who collectively possess all required technical skills and who are matched for both cognitive abilities and personality. Crews were mixed gender, ideally with equal numbers of males and females, but with at least two of each, and gender ratios were matched across crews. An outcome of this selection matching was to reduce extraneous between-group variability and consequently allowed us to expect larger effect sizes for critical measures. 
+</div><div><br></div><div>
+Each of the three crews undertook long-duration missions at HI-SEAS. The first crew undertook a four-month mission, the second crew an eight-month mission, and the third crew a twelve-month mission. Before each mission, there were two-week training session at HI-SEAS, during which period the crew will learn about the habitat systems and procedures (including emergency procedures) and undertook all the pre-mission assessments described below. 
+</div><div>
+During each long-duration mission, crews acclimatized to the habitat, performed basic habitat maintenance, undertook extra vehicular activities (EVAs) such as performing geological field work in mock space equipment, write reports, communicate (under high-latency conditions) with mission control, participate in opportunistic research, and perform education and public outreach missions, as well as undertaking necessary personal functions such as hygiene, sleep, personal communication, and relaxation. Their geological field work was evaluated by a geologist as one of the measures of team task success.
+</div><div>
+The “Team Performance Task” or “Price of Cooperation” (TPT/PoC) is by design a simple, rapid, and objective group-level behavioral assay of cooperative propensity, productivity, and fairness borne of a deductive, data-driven approach informed by evolutionary theory and behavioral economics. Its design features make it well-suited for horizontal integration with other behavioral measures as well as vertical integration with both neurobiological and psychometric variables to yield convergent data on naturally occurring variations in crew cohesion across time. 
+</div><div>
+Upon group formation, at the beginning of each mission, the crew underwent baseline TPT/PoC testing to establish objective social behavioral “profiles” prior to mission launch. Since the current TPT/PoC prototype software is limited to testing three individuals at a time, this baseline testing session involved several configurations of the six crewmembers into sub-groups of three so that all crewmembers are tested with all other crewmembers at least once. Each sub-group will complete six consecutive 3-minute “runs” for a total pre-mission testing time of approximately three hours. The compiled pre-mission TPT/PoC “profiles,” corrected for training effects, and then served as an objective behavioral baseline of cooperative propensity in the crew. A similar testing session was conducted at the end of each mission.
+</div><div>
+Crewmembers wore a small monitoring sensor on their exterior clothing, with a heart rate monitor around their chests, which transmits data to a sensor during the missions. The sensor gathered data on acceleration, sound intensity, light intensity, room temperature, and face time collaboration, and sends this information via wireless signals to a local computer server. Coded and compared data included: (a) physical distance between team members; (b) total number of face-to-face interactions that occurred between two members; (c) total length of time that members spent on face-to-face interactions; (d) the initiation of a face-to-face interaction by one member; and (e) the disengagement of a face-to-face interaction by one member.
+</div><div>
+Investigators also measured emotional and affective states of crewmembers using multiple forms of textual communications provided by the crewmembers, analyzed by automated text analyzers. Investigators kept records of crew communications during missions, transcriptions of a subset of phone and radio transmissions to mission control, transcripts of personal chats, texts, and emails (approved by the crewmembers), as well as log diaries provided by the crewmembers. 
+</div><div>
+Crewmembers took short daily surveys investigating the establishment and maintenance of technical and task roles. Technical role surveys asked crewmembers to evaluate which crew members play established technical roles such as team leader, doctor, geologist, biologist, etc. Investigators expected that there will be little variation in the technical role's crewmembers play because of the specialist nature of these roles. Task roles (e.g., cooking meals, undertaking EVAs, writing geological reports, steering a rover, etc.) were evaluated by asking crewmembers to evaluate which crewmember is currently performing each specific task. Investigators expected task roles to vary over the course of the mission, and investigated how autonomy, crew cohesion, and the current state of technical and social roles impact how task roles are distributed. 
+</div><div>
+Every week crewmembers took a variation of a team management survey, which evaluates crewmembers’ social roles. Additionally, investigators used data from the sensors to evaluate the dynamics of crewmember interactions. Data from the survey and the sensors provided a detailed picture of the distribution of social roles. Specifically, the investigators were interested in the effects of autonomy and cohesion on social roles and social dynamics. 
+</div><div><br></div><div>
+RESULTS:<br><div><br></div><div>Data supported the hypothesis, finding that as mission
+duration increased, social cohesion outweighs task cohesion as the primary risk
+to mission success. Further, data suggested that 6 months in-mission may be the
+critical threshold beyond which social cohesion outweighs task cohesion as the
+primary risk to mission success. Finally, consideration of conflict management
+approaches found that ICE environments may act as a boundary condition to
+conflict management approach theories of team cohesion decrements.
+Specifically, an open conflict management approach, although effective in
+ground teams across industries, seems to exacerbate team cohesion decrements in
+teams operating in isolated, confined, environments.<o:p></o:p></div></div><div><br></div><div><br></div><div></div></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX13AM78G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Binsted, Kim</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/9am7-aj68</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2012 Crew Health NNJ12ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/8149f45c-e633-54c7-a539-161f10613f20?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/8149f45c-e633-54c7-a539-161f10613f20?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

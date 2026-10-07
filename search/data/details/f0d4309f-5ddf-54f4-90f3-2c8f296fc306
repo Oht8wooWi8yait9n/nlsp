@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Role of the Bone Marrow Microenvironment in Space Radiation-Induced Leukemogenesis - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/f0d4309f-5ddf-54f4-90f3-2c8f296fc306?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX13AB67G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Role of the Bone Marrow Microenvironment in Space Radiation-Induced Leukemogenesis</h1>
+        <div class="meta-id">Record ID: NNX13AB67G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/f0d4309f-5ddf-54f4-90f3-2c8f296fc306?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Hematopoietic stem cells (HSC) comprise less than 0.1% of the bone marrow (BM) of adults, yet they produce all blood cells that are responsible for constant maintenance and immune protection of the body. In addition to the requirement for high cell output, the concentration of the different blood cell lineages produced are precisely controlled to allow not only preservation of normal homeostasis, but also the prompt response to specific stimuli and demands. Previous studies have suggested that exposure to galactic cosmic radiation (GCR) and solar particle event (SPE) radiation that occur or may potentially occur during space flight may increase the likelihood of carcinogenesis, with leukemia being one of the most frequent radiogenic cancers, and the ones with the smallest latency period. The investigators hypothesize that GCR and SPE radiation can have a deleterious impact not only at the level of the mature immune cells and their committed progenitors, as is currently thought, but at the earlier developmental stage of the HSC. Genetic lesions induced by this exposure can lead directly to leukemic transformation, and may also cause these cells to generate a functionally compromised immune system lacking the ability to effectively fight challenges such as pre-leukemic transformations and viral/bacterial infections. As such, investigators hypothesize that astronauts would be doubly at risk, due to both the potential for induction of leukemia by SPE/GCR radiation, and the reduced ability of the astronauts’ immune systems to identify and eliminate malignant cells or pathogens in the body.
+<p>
+APPROACH:<br>
+In ground-based studies performed at NASA Space Radiation Laboratory (NSRL) and Wake Forest, investigators spent four years assessing the risk of leukemogenesis from space radiation by examining the effects of simulated SPE/GCR exposures on human hematopoiesis, testing the hypothesis that the quality and quantity of cells being produced can be altered not only from direct exposure of HSC themselves, but also via indirect, biological bystander effects arising from exposure of MSC within the critical hematopoietic niche. Human HSC and MSC were immunomagnetically-sorted with antibodies to CD34 and Stro-1 respectively and exposed to: A) sham irradiation; B) 1 Gy of 137Cs gamma-irradiation (LET = 0.91 keV/µm); C) 1 Gy of 50 MeV protons (primary SPE energy; LET = 1.26 keV/µm); D) 20 cGy of 1 GeV/n 56Fe ions (model GCR radiation; LET = 151 keV/µm); or E) 1 Gy of 50 MeV protons followed 15 minutes later by 20 cGy of 1 GeV/n 56Fe ions at NSRL. Immediately following irradiation, aliquots of HSC and MSC were cultured for chromosomal aberration (CA) analyses and DNA/RNA isolations, one aliquot of HSC was immediately assessed for functionality/ differentiative potential using the highly sensitive and quantitative, luminescence-based Hemogenix HALO® assay, and the remainder of the cells were placed in an MSC-based HSC maintenance/expansion culture system, testing four different combinations: 1) unirradiated HSC plated over unirradiated MSC; 2) unirradiated HSC plated over irradiated MSC; 3) irradiated HSC plated over unirradiated MSC; and 4) irradiated HSC plated over irradiated MSC. Hematopoietic cells were then collected after seven days, and methylcellulose or HALO® assays were used to assess the impact of irradiation of the HSC, the MSC, or both cell types on hematopoietic colony-forming potential. 
+<p>
+RESULTS:<br>
+Direct Effects on Human HSC: Methylcellulose and HALO® assay data showed that gamma-rays and 50 MeV protons exerted fairly similar effects on HSC function, both reducing by 50–80% the ability of HSC to form both more primitive (HPP-CFC and CFU-GEMM) colonies, as well as more differentiated myeloid (CFU-GM), erythroid (BFU-E), megakaryo-cyte/platelet (CFC-Mk), and lymphoid (CFC-T and CFC-B) colony types. The marked deleterious effect of protons on the ability of human HSC to give rise to cells of the T and B lymphoid lineages is of particular note, given the body of published work showing that astronauts, even on fairly short missions, exhibit pronounced immune alterations. In contrast to the result seen with gamma-rays and 50 MeV protons, 1 GeV/n 56Fe ions had much less pronounced effect on HSC colony-forming potential, exerting no significant effect on their ability to give rise to the most primitive HPP-CFC colonies, but reducing the colony-forming potential in the remaining lineages by 20–40%, depending upon the specific colony type. Exposing sequentially to protons then iron ions, however, proved to be highly deleterious to HSC function, reducing the ability of HSC to produce all colony types by 80–90%. This decrease was, in all cases statistically different than the effects seen with either iron ions alone or protons alone. 
+<p>
+Indirect/Biological Bystander Effects on Hematopoiesis following Exposure of the Niche to SPE/GCR: Irradiation of MSC with gamma-rays or protons produced similar effects on the most primitive HSC, reducing HPP-CFC output 30–40%. Importantly, irradiation of both HSC and MSC produced a negative additive effect on the most primitive HSC, reducing HPP-CFC output ~75%. The results with 56Fe ions were far more unexpected, as irradiation of MSC alone reduced HPP-CFC output 30%, yet co-culture of both irradiated HSC and MSC somehow restored the HPP-CFC potential. 
+<p>
+Additive Negative Effects on Hematopoiesis Following Sequential Exposure to SPE then GCR Radiation: Perhaps the most remarkable results came from the sequential treatment with protons and iron ions. While sequential treatment reduced HPP-CFC output 70%, treating the MSC with this sequential dosing regimen actually increased HPP-CFC output of the co-culture roughly 20%. Unexpectedly, however, co-culturing HSC and MSC that had both been sequentially exposed to both ions resulted in an 80% reduction in HPP-CFC output. Very similar results were obtained when the investigators examined the next most primitive colony type, CFU-GEMM, and more differentiated myeloid CFU-GM. Striking results were also obtained when they examined the effect proton and iron ion irradiation of the MSC had upon co-cultured HSC’s ability to generate megakaryocyte and lymphoid (CFC-T and CFC-B) colonies. 
+<p>
+Alterations to Human Hematopoiesis Assessed in vivo: The investigators conditioned NOD/SCID/IL-2rgamma null (NSG) mice by administering 2 sequential doses of busulfan spaced 24 hours apart. Conditioned NSG mice were then transplanted with 2x10(5) human HSC that had been exposed to one of the following irradiation schemes (n=9 per group) at the NSRL: 1) sham irradiation; 2) 1 Gy of 137Cs gamma-irradiation; 3) 1 Gy of 50 MeV protons; 4) 20 cGy of 1 GeV/n 56Fe ions; or 5) 1Gy of 50 MeV protons followed immediately by 20 cGy of 1 GeV/n 56Fe ions. Mice were then sacrificed at 4–6 months post-transplant, their spleen and bone marrow harvested, and analyzed by multicolor flow cytometry to ascertain the levels of human hematopoietic engraftment and assess whether exposure to SPE/GCR altered the engraftment potential and/or differentiative capacity of the HSC. In addition to affecting overall levels of engraftment, treatment with protons, 56Fe ions, or sequential exposures also led to pronounced skewing of the differentiative potential of the human HSC, as shown by the relative lineage distribution of the engrafted human cells in the bone marrow and spleens of the transplanted mice. Commitment to the erythroid lineage was significantly impaired following exposure of human HSC to all radiation types tested, and there was a significant expansion of both the T and B lineages. In addition to this lineage skewing, 5 of the 14 recipients of 56Fe ion-irradiated human HSC (obtained from 2 different healthy donors) exhibited dramatic splenomegaly, with one mouse’s spleen reaching ~30X the normal size. To ascertain the cause of splenomegaly, spleens were analyzed by histopathology and immunophenotyping. The spleen exhibited an abnormal morphology, populated largely by cells with a rounded, highly monotonous appearance consistent with lymphoid cells. Immuno-histochemistry with human-specific anti-bodies confirmed that the vast majority of the cells populating the spleen were human, and they expressed CD3 and CD7. Many of these cells also expressed terminal deoxynucleotidyl transferase (TdT), a marker frequently associated clinically with human lymphocytic leukemias. The absence of any staining in an untransplanted NSG mouse spleen stained with the same panel of antibodies verified their specificity. The observed histopathology and immunophenotyping led a team of clinical hematopathologists to concur that human T-ALL developed in these mice. 
+<p> 
+No datasets exist for this experiment. A final report was archived.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX13AB67G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Porada, Christopher</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Cells, human</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/81tf-2268</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2012 Space Radiobiology</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/f0d4309f-5ddf-54f4-90f3-2c8f296fc306?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/f0d4309f-5ddf-54f4-90f3-2c8f296fc306?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

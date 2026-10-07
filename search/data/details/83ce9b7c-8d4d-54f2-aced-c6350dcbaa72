@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inflight Phonocardiogram - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/83ce9b7c-8d4d-54f2-aced-c6350dcbaa72?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>M004</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Inflight Phonocardiogram</h1>
+        <div class="meta-id">Record ID: M004</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/83ce9b7c-8d4d-54f2-aced-c6350dcbaa72?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The objective of the Inflight Phonocardiogram (M004) experiment was to measure the duration of the electrical and mechanical phases of the cardiac cycle of the heart during orbital flight.  The experiment was conducted in order to gain information on the functional cardiac status of flight crewmembers during prolonged space missions.
+<P>
+APPROACH:<br>
+Electrocardiogram (ECG) and phonocardiogram recordings were obtained on five astronauts: subjects A and B during Gemini 4 (4 day mission), subjects C and D during Gemini 5 (8 day mission), and subject E during Gemini 7 (14 day mission).  ECG recordings of one additional subject, subject F of Gemini 7, were made at lift-off and reentry.  The recording procedure was entirely automated and did not require active participation on the part of the flight crewmembers.
+<P>
+The experiment equipment system consisted of: a) a phonocardiogram , b) the Gemini bioinstrumentation system, and c) an on board biomedical tape recorder.  Both the ECG and phonocardiographic signal conditioners was housed within the Gemini pressure suit in pockets of the astronaut's undergarment.  The phonocardiographic sensor was applied parasternally at the left-fourth intercostal space of each subject, and remained attached to the chest throughout the mission.  The sensor was secured to the chest wall by means of a small disk of double-sided adhesive.  ECG electrodes were applied at the top and bottom of the sternum.
+<P>
+The analog data from the biomedical tape recording were played back after completion of the mission.  The records were semi-automatically digitized with an analog-to-digital converter.  Digital readings were then taken at each one of the following points: 
+<LI><P>at the onset of a QRS complex or the beginning of the electrical systole
+<LI><P>at the onset of the first heart sound
+<LI><P>at the onset of the second heart sound (which indicated the end of the mechanical systole and the beginning of diastole)
+<LI><P>at the onset of the next QRS complex (which indicated the end of the cardiac cycle.) 
+<P>
+A computer program was used to process the digitized data and calculate the duration of systole and diastole, the interval between the onset of QRS and the first heart sound (electromechanical delay), and the interval between the first and second heart sounds.  The same computer program allowed for computation of means and standard deviations of these variables after 15 consecutive beats.
+<P>
+ECG and phonocardiogram data were obtained during the following periods for subjects A and B: 
+<LI><P>continuously for 8 minutes from the time prior to lift-off until the spacecraft had reached orbit
+<LI><P>continuously from 5 minutes before the period of extravehicular activity (EVA) to 10 minutes following the EVA
+<LI><P>continuously from 5 minutes before reentry until splashdown,
+<LI><P>continuously for approximately 1 minute at 2-hour intervals for the first 24 hours and at 4-hour intervals for the second, third, and fourth flight days. 
+<P>
+Technical difficulties precluded recording of the phonocardiogram from the tenth through the eighteenth hour on subject B, throughout the EVA on subject A and from the ninety-third hour through splashdown on subject A.
+<P>
+Data on subjects C and D were obtained during the following periods: 
+<LI><P>continuously starting a few minutes before lift-off until the spacecraft had reached orbit
+<LI><P>continuously from 5 minutes before reentry until splashdown
+<LI><P>continuously for 1 minute at hourly intervals for the first 24 hours of the mission and at 4-hour intervals for the rest of the flight until 5 minutes before reentry.
+<P>
+Data on subject E were obtained:
+<LI><P>continuously from 15 minutes before lift-off to 11 minutes into the mission
+<LI><P>continuously for 1 minute at 1, 3, and 4 hours inflight
+<LI><P>continuously for 1 minute at hourly intervals during periods assigned for rest from the fifth day through the fourteenth day of the mission. 
+
+<P>
+Limitations in the number of measurements in subject E were imposed by the recording capability of the biomedical tape recorder.  No recordings were made during reentry.  ECG recordings for Subject F on Gemini 7 were made on liftoff and reentry.
+<P>
+RESULTS:<br>
+All astronauts had an increased heart rate (i.e., short cardiac cycle) at the time of lift-off.  This was reflected in a very short cardiac cycle accompanied by a proportional shortening of the systole and electromechanical delay time intervals.  There was a rapid deceleration of heart rate as soon as the spacecraft entered orbit, but a steady state was not reached until approximately 16 hours into the mission.  Throughout the mission, the duration of the cardiac cycle varied considerably with concomitant changes in the duration of electromechanical systole and of the time interval between the first and second heart sounds.  The electromechanical delay remained relatively constant, but usually there was a significant “anticipatory” shortening that began several hours before landing.  In the instance of subject A, this phenomenon began 20 hours before reentry.  Decreases in the duration of the cardiac cycle and its various components were always observed at reentry when peak heart rates were about 160 beats per minute.  Electromechanical systole and the electromechanical delay reached their lowest values at reentry.
+<P>
+Data analysis showed that the duration values of electromechanical systole (S), the time interval between the first and the second heart sounds (X), and the electromechanical delay (T) were longer when the total duration of the cardiac cycle was also longer (that is, when the heart rate was slower.)
+<P>
+In the case of subject C, the relationships between S, X and T were normal in practically all instances.  However, lower than-predicted values for systole were recorded at the time of reentry.  In the case of subject B and to a lesser extent in the subjects A and E, observed values were slightly lower than normal.  Subject E exhibited a very prolonged cardiac cycle (i.e. low heart rate) during periods of rest.  The highest values (instantaneous heart rates of 37 to 45 beats per minute) for subject E were recorded during mid-mission night sleep periods.
+<P>
+In general, shorter-than-predicted measurements of cycle components for a cardiac cycle of given duration were observed under the influence of adrenergic or stress factors, whereas longer-than-predicted measurements are indicative of the influence of cholinergic or vagal factors.  A preponderance of adrenergic influences was thus uniformly noticed in all the astronauts at the time of lift-off and especially at the time of reentry.
+<P>
+A remarkable quantitative difference was observed in subject D.  In this individual, the durations of electromechanical systole and of electromechanical delay were significantly longer than predicted for normal healthy subjects.  There was a relative shortening of these periods only at the time of lift-off and reentry.  It was assumed that the longer duration of systole and of electromechanical delay of subject D was an expression of increased vagal tone except at lift-off and reentry.  Increased vagal tone was further suggested by the marked sinus arrhythmia recorded during sleep and quiet periods.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>M004</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Vallbona, Carlos</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Gemini</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Gemini 4&#x27;], [&#x27;Gemini 5&#x27;], [&#x27;Gemini 7&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/eptt-n103</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/83ce9b7c-8d4d-54f2-aced-c6350dcbaa72?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/83ce9b7c-8d4d-54f2-aced-c6350dcbaa72?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

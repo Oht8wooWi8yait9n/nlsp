@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>178022__2820609911 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000002429?dataType=DATASETS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #059669;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Datasets</span> /
+      <span>178022__2820609911.pdf_STS-40_178022_2013_282_061001.pdf, tjp0588-1129-f1.gif_STS-40_178022_2013_282_061027.gif, tjp0588-1129-f2.gif_STS-40_178022_2013_282_061042.gif, tjp0588-1129-f3.gif_STS-40_178022_2013_282_061056.gif, tjp0588-1129-f4.gif_STS-40_178022_2013_282_061010.gif, tjp0588-1129-f5.gif_STS-40_178022_2013_282_061024.gif</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Datasets</span>
+        <h1>178022__2820609911</h1>
+        <div class="meta-id">Record ID: 178022__2820609911.pdf_STS-40_178022_2013_282_061001.pdf, tjp0588-1129-f1.gif_STS-40_178022_2013_282_061027.gif, tjp0588-1129-f2.gif_STS-40_178022_2013_282_061042.gif, tjp0588-1129-f3.gif_STS-40_178022_2013_282_061056.gif, tjp0588-1129-f4.gif_STS-40_178022_2013_282_061010.gif, tjp0588-1129-f5.gif_STS-40_178022_2013_282_061024.gif</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000002429?dataType=DATASETS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          Abstract: Although astronauts' cardiovascular function is normal while they are in space, many have altered haemodynamic responses to standing after they return to Earth, including inordinate tachycardia, orthostatic hypotension, and uncommonly, syncope. Simulated microgravity impairs vagal baroreceptor-cardiac reflex function and causes orthostatic hypotension. Actual microgravity, however, has been shown to either increase, or not change vagal baroreflex gain. In this study, we tested the null hypothesis that spaceflight does not impair human baroreflex mechanisms. We studied 11 American and two German astronauts before, during (flight days 2-8), and after two, 9- and 10-day space shuttle missions, with graded neck pressure and suction, to elicit sigmoid, vagally mediated carotid baroreflex R-R interval responses. Baseline systolic pressures tended to be higher in space than on Earth (P = 0.015, repeated measures analysis of variance), and baseline R-R intervals tended to be lower (P = 0.049). Baroreceptor-cardiac reflex relations were displaced downward on the R-R interval axis in space. The average range of R-R interval responses to neck pressure changes declined from preflight levels by 37% on flight day 8 (P = 0.051), maximum R-R intervals declined by 14% (P = 0.003), and vagal baroreflex gain by 9% (P = 0.009). These measures returned to preflight levels by 7-10 days after astronauts returned to Earth. This study documents significant increases of arterial pressure and impairment of vagal baroreflex function in space. These results and results published earlier indicate that microgravity exposure augments sympathetic, and diminishes vagal cardiovascular influences.<BR>
+Dwain L Eckberg, et al. J Physiol. 2010 April 1;588(Pt 7):1129-1138.
+<P>
+Supporting figures:<BR>
+Figure 3. Mean ± 95% confidence intervals for preflight and inflight vagal baroreflex relations. From: Human vagal baroreflex mechanisms in space. 
+
+Confidence limits for carotid distending pressures are obscured by the symbols. Open circles, preflight values; red circles inflight values.
+<P>
+Figure 4. Mean ± 95% confidence intervals for R–R interval changes provoked by baroreflex stimuli. From: Human vagal baroreflex mechanisms in space. 
+Regressions for data from preflight to flight day 8 and from flight day 8 until postflight days 7–10 are shown with corresponding levels of significance. C, the integrals for all R–R interval responses to stimulus sequences. *Maximum R–R intervals during baroreflex testing were significantly lower on flight day 8 than preflight.
+<P>
+Figure 5. Mean ± 95% confidence intervals and individual (grey) vagal baroreflex gains for all subjects for all experimental sessions. From: Human vagal baroreflex mechanisms in space. 
+Regression of baroreflex gains from preflight to flight day 8 was highly significant (P= 0.009). Individual data illustrate the great variability of vagal baroreflex gain among healthy subjects.
+<P>
+Figure 1. Baroreflex testing. From: Human vagal baroreflex mechanisms in space. 
+The left panel shows astronaut Rhea Seddon performing baroreflex testing on herself during the SLS-1 mission. The custom-fabricated neck chamber was sealed around the mandible, posterior neck and chest with synthetic rubber. A, a stylized neck pressure sequence; B, R–R interval responses to the stimulus profile, telemetered from space; C, baroreceptor stimulus–R–R interval response relations for a different astronaut, studied preflight and on flight day 8 during the D-2 mission. In this and other figures, data from space are shown in red.
+<P>
+Figure 2. Mean (± 95% confidence limits) baseline arterial pressures and R–R intervals associated with each baroreflex test. From: Human vagal baroreflex mechanisms in space. 
+Dashed lines indicate preflight averages. Results from repeated measures analysis of variance are given. The significance of pairwise differences was determined with the Holm–Sidak test. In panel B: *diastolic pressure was significantly higher on landing day than on all other experimental days. In panel C: *pulse pressure was significantly lower on flight day 8 than preflight, and **significantly higher on postflight day 4 than preflight, landing day, and postflight day 1. In panel D: *R–R intervals were significantly lower on flight day 8 than preflight.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Dataset ID</th>
+          <td>[&#x27;178022__2820609911.pdf_STS-40_178022_2013_282_061001.pdf&#x27;, &#x27;tjp0588-1129-f1.gif_STS-40_178022_2013_282_061027.gif&#x27;, &#x27;tjp0588-1129-f2.gif_STS-40_178022_2013_282_061042.gif&#x27;, &#x27;tjp0588-1129-f3.gif_STS-40_178022_2013_282_061056.gif&#x27;, &#x27;tjp0588-1129-f4.gif_STS-40_178022_2013_282_061010.gif&#x27;, &#x27;tjp0588-1129-f5.gif_STS-40_178022_2013_282_061024.gif&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Influence of Weightlessness Upon Human Autonomic Cardiovascular Control</td>
+        </tr>
+        <tr>
+          <th>Mission</th>
+          <td>[&#x27;STS-40&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Availability</th>
+          <td>Available online</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Homo sapiens</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000002429?dataType=DATASETS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_DATASET-0000000000002429?dataType=DATASETS</a>
+    </div>
+  </div>
+</body>
+</html>

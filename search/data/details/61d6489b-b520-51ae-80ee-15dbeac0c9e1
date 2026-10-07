@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Physiologic Alterations and Pharmacokinetic Changes During Space Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/61d6489b-b520-51ae-80ee-15dbeac0c9e1?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>2.3.1</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Physiologic Alterations and Pharmacokinetic Changes During Space Flight</h1>
+        <div class="meta-id">Record ID: 2.3.1</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/61d6489b-b520-51ae-80ee-15dbeac0c9e1?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Space flight induces a wide range of physiological and biochemical changes in crewmembers.  Examples of these changes are disruption of gastrointestinal (GI) function and physiology, changes in liver function, fluid and electrolyte imbalances, alterations in circulatory dynamics and organ blood flow, and hormonal and metabolic perturbations.  Any of these changes can influence the pharmacokinetic behavior and pharmacodynamic consequences of medications administered to crewmembers during space flight.
+<P>
+Since the therapeutic effectiveness of medications is dependent upon their pharmacokinetics and bioavailability, determination of flight-induced changes of the characteristics for operationally critical medications is crucial for ensuring the effectiveness of inflight pharmacologic treatment.  Saliva sampling techniques have been used to evaluate the pharmacokinetics of acetaminophen (a common pain-relief medication) during space flight.  Preliminary results indicate that drug dynamics change during flight; furthermore, these changes appear to vary with mission length.  As mission durations increase, the effects of space flight-induced physiologic changes and the resulting pharmacokinetic and pharmacodynamic deviations will be magnified and must be countered in order to maintain optimum health and performance during flight, as well as prompt readaptation to gravity upon return.  
+<P>
+GI function is key to absorption and availability of oral medications and nutrients; hepatic function is key for the elimination of medications and toxicants from the body.  Thus, the objectives of this investigation were to 1) determine changes in GI motility during space flight using a noninvasive lactulose breath-hydrogen test, 2) determine absorption, bioavailability, and elimination of acetaminophen during space flight, 3) determine hepatic metabolic activity during space flight by measuring the clearance of antipyrine after an oral dose, and 4) correlate functional changes in the GI tract and liver with the absorption and metabolism of acetaminophen.  (Both acetaminophen and antipyrine are substances used to reduce fever and relieve pain.)
+<P>
+APPROACH:<BR>
+This investigation consisted of two protocols.  The first protocol, GI-Acetaminophen, was designed to evaluate pharmacokinetic changes during space flight using acetaminophen as a representative drug.  GI function, an important contributing physiologic parameter to pharmacokinetic variability during flight, was estimated using a lactulose breath-hydrogen test, which is a noninvasive and reliable indirect measure of GI motility.  The second protocol, Hepatic-antipyrine, was designed to estimate changes in hepatic metabolism by monitoring the clearance of orally administered antipyrine. This method provides an indirect determination of hepatic metabolizing-enzyme activity.
+<P>
+GI Experiment Protocol:  After 8 to 10 hours fasting, each crewmember collected a saliva, a urine sample and two consecutive breath samples; breath samples were collected in sample bags.  The crewmembers then ate a prescribed low-fiber breakfast, followed by ingestion of a 650-mg dose of liquid acetaminophen.  Next, orange juice containing 20 grams of lactulose was ingested.  After drinking the mixture, the crew collected serial breath samples, saliva samples, and void-by-void urine samples as per a predetermined schedule.  All in-flight samples were identified and collection times were recorded with a barcode reader (BCR).  For each crewmember, eighteen breath samples were collected over a period of 6 hours and 12 saliva samples over an 8-hour period. Void-by-void urine samples were collected for 24 hours after dosage ingestion.  With the extension of the Mir 18 mission, additional time was available to collect 4 additional breath samples from the Mir 18 crew.  The data collected was helpful in examining the effects of cabin atmosphere on the breath sample components.  The time of peak breath hydrogen concentration after ingestion of lactulose was used to determine gastrointestinal motility before, during, and after flight.  Pharmacokinetic parameters and bioavailability were determined for pre-, in-, and postflight samples using concentration-time data of parent drug and metabolites.
+<P>
+Hepatic Experiment Protocol:  After 8-10 hours fasting, crewmembers collected a saliva and a urine sample then consumed a prescribed low fiber breakfast.  A 1.2-gram antipyrine dose was then ingested.  This was followed by the collection of 8 saliva samples and void-by-void urine samples for 48 hours after dosage ingestion.   All in-flight samples were identified and collection times were recorded with a BCR.  Hepatic metabolic activity was determined by calculating the total body clearance of orally administered antipyrine from concentration-time data of pre-, in- and postflight samples.
+<P>
+Metabolic Log: Nutrient, fluid and medication intake, as well as exercise by the crewmembers, were monitored during the 24-hour GI-acetaminophen study period and the 48-hour hepatic metabolism study period.
+<P>
+RESULTS:<BR>
+GI Experiment Results:  Only one preflight GI data collection session was completed (two were requested to obtain reliable baseline data).  Nine of the inflight breath sample bags did not contain sufficient breath samples for analysis; It was discovered that the port of the bags was not sealed when received by the investigator.  However, this loss of samples did not impact analysis results.
+<P>
+Data from breath hydrogen showed at least a 100 percent increase in the Gastrointestinal Transit Time (GITT) during flight, indicating a decrease in GI motility.  The results of this test, repeated three times inflight per crewmember, showed a sustained increase in GITT was maintained for the duration of the mission.  This is in agreement with an earlier observation of a 63 percent increase in GITT during anti-orthostatic bed rest.
+<P>
+Breath methane and hydrogen levels were several fold higher during flight than on the ground.  Thirty to fifty percent of the general population excrete methane.  This may be partly attributable to the presence of  methanogenic bacteria in the distal colon that converts hydrogen to methane.  Endogenous protein or glycoprotein changes may also contribute to methane response.  Low levels of methane (0-26 ppm) were excreted by crewmembers preflight, but during flight, levels ranged from 1784-6661 ppm.  Methane production is indicative of gut stasis, change in gut wall bacterial flora or a combination of both.  Noteworthy is that the toxicology lab reported high levels of methane in the Mir 18 air samples as well.  The source of methane, though unknown at this time, may be the crew.
+<P>
+Breath methane and hydrogen levels are also associated with bacterial overgrowth in the GI tract and a possible proliferation of pathogenic bacteria, <i>Helicobacter pylori</i> (Minocha, et al., 1994).  It was reported that crewmembers received prophylactic treatment with bifidobacterium for disbacteriosis 60 days prior to flight.  Their fecal bacterial flora immediately before flight were normal indicating that the disbacteriosis was effectively treated.  No anomalies in the bacterial flora were noticed after return from flight (from personal communication with Dr. Lizco, IBMP, Moscow).  These results indicate that future studies should focus on examining some of these variables of the GI physiology during Mir station flights.
+<P>
+Absorption and bioavailability of acetaminophen was variable during the Mir 18 mission and correlated well with GI motility.  This supports findings from earlier investigations ("GI Function During Extended Duration Space Flight", DSO 622, and "Salivary Acetaminophen Pharmacokinetics", DSO 458).
+<P>
+Hepatic Experiment Results:  Only one preflight hepatic data collection session was completed (two were requested to obtain reliable baseline data).  Also, one set of the inflight saliva and urine collection sessions was canceled resulting in the loss of data for the 24 to 48 hour collection period.
+<P>
+The assessment of oxidative hepatic metabolism (hepatic function) was examined by measuring the antipyrine clearance in the crewmembers.  Changes in hepatic function as a function of  duration of mission were assessed by comparing pre- and inflight results.  Data analysis indicates that hepatic metabolism was variable during flight.  A decrease of more than 50 percent in antipyrine clearance was noted for one crewmember; an increase of 30 percent was noted for another.  Postflight, the clearance of antipyrine decreased approximately 20 percent in both crewmembers.  
+<P>
+Conclusion:  The limited inflight data collected to date, although indicating trends of GI and hepatic function changes during flight, are inadequate to characterize the degree and magnitude of such changes.  The mechanisms underlying these changes are difficult to identify because of the complexity of these changes as well as the large number of variables that may influence disposition profiles and kinetic parameters during flight.  Further investigation is required to generate information that will be useful for the development of pharmaceutical and nutritional countermeasures for microgravity-induced deconditioning.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>2.3.1</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Kovachevich, Irina, Putcha, Lakshmi</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Pharmacology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Mir 18&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/088h-fd33</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/61d6489b-b520-51ae-80ee-15dbeac0c9e1?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/61d6489b-b520-51ae-80ee-15dbeac0c9e1?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

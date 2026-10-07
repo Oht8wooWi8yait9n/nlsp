@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A New Harness for Use with Exercise Countermeasures - Validation of Improved Comfort and Loading with the Center for Space Medicine (CSM) Harness - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/c06c717f-ebf8-53e2-a311-98217bad9754?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>SDTO_17013_U</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>A New Harness for Use with Exercise Countermeasures - Validation of Improved Comfort and Loading with the Center for Space Medicine (CSM) Harness</h1>
+        <div class="meta-id">Record ID: SDTO_17013_U</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/c06c717f-ebf8-53e2-a311-98217bad9754?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <BR>
+The International Space Station (ISS) treadmill harness and Series Bungee System (SBS) Bungee System design have been reported to cause pain and discomfort to crewmembers during exercise and may contribute to sub-optimal subject load device settings (approximately 65% body weight) during treadmill exercise. Debriefs from Expeditions 11 through 14 revealed that crewmembers consistently report pain, discomfort, and/or harness fit/adjustment issues regarding the comfort of the ISS treadmill harness under load. Comments from the debriefs also reported that pain and discomfort results not only from the ISS treadmill harness itself, but also with the SBS Bungee 'French Clips' and/or upper end plates. The ISS treadmill harness has been shown to cause broken skin, bleeding, and scarring in the shoulders and/or hips of some crewmembers. The SBS Bungee clips have been reported to chafe against the upper thigh/hip during exercise and have caused scarring in some crewmembers. 
+<P>
+The purpose of this experiment was to evaluate a new treadmill harness design for comfort during exercise, and measure the loads in the harness straps for direct comparison with the current U.S. Treadmill with Vibration and Isolation System (TVIS) Harness. The Station Detailed Test Objective (SDTO) research protocol was aimed at improving comfort, plus increasing consistent loading for crewmembers exercising on the ISS treadmill. The Center for Space Medicine (CSM) Harnesses was instrumented to allow for objective correlation with subjective ratings of comfort. To provide a direct comparison with the ISS treadmill harness, the load distribution, and subject load device, (loading applied to the ISS treadmill harness) was also measured. The ISS treadmill harnesses were instrumented by the crew on-orbit during a one-time set up activity. 
+<P>
+APPROACH:  <BR>
+During the experiment, the crewmember exercised on the ISS treadmill wearing each harness (CSM and U.S. TVIS harnesses) during normally-scheduled exercise sessions, at 60% and 90% body weight loading and compared Glenn Harness and Treadmill Harness side-by-side. Load data were captured on both Glenn and Treadmill Harness to provide hip/shoulder loading ratio and total load into each harness.  During selected sessions (eight sessions throughout the mission), the crewmember set-up the instrumentation, collected the harness load data, and filled out a questionnaire to give feedback about comfort. For remainder of mission, if time remained, crewmembers could wear a harness of their choice. Crewmembers provided qualitative comfort, fit, and function feedback using a questionnaire after selected sessions for both harness types.   
+<P>
+RESULTS:<br>
+The Glenn Harness for treadmill running aboard the ISS was evaluated favorably against the current treadmill harness for crew comfort between November 2009 and November 2010. Four out of five male crewmembers preferred the improved comfort of the Glenn Harness over the current operational Treadmill Harness, The Johnson Space Center (JSC) Crew Office endorsed continued to provide flight Glenn Harness units to the crewmembers as a crew preference item.  Since completion of this SDTO, all eligible male crewmembers have requested Glenn Harnesses, and as of February 2012, thirteen units have been provided. However, the two female crewmembers enrolled in the SDTO protocol did not prefer the Glenn Harness, due to stiffness in the shoulder straps in the chest area. 
+<p>
+The project team held a crew debrief in March 2011 with these crewmembers, gathered feedback, and subsequently developed three alternative design prototypes to address the issues; (1) a modified strap, (2) a yoke with spreader, and (3) a quick release yoke. They were then tested for comfort by three test subjects running the SDTO protocol in simulated zero-g supine running and by eight female crewmembers on the Treadmill 2 (T2) trainer at JSC. Although the yoke styles presented a promising alternative to the traditional strap design, the modified strap style was preferred overall. The yoke styles were found to be sensitive to the degree of forward lean in upright running and caused some restriction in breathing. The consensus based on these results was to proceed with recommending the modified strap style to be incorporated into the flight inventory for future crews to use. The inventory will have small, medium, large, and extra large sizes available for both male and female crewmembers. A standard sizing template and protocol was also developed, with crew size currently obtained ideally at least 6 months before flight, so the Glenn Harness can be fabricated and certified for flight in time for manifesting and launch.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>SDTO_17013_U</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Perusek, Gail</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors, Muscle physiology, Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Expedition 20&#x27;], [&#x27;Expedition 25&#x27;], [&#x27;Expedition 21&#x27;], [&#x27;Expedition 22&#x27;], [&#x27;Expedition 23&#x27;], [&#x27;Expedition 24&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/k3a5-fc61</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/c06c717f-ebf8-53e2-a311-98217bad9754?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/c06c717f-ebf8-53e2-a311-98217bad9754?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

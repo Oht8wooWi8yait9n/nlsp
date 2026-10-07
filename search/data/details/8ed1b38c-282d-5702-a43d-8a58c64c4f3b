@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gravitational Effects on Biofilm Formation During Spaceflight (Micro-2) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/8ed1b38c-282d-5702-a43d-8a58c64c4f3b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARC00XX46</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Gravitational Effects on Biofilm Formation During Spaceflight (Micro-2)</h1>
+        <div class="meta-id">Record ID: ARC00XX46</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/8ed1b38c-282d-5702-a43d-8a58c64c4f3b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<P>This experiment is designed to further our understanding of Pseudomonas aeruginosa and Staphylococcus aureus biofilms. The specific objectives are: compare biofilms formed on mixed cellulose ester membranes in normal gravity and during spaceflight, and examine the influence of mutations affecting motility on biofilm formation and structure; assess the effects of newly developed, non-leaching, nanotechnology-based, antimicrobial surfaces on biofilm formation during spaceflight and assess their potential to reduce the impact of biolfims in future spacecraft designs; identify changes in gene expression related to biofilm formation and virulence that occur when cells are cultured during spaceflight.
+<P>
+APPROACH:<P>This experiment utilized Bioserve's Group Activation Packs (GAPs) and Commercial Generic Bioprocessing Apparatus (CGBA), a flight certified incubator capable of holding 16 GAPs and controlling the temperature between 4ºC and 37ºC. Each GAP holds eight Fluid Processing Apparatus (FPA) inserts, composed of a glass barrel divided into three chambers that are separated from one another by rubber septa.  Each FPA contained growth medium with membranes in chamber A, a microbial culture suspended in stasis medium in chamber B, and a termination reagent, or more growth media, in chamber C. The culture growth was initiated inflight by a crewmember.  After the growth period (48 +/- 2 hours), a crewmember terminated the experiment.
+<P>
+RESULTS:<P>Results demonstrated that biofilm formation by both of these model organisms, Pseudomonas aeruginosa and Staphylococcus aureus, can occur during spaceflight and demonstrated that these organisms respond differently to the spaceflight environment. Direct measurements of biomass showed P. aeruginosa PA14 formed 3 to 5-fold more biofilm during spaceflight compared to normal gravity. In addition, quantitative analysis of CLSM images showed increased biofilm biomass (p<0.001) and increased biofilm thickness (p<0.001) in samples grown during spaceflight. A clear effect of phosphate on biofilm biomass was not observed in any biofilm samples. Spaceflight was also observed to increase planktonic biomass by approximately 10-fold, but only in the presence of 5 mM phosphate.
+<p>
+No data submitted. Summarized and analyzed data may be available through publications.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARC00XX46</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Collins, Cynthia</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-132&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Bacterium (Pseudomonas aeruginosa)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/2j67-ss90</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNH08ZTT003N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/8ed1b38c-282d-5702-a43d-8a58c64c4f3b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/8ed1b38c-282d-5702-a43d-8a58c64c4f3b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

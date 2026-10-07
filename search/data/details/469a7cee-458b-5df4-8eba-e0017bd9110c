@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evolution of Genotypic and Phenotypic Changes in Yeast Related to Selective Growth Pressures Unique to Microgravity - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/469a7cee-458b-5df4-8eba-e0017bd9110c?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX12AM93G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Evolution of Genotypic and Phenotypic Changes in Yeast Related to Selective Growth Pressures Unique to Microgravity</h1>
+        <div class="meta-id">Record ID: NNX12AM93G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/469a7cee-458b-5df4-8eba-e0017bd9110c?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This application investigates microbial growth and physiological responses to the multiple stimuli encountered in space flight environments, using Saccharomyces cerevisiae as a model system. Yeast are an ideal model because their complete gene sequence is known; there are extensive and sophisticated clone libraries available for study; and they can easily be flown in space, held at +4oC in a quiescent state, and activated by simple warming. Regulatory mechanisms in yeast are highly similar to mammalian cells. We have shown that microgravity activates a unique set of genes in yeast, but the specific molecular mechanisms remain incompletely defined.
+
+The aim of the second stage of this project is to fly a yeast payload to understand the molecular mechanisms of radiation damage, and whether radiation repair mechanisms have unique aspects in space. Multiple genome-wide series of deletion clones will be assayed to study the genomics of radiation effects. We propose to return the yeast arrays from space and analyze the DNA by next generation sequencing and make comparison to ground controls. Pathway analysis will then allow analysis of known and novel radiation sensitive pathways. The data sets will be placed on publicly accessible websites, including GeneLab, as a community resource.
+<P>
+APPROACH:<br>
+1) Identify promoter motifs associated with genes responding to Rotating Wall Vessel (RWV)-emulated microgravity compared to static cultures. The RWV will be used to emulate microgravity as we have already demonstrated that it induces changes in yeast gene expression that are similar to those of yeast flown in space. The Yeast Green Fluorescent Protein (GFP) clone collection will permit identification, by changes in fluorescence, of genes whose expression changes in response to real and simulated microgravity. After extensive normalization and analytic procedures, microgravity-responsive genes will be grouped into clusters on the basis of similar kinetics, under the assumption that these are likely to be co-regulated. We will then search the upstream sequence of co-expressed genes and identify candidate binding motifs for transcription factors.
+
+2) Confirm the role of regulatory sequences in directly activating transcription of a set of genes changed by RWV-simulated microgravity and to identify transcription factors that interact with these regulatory motifs. This specific aim makes novel use of the yeast deletion collection, a systematic gene-by-gene set of complete gene deletions, the only such resource that exists for any group of organisms. Transcription factors will be identified by robotically introducing a reporter plasmid that codes for 1) a suicide-inducing enzyme that is activated in all clones except the one(s) with a deletion in the gene for the transcription activating factor that binds to the promoter motif or 2) an endogenously activated essential gene to identify repressors.
+
+3) Confirm and extend the results obtained in our ground based studies on the selective growth pressure in the true microgravity environment. Utilizing the genome wide yeast GFP clone collections spotted on agar plates, we propose a parallel flight study. Our question can ultimately only be definitively answered in the true microgravity of space, because on the ground gravity must always be onset with an equal and opposite force.
+
+Multiple genome-wide series of ~4,800 deletion clones of Saccharomyces cerevisiae of “Baker’s yeast” has been prepared for use in the reflight. To translate this study data to clinical and space health countermeasures, 10 new deletion series have been created with a second putative control genes also deleted. That is, ten yeast strains have been constructed by genetic deletion, each lacking a putative radiation repair control gene. The entire yeast deletion series of ~4,800 deletion clones is re-derived using the strains with putative control gene deletion as the background strain in which all other deletions are constructed, resulting in genome wide pools of double deletion strains. This fresh approach aims to determine the molecular mechanisms of radiation damage to facilitate understanding radiation damage, and may provide simple approaches to ameliorating space based and clinical radiation damage.
+<P>
+RESULTS:
+In the first phase of this project wildtype and radiation sensitive stains of Saccharomyces cerevisiae were flown in space and where resident on the ISS for 30 and 180 days before recovery (SpaceX4 and SpaceX6). We used 100 independent yeast strains to survey the effects of radiation on this model organism, and collected whole genome sequence data for 1000 genomes on space-based and ground controls. This cohort comprises 100 individual strains, 90 of which contain verified deletion alleles in a variety of conserved pathways including MEC1, MRE11, and RAD4, 5, 7, 18, 24, 27, 27, and RAD51 mutants, encoding essential proteins including checkpoint kinases, helicases, nucleases, and ligases. These 1000 genomes provide a baseline spectrum of mutations against which we will calibrate additional experimental samples. As a testament to the robustness of this platform, a replicate set of samples originally intended to return on SpaceX4 after 30 days of exposure actually remained on the ISS for 180 days, returning on SpaceX6. This allowed us to double the size of our data set and provided insight into the effects of long-term exposure.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX12AM93G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hammond, Timothy</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Omics</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;SpaceX_3&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Yeast, brewer&#x27;s (Saccharomyces cerevisiae)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/63s7-4b73</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2011 Space Biology NNH11Z</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/469a7cee-458b-5df4-8eba-e0017bd9110c?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/469a7cee-458b-5df4-8eba-e0017bd9110c?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

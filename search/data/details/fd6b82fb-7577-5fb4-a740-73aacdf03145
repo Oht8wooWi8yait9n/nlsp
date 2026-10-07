@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transgenic Plant Biomonitors of Space Flight Exposure - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/fd6b82fb-7577-5fb4-a740-73aacdf03145?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9802299</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Transgenic Plant Biomonitors of Space Flight Exposure</h1>
+        <div class="meta-id">Record ID: 9802299</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/fd6b82fb-7577-5fb4-a740-73aacdf03145?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This proposal is designed to be the next-generation of our previous flight project, PGIM-01, and investigates the use of reporter gene technology for the molecular analysis of development and stress in plants within space flight environments. We have designed a series of transgenic plants that carry sensor promoter - reporter gene constructs that are capable of monitoring a variety of environmental and developmental influences that might be altered in microgravity and general space flight environments. An understanding of signal transduction in higher plants (and by inference, all eukaryotes) is central to basic molecular biology research.
+<P>
+APPROACH:<br>
+The first generation of these experiments with the GUS reporter have been tested for biological veracity on KC-135 parabolic flight missions, and flew as PGIM-01 in the Plant Growth Facility on STS-93. Results of these KC-135 missions and STS-93 were used in this proposal to (1) design a second generation of sensor promoters to refine our definition of the cellular biological impact of microgravity and space flight; (2) design a second generation of reporter gene constructs that include real-time and non- destructive observations of reporter gene activity; (3) design and conduct short and longer term flight experiments that begin a comprehensive analysis of molecular genetic changes induced by space flight; and (4) develop methods to integrate reporter gene activities with data from DNA chip analysis of genome expression. The long-term goal is an understanding of the space flight induced molecular changes in plant gene activity, an understanding that will lead to hardware and/or genetic engineering modifications that will mitigate the negative impacts of space flight on plant growth and development.
+<P>
+RESULTS:
+In the current period we extended experiments evaluating real-time imaging and data collection of Adh/GFP in the prototype flight hardware being designed at Kennedy Space Center. In the past year we conducted several experiments designed to mimic a long duration shuttle mission (12-15 days) and conducted our Science Verification Test (SVT) with the prototype hardware. Four genetic constructs were used for the SVT and associated trials: CaMV35s/GFP, Adh/GUS, Adh/GFP and RD29/GFP. The RD29/GFP construct is new to the set of transgenic plants being tested in the prototype hardware. RD29 is primarily induced by drought and cold, but not by hypoxia. Work also proceeded with the development of additional transgenes, as well as with the development of more responsive Adh/GFP transgenic lines. A KC-135 experiment was conducted to investigate the effects of parabolic flight on gene expression profiles of the TAGES plants. In addition, the KC-135 flights were used to profile transgene expression and to field test microgravity harvest and stowage techniques and hardware.
+<P>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9802299</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Ferl, Robert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Environmental monitoring, Radiation biology, Plant biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-129&#x27;], [&#x27;STS-130&#x27;], [&#x27;STS-131&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse-ear cress (Arabidopsis thaliana) N/AC</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/202x-3955</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>98-HEDS-02</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/fd6b82fb-7577-5fb4-a740-73aacdf03145?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/fd6b82fb-7577-5fb4-a740-73aacdf03145?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

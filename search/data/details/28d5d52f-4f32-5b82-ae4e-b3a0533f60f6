@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biostereometric Analysis of Body Form - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/28d5d52f-4f32-5b82-ae4e-b3a0533f60f6?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>SKYFORM</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Biostereometric Analysis of Body Form</h1>
+        <div class="meta-id">Record ID: SKYFORM</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/28d5d52f-4f32-5b82-ae4e-b3a0533f60f6?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:
+<br>
+Biostereometrics is the science of measuring, and describing in mathematical terms, the three-dimensional form of biological objects.  Exposure to weightlessness results in a dramatic change in the patterns of muscular activity in the human body insofar as they control posture and are responsible for locomotion.  These changes in muscular activity might be expected to result in changes in the bulk of particular muscle groups, and in the overall energy consumption of the body, which, unless accompanied by a compensating change in food intake, would cause a change in body fat.  Biostereometric analysis of the Skylab crewmembers enabled changes in muscle bulk to be measured, and by examining those areas of the body containing fat deposits enabled general conclusions to be drawn about changes in each Skylab crewmember's body fat.
+<P>
+APPROACH:
+<br>
+The biostereometric measurements of the Skylab crewmen were made using four-camera stereophotogrammetry, during the immediate preflight and postflight periods of Skylab 2, 3, and 4.  The subjects were weighed within a few minutes of taking the photographs.  Each subject was instructed to stand between two control stands, which provided dimensional information in the three orthogonal axes.  Two cameras in front, and two cameras behind then simultaneously photographed the subject.  The subject was nude except for an athletic supporter, and a skullcap to press his hair down.  To minimize variations in chest volume, photographs were taken in maximal forced exhalation. Between each pair of cameras was a strobe-projector, which through a focusing lens projects a pattern of lines onto the subject's skin, making it easier to visualize during the subsequent plotting process.  The stereophotgrammetry cameras were modified to accept fine-grain glass plates, for dimensional stability of the image.  Duplicate sets of plates were exposed to insure against breakage or camera malfunction.  The equipment was portable, and photographs were taken at Johnson Space Center (JSC), Kennedy Space Center (KSC), and on the recovery ships.  After development the plates were analyzed on a stereoplotter, which derived the three-dimensional coordinates of thousands of points on the body surface, punching them on IBM cards for subsequent computer analysis.  The computer program derived area, shape, and perimeter of between 80 to 100 sections of different parts of the body, the volume of any segment of the body, and of the body as a whole.
+<P>
+RESULTS:
+<br>
+Measurements of leg circumference derived from stereometric analysis were compared to tape measure circumferences obtained on the same day.  A pattern typical of all comparisons made between the two methods, resulted in the stereometric techniques exceeding the tape measurements by 10 to 20 millimeters. There are two probable causes for this difference. Firstly, the stereoscopic photographs were made with the subject standing, whereas the tape measurements were made with the subject supine; the leg volume standing would exceed that supine by the volume of blood and interstitial fluid brought into the leg under the influence of gravity. Secondly, stereometric analysis, being a noncontact method, did not involve the compression of tissues, however small, which resulted from the use of a tape measure. The 10 to 20 millimeter discrepancy between the methods represents a difference in limb volume of 250 to 500 milliliters, which is entirely reasonable for the increased volume of blood and tissue fluid in the leg after transferring from the supine to the standing position.<P>
+Next, a comparison was made between the mean preflight weight and volume of the nine Skylab crewmembers and the first postflight determination. Density for all measurements was within the range 0.98 to 1.04 g/cm<sup>2</sup>. This is less than the normal range of density (1.02 to 1.10 g/cm<sup>2</sup>) derived from hydrostatic weighing or gas displacement, because the volume figure includes the residual lung volume, the volume of air enmeshed in the hair, and the volume of those areas which cannot be visualized by the cameras (axillae and perineum). These additional volumes should be reasonably reproducible from one measurement to another on the same subject, except for the hair volume, which is probably the largest single source of error. It is unrealistic to calculate the density of the tissue lost during the course of the flight, as small errors in the volume determination would lead to impossible values for tissue density. Two of the Skylab 4 crewmembers showed little or no weight change, although a redistribution of body volume did occur. Generally speaking, the changes in weight and total body volume were of similar magnitude, and the apparent changes in density were probably not significant.<P>
+Differences between the mean preflight and first postflight measurements of regional and total body volume, and body weight were also analyzed.  It was difficult to reproduce the "cutoff" plane between the arms and the trunk; because of this the arm volumes were subjected to considerable random variation. There was no statistically significant difference in mean arm volume between preflight and postflight measurements.  However, the mean losses of volume of 1.2 liters in the head and trunk, and 1.3 liters in the legs, were significantly different from zero (P<0.005). The mean preflight volume of the head and trunk was 45.8 liters, and that of the legs was 18.9 liters, so that the postflight change in volume was proportionately much greater in the legs.<P>
+The head and trunk segments of the body contain the extensively fatty areas of the buttocks and abdomen. It is probable that the volume changes seen in this body segment are due more to changes in fat than to changes in muscle, whereas the legs contain much more muscle than fat, except in the grossly obese, and are more sensitive to changes in muscle bulk. Both regions of the body would be affected by changes in body fluid.<P>
+A typical plot of the cross sectional areas of the body shows differences between preflight and postflight measurements in the regions of the head, shoulder, and arms were slight, and resulted from differences in posture. Marked loss of volume is seen in the abdomen, buttocks, and calves, and a less striking loss in the thighs. The abdominal area showed a flattening of the abdomen, and the gluteal region a reduction in volume of the buttocks, both probably resulting predominantly from loss of fat.  All crewmen lost volume from the abdomen, although the loss from this area was much greater in those who showed significant weight loss. The striking reduction in leg volume immediately postflight was investigated in more detail on the Skylab 4 mission, in an attempt to elucidate how much of it resulted from partial muscle atrophy, due to relative disuse of the legs in the weightless environment, and how much represented a purely temporary dehydration. The absolute loss of volume from the thigh and calf was of similar magnitude, although the much smaller dimensions of the calf resulted in a much greater proportional loss and a greater change in cross sectional area.<P>
+The differences between the volume of thigh and calf postflight in the Skylab 4 crewmen and the mean preflight value was analyzed. On recovery day there was a deficit in the lower limbs of nearly 1000 milliliters, which had reduced by about a third by the following day, and had diminished to around 300 milliliters 3 days later. Both calf and thigh volume had returned to preflight values by the measurement made 30 days following recovery. It is clear that at least part of the deficient volume must represent missing fluid, which is replaced within a day or two of recovery, but there is probably also a reduction in bulk of the tissues of the leg. If, as seems probable, this loss of tissue represents partial atrophy of the leg muscles due to relative disuse in zero-gravity, it would probably be restored fairly rapidly on return to Earth, so that the 300 milliliters deficit measured on day 4 postflight may be an under estimate of the total leg muscle lost during the flight.<P>
+The mean loss of leg volume on recovery day was 1.68 liters for the Skylab 2 crew, and 1.12 liters for the Skylab 4 crew. The mean loss on day 1 postflight was 1.06 liters for the Skylab 3 crew, and 0.77 liters for the Skylab 4 crew. While it is not possible directly to compare the Skylab 2 and Skylab 3 crews, there does appear to be a decrease in the loss of leg volume on succeeding missions. On the basis of these measurements, it seems likely that in-flight exercise, which was increased on successive flights, may have acted in opposition to the postflight loss of leg volume. How much of this opposition is mediated by the prevention of muscular atrophy, and how much by an effect on the cardiovascular system, and hence on body fluids, it is not possible to say.<P>
+In conlcusion biostereometric analysis of body form on the nine Skylab astronauts, preflight and postflight, reveals a loss of volume of one to one and one-half liters from the legs, much of which was replaced during the first 4 days postflight. It was estimated that about one third of this loss represented partial atrophy of the leg muscles due to relative disuse in zero-gravity, the remainder being due to a deficit in body fluid. Reduction in volume of the abdomen was noted also; this probably represented a small loss of body fluid, combined with a loss of body fat in all but two of the crewmen. Difficulties in distinguishing between the upper arm and the shoulder regions may have prevented any useful conclusions being drawn from the measurement of arm-volume.<P>
+In contradistinction to any other form of anthropometry, the stereoscopic photographs of the Skylab astronauts are a permanent detailed record of body form, which may be reexamined at some future date to answer new questions, or to take advantage of the increased accuracy resulting from advances in technique.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>SKYFORM</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Whittle, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Skylab</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Skylab 2&#x27;], [&#x27;Skylab 3&#x27;], [&#x27;Skylab 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/am8v-fd03</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/28d5d52f-4f32-5b82-ae4e-b3a0533f60f6?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/28d5d52f-4f32-5b82-ae4e-b3a0533f60f6?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

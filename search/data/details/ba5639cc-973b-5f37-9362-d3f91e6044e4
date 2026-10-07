@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Circadian Rhythms on Decompression Outcome - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ba5639cc-973b-5f37-9362-d3f91e6044e4?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91040</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Circadian Rhythms on Decompression Outcome</h1>
+        <div class="meta-id">Record ID: NAG91040</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ba5639cc-973b-5f37-9362-d3f91e6044e4?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:
+<br>
+Decompression sickness (DCS) can occur when the dissolved gases in blood and tissues exceed the ambient pressure of an individual following a pressure reduction.  Astronauts performing space walks (extravehicular activity, EVA) are subjected to significant pressure decreases as they decompress from the space shuttle/station cabin pressure of 14.7 pounds per square inch absolute (psia) to that of the space suit at 4.3 psia.  Decompression also occurs with deep-sea divers upon returning from the higher pressures beneath the ocean to surface pressure.  DCS symptoms range from mild joint pain to severe neurological injury or even circulatory collapse.  Most symptoms are attributed to the formation of gas bubbles in various tissues and venous blood.  These bubbles may react with blood cells (platelets and neutrophils) and vascular endothelial membranes, causing an inflammatory-like response.  The response is caused by mediator release (arachidonic acid metabolites) and other cellular injurious agents.  These mediators can result in endothelial cell injury, vasoconstriction, alterations in vessel wall permeability, and tissue edema formation.
+<P>
+In this project, researchers examined the effects of the body’s endogenous circadian rhythms on the physiological consequences of decompression-induced venous bubble formation.  Specific indices of inflammation and lung injury have been previously reported with DCS, even with mild to moderate levels of decompression.  Based on these observations, the research team studied the effect of the circadian rhythms on the tolerance to decompression exposure and the underlying 24-hour bioperiodic dependencies.  The overall objectives were to evaluate the quantitative evaluation of the physiological stress of decompression at different circadian times and to relate this to rhythms in cellular and biochemical variations over the 24-hour span.  The measurement of these responses was hoped to elucidate some of the less understood risks associated with decompression illness, leading directly to operationally useful procedures.
+<P>
+The study included had five specific hypotheses:
+<OL>
+<LI>Changes in decompression-induced neutrophil and platelet counts are circadian rhythm dependent.</LI>
+<LI>The severity of decompression-induced changes in inflammatory mediators (leukotrienes and thromboxanes) correlates with specific stages of known circadian rhythms.</LI>
+<LI>The severity of DCS symptoms and lung injury correlate with circadian rhythms.</LI>
+<LI>Decompression-induced variables in Hypotheses 1-3 above are the result of venous bubble formation and blood interactions.</LI>
+<LI>Pharmacological inhibition of decompression-induced symptoms and inflammatory mediators is dose-responsive as a result of circadian rhythm dependencies.</LI>
+</OL>
+<BR>
+<P>
+APPROACH:
+<br>
+<I>Circadian Rhythm Studies:</I> Twelve groups of 12 adult male Sprague-Dawley rats (440 ± 35 gm) were studied in this series of experiments (n=144).  For a minimum of 14 days, the rodents were acclimated to a 12-hour light/12-hour dark schedule and then selected for decompression exposure in reference to hours after lights on (HALO).  The protocol called for the rats to be exposed to conditions that induce DCS at 6 different times, (i.e. at 4-hour intervals throughout a 12-hour light/12-hour dark cycle).  Data were collected at HALO 2, 6, 10, 14, 18 and 22.  The animals were placed in the compression chamber and allowed 5 minutes to acclimate.  If testing occurred in the animals’ dark cycle, the study was conducted in darkness with the decompression chamber covered to maintain the lighting conditions.  The decompression exposures were selected to cause moderate to significant venous bubble formation in greater than 90% of the animals.  Previous studies have demonstrated the utility of this model for decompression evaluation.  The symptomology, however, was far less than usually reported with rodent experimentation where death or recovery endpoints were selected.  The purpose of this study required less severe symptomology for outcome evaluation.
+ <P>
+For decompression, the rats of 6 randomly selected groups (experimental) were placed in the decompression chamber, compressed to 683 kPa over 11 minutes (60 minutes exposure), then decompressed over 9.5 minutes back to ambient pressure, followed by a 60-minute observation period.  The remaining 6 groups (controls) remained at atmospheric pressure for 60 minutes.  Symptom scores were based on a normalized relative severity scale (minor = 1, to more severe (including death) = 4)).  
+<P>
+At 60 minutes post decompression, the rats were anesthetized (halothane) for sample collection (urine, pleural fluid and arterial blood for differential cell counts, protein and mediator analysis) and pulmonary edema measurement.  Bronchoalveolar lavage (BAL) was collected for protein, cell and eicosanoid analysis using enzyme immunoassays (EIA) and correlated as to the circadian staging.
+<P>
+Concentrations of thromboxane B<sub>2</sub> (TXB<sub>2</sub>), 11-dehydrothromboxane B<sub>2</sub> (11-DH-TXB<sub>2</sub>) and leukotriene E<sub>4</sub> (LTE<sub>4</sub>) in the biological samples were determined by enzyme immunoassay.  Plasma nitric oxide was analyzed using chemiluminescence.  Pulmonary edema was determined using a blood-corrected wet/dry weight ratio method.  Statistical evaluation consisted of analysis for time effect by analysis of variance (ANOVA) and cosinor using a single (24-hour) or multiple (24 + 12-hour) component cosine model.
+<P>
+<I>Pharmacological Intervention Studies:</I> Another aspect of this study was the investigation of the effects of inflammatory inhibitors to these mediators in decompression-exposed rats.  Results of the decompression studies identified the extent of risk of DCS that is dependent on circadian rhythms or specific inflammatory mediators.  From such data, the 2 biological times (with reference to circadian rhythms in risk) - one corresponding to the greatest and the second to the least susceptibility - were selected to conduct dose-response investigations of drug effect both on overt variables and on the release of inflammatory mediators (eicosanoids).  Three agents were studied. The first was aspirin for determining the role of cyclo-oxygenase products of arachidonic acid metabolism, namely thromboxane A<sub>2</sub> and its stable byproduct TXB<sub)2</sub>.  The second was zileuton, produced by Abbott labs, which is specific to the 5-lipoxygenase pathway of arachidonic acid metabolic products, namely the leukotrienes.  Zileuton actually blocks the 5-lipoxygenase enzyme rather than act as a leukotriene receptor antagonist.  By selecting the appropriate cyclooxygenase and 5-lipoxygenase inhibitors above, and evaluating their dose response effects at different time points, it is anticipated that circadian rhythm dependent patterns will emerge and thereby enable a better assessment of risk and intervention possibilities with DCS.  ß-agonist actions were studied with isoproterenol.  Each drug was administered, either subcutaneously or by gavage, to the rats (468 ± 29 gm) prior to compression.  Post decompression analysis is described above.  Data were analyzed by ANOVA with Fisher’s post-hoc comparison for differences between means (p < 0.05 statistically significant).  
+<P>
+RESULTS:
+<br>
+DCS-induced venous bubbles can lead to obstruction of blood vessels, alteration in vessel wall permeability and vasoconstriction.  Apart from the mechanical obstruction induced by the bubbles, these effects are partially caused by biochemical processes such as release of arachidonic acid metabolites, including thromboxanes and leukotrienes, resulting from bubble-activated neutrophils and endothelial cell injury.  Significant circadian rhythm dependencies in the tolerance to DCS were evident in most of the parameters studied.  This was most apparent in measured variables comparing HALO 2 and 12 time points.  Clear circadian rhythm dependencies were found in the inflammatory mediator levels and in the extravascular lung-water ratio levels post decompression.  These observations concur with other studies examining the circadian rhythm-dependencies of inflammatory-like reactions to various different stresses.  
+<P>
+Pharmacological intervention on the effects of inflammatory-like responses to DCS showed reductions.  However, the hemodynamic and mechanical effects of the intravascular bubbles may also require specific intervention.  Investigators concluded that DCS risk is affected by the circadian time structure and should be taken into consideration for properly assessing the underlying mechanisms of DCS, as well as the efficiency of preventive and intervention strategies.
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91040</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Butler, Bruce</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Chronobiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/8gpx-st78</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ba5639cc-973b-5f37-9362-d3f91e6044e4?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ba5639cc-973b-5f37-9362-d3f91e6044e4?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

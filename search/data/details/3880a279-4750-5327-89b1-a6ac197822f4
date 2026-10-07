@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comparison of Bone Bending Stiffness in Elite Female Synchronized Swimmers and Judo Athletes - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/3880a279-4750-5327-89b1-a6ac197822f4?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARCbedrest190</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Comparison of Bone Bending Stiffness in Elite Female Synchronized Swimmers and Judo Athletes</h1>
+        <div class="meta-id">Record ID: ARCbedrest190</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/3880a279-4750-5327-89b1-a6ac197822f4?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <p><b>Objectives:</b><br />
+There is a great deal of information on the bone densities of athletes with different loading histories, but limited information on the effect of sports activities on the structure and mechanical properties of bone. It is known that gymnasts have high density bone because of their exposure to high-impact loads. It is also known that swimmers have lower density bone because of their exposure to a buoyant environment. We asked the question: Are the bones of synchronized swimmers, stimulated primarily by non-impact loads and muscular contractions, weaker than those of gymnasts?</p>
+<p><b>Approach:</b><br />
+Thirty seven young (20-22 years) women were recruited from Olympic level synchronized swimming (n=13) and gymnastic (n=8) clubs as well as from an untrained population (n=16) of college students. All gave informed consent for the study. Historical information was acquired before the tests for muscle in the athletes and the non-invasive test of length and bone strength in the ulnas and tibias of all subjects. The MRTA delivers a "buzz" and then detects the response of the bone on which the probe is centered on the skin surface. The response curve to the vibratory stimulus is analyzed by software that generates a measurement for E (the modulus of elasticity) and for I (the moment of inertia) for the ulna and the tibia. The instrument had been previously validated in the bones of monkeys (correlation of non-invasive measurement with a three-point bending test in the same bone extracted at necropsy was found to be 0.95, highly significant).</p>
+<p><b>Results:</b><br />
+The synchronized swimmers (SYN) were taller than the gymnasts (GYM) and the untrained women (UNT), partly due to a longer tibia in SYN. The SYN also had higher body weights and lower BMI measurements then GYM or UNT groups. Years of training in GYM exceeded those in SYN by 3.5 years. The BMD in the wrist was highest in GYM, lowest in SYN and intermediate in UNT. In contrast, the ulnar EI was similar in GYM and SYN and 50% higher than in UNT. Ulnar EI was related to Ulnar width, but not to wrist density. EI in the tibia was similar in both athletic groups, and twice the value of the UNT. The knee flexor strength correlated with tibial EI.</p>
+<p>We concluded that in spite of different loading histories that could be related to bone mineral density in the wrist, the bending stiffness of synchronized swimmers and gymnasts was similar and in the athletes, much higher than in the untrained women. EI (bending stiffness) in the ulna could be related to the width of the bone and in the tibia, to muscle strength. It seems clear that vigorous physical training of the type used in synchronized swimming can increase bone strength without necessarily increasing bone density.</p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARCbedrest190</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Arnaud, Sara</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Muscle physiology, Skeletal physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ARCBedrest&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/pkfv-bh67</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/3880a279-4750-5327-89b1-a6ac197822f4?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/3880a279-4750-5327-89b1-a6ac197822f4?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

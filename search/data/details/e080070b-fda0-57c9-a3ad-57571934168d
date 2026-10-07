@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clinical Nutritional Assessment - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e080070b-fda0-57c9-a3ad-57571934168d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NEEMO-MR016L</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Clinical Nutritional Assessment</h1>
+        <div class="meta-id">Record ID: NEEMO-MR016L</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e080070b-fda0-57c9-a3ad-57571934168d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The Clinical Nutritional Assessment study was designed to determine the impact of a semi-closed food system on nutritional status, nutrient intake, and to assure repletion following return to a normal diet.  Detailed nutritional assessment will be conducted before, during, and after a 14-day mission in an underwater habitat.  This study will be important in assessing the food system for the International Space Station (ISS).  The ISS food system is still in development, and the data collected here will be important to further define and refine these food systems to assure optimal health during long duration flights.  This will also help in defining the interrelationship of confinement/stress and nutritional assessment in a space flight analog.
+<P>
+Two key areas were hypothesized as being affected in this environment: stress-induced alterations in energy and protein utilization, and pressure-induced changes in bone and calcium metabolism. Furthermore, the consumption of a space flight food system allowed for an assessment of the impact of this food system (in short-duration) on nutritional status. 
+<P>
+Stress has a well-documented impact on nutritional status.  This ranges from increased energy expenditure and cortisol-induced proteolysis to increased metabolism of individual vitamins (e.g., vitamin C).  Documentation of this effect in a ground analog will assist in understanding the role of stress in space flight-induced changes.
+<P>
+The increased atmospheric pressure of the NASA Extreme Environment Mission Objective (NEEMO) environment is likely to alter bone and calcium homeostasis.  The NEEMO studies helped to define and understand this phenomenon, and are important in evaluating potential countermeasures.  Several groups are currently investigating the effects of pressure, either negative or positive, on potential countermeasures.  Furthermore, as atmospheric pressure in space vehicles is often reduced, the NEEMO experiments provided information on the counter-effect of increased pressure.  If, as expected, the increased pressure results in increased bone formation and reduced bone resorption, this will provide further evidence for evaluation of positive pressure as a potential bone countermeasure.
+<P>
+APPROACH:<br>
+Blood (25 ml) and urine samples were collected before, during, and after the mission to determine changes in nutritional status.  These biological samples were analyzed for markers of nutritional status, including markers of vitamins, minerals, bone health, renal stone risk, and antioxidants.  Body composition assessment was performed before and after the mission, and included body weight, and Dual Energy X-ray Absorptiometry (DEXA) determination of lean body mass, percent body fat, and bone densitometry. 
+<P>
+Typical dietary intake was determined once before the mission, using a dietary assessment questionnaire (DAQ).  The diet for the mission consisted entirely of foods currently available for the ISS crews.  Dietary intake assessment was conducted using a log or barcode reader throughout the mission.  For female subjects, menstrual cycle status was also recorded in logbooks.
+<P>
+RESULTS:<br>
+The hematologic findings from this study extend those from earlier dive studies and are similar to hematologic changes seen during space flight.  Reductions in hemoglobin concentration and increases in serum ferritin concentration are consistently observed in deep saturation dives (depths up to 660 m, 3141 – 6789 kPa) (Thorsen 2001; Cotes 1987; Gilman 1982).  These effects were observed after the 14-d shallow saturation dive described here (19 m below sea level, 253 kPa).  Reduced hemoglobin concentrations suggest that red blood cell mass was reduced.  This could be caused by decreased production of new red blood cells (RBCs), as seen in space flight (Alfrey 1996), or destruction of existing RBCs by oxidative damage (Thorsen 2001; Goldstein 1969).
+<P>
+Serum ferritin concentrations increased during the dive, and concentrations of transferrin receptors decreased on R + 0. Such findings would be expected when iron stores and intracellular iron availability are high.  It is likely that the increased oxygen availability, induced by the increased atmospheric pressure, contributed to a decreased need for RBCs, and iron pools were consequently shifted from hemoglobin to a storage form.  This process, termed neocytolysis, has been documented to occur in space flight (Rice 2000; Alfrey 1997), as well as in subjects traveling from high to low altitude (Rice 2001). 
+<P>
+Although ferritin iron content did not increase along with the increased serum ferritin concentration, ferritin iron and serum iron both tended to increase during the dive.  One possible explanation for the lack of significance of these increases is the small sample size (<I>n</I> = 6 for before the dive, MD 7, R + 0, and R + 7; <I>n</I> = 5 for MD 12).  Another possible explanation is that, as indicated by the increase in serum ferritin concentration, ferritin was being recruited from preexisting stores, and the time course was too short for enrichment of serum ferritin with excess iron to be reflected in the serum concentration of iron.  It is also possible that the changes in serum ferritin during the dive were caused by an acute inflammatory response, the occurrence of which was indicated by other results.  The serum concentration of other acute phase proteins tended to increase during the dive.  Although the increases were not statistically significant, the serum concentration of C-reactive protein tended to be greater during the dive than before and after the dive.  The large variances prevented these findings from being significant.  Again, the very small sample size in this study limits the conclusions that can be drawn.  However, other studies suggest that oxidative stress increases during the acute inflammatory phase of many illnesses (Diplock 1998; Tomkins 2003), and this was observed in one subject before the dive. 
+<P>
+Changes in the concentration of antioxidant markers were expected because of the hyperbaric environment.  Along with the increased 8-hydroxy-2’deoxyguanosine [8(OH)dG] excretion during the dive, decreases in glutathione peroxidase (GPX) and superoxide dismutase (SOD) during (SOD) and after (GPX and SOD) the dive imply that oxidative stress increased.  A number of other factors (besides the environment) could have contributed to this, including changes in nutrient intake and changes in stress hormones.  The significant decrease in malondialdehyde (MDA) concentration suggests that lipid peroxidation was less during and after the dive than before the dive.  This would not support the explanation of increased oxidative damage.  The decrease in lipid peroxidation is not easily explained because during the dive we would have expected it to be accompanied by similar changes in 8(OH)dG and MDA.  Pre-dive means of all variables are means of measurements recorded twice before the dive. The concentration of MDA was greater (but not significant, P = 0.06) on the earlier pre-dive session (1.25 ± 0.96 mmol/L) than on the day before the mission (L-1) (0.26 ± 0.18 mmol/L).  When only L-1 was used for comparison (instead of the mean of the two), the concentration of MDA was greater during the dive than before or after the dive.
+<P>
+During the latter part of the dive (MD 7-14), mean body weights were significantly lower than they were before the dive.  During the dive, energy intakes were lower than World Health Organization (WHO) recommendations.  This also consistently occurs during space flight (Stein 1999; Smith 2001; Stein 1996), and explains why body weights were concurrently decreased.  Serum leptin was measured in these individuals and we found that these concentrations were significantly decreased by the last day (R + 0).  Leptin is normally involved in the regulation of food intake and in the maintenance of energy balance, but its role in the decreased energy intake in this study is unknown and warrants further investigation.  Other studies have linked decreased leptin concentration with periods of intense exercise, possibly indicative of increased stress or inflammation (Desgorces 2003; Baylor 2003).  The decreased leptin observed here, consistent with other findings outlined above, may support the occurrence of an acute inflammatory response during the dive.
+<P>
+Despite the increased atmospheric pressure in the habitat, bone formation and resorption did not seem to change during the dive.  Although osteocalcin was significantly greater after the dive (R + 7) than during it (MD 7 and MD 12), other bone formation markers in the serum, including alkaline phosphatase and bone-specific alkaline phosphatase, were unchanged during the study.  Bone resorption markers were unchanged during the dive.  Concentrations of parathyroid hormone and 25-hydroxy vitamin D tended to decrease, but not significantly.  Both of these indices might have reached statistical significance during or after a longer mission (due to lack of ultraviolet light exposure) or with additional subjects.  These findings enhance recent observations that lower body negative pressure (LBNP) can mitigate disuse-induced bone resorption (Smith 2003).  The current study, one of whole body positive pressure, suggests that the findings with LBNP may be more related to circulatory changes than to pressure itself.  Such suggestions that circulatory influences may impact weightlessness-induced bone loss are not new (Hillsley 1994; Colleran 2000).
+<P>
+Many physiological and nutritional changes that occurred during NEEMO V are also commonly observed during space flight.  Changes in nutritional status during space flight are of critical concern for future long-duration space travel, and space flight analogs such as NEEMO V may be increasingly important for investigation of potential countermeasures.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NEEMO-MR016L</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Smith, Scott</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NEEMO 5&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/n64m-qg74</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e080070b-fda0-57c9-a3ad-57571934168d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e080070b-fda0-57c9-a3ad-57571934168d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

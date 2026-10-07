@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sleeping Short - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/59878a50-2b29-53e5-b2ba-790bd3fb61b2?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91036</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Sleeping Short</h1>
+        <div class="meta-id">Record ID: NAG91036</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/59878a50-2b29-53e5-b2ba-790bd3fb61b2?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+For various reasons, astronauts typically "sleep short" in space, seldom getting the 8 hours intended by the time line schedule.  For some, this may not present a problem, because they are naturally short sleepers who can get by with 5 1/2 hours of sleep, for example, without any consequent daytime sleepiness. For others, sleeping short inevitably leads to impairments in mood, alertness, and ability to perform at full capacity. This project comprises a detailed investigation of "sleeping short" using ground-based studies of healthy men and women (20y-59y).  
+<p>
+This study sought to address three critical questions:<br>
+1.	Which countermeasure or combination of behavioral and physiological countermeasures will optimally mitigate specific performance problems associated with sleep loss and circadian disturbances during a Mars mission? <br>
+2.	What individual biological and behavioral characteristics will best predict successful adaptation to long-term space flight of sleep and circadian physiology and the neurobehavioral performance functions they regulate? <br>
+3.	What are the best methods for monitoring the status of sleep and circadian functioning and for assessing the effects of sleep loss and circadian dysrhythmia that are also portable and non-intrusive in the spaceflight environment?
+
+
+It has three aims which coincide broadly with the three years of proposed research.
+<p>
+In Year 01, we will develop a questionnaire/diary instrument (the "Sleep Length Index" - SLI) designed to identify those who are naturally short sleepers who can thrive on less than 6 hours of sleep (as opposed to those who restrict their sleep inadvisably and suffer from daytime sleepiness). 
+<p>
+Year 02 will be concerned with determining the sleep and circadian rhythm, mood and performance differences between short sleepers (as identified by the SLI) and age and gender matched controls. The study will use an enhanced laboratory version of the 72-hour measurement block we have used in previous bedrest and astronaut studies. 
+<p>
+Year 03 will test the efficacy of Modafinil as a countermeasure when medium sleepers are required to "sleep short." The drug will be tested in a double blind placebo controlled cross-over design, during a week of severe (40%) sleep restriction in the laboratory, involving detailed sleep, circadian, rhythm, mood, and performance measures. The project seeks not only to provide findings of operational benefit to NASA, but also to provide tools and information of general benefit for those of us on the ground who have to restrict the time available for sleep because of occupational and/or care giving commitments. 
+<p>
+This experiment sought to provide questionnaire and diary instruments designed to assess habitual sleep need, and to assess the circadian regularity of human behaviors.  It also had the aim of testing a particular pharmacological countermeasure (Modafinil) to reduced sleep amounts.  In particular, the experiment involved a double-blind placebo-controlled trial of Modafinil as a countermeasure to five consecutive nights where sleep was restricted by 60% (i.e. to 40% of habitual durations).  
+<p>
+
+The 3 specific aims are:  
+<OL>
+<LI>development of questionnaire instruments to assess habitual sleep need and timing, to identify “naturally short sleepers”, assessing the personality and circadian characteristics,  also the evaluation of  the consequences of unmet sleep need (thus identifying short sleepers who were sleeping short unwisely);</LI>
+<LI>continued development and testing of an easily administered diary instrument to assess circadian regularity in human behavior (the 5-item Social Rhythm Metric SRM-5); and</LI>
+<LI>a double-blind placebo-controlled trial of Modafinil as a countermeasure to 5 consecutive nights where sleep was restricted by 60% (i.e. to 40% of habitual durations).
+</OL>
+<p>
+APPROACH:<br>
+Aim 1a: Identifying and characterizing naturally short sleepers <br>
+While most people require more than 6 hours of sleep to feel well rested, there appears to be a group of people who can function well on between 3 and 6 hours of sleep.  The aims of the present study were: 1) to compare 12 naturally short (3.0h-6.0h) sleepers recruited by a media publicity campaign with age and gender matched medium length (7h-8.5h) sleepers on various measures; 2) to determine the prevalence of naturally short sleepers in a volunteer sample of 71 University alumni; and 3) to examine the distribution of the various measures from the alumni study, and the position of the 12 naturally short sleepers identified in #1 on these distributions, determining the extent, if any, to which they were outliers.   Measurement instruments included diaries and questionnaires to assess sleep duration and timing, as well as questionnaire assessments of sleep pathology, morningness-eveningness, extroversion, neuroticism, pathological daytime sleepiness, perceived competence, optimism, depressive symptoms, exercise, and work habits.  
+<p>
+Aim 1b: Development of a questionnaire instrument to assess sleep duration and timing<br> 
+The initial proposal called for a development of a Sleep Length Index (SLI).  However, rather than limiting ourselves to sleep length only, we felt it better to develop an instrument yielding measures of both timing and duration of the habitual sleep episodes.  This resulted in the development of the Sleep Timing Questionnaire (STQ).  The objective was to develop a single-administration instrument yielding equivalent measures of sleep to those obtained from a formal (2-week) sleep diary.  Test-retest reliability was examined in 40 subjects who were given the STQ on 2 occasions separated by less than one year.  Convergent validity was measured both by comparing STQ derived measures with objective measures derived from wrist actigraphy, and by comparing STQ derived measures with other subjective measures derived from a detailed 2-week sleep diary in 2 non-overlapping samples.  Correlations of STQ measures with age and morningness-eveningness (chronotype) were also examined.  Most subjects were healthy volunteers; some subjects were patients (enrolled in research protocols).
+<p>
+Aim 1c: Consequences of sleeping short unwisely<br>
+In order to provide baseline data for various research studies at the University of Pittsburgh over a 10-year period, 266 healthy subjects meeting certain criteria each completed a 14-night sleep diary.  For each night, the diary allowed the subjective measurement of bedtime, wake time, Time In Bed (TIB), sleep efficiency, number of minutes of Wake After Sleep Onset (WASO), alertness upon awakening, and percentage of mornings needing an alarm (or a person functioning as one).  Weeknight versus weekend night differences in TIB (TIBdiff), weekday alertness, and reliance on alarms were examined as possible indicators of sleep debt.  Additionally, general descriptive data were tabulated.  
+<p>
+Aim 2: Continuing and testing a brief diary device to evaluate daily lifestyle regularity<br>
+A brief diary instrument to quantify daily lifestyle regularity (SRM-5) is developed and compared to a much longer version of the instrument (SRM-17).  Three studies are described.  In Study 1, SRM-17 scores (2 weeks) were collected from a total of 293 healthy control subjects (both genders) aged between 19 and 92 years.  Five items--(1) Get out of bed, (2) First contact with another person, (3) Start work, housework or volunteer activities, (4) Have dinner, and (5) Go to bed--were then selected from the 17 items and SRM-5 scores calculated as if these 5 items were the only ones collected.  Comparisons were made with SRM-17 scores from the same subject-weeks, looking at correlations between the 2 SRM measures, and the effects of age and gender on lifestyle regularity as measured by the 2 instruments.  In Study 2  this process was repeated in a group of 27 subjects who were in remission from unipolar depression after treatment with psychotherapy and who completed SRM-17 for at least 20 successive weeks.  SRM-5 and SRM-17 scores were then correlated within an individual using time as the random variable, allowing an indication of how successful SRM-5 was in tracking changes in lifestyle regularity (within an individual) over time.   In Study 3 a SRM-5 diary instrument was administered to 101 healthy control subjects (both genders, aged 20 – 59 years) for 2 successive weeks to obtain normative measures and to test for correlations with age and morningness.  
+<p>
+Aim 3: A controlled trial of Modafinil as a countermeasure to sleep restriction<br>
+This study was a small-sample (10 subjects) double-blind placebo controlled study of Modafinil as a countermeasure to 5 consecutive nights of partial sleep restriction (to 40% of habitual time in bed).  The study was a within-subjects cross-over design in which subjects experienced both drug and placebo conditions in 2 week-long sessions, separated from each other by 2 weeks.  Each session involved the subject living in a time isolation apartment with no time cues or knowledge of clock time.  The routine was specified by technicians who informed the subject when to get up, go to bed, take meals, etc.  All sleeps were polysomnographically recorded, rectal temperature measured continuously, evening salivary samples collected (to detect the timing of the Dim Light Melatonin Onset  - DLMO), and a battery of mood, alertness and performance measures (5 times per day) taken on each day of the study.  On the final day of the study (before the recovery sleep) a Multiple Sleep Latency Test (MSLT) was given to assess daytime sleepiness under drug and placebo conditions.  Bedtime and wake time on the first night (of each week) were at the subject’s habitual times.  On nights 2 through 6, bedtimes were made later and wake times earlier (by equal amounts) until time in bed (TIB) was at 40% of baseline levels (a 60% reduction).  A placebo pill was taken at breakfast on the first morning (after the full night of sleep) and a pill (either placebo or drug depending on condition) at breakfast on the mornings following nights 2 through 6. The first 2 subjects also took a pill at lunchtime.  The dose of Modafinil at each administration was 200mg.   In all cases, between 100% and 150% of habitual TIB was made available for sleep on night 7 (the recovery night).  With the exception of drug versus placebo, the procedure was identical for the two sessions for a given subject.   One subject terminated the study early for family reasons, thus data analysis is proceeding using nine subjects (6f, 3m, age 21-58 years).
+<p>
+RESULTS:<br>
+Aim 1a: Identifying and characterizing naturally short sleepers<br>
+Few measures showed reliable differences between naturally short sleepers and controls except the obvious ones related to sleep duration.  There was, however, some evidence for subclinical hypomanic symptoms in naturally short sleepers.  The prevalence of naturally short sleepers in a volunteer alumni sample was about 3% after shift work, daytime sleepiness, psychopathology and sleep disorders had been excluded.
+<p>
+Aim 1b: Development of a questionnaire instrument to assess sleep duration and timing<br>
+Test-retest reliability for the STQ was demonstrated for estimates of bedtime (r=0.705, p<0.001) and waketime (r=0.826, p<0.001).  Convergent validity using wrist actigraphy was demonstrated by correlations of 0.592 (p<0.005) for bedtime, and of 0.769 (p<0.001) for wake time.   Diary studies indicated STQ bedtime and wake time data to be highly correlated (at about 0.8) with those obtained from a formal 2-week sleep diary.  The STQ also provided data on estimated Sleep Latency (SL) and Wake After Sleep Onset (WASO) which correlated reliably (at about 0.7) with average nightly ratings of these variables from a 2-week sleep diary.   Mean estimated values of SL and WASO from the 2 instruments  were within one minute of each other.  STQ-derived bedtimes and wake times correlated with both age and chronotype in the expected direction (older subjects earlier,  morning types earlier).  The STQ may be a reliable, valid measure of sleep timing that could provide a time-efficient alternative to traditional sleep diaries.               
+<p>
+Aim 1c:Consequences of sleeping short unwisely<br>
+On average, bedtimes were at 23:48 and wake times at 07:23, yielding a mean TIB of 7 hours 35 mins..  As expected, bedtimes and wake times were later on weekend nights than on weeknights.  Bedtimes were 26 minutes later, wake times 53 minutes later, yielding a mean weekend TIB increase of 27 minutes.  Overall, subjects perceived their sleep latency to be 10.5 minutes, reported an average of one wakening during the night (with an average of 6.4 minutes of WASO), had a diary sleep efficiency of 96.3 %, and awoke with an alertness rating of 69.5%.  These variables differed little between weeknight and weekend nights.  Subjects used an alarm (or a person functioning as an alarm) on 60.9 % nights overall, 68.3 % on weeknights, 42.5 % on weekends.  When TIBdiff was used as an estimate of sleep debt (comparing subjects with TIBdiff>75 minutes with those with a TIBdiff <30 minutes), the group with more “catch up sleep” on weekends had shorter weeknight TIB durations (by about 24 minutes) and relied more on an alarm for weekday waking (by about 22%), indicating the possible utility of these variables as sleep debt indices. 
+<p>
+Aim 2: Continuing and testing a brief diary device to evaluate daily lifestyle regularity<br>
+Measures of lifestyle regularity from SRM-5 correlated quite well (about 0.8) with those from SRM-17 both between subjects, and within-subjects over time.   As a detector of irregularity as defined by SRM-17, the SRM-5 instrument showed acceptable values of kappa (0.69), sensitivity (74%) and specificity (95%).  There were, however, differences in mean level, with SRM-5 scores being about 0.9 units (about one standard deviation) above SRM-17 scores from the same subject-weeks.  SRM-5 scores also deviated more from a Gaussian distribution than did SRM-17 ones.   In a study with a sample size of 101, the new SRM-5 instrument yielded scores with a mean of 4.11 and a standard deviation of 1.13.   Correlations between lifestyle regularity and age, and between lifestyle regularity and morningness appeared similar whether 5-item or 17-item SRM measures were used.  When a gender difference in lifestyle regularity appeared, it was detected by both SRM-5 and SRM-17 measures. 
+<p>
+Aim 3: A controlled trial of Modafinil as a countermeasure to sleep restriction<br>
+The tenth subject was only completed at the end of September, and data analysis is ongoing,  so the final results of this study cannot yet be reported.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91036</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Monk, Timothy</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance, Chronobiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/y34n-v751</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>96-HEDS-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/59878a50-2b29-53e5-b2ba-790bd3fb61b2?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/59878a50-2b29-53e5-b2ba-790bd3fb61b2?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

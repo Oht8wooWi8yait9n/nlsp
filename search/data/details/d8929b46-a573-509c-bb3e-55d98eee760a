@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Human Sleep, Circadian Rhythms and Performance in Space - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d8929b46-a573-509c-bb3e-55d98eee760a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>8913048</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Human Sleep, Circadian Rhythms and Performance in Space</h1>
+        <div class="meta-id">Record ID: 8913048</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d8929b46-a573-509c-bb3e-55d98eee760a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This was the first simultaneous study of sleep, circadian rhythms, and mood in response to the microgravity environment to determine the interrelationship between sleep, circadian rhythms and mood and task performance. The function of the circadian system (or biological clock) is that of a predictive homeostasis, which ensures that the organism, in this case a human being, is prepared from both physiological and psychological standpoints, for restful sleep at certain times of the day and active wakefulness at others. The scientists conducting this experiment believed that if the whole structure of social and physical time cues found on Earth are weakened or removed, as during space flight, the result will be circadian dysfunction.  Symptoms include poor sleep, greater use of sleep aids, and degraded task performance. During the experiment, sleep data were generally indicative of the night, while performance data were representative of the day, and the circadian rhythm data were the patterns that bound the two together. In some respects, the orbiting space vehicle can be likened to a continually submerged submarine, where there are well-documented tendencies towards biological clock (circadian) dysfunction.
+<P>
+APPROACH:<br>
+The experiment was divided into two parts:  The United States investigators were concerned with sleep performance and circadian rhythms, and the French investigators studied fluid and electrolyte balance during exposure to microgravity.  Four astronauts participated as subjects.  One 72-hour measurement block was performed preflight, one postflight and two inflight.  The two inflight measurement blocks occurred toward the middle of the mission (FD 3-6), while the other occurred toward the end (FD 13-16) of the 17-day mission.   Each block ran from start of shift to start of shift (hence impacting 4 mission days, while covering only 72 hours).  On each of three nights during both 72-hour blocks, data were recorded during sleep.  Each subject also kept a sleep diary, which gave subjective ratings of sleep timing and quality and alertness upon awakening, as well as hypnotic and other medication use.
+<P>
+In addition, physical rhythms were evaluated by measuring core body temperature, which was recorded every six minutes throughout the entire 72-hour block using a rectal thermistor and recorder.  This allowed 3-cycle circadian temperature rhythms to be plotted.  Biochemical rhythms were measured through the analysis of urine samples.  Each void during the 72-hour measurement block was collected.  Samples were frozen at -20 degrees Celsius for later assay.  From these samples, investigators were studying void volume and levels of melatonin sulfate and cortisol (by radioimmunoassay) and sodium and potassium (by electrolytic techniques). 
+<P>
+Each sleep session during the 72-hour measurement block was recorded using the Medilog Sleep Research Recorder (MSRR) system.  The subjects wore electroencephalograph (EEG) electrodes to record brain wave patterns, which gave investigators an idea of the type and depth of sleep.  Electrooculograph (EOG) electrodes recorded eye movements and electromyograph (EMG) electrodes recorded chin muscle tone (a relaxed chin muscle is a second indication of REM sleep).  The electrodes recording EEG, EOG and EMG were positioned on the subjects' head using a cap-based system.  Signals were recorded on magnetic tape.  After recovery, the tapes were played back in order to 1) visually classify each minute of sleep into conventionally defined sleep stages (0, 1, 2, 3, 4 and REM); and 2) run the signals through a computer-based analysis system allowing the measurement of: a) EEG spectral density, b) a count of delta waves, and c) a count of eye movements.  The procedures allowed a detailed characterization of the duration, depth and architecture of the entire sleep episode.
+<P>
+After each sleep period during the 72-hour measurement block, each subject completed a modified computer-based version of the Pittsburgh Sleep Diary (PghSD).  This brief instrument assessed the estimated timings of sleep onset and offset, recorded the number and nature of within-night awakenings, the use of sleep-inducing medications, the use of medication to alleviate space adaptaion syndrome (SAS), and concluded with visual analog scale ratings of 1) subjective sleep quality, 2) mood upon awakening (tense versus relaxed), and 3) alertness upon awakening (sleepy versus alert).   
+<P>
+At the end of each work shift in the 72-hour measurement block, the subjects completed a brief questionnaire regarding stresses such as fatigue, equipment malfunction and changes in procedure, as well as ratings of how long the shift lasted and how satisfied they were with their work during the shift.
+<p>
+The study by Dr. Gharib of fluid and electrolyte balance had several steps, designed to determine the following:<br>
+1) Early (<24 hours) and delayed (>24 hours) hormonal and electrolyte modifications and to demonstrate the correlation of these modifications with space adaptation syndrome (SAS).<br>
+2)  Role of sympathetic nervous system transmitters (catecholamines, 3-methoxy 4-hydroxy phenyl glycol (MHPG)) and growth hormone (GH) with cortisol as indicators of stress.<br>
+3)  The role of confinement and inactivity in the changes observed during flight.  The comparison of flight data with a 17-day bed-rest study and a postflight ground-based study will be of great importance in determining these.  The postflight ground study will be performed under the direction of Dr. Alexander Gundel of the Institute of Aerospace Medicine, located at the German Aerospace Research Establishment (DLR) in Cologne, Germany. 
+<P>
+RESULTS:<br>
+When careful steps are taken to ensure that the astronauts' work/rest schedule does not lead to circadian desynchrony, there is no evidence that microgravity per se will disrupt the human circadian timekeeping system, or that such rhythms will degrade over a 17d mission. In particular, there was no evidence of amplitude reduction, phase lability or "free-running" behavior. Despite the astronauts' circadian rhythms being intact, there were some effects on sleep, notably a reduction in sleep duration, and a suppression of the deepest stages of sleep (Stages 3 and 4). However, there were no other 543 consistent effects of flight in sleep architecture. The only systematic effect on mood and performance appeared to be an increase in alertness in the early flight measurement block. End of shift questionnaires revealed time line problems and equipment malfunction to be the major impacts on the astronauts' work.
+<p>
+Please refer to the publications listed below for comprehensive results including graphs and tables. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>8913048</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Monk, Timothy</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Chronobiology, Endocrinology, Neuroscience, Human factors, Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-78&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/r1gw-zt94</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Not available</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d8929b46-a573-509c-bb3e-55d98eee760a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d8929b46-a573-509c-bb3e-55d98eee760a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

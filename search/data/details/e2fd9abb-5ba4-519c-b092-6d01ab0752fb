@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Echocardiography in Manned Space Flight:  Remote Diagnosis and Quantitative Analysis - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e2fd9abb-5ba4-519c-b092-6d01ab0752fb?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC9-60</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Digital Echocardiography in Manned Space Flight:  Remote Diagnosis and Quantitative Analysis</h1>
+        <div class="meta-id">Record ID: NCC9-60</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e2fd9abb-5ba4-519c-b092-6d01ab0752fb?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+An echocardiogram uses high frequency sound waves called ultrasound to create a moving picture of the heart. Using Doppler ultrasound, it provides information on blood flow across the heart valves. Average echocardiograms contain approximately 30 loops and 10 still images. Each loop is a series of frames from a single cardiac cycle; although, multiple cycles can apply if clinically required. The objective of this experiment was to enhance the design and analysis of real-time transmission of ultrasound images from crewmembers on board the International Space Station (ISS) and exploration missions. Four specific aims were evaluated in this ground-based study, each consisting of several projects. </p>
+<p>The four specific aims of the investigation were :</p>
+<ol>
+    <li>To develop infrastructure for digital acquisition, storage, and transmission of echocardiograms both on Earth and by satellite;</li>
+    <li>To test existing and new digital compression algorithms for impact on clinical interpretation and quantitative content;</li>
+    <li>To validate new quantitative approaches to assess cardiovascular mechanics in microgravity; and</li>
+    <li>To refine the acquisition, segmentation, display, and analysis of three-dimensional echocardiograms.</li>
+</ol>
+<p>Due to the complexity of this experiment, each of the four specific aims was accomplished through one or more individual research projects that often overlapped. Specific details of the individual projects can be found in the investigator's final report.</p>
+<p> The first specific aim tested ultrasound operations.  The ultrasound system will be used by highly trained crewmembers on the ISS. Sufficient ability is needed to perform examinations in case of a medical emergency. To prepare for such a contingency, this study investigated whether novice operators can perform diagnostic ultrasound.
+ <p>The second specific aim tested existing and new digital compression algorithms for impact on clinical interpretation and quantitative content. A Virtual Collaborative Clinic was designed to combine sophisticated imaging with high-performance networks and provide advanced medical technology access to underserved communities. The goal was to provide physicians and scientists with a network where information needed to perform operations in virtual space could be shared. In addition, remote hospitals would be able to access knowledge and techniques of larger institutions, and the technology could be extended into space, servicing astronauts. The use of Video Home System (VHS) and Moving Pictures Experts Group (MPEG) formats were also studied.</p>
+<p>The third specific aim was relevant to cardiology diagnostic methods on Earth and the ISS. Five projects supported this specific aim. One project assessed ventricular function using Doppler tissue imaging, a new methodology able to assess heart function. In contrast to Doppler imaging, Doppler tissue imaging records the velocity of heart muscle motion rather than blood flow. Another project dealt with shortened early transmitral filling deceleration time, which has been associated with increased filling pressure and reduced survival in patients with heart disease and increased left ventricular stiffness. Another project characterized pulmonary venous inertance. In defining the physical components of cardiac fluid dynamics, the inertial component of pulmonary venous flow was determined to interpret clinical recordings of flow in lung veins. Another project consisted of bed rest studies.</p>
+<p>The impact of three-dimensional ultrasound imaging for human cardiovascular physiology and pathology was investigated through the fourth specific aim to validate a new real-time echocardiographic method for future use on the ISS. Three-dimensional ultrasound has advantages over current two-dimensional ultrasound that includes imaging speed of the entire heart without special training. Heart chamber size, volume, and muscle mass can be determined without geometrical assumptions. Obtaining blood flow velocity in three-dimensional space may provide knowledge on the change in blood flow distribution under microgravity.</p>
+<p>One project of the fourth specific aim was to validate three-dimensional ultrasound with magnetic resonance imaging (MRI). Another project involved the structure and motion of the mitral annulus, a fibrous ring surrounding the mitral valve between the left atrium and left ventricle of the heart. Software was developed to obtain segmentation of the mitral annulus using commercial three-dimensional echocardiographic review software. Another project evaluated outflow obstruction in hypertrophic cardiomyopathy, a condition of excessive thickening of the heart muscle with some misalignment of the cells. Again, three-dimensional and two-dimensional techniques were compared. Another project involved volumetric changes with simulated microgravity.</p>
+<p>In addition to four projects involving human studies, several animal studies were employed in the fourth specific aim to address the accuracy of left ventricular volume measurements and flow quantification using three-dimensional echocardiography. The projects involved aortic regurgitation, flow quantification using real-time three-dimensional color Doppler, left atrium volume quantification and non-invasive assessment of left atrium function, and quantification of left ventricular mass.</p>
+<p>
+APPROACH:<br>
+<i>Specific Aim #1</i> To develop the infrastructure for digital acquisition, storage, and transmission of echocardiograms, ultrasound images were evaluated using the ISS video system developed by the Human Research Facility Project at the Johnson Space Center. A design and analysis test of real-time ultrasound data transmission from the ISS evaluated the impact of reducing transmission rate on image quality. Images were tested at rates from 60 fields per second down to 1.875 fields per second.</p>
+<p>Another project leading to the first specific aim was to develop the infrastructure to review and analyze digital echocardiographic data collected in various locations. The hypothesis that novice operators could perform diagnostic ultrasound was tested using five employees of the Cleveland Clinic Foundation who were untrained in the use of the ultrasound. Each test subject received four hours of training before attempting ultrasound examinations. All operators performed exams on normal subjects and patients with defined pathology.</p>
+<p><i>Specific Aim #2</i> Several projects supported the second specific aim. The Haughton Mars Project Testbed involved a blinded review of echocardiographic data. A 45-minute delay in the transmission mimicked the scenario of communication from Mars. As part of the test, five pathological cases were forwarded to the Haughton Mars Project for retransmission along with normal echocardiograms. Another project was transmission of echocardiographic data across the NASA Research and Education Network (NREN). A sonographer and a cardiologist looked at cell loss and cell error ratios. For the echocardiographic image compression project, six reviewers performed blinded measurements from still frame images selected from twenty echocardiographic studies simultaneously acquired in VHS and MPEG formats.</p>
+<p>A virtual hospital project also supported the second specific aim. A demonstration showed feasibility for high bandwidth telemedicine between remote clinics and tertiary care hospitals. One activity was real-time transmission of three-dimensional echocardiograms. Doctors received and rotated three-dimensional high-resolution color stereo medical images online at desktops and collaborated with remote colleagues for consultation, diagnosis, and treatment planning including surgical simulation. High-performance networks connected participating Virtual Collaborative Clinic sites with the application server.</p>
+<p><i>Specific Aim #3</i> To address specific aim three, bed rest studies were conducted using fourteen days of 4 degree head-down tilt with three subsequent recovery days. Exercise echocardiographic data pre- and post-bed rest, Doppler tissue imaging, and color M-mode flow propagation were studied on five subjects. Left ventricular volumes, cardiac output, and brachial reactivity were measured to discover changes in intravascular tone. In another collaboration, combined echocardiographic indices were applied for the assessment of left ventricular filling pressures in healthy volunteers on bed rest.</p>
+<p><i>Specific Aim #4</i> A total of eight hundred thirteen patients with a variety of heart diseases underwent three-dimensional studies to address the fourth specific aim of refining the acquisition, segmentation, display, and analysis of three-dimensional echocardiograms. In almost all subjects, the data were acquired without any geometrical assumptions. To validate real-time three-dimensional echocardiography with MRI, a total of thirty-four patients were evaluated with the three-dimensional method in the operating room or the echocardiographic laboratory. Thirteen of twenty-eight patients with heart disease and six subjects with normal left ventricular function were evaluated by three-dimensional echocardiography and MRI for left ventricular volumes and ejection fractions.</p>
+<p>The human studies that involved volumetric changes with simulated microgravity used a tilting bed system to mimic microgravity in ten normal subjects. The stroke work of the left ventricle was evaluated as was ejection fraction and left ventricular volume.</p>
+<p>
+RESULTS:<br>
+The test of real-time transmission of ultrasound data from the ISS using the communications simulator showed that for cardiac ultrasound, optimal results were obtained at field rates of 80 or above, and rates as low as 15 per second provided useful information. For abdominal examinations, lower frame-rates were acceptable; although, rates of at least 15 fields per second were necessary for meaningful real-time guidance to the data. For strictly diagnostic purposes, frame-rates below 7.5 fields per second were acceptable for non-moving structures. Researchers concluded that if this protocol could be used on board the ISS, then ground guidance of ultrasonic acquisition would be possible during a medical event involving crew members that do not have expert training in ultrasound.</p>
+<p>The hypothesis that novice operators can perform diagnostic ultrasound studies was confirmed with preliminary analysis that demonstrated excellent capability for general imaging by the novice operators. However, acceptable image acquisition using cardiac ultrasound was achieved only when guided in real time by an expert sonographer.</p>
+<p>The blinded review of echocardiographic data in support of the second specific aim revealed excellent image quality, especially for abdominal structures, with adequate image quality on cardiac structures. All key pathological features were successfully identified, even after retransmission. The examination was promising for future use of portable ultrasound in exploration class missions.</p>
+<p>When echocardiogram data was played over the NREN, cell loss and cell error ratios of 10<sup>-5</sup> showed performance was nominal with image quality far superior to videotape. When the cell loss and cell error ratios rose to 10<sup>-3</sup>, the system froze, but this represented an extreme degree of network noise. When echocardiographic studies were simultaneously acquired in VHS and MPEG formats, there was excellent agreement between the two. Quantitative off-line measurements from MPEG digitized echocardiograms were feasible and comparable to those obtained from VHS.</p>
+<p>Analysis of the third specific aim showed that transmitral and intraventricular pressure differences could be estimated noninvasively in canines and humans. The importance of inertial contributions was demonstrated. Further results showed that in adults with heart disease, a transmitral filling deceleration time provided an accurate estimate of left ventricular operating stiffness and supported its application as an index in the evaluation of diastolic function. In a separate project, pulmonary venous flow was primarily governed by inertial forces with little convection or viscous effects.</p>
+<p>The bed rest study project showed that combined echocardiographic indices, which were previously validated with acutely ill heart disease patients, could be used to assess left ventricular filling pressures in healthy subjects. These results apply to assessment of crew health and response to space flight.</p>
+<p>The results that involved validation with MRI showed that real-time three-dimensional echocardiography was feasible in patients with heart disease and could provide a fast low-cost alternative to MRI for evaluating cardiac function. Three-dimensional techniques were also superior to two-dimensional ones when outflow obstruction in hypertrophic cardiomyopathy was evaluated. When cardiac function was studied in simulated microgravity, stroke work of the left ventricle was different from normal gravity.</p>
+<p>The animal studies supporting the fourth specific aim showed several results. Left ventricular stroke volume and stroke work increased proportionally with the amount of aortic regurgitant volume quantitatively and reflected the additional energy consumption needed by volume overload in aortic regurgitation. Techniques were also shown to estimate the peak blood flow rate and demonstrate better understanding of blood flow phenomena and quantification. A three-dimensional technique was used to estimate left atrium volumes; although, it showed some underestimation relative to MRI. This same technique provided an excellent means to determine left ventricular mass as compared to conventional two-dimensional and other methods.</p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC9-60</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Thomas, James</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ydc0-dd84</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e2fd9abb-5ba4-519c-b092-6d01ab0752fb?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e2fd9abb-5ba4-519c-b092-6d01ab0752fb?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

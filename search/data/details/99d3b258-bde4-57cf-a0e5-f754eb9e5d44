@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microgravity, Sleep/Wake Immune Functions (SWIF) in Humans - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/99d3b258-bde4-57cf-a0e5-f754eb9e5d44?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9401710</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Microgravity, Sleep/Wake Immune Functions (SWIF) in Humans</h1>
+        <div class="meta-id">Record ID: 9401710</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/99d3b258-bde4-57cf-a0e5-f754eb9e5d44?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This experiment was designed to study changes in the immune system coincident with sleep physiology during extended space flight and relate any found changes to preflight and postflight conditions.  In particular, researchers wanted to determine if there are any long-term adverse effects of microgravity on the immune system that can be related to the sleep-wake cycle.  Such disturbances in neuroendocrine system and immune system functions might have an impact on the risk for ill health, especially infectious disease.  The study would contribute to our understanding of the role of the immune system in the sleeping-waking brain especially during and following spaceflight microgravity conditions.  
+<P>
+In addition to the theoretical and space flight importance, there are important clinical implications to psychiatric and medical disorders.  The associations of stress and depression with altered immune functions have been reported in medical literature.  Stress, rapid eye movement (REM) sleep deregulation, and reduced slow wave sleep are related to major depressive disorders.  Specifically, natural killer cell (NK cell) activity is reduced in sleep disturbed depressed patients.  Furthermore, altered non-rapid eye movement (NREM) sleep physiology and immune function changes have been described in fibrositis/fibromyalgia and chronic fatigue syndrome that shares features of unrefreshing or non-restorative sleep, diffuse myalgia, multiple tender points, fatigue and depression.  The outcome of the research would have important implications on the contributions of disordered sleep and immune functions for the pathogenesis of these illnesses.
+<P>
+APPROACH:<br>
+This investigation was conducted for the first time as part of the NASA-Mir Increment 4 mission.  Three crewmembers completed measurements preflight, inflight and postflight.  For each phase of the flight, the experiment was divided into segments called measurement "blocks".  The inflight measurement blocks were scheduled early in the mission (mission day 37-49), in the middle (MD 79-91) and at the end (MD 110-122) of the mission.  Preflight baseline data collection was performed once.  Readaptation data was collected during two sessions postflight.  The experiment protocols were repeated on the NASA 5/Mir 24 mission with two additional crewmembers.
+<P>
+During the preflight and postflight phases of the experiment, subjects answered questions before and after sleep periods on sleepiness, fatigue, pain and mood as well as performance.  These questions were the main focus of a separate sleep study performed simultaneously with this investigation (see: "Human Circadian Rhythms and Sleep in Space" by Timothy H. Monk, Ph.D.)  
+<P>
+In addition to the questionnaires, preflight baseline blood collection (BDC) involved 25 blood samples collected over a 24-hour wake/sleep cycle.  Five daytime samples of 4-ml of blood were taken at 0800, 1000, 1200, 1400 and 1600 hours.  A catheter was inserted before 2200 hours to allow for frequent blood sampling during sleep.  Starting again at 2200 until 0700 half-hourly and again at 0800 hours, twenty 3-ml blood samples were taken in sterile, heparinized, pyrogen-free tubes connected to a 4-meter line and manifold located outside the bedroom.  Samples were transported immediately to the laboratory for analysis.  A total of 80 ml for each subject was collected.
+<P>
+The following immunologic assays were carried out: natural killer cells and T-cell subsets were stained and sorted using the two-color immunofluorescence technique with flow cytometry; plasma cortisol and human growth hormone (hGH) were determined by radioimmunoassay (RIA); plasma IL-1ß, IL-1 receptor antagonist (IL-1ra) and IL-2 and IL-2r concentrations were determined using enzyme-linked-immunosorbent-assay (ELISA).  Cytokine biological activities were determined by reactions with D10 and CTLL cell lines; natural killer cell activity was tested by Chronium-51 release assay; IL-1ß mRNA from peripheral blood monocyte cells was studied by reverse transcription polymerase chain reaction (Rt-PCR).  Plasma obtained from subjects was stored at -70 degrees C until use.
+<P>
+During flight, pre- and post sleep questionnaires were also completed.  Blood samples were drawn on days 4 and 5 of the second and third blocks.  Samples were drawn in the early afternoon (approximately 1400 hours) and prior to sleep.  For each blood sample collection, two 3-milliliter (ml) blood samples were taken.  One 3 ml sample was taken in a 5 ml plasma separator tube for centrifugation and storage at -20° C.  One milliliter of the second 3 ml sample was injected into each of three 7 ml tubes prefilled with a cryopreservative.  The procedure was repeated on the second day.  Eight samples each of 6 mls for a total of 48 ml blood was collected from each subject in flight.  Blood samples obtained during the mission were used to examine natural killer cells and plasma for lymphokines and endocrine substances.  Immunologic and endocrine assays were carried out on samples returned to principal investigator.
+<P>
+Also on days 4 and 5 of the second and third blocks, subjects attached electroencephalography (EEG) electrodes and donned a Medilog Sleep Research Recorder (MSRR) skull cap prior to sleep.  This piece of hardware was used to make standard sleep-wake physiologic assessments.  The Medilog recorder was donned within two hours of sleep and removed within two hours after awakening.  Data were recorded on magnetic tape and stored for return to Earth.
+<P>
+After flight, sleep tape recordings were scored without subject identification by a trained observer using standard criteria on a Medilog replay unit located at the principal investigator’s laboratory.  Brain wave frequencies recorded on the MSRR tapes were analyzed to assess the relationship of brain waves delta (slow wave) sleep activity to immune functions.  The method allowed for an objective, quantifiable, and reliable method for analyzing sleep EEG frequencies during sleep.  Blood analyses and MSRR data were compared to test that changes in sleep, particularly between wakefulness and slow wave sleep, are indices of causal mechanisms that produce changes in the immune system.
+<P>
+RESULTS:<br>
+Immunologic and endocrine assays were carried out on blood samples collected preflight, inflight, and postflight to examine the relationship between sleep activity to immune functions.  Preflight baseline data collection from all crewmembers were compared to a group of healthy male volunteers to determine if sleep/wake age-related immune and endocrine functions were present in the middle-aged male crewmembers during baseline conditions before flight on Mir versus young healthy males.  Middle-aged crewmembers in preflight baseline conditions differed from young healthy males in the timing of the diurnal pattern of natural killer cell cytotoxicity, hGH and cortisol.  They also secreted less hGH and more cortisol over a 24-hour period.  These hypothalamic-pituitary-adrenocortical (HPA) axis endocrine differences in healthy middle-aged men were similar to those seen in healthy older men.  While the dynamic structure of natural killer cell cytotoxicity differed, there was no overall mean difference from young males.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9401710</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Moldofsky, Harvey</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Chronobiology, Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NASA 4&#x27;], [&#x27;Mir 23&#x27;], [&#x27;Mir 24&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/6mx1-ff81</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/99d3b258-bde4-57cf-a0e5-f754eb9e5d44?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/99d3b258-bde4-57cf-a0e5-f754eb9e5d44?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subjective Postural Position - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/fc42d3b1-0f40-5ade-8b2c-2bebc989b785?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>SPP17</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Subjective Postural Position</h1>
+        <div class="meta-id">Record ID: SPP17</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/fc42d3b1-0f40-5ade-8b2c-2bebc989b785?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+The subjective postural position (SPP) was measured daily on the centrifuge to detect the difference between the centrifuge daily treatment and the controls. <P>
+Five hypotheses were tested: <BR>
+1.  Bed rest deconditioning does not significantly affect the perceived pitch orientation, except that subjects exposed to continuous 6-degree-head-down bed rest adapt to this position and will perceive them as being horizontal after several days. <BR>
+2. Supine centrifugation would affect the perceived position by shifting the perceived pitch towards the upright standing position while spinning.<BR>
+3. The perceived pitch orientation reflects the deflection of the gravito-inertial acceleration
+(GIA) at the level of the subject's vestibular system.<BR>
+4. Perceived pitch remains largely constant during the 1-hour centrifuge runs.<BR>
+5. An after-effect would occur after the centrifuge has stopped, and subjects would perceive a pitch towards head down.<P>
+APPROACH:<BR>
+Both subject groups estimated their subjective postural position (SPP), perceived motion sickness and overall well-being 5 minutes before, 5, 30, and 55 minutes into, and 5 minutes after each centrifuge run (treatment group) or simulated run without spinning (control group). All subjective measures were recorded during the experiments by the technical and medical staff conducting the experiment. The estimates for the 75-minute screening runs were made at -5, 5, 30, 60, 70 and 80 minutes. To estimate their upper and lower body pitch position subjects were instructed to imagine their upper and lower body as minute hands of large clock and to report their perceived tilt in minutes.<P>
+To estimate their upper and lower body pitch position, subjects were instructed to imagine their upper and lower body as minute hands of large clock and to report their perceived tilt in minutes. Reporting mechanism included, ‘if my feet point to 15 minutes’ = ‘my legs are horizontal 90 degrees’, or ‘my head points to 30 minutes’ = ‘180 degrees or head over heels’. <P>
+Motion sickness was estimated using a 0–20 scale, where 0 stands for ‘no motion sickness at all’, and 20 for ‘I am about to vomit’. Overall well-being was estimated on a scale from 10 to 0, where ‘10’ stands for ‘I am perfectly fine’ and ‘0’ for ‘I am not well at all’. As an additional measure, subjects viewed a bar with peripheral lights to measure peripheral vision loss, which indicates orthostatic intolerance due to the g-load during centrifugation.
+<P>
+RESULTS:<BR>
+Results indicated that subjects shifted their frame of reference over the first week of bed rest and perceive the 6 degree head-down position as horizontal. Spinning shifted the SPP by about 30 degrees towards an upright position, consistent with the angle of the gravito-inertial vector positioned close to the vestibular system. The SPP estimated for the upper and lower body failed to reflect the massive gravity gradient between head and feet, and subjects generally reported a single tilt for the whole body.<P>
+It was concluded that postural estimates (PE) before will become the new 90 degree reference for the horizontal position, and that the PE-after will still shift up, but to a lesser extent.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>SPP17</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Young, Laurence</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Artificial Gravity (AG)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Pilot&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/xtvb-6e26</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/fc42d3b1-0f40-5ade-8b2c-2bebc989b785?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/fc42d3b1-0f40-5ade-8b2c-2bebc989b785?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

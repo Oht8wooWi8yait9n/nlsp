@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alterations in Postural Equilibrium Control Associated with Long Duration Space Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/44c1b07b-96ca-5447-a542-69d81edd2702?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>4.2.4c</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Alterations in Postural Equilibrium Control Associated with Long Duration Space Flight</h1>
+        <div class="meta-id">Record ID: 4.2.4c</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/44c1b07b-96ca-5447-a542-69d81edd2702?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The sensorimotor systems of humans have evolved phylogenetically and ontogenetically to optimize body movements and posture control in the terrestrial gravitational field.  The central nervous system (CNS) has developed neurosensory systems that monitor and process sensory inputs from visual, vestibular, somatosensory, and proprioceptive receptors to assess the biomechanical state of the body (spatial orientation), and neuromotor systems that create, select, and employ motor command strategies and synergies to adjust the biomechanical state toward the desired equilibrium point.  Adaptation to microgravity alters neurosensory systems by eliminating, reinterpreting, or modifying the weighting of sensory information used to assess spatial orientation in response to the sudden loss of tonic gravitational otolith stimulation.  Adaptation to microgravity also alters neuromotor systems by modifying the repertoire of motor command strategies and synergies used for movement control in response to the sudden redistribution of forces along the body, reductions in the biomechanical support reactions, and alteration of relationships between motor command and body movement.  These inflight sensorimotor adaptations disrupt postflight postural equilibrium control.  The long-term objective of this experiment was to determine the role of central adaptive mechanisms in reorganizing postural equilibrium control in humans subjected to long-duration space flight.  Ultimately, these data, when coupled with similar data obtained from short-duration missions, will lead to development of return-to-duty criteria for returning crewmembers, to development effective countermeasures to the untoward effects of sensorimotor adaptation to space flight, and to improving our understanding of the adaptive processes required to compensate for clinical deficits in sensory-motor function.
+<P>
+Hypotheses:<br>
+(1) The effectiveness of reflexive (open loop) responses to stability-threatening external disturbances, which is known to be reduced after space flight, presumably because of inflight neuromotor adaptation, will be further reduced by concomitant neurosensory adaptation.
+<P>
+(2) The effectiveness of the closed loop control of quiet stance, which is known to be reduced after space flight, presumably because of inflight neurosensory adaptation, will be further reduced by concomitant neuromotor adaptation, and the magnitude and recovery time course of this ataxia will increase with mission duration because of the increased time for sensory-motor adaptation to microgravity. 
+<P>
+APPROACH:<br>
+The Equilibrium investigation used two test paradigms: (1) neuromotor control tests and (2) neurosensory control tests.  Only pre- and postflight data collection sessions were scheduled.
+<P>
+NeuroMotor Control Tests: <BR>
+Graded perturbations were used to challenge the posture control system by suddenly moving the center of mass close to the backward limit of stability.  Two types of perturbations were used: support surface translations and chest pushes.
+<P>
+Base-of-support perturbations were administered at two displacement levels by automatically translating the posture platform force plate (support surface) in the forward direction using a computer-controlled DC motor.  The lower displacement level (1.25 cm over 250 msec) was used to assess response thresholds, while the higher displacement, level (5.70 cm over 400 msec) was used to assess the subject's ability to scale the motor response appropriately.  Data from the eyes open support surface translation trials can be compared directly to the large existing set of U.S. postflight data currently being collected.  Chest pushes were administered manually at two force levels by one of the investigators using a push stick with integral force transducer.  The lower force level (2-5 Kg peak) was used to assess response thresholds, while the higher force level (10-20 Kg peak) was used to assess the subject's ability to scale the motor response appropriately.  Data from the eyes open chest push trials can be compared directly to the large existing set of Russian postflight data collected by the Institute of Biomedical Problems (IBMP) group.
+<P>
+Changes in the roles of sensory inputs in selecting and issuing motor commands can be inferred from the data collected during the reduced sensory input trials.  The role of vision can be inferred from comparisons between eyes-closed trials and eyes-open trials, and the combined roles of ankle proprioception and plantar somatosensation can be inferred from comparisons between trials with the subject standing directly on the force platform and trials with the subject standing on thick (10 cm) foam rubber atop the force platform.
+<P>
+The primary dependent measures in this experimental paradigm are derived from electromyographic (EMG) activity observed in the anti-gravity muscles of the leg and trunk.  In particular, latencies of the initial EMG responses are used to assess the subject's ability to detect the perturbation and to select and issue a motor response.  EMG sequencing, strength, and duration, coupled with biomechanical measurements of segmental and center of mass body movements are used to assess the strategy, synergy, and scaling of the motor response.  Times to recovery of biomechanical equilibrium are used to assess the effectiveness of the motor response, and total integrated EMG activity is used to assess the efficiency of the response.
+<P>
+Neurosensory Control Tests:<BR>
+Eliminating vision, decorrelating ankle proprioceptive inputs from Earth-vertical, and/or decorrelating visual inputs from Earth-vertical challenged the posture control system.  These conditions altered the set of accurate sensory inputs available to the CNS for detection of sway errors and development of compensatory closed loop motor output adjustments. 
+<P>
+Sets of six sensory organization tests were administered automatically using a modified clinical dynamic posturography system.  To decorrelate the ankle proprioceptive and visual inputs from Earth-vertical, the pitch orientations of the support surface and visual surround with respect to the subject's ankle joint were servo-controlled to follow the subject's center of mass sway.  This process, which is referred to as sway referencing, eliminated changes in ankle angle and visual flow during low frequency body sway.  The six sensory organization test (SOT) conditions used were:
+<P>
+SOT 1.	 Eyes open - this is a control condition; all available sensory feedback systems are intact; tests the overall effectiveness of the closed loop posture control system; 
+<P>
+SOT 2.	 Eyes closed - tests the effectiveness of the closed loop posture control system without visual feedback;
+<P>
+SOT 3.	 Sway-referenced vision - tests the effectiveness of the closed loop posture control system with inaccurate visual feedback; examines how well the system resolves visual-proprioceptive and/or visual-vestibular conflicts;
+<P>
+SOT 4.	 Sway-referenced support surface - tests the effectiveness of the closed loop posture control system with inaccurate proprioceptive feedback; examines how well the system resolves proprioceptive-visual and/or proprioceptive-vestibular conflicts;
+<P>
+SOT 5.	 Sway-referenced support surface with eyes closed - tests the effectiveness of the closed loop posture control system with inaccurate proprioceptive feedback and absent visual feedback; only vestibular feedback is accurate; examines how well the system resolves proprioceptive-vestibular conflicts and/or how well the system controls posture with only vestibular feedback;
+<P>
+SOT 6.	 Sway-referenced support surface with sway-referenced vision - tests the effectiveness of the closed loop posture control system with inaccurate visual and proprioceptive feedback; only vestibular feedback is accurate; examines how well the system resolves simultaneous visual-vestibular and proprioceptive-vestibular conflicts and/or how well the system controls posture with only vestibular feedback.
+<P>
+During each test session, three trials of each of the six sensory organization test conditions were presented to the subject.  Each trial lasted for 20 seconds, and the order of presentation of the 18 trials was randomized. 
+<P>
+The primary dependent measures in this experimental paradigm are derived from biomechanical measurements of segmental and center of mass body movements.  In particular, peak-to-peak sway amplitudes, equilibrium scores, and center of pressure (COP) under each condition were used to determine the degree to which the posture control system used visual, vestibular, and proprioceptive feedback to maintain closed loop control of postural equilibrium.
+<P>
+Protocol for Pre- and Postflight Studies:<BR>
+Upon arrival at the test facility for each test session, the subject completed a pretest questionnaire designed to identify any uncontrolled factors that could potentially influence the test results.  The subject's height was then measured (first pre- and postflight sessions only).  Before posture testing, the subject donned a loose-fitting pair of 'gym' shorts to facilitate EMG electrode placement and joint position monitoring.  The skin surface at each EMG electrode site was then prepared for electrode placement by scrubbing the region with an abrasive skin cleanser (Omni-Prep).  Once each site was prepared, a pre-gelled, disposable, silver/silver chloride surface electrode was applied.  The impedance between each electrode and a single ground reference electrode was then measured.  The following EMG electrode sites were used:
+tibialis anterior, soleus, quadriceps (primarily rectus femoris), hamstrings (primarily biceps femoris), paraspinals (at approximately the L-4 level), abdominals (lateral to the midline, just below the umbilicus).
+<P>
+Before the subject stepped onto the posture platform, the operator powered-up the EquiTest system and zeroed any sensor offsets.  The subject then donned a safety harness and mounted the platform.  Next, the operator fastened the safety harness to the safety bar that loops over the platform, positioned the subject on the platform, and attached the body segment position measuring devices (sway bars) and breast plate.  The subject then donned a set of headphones used to provide a masking noise input that would eliminate external auditory cues from the posture platform and environment, and the operator adjusted the video camera for a clear field of view. 
+<P>
+Each test session began with the neuro-sensory control tests, during which the subject attempted to maintain upright postural equilibrium control under the following sensory conditions:<P>
+(1) Eyes Open, Fixed Support Surface<BR>
+(2) Eyes Closed, Fixed Support Surface<BR>
+(3) Sway-referenced Vision, Fixed Support Surface<BR>
+(4) Eyes Open, Sway-referenced Support Surface<BR>
+(5) Eyes Closed, Sway-referenced Support Surface<BR>
+(6) Sway-referenced Vision, Sway-referenced Support Surface<BR>
+<P>
+Each of these conditions was repeated three times during the test in randomized order for 18 trials.  The duration of each trial was 20 seconds, and the time between trials was less than 5 seconds.
+<P>
+The motor control tests followed immediately.  During the sensory tests, the subject attempted to recover upright postural equilibrium control as quickly as possible after the following postural perturbations: <P>
+(a) Small amplitude chest pushes (2-5 Kg)<BR>
+(b) Large amplitude chest pushes (10-20 Kg)<BR>
+(c) Small amplitude support surface forward translations (1.2 cm during 250 msec)<BR>
+(d) Large amplitude support surface forward translations (5.7 cm during 400 msec)
+<P>
+Each of these conditions was repeated twice under each of the following sensory feedback conditions:<P>
+(a) Eyes Open<BR>
+(b) Eyes Closed<BR>
+(c) Eyes Open, standing on thick (10 cm) foam rubber<BR>
+(d) Eyes Closed, standing on thick (10 cm) foam rubber<BR>
+<P>
+The 16 trials without foam were presented first in randomized order.  The 16 trials with foam were presented immediately after, also in randomized order (except for R+1 and R+5 when time constraints did not allow for "foam" trials).  The duration of each trial was approximately 6-10 seconds, and the time between trials was less than 5 seconds.  Chest pushes were applied manually by one of the investigators using a pushing device with integral force transducer.  Support surface translations were applied automatically under computer control using the EquiTest system.
+<P>
+Throughout the test period, the operator controlled the execution of the test protocols at the EquiTest system computer rack, while standing near enough to the platform to steady the subject when the subject lost balance.  The operator depressed a foot switch to execute the test procedures.  When the EquiTest system detected that the subject had lost balance, it automatically interrupted the test procedure and waited for operator's command to abort or continue the test.  The overall testing equipment utilized during this experiment included safety harness, hip/shoulder sway bars w/potentiometers, overhead camera, white noise generator, calibrated subject push stick, subject breastplate, dual-axis rate sensors, and a VCR.  Others to be described in more detail include the dynamic posturography system, camcorder/tripod, macintosh data acquisition system,  and an EMG monitoring system.
+<P>
+RESULTS:<br>
+Overall, the test procedures worked quite well.  The motor control procedure was somewhat tedious at times and should probably be shortened for future experiments.  In addition, the custom computer interface software was sensitive at times to the speed with which the operator selected test trials.  It occasionally selected the wrong test, distorted or lost the real-time center of pressure display, or "locked up" the two experiment control computers.  This software should be improved before using the system for future experiments.
+<P>
+Mir 18<BR>
+Balance control deficits following long-duration space flight appear to be far more profound than those following short-duration space flight: two of the three Mir 18 subjects were too ataxic to attempt the balance control testing on R+0, while only 4 of 45 short-duration crewmembers were that severely affected. The nature of postflight balance disturbances appears to be the same following long- and short-duration space flight missions: returning crewmembers are unable to adequately use vestibular system inputs immediately after flight.
+<P>
+Neuromotor disturbances persist for a much longer period following long-duration flight than following short-duration flight.  Furthermore, they appear to be affected by changes in available sensory information. Complete recovery is substantially delayed following long-duration missions; the slow phase of the recovery process appeared to progress much more slowly than with short-duration subjects.
+<P>
+Mir 19<BR>
+Two Mir 19 crewmembers participated in this experiment, partially fulfilling the postflight data collection requirements.  Balance control performances on R+1 were among the lowest ever recorded.  Balance control deficits appear to be far more profound, but similar in some aspects to those observed after 5-15 day Shuttle missions:<P>
+(1) Contribution from vestibular system information is decreased early after flight<BR>
+(2) Reliance on visual system information is highly increased early after flight<BR>
+(3) Head-on-trunk locking strategy has emerged early after flight
+<P>
+Complete recovery is substantially delayed following long-duration missions; the slow phase of the recovery process appeared to progress much more slowly than with short-duration subjects.  New motor control strategies (co-contraction strategies) seem to emerge early after flight and persist for many days.  These strategies were previously unobserved in the short-duration subjects, but, following reanalysis, appear in some subjects.  The new strategies may reflect structural changes in the brain stem or the spinal cord.  Further study of this observation is warranted.
+<P>
+CONCLUSION:<br>
+The primary goal of these investigations was to extend the understanding of the central adaptive mechanisms responsible for the appearance and amelioration of postflight postural ataxia.  Building on the substantial neuromotor information base that the Russian IBMP group has amassed from primarily long-duration missions, and the similarly substantial neurosensory information base that the U.S. investigators have amassed from primarily short-duration missions, a set of combined studies on the joint US/Russian Shuttle-Mir Science Program was planned.  To that end, a joint protocol was developed; employing key elements of both the standard IBMP test procedures and standard JSC test procedures, to which crewmembers were subjected before and after flight. 
+<P>
+Results from the Mir 18 and 19 subjects have been quantitatively disappointing because so much early postflight data were lost.  The limited data obtained have allowed the investigators to begin making direct comparisons of the independent techniques used in the two space programs, but are not likely to be sufficient to lead to new insights into how data from the Russian and U.S. information bases can be combined. 
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>4.2.4c</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Paloski, William</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Mir 18&#x27;], [&#x27;Mir 19&#x27;], [&#x27;STS-71&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0jy8-zw45</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/44c1b07b-96ca-5447-a542-69d81edd2702?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/44c1b07b-96ca-5447-a542-69d81edd2702?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

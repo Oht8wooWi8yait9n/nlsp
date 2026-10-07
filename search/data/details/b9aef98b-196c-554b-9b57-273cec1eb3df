@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visual-Vestibular Integration - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/b9aef98b-196c-554b-9b57-273cec1eb3df?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 604</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Visual-Vestibular Integration</h1>
+        <div class="meta-id">Record ID: DSO 604</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/b9aef98b-196c-554b-9b57-273cec1eb3df?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+The nervous system integrates visual information and information about gravity and body movements to create perceptions of the self in relation to the surrounding world. The information coming from some receptors, such as the otolith gravireceptors in the inner ear, will be quite different in microgravity, and will change again upon return to gravity. Misinterpretation of the altered stimuli can cause motion sickness and perceptual disturbances during or after spaceflight. The objectives of this study were: 1) to study the motion sickness symptoms and illusions of motion that are produced by head movements during and just after spaceflight, and whether they are attenuated by visual or tactile cues; 2) to evaluate preflight-to-postflight changes in motion perception; 3) to investigate the transition from visual spatial orientation to internal spatial orientation during adaptation to microgravity; and 4) to investigate the integrated coordination of head and eye movements within a structured environment where perception could modify responses and where response could be compensatory for perception.
+<P>
+A full understanding of this coordination required definition of spatial orientation models for the microgravity environment encountered during space flight. The central nervous system (CNS) must develop, maintain, and modify as needed, neural models that may represent three-dimensional Cartesian coordinates for both the self (intrinsic) and the environment (extrinsic). Extrinsic coordinate neural models derive from the observer’s ability to detect up/down vector signals produced by gravity (g) and visual scene and polarity (VS). Horizontal coordinates are incompletely specified by the up/down vector. Additional complexity is introduced because extrinsic coordinate models derive from multimodal processes. For example, detection of gravity is mediated by graviceptors at several locations in the body, including the vestibular apparatus (Gves), somatic receptors (Gs), and visceral receptors (Gvic).
+<P>
+APPROACH:<BR>
+The study was broken into two main objectives: OI-1 and OI-3.<P>
+OI-1: Twenty-two astronauts from 15 different Shuttle missions of 4 to 10 days participated in this study.  The astronauts were educated in a 1-hour course about the anatomy and physiology of the perception of motion and spatial orientation, illusions of motion, and perceptual adaptation to microgravity. Perceptual illusions were demonstrated in a Tilt Translation Device (TTD) and, for some astronauts, a Device for Orientation and Movement Environments (DOME). The astronauts also underwent testing in the TTD and DOME before the flight, 1 or 2 days and 4 days after landing, and, in some cases, 8 days after landing. In the TTD, a subject is restrained in a seat on a tilting platform that can provide pitch or roll around axes passing through the subject's head. A visual surround, painted with stripes that produce a tunnel effect, is moved to elicit a perception of self-motion. In the TTD tests, the astronauts were exposed to various motion protocols having 4 degree of pitch or roll for about 3 minutes at a time. The DOME is a spherical projection surface on which interior views of the Shuttle middeck or flight deck, the Spacelab, or a room with checkered walls are projected. The projections were rotated continuously at 35 degrees per second around an astronaut's axes of pitch, roll or yaw. The astronauts began each DOME trial with eyes closed and pressed a hand-held switch when they opened their eyes, when they first experienced the perception of self-motion and when the perceived self-motion had reached a maximum. 
+<P>
+During space flight and immediately upon coming to a stop after landing, the astronauts performed repetitive 20 degree pitch, roll and yaw rotations around axes passing through their waists while keeping their heads aligned with their torsos. The movements were performed with the gaze fixated on near and far targets (about 30 cm or 100 cm distant) and with eyes closed, all with the feet in restraints and again while floating free. These tests were videotaped whenever possible. During entry, astronauts who were not on the flight deck performed repetitive 20 degree pitch, roll and yaw motions of their heads about once every 4 seconds, both with the gaze fixated on a target and with the eyes closed.
+<P>
+During tests, voice recordings were made of the astronauts' described perceptions of motion of themselves and of their surroundings. They used a standardized questionnaire to make quantitative estimates of the perceived motion and a checklist to report symptoms of motion sickness. The astronauts reviewed their perceptual experiences in videotaped postflight debriefings. Transcripts of the debriefings were analyzed to determine the spatial orientation rest frame of the astronauts in microgravity (i.e., whether they were more oriented to the visual scene and sometimes perceived themselves to be upside down, or more oriented to their own body axis and sometimes perceived the visual scene to be upside down).
+<P>
+OI-3: A number of experiment paradigms classified as voluntary head movements (VHMs) were selected and designed to investigate changes in spatial orientation and strategies as a function of exposure to the stimulus rearrangement encountered during space flight. The primary protocols included target acquisition, gaze stabilization, pursuit tracking, and sinusoidal head oscillations. In all cases, participating crewmembers completed, as a minimum, each protocol three times before flight and three times after flight. When OI-3 was performed in flight, an additional two sessions were required before flight so that protocols could be practiced and data collected within the training mockups of the Shuttle middeck. When collected inflight, data were obtained at least twice; less than 48 hours after launch, and approximately 24 hours before landing. Additionally, data were collected to measure gaze stabilization during entry, starting at Shuttle entry interface minus 5 minutes, and immediately following wheels stop, before seat egress.
+<P>
+Target Acquisition<BR>
+For all target acquisition tasks, the subject, using a time optimal strategy, was required to look from the central fixation point to a specified target indicated by the operator as quickly and accurately as possible, using both the head and eyes to acquire the target. Each of the 12 targets was acquired a minimum of two times. When target acquisition was performed during flight, measurements were obtained using a cruciform target display on the middeck lockers. In all cases eye movements were obtained with both horizontal and vertical electro-oculogram (EOG). Head movements were detected with a triaxial rate sensor system mounted on goggles that could be fixed firmly to the head. Both the head (using a head-mounted laser) and eye movements were calibrated using the color coded acquisition targets.
+<P>
+Gaze Stabilization<BR>
+Ocular stabilization of a stationary target, during active yaw and pitch head movements, was investigated using a gaze stabilization paradigm with the following steps: (1) the subject visually fixated a wall-fixed target with head in a central position, (2) when the goggles became opaque and vision occluded, the subject rotated the head while maintaining ocular fixation on the just seen wall-fixed target, (3) when the goggles became clear, the subject re-fixated the target, if necessary, with eyes only, and (4) the head was rotated back to center, keeping eyes on the target. During testing before and after space flight, and during flight, subjects performed a minimum of six
+trials in yaw, three right, three left, and six trials in pitch, followed by three up, three down, per session. 
+<P>
+When gaze stabilization protocol was performed during entry, horizontal and vertical trials were alternated. A single fixation point was affixed to the Shuttle forward middeck lockers, directly in front of the subject at a neutral gaze position. The trials began at the Shuttle entry interface and continued nonstop until 5 minutes had elapsed or the Shuttle had landed. Following Shuttle roll-out (wheels stop), the gaze stabilization trials, patterned after those accomplished during entry, were performed for 5 minutes. The entry and wheels stop protocols were difficult because the head movements were performed inside of the helmet, using special goggle devices to assist in recording head and eye movements. As expected, the helmet restricted head movement amplitude.
+<P>
+Pursuit Tracking<BR>
+Pursuit tracking studies, designed to measure the effectiveness of both smooth pursuit eye movements and combined eye-head tracking in acquiring and maintaining gaze on a moving target, were conducted before and after flight. All trials required the crewmember to track the apparent smooth movement of a laser projected on a blank neutral gray tangent screen, first with just the eyes (smooth pursuit), and subsequently using eye movements in concert with active, self-generated head movements (combined eye-head tracking). The subject was positioned 86 cm from, and facing, the tangent screen. Two types of target motion trials, unpredictable and predictable, were presented for each plane of motion
+<P>
+Unless indicated otherwise, all OI-3 protocols were completed a minimum of three times prior to flight, two times in flight , and up to five times following flight. The last preflight test session was typically within ten days of flight. In-flight measurements were performed within 24 hours following orbital insertion and again within 24 hours of landing. After flight, the first measurement was about 2 hours after wheels stop. Subsequent postflight measurements were obtained 3, 5, 8, and 12 days after landing. The 5, 8, and 12 day postflight tests were completed only when the subjects had not returned to preflight baseline values.
+<p>
+RESULTS:<BR>
+OI-1: Perceptions of the rate, amplitude, timing, direction, and axis of voluntary head or head and trunk movements were disturbed in the tests performed during and just after space flight. The movements provoked illusions of motion of the self or the surroundings in about 70% of astronauts during flight, in about 80% during entry, and in at least 90% just after landing. Illusions of motion were stronger in the absence of visual or tactile cues (when the eyes were closed or the feet unrestrained) during flight. Fewer astronauts perceived illusory motion while gazing at the near target than at the far target. Larger or faster movements were more likely to produce illusions of motion than were smaller or slower movements. Interestingly, smaller head movements tended to produce illusory motion of the surroundings in the same direction, and larger movements, in the opposite direction. During flight, more astronauts perceived illusory motion of the surroundings than of themselves. Illusions of motion of the surroundings lagged up to 2.0 seconds after the eliciting head movement and persisted for 2.0 seconds or more. There was a greater frequency of illusory self-motion during and after missions of longer duration than after shorter missions. During the longer flights, head movements produced illusions of self-motion in all of the internally oriented astronauts, but in only half of the visually oriented astronauts. On the other hand, the visually oriented astronauts were more likely than the internally oriented astronauts to experience illusory self-motion during the shorter flights as well as during entry and after landing.
+<P>
+In the postflight TTD tests, some astronauts reported visual disturbances such as blurring or tilting of the stripes, although there were no such disturbances before the flight. Asymmetries of motion perception were also observed during the postflight TTD tests, and these asymmetries were more common among the visually oriented astronauts than the internally oriented astronauts. Preflight-to-postflight changes in motion perception generally resolved by 4 days after landing. In the DOME tests, latencies between eye opening and the onset or peak of the perception of self motion were longer in first-time crew members than in veterans, longer after missions of longer duration than after shorter missions and longer in astronauts who were internally oriented than in those who were visually oriented.
+<P>
+The preflight education and simulations provided in this study appeared to help reduce the incidence of space motion sickness during actual flights. When 18 of the participating astronauts were compared to 40 astronauts who did not participate, a smaller percentage of the participants reported having symptoms of motion sickness or taking medications to combat motion sickness during flight. The percentage who reported headache or impaired concentration was about 50% lower among the participating astronauts, and the percentage who reported vomiting was about 20% lower.
+These results increase the understanding of the perceptual responses to space flight and will facilitate the development of adaptation training and countermeasures for prevention of motion sickness and perceptual disturbances during and after space flight.
+<P>
+OI-3:<br>
+Target Acquisition<br>
+It is interesting to note that the subjects for these trials used the eyes to attempt acquisition of the target. This can be seen clearly in the preflight trial. The eye moves prior to the head and gaze is established with the eye's position. Once the head begins to move, the VOR is established and the reflex pulls gaze off of the target. Both the head and a corrective eye saccade are then used to maintain gaze.
+<p>
+During space flight a different strategy is developed. The eye is still used to establish gaze, but the head movement is greatly reduced in both velocity and displacement. Of particular interest in this example is the number of saccades made by the eyes and the velocity of these saccades. They do not represent a typical VOR response. Rather they show a considerably higher gain than normal. The responses early after flight show most of the strategy components developed during the flight (i.e., attainment of target with eyes, low head velocity, and multiple saccades). A return to preflight levels is observed by the fourth day postflight.
+<p>
+Gaze Stabilization<br>
+Landing day data indicates that the CNS has developed strategies to compensate for vestibular control of target capture and pursuit tracking. Typically, the compensatory response is to limit head movements and attempt to capture the target with the eyes only. When this is not possible, a smaller than normal head movement is initiated too late in the sequence to provide the necessary accuracy and speed for target acquisition. Together, the head and eye movements are inadequate and several additional shifts of the eye are necessary to place the target properly on the retina. This can result in a significant delay (up to l. 5 sec) before the target is acquired. During the phase of reentry where the change in gravitational forces was the greatest, there did not appear to be an adequate VOR for the head movement in both the horizontal and vertical planes. It is at this stage of flight that small head movements frequently evoke sensations of either self- or surround-motion. One- probable explanation for compromised VOR function and subsequent gaze drift centers on the idea that the altered eye movements are compensatory for the false perception of self- or surround motion.
+<p>
+Smooth Pursuit<br>
+Exposure to space flight has a tendency to modify this saccadic behavior. Early in micro gravity, during tracking of sinusoidal movement of a point stimulus, the eye movement decreases in amplitude, resulting in an undershooting, and corrective saccades appear. The effects of microgravity on the pursuit function were most pronounced early in-flight (FD3), after long exposure to weightlessness (FDSO, 116 and 164), as well as after landing.  Pursuit improved following in-flight execution of active head movements, indicating that the deficiencies in pursuit function noted in microgravity may be of central origin.  
+<p>
+The velocity of eye saccades, whether elicited during pursuit or simply acquiring a visual target, is also reduced in micro gravity. It is unclear what mechanism is responsible for this decreased peak saccadic velocity during flight unless the change is related to the control of retinal slip. It is beneficial for visual performance to maintain the spatial representation of the target on the same side of the fovea (as opposed to racing across the fovea), and hence in the same cerebral hemisphere that initiated the primary saccade. Overall, corrective saccades appear to be used to maintaining gaze on target, reducing retinal slip, and assisting the astronauts in maintaining clear vision throughout the different phases of space flight.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 604</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Harm, Deborah, Reschke, Millard</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-39&#x27;], [&#x27;STS-41&#x27;], [&#x27;STS-44&#x27;], [&#x27;STS-45&#x27;], [&#x27;STS-46&#x27;], [&#x27;STS-48&#x27;], [&#x27;STS-49&#x27;], [&#x27;STS-51&#x27;], [&#x27;STS-52&#x27;], [&#x27;STS-53&#x27;], [&#x27;STS-54&#x27;], [&#x27;STS-57&#x27;], [&#x27;STS-74&#x27;], [&#x27;STS-59&#x27;], [&#x27;STS-64&#x27;], [&#x27;STS-65&#x27;], [&#x27;STS-67&#x27;], [&#x27;STS-68&#x27;], [&#x27;STS-70&#x27;], [&#x27;STS-73&#x27;], [&#x27;STS-43&#x27;], [&#x27;STS-61&#x27;], [&#x27;STS-62&#x27;], [&#x27;STS-58&#x27;], [&#x27;STS-66&#x27;], [&#x27;STS-69&#x27;], [&#x27;STS-72&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/2drn-9x20</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/b9aef98b-196c-554b-9b57-273cec1eb3df?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/b9aef98b-196c-554b-9b57-273cec1eb3df?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

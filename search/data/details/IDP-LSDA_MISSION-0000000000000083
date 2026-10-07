@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cosmos 2044 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000083?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>Cosmos 2044</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>Cosmos 2044</h1>
+        <div class="meta-id">Record ID: Cosmos 2044</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000083?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          Cosmos 2044 was the seventh Soviet Biosatellite to orbit the Earth with joint U.S./U.S.S.R. experiments onboard.  Hungary, the German Democratic Republic, Canada, Poland, Britain, Romania, Czechoslovakia and the European Space Agency also participated in the mission.   The joint U.S./U.S.S.R. experiments were conducted on two rhesus monkeys and ten rats that were flown onboard the Biosatellite.  The biological payload on the spacecraft also included fish, amphibians, insects, worms, protozoans, cell cultures and plants.   Many of the studies conducted on the Biosatellite were repeats of experiments flown previously on the Cosmos 1887 mission.  The results of those experiments were inconclusive because there was a delay in recovering the 1887 Biosatellite.  Consequently, the experimental subjects had partially readapted to Earth gravity before postflight tests could be performed.  <P>The Rat Biospecimen Program included 42 experiments conducted by the U.S. on tissues from the flight rats.  The goal of the program was to extend the investigations conducted aboard the Cosmos 1887 Biosatellite, with a shorter specimen recovery period.  Methodologies used in Cosmos 1887 experiments were duplicated and extended in order to maximize comparability.  Among these were studies of the effects of microgravity on various tissues such as the heart, lungs, small intestine, liver, muscle, bone, connective tissue and testes.  Experiments were also carried out to determine the response of the immune and endocrine systems to space flight.   Other studies were concerned with processes such as tissue repair and skeletal growth in the space environment.  The primates flown on the spacecraft acted as experimental subjects for five studies that dealt with the effects of space flight on neurovestibular, behavioral, muscular, circadian rhythm and thermoregulation responses.   Another experiment was performed without using biological subjects, to evaluate the radiation environment inside and outside the spacecraft.  <P>Primate experiments were conducted inflight on two male <I>Macaca mulatta</I> monkeys, named Zhakonya and Zabiyaka.  These and control monkeys were implanted with several electrodes and sensors for recording physiological parameters.    Subjects for the rat experiments were male specific pathogen free Wistar rats.  The flight group and each of three control groups contained ten rats.  Five of the rats in each group were surgically treated so that tissue repair in space could be studied.  Apart from the Synchronous Control and the Vivarium Control experiments, another control was carried out on this mission.  The rats in this third control group were placed in individual cages and suspended by their tails in a head-down position, so that the weight of the lower body was supported by the forelimbs.  The objective was to remove static loads from the hindlimbs and thereby to simulate the fluid distribution that occurs in microgravity.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>Cosmos 2044</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Cosmos Biosatellite Program</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1989</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>14</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Rat, Not applicable, Monkey</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000083?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000083?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Distributed Team Decision Making in Exploration Missions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/efa6c5ae-8508-50d9-9fbe-14e4c666fb50?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958NBPF00204</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Distributed Team Decision Making in Exploration Missions</h1>
+        <div class="meta-id">Record ID: NCC958NBPF00204</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/efa6c5ae-8508-50d9-9fbe-14e4c666fb50?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This project will address the effects of task-related and psychosocial stressors on team problem solving and decision making in situations similar to those that may be encountered in long-duration space missions. Technologies to monitor affective responses of individual team members will be developed. Findings from this study will establish a basis for introducing countermeasures to support effective team interaction and mission success. 
+<P>
+In a three-year research project five specific research questions will be addressed: <Br>
+(1) What are the impacts of task-related and psychosocial stressors on problem solving, decision making and interactional behaviors in distributed dynamic problem situations? <Br>
+(2) What task and team strategies are most effective in performing collaborative work under stress? <Br>
+(3) How do gender and cultural factors influence decision-making strategies and team interactions?  <Br>
+(4) Are there physiological and biomedical indicators that predict individual stress and deteriorating team interactions? <Br>
+(5) Are these measures robust across gender and national culture? 
+<P>
+Findings from this research project will provide a basis for understanding factors that may limit effective interaction and problem solving by team members I pace and between space and ground crews.  Findings will provide a basis for designing or revising procedures, training practices, and technologies to support effective team performance; and for developing technologies for monitoring and predicting breakdown of team interactions so that countermeasures may be introduced before team dynamics have deteriorated to the point of threatening mission success. 
+<p>APPROACH: <br>
+A computer-based research environment was created for studying team decision –making.  Physiological monitoring tools were obtained and tested that were used to assess emotional arousal of individual team members during team tasks.  Coordination was established with participants of a recent simulation of long-duration space flight involving multicultural crews.  These collaborations will aid in developing appropriate scenarios and performance measures for this study.  
+<p>
+Teams of four participants work together on a computer-based dynamic decision-making task. While working on the task, their physiological responses and facial expressions are monitored for signs of mental and emotional stress. Physiological arousal levels and facial affect will subsequently be correlated with individual and team performance on the decision making task. The task used in our studies involves a simulated search and rescue mission in Antarctica. It presents graphical displays of evolving problem scenarios and supports communication among team members via e-mail and voice messages. The simulated mission will enable us to examine collaborative and competitive behaviors among team members during mission planning and during execution of the tasks under a variety of task constraints. 
+<p>
+RESULTS:<br>
+A psychological assessment battery was performed and baseline experiment was run to assess the adequacy of the problem solving scenarios, the task manipulations, and the stress monitoring technologies during actual team interaction. Twelve teams each consisting of four U.S. males (at least second generation American) served as our baseline group. Team conflict varied between groups and task difficulty varied within teams. 
+<p>
+Participants worked together over a period of four days in the laboratory. Day 1 consisted of training on the computer-based task and an introduction to the physiological monitoring devices. On days two, three and four, participants worked through six scenarios, one easy and one difficult scenario per day. Order was counterbalanced across and within days. Both individual and team performance measures were recorded for analysis. Personality measures were administered between tasks on Day 2 and 3; state and group dynamic measures were taken at the end of each task day. The manipulation of task difficulty was successful as players were generally more successful in completing tasks in "easy" scenarios than in "difficult" ones. The team conflict manipulation resulted in significant differences between groups, but in the opposite direction than expected. Scores earned by individual players in the Competitive condition were higher than those in the Cooperative condition were. Further analyses revealed that members of Competitive teams collaborated on tasks significantly more often than members of Cooperative teams. The superior performance of individuals in the Competitive condition may arise from several sources: differences in performance feedback provided in the two task conditions, in team strategies associated with each condition, or in cognitive abilities of the individuals randomly assigned to conditions. 
+<P>
+Team interaction and communication were  analyzed from transcripts made from audio- and videotapes of the teams during planning and mission execution. The initial review of team communication found both effective teamwork and negative effect. Effective task performance was found to depend on team collaboration: a coordinated search strategy, communication about mission-critical information, task assignment and prioritizing, and plan adaptation based on effective strategies were evident in successful teams. Team members established a sense of team cohesion and positive affect by treating each other with respect, by backing each other up, and by providing positive reinforcement for successful efforts and objective feedback on errors. Negative behaviors associated with team failure included players being withdrawn and passive, engaging in competitive behavior and deceit, and instigating conflict through negative feedback, criticism, and public embarrassment or humiliation of others. These behaviors will serve as the foundation for analysis of behaviors in culturally diverse teams in Year Three of the current grant and, once validated, as a basis for training in our follow-on proposal. Physiological responses were monitored while players engaged in the search and rescue tasks. The time-coded output were filtered and cleaned prior to analysis; statistical analyses are still underway, but initial observations revealed physiological reactivity at points of task pressures. 
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958NBPF00204</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Orasanu, Judith</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA), National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/kkm5-qc30</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NCC 9-58</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/efa6c5ae-8508-50d9-9fbe-14e4c666fb50?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/efa6c5ae-8508-50d9-9fbe-14e4c666fb50?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

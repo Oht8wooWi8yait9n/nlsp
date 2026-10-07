@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visual Anatomic Guidance to Facilitate Ultrasound Image Acquisition - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/10db73df-ce89-5e96-94ea-86ea7e564606?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91258</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Visual Anatomic Guidance to Facilitate Ultrasound Image Acquisition</h1>
+        <div class="meta-id">Record ID: NAG91258</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/10db73df-ce89-5e96-94ea-86ea7e564606?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Ultrasound forms medical images with a probe called a transducer that sends high-frequency sound waves and then receives their echoes.  This transducer can be moved and angled to gain different views.  An echocardiogram uses ultrasound to create a moving picture of the heart.  Ultrasound is ideal for medical imaging in space because it is compact, risk-free, and inexpensive.  However, operator skill is required to acquire quality images.  Errors can occur because there are few landmarks to let the sonographer identify the exact location of the probe relative to the organ it is analyzing.  
+<P>
+A visual anatomic guidance system was developed in this ground-based study to help crewmembers: (1) acquire correctly positioned medical ultrasound images and (2) display the location of the current image plane relative to the anatomy of the target organ.  The line of intersection, the planes of intersection, and the numeric angle of intersection can be displayed relative to a previous image.  The sonographer can monitor a real-time graphic display in addition to the ultrasound screen while performing the procedure.  This system can improve the diagnostic accuracy of the ultrasound when performed in space.  The hypothesis stated that persons untrained as sonographers can acquire more accurately positioned images with real-time guidance than without it, and guidance will improve accuracy and reproducibility in quantitative analysis of ultrasound images.  
+<P>
+There were three specific aims.  The first specific aim was to develop three methods for visual anatomic guidance and compare performance.  The second was to test a prototype system for tracking the location and orientation of the ultrasound transducer that offers immunity to ambient ferromagnetic interference.  Finally, the third specific aim was to widen the applicability of the technology on Earth by applying guidance in imaging the right ventricle of the heart.  
+<P>
+APPROACH:<BR>
+Computer software was developed to implement three methods of visual anatomic guidance.  The left ventricle of the heart was used for evaluation, but other organs could also be used.  The first method, the line of intersection method, displays the current image plane location as a line drawn on short and long axis scout images recorded at the beginning of the study.  The disadvantage is that it does not indicate whether the current image plane is tilted inappropriately in the third out-of-plane dimension unless two scout images are monitored.  The second method, the intersecting planes method, displays scout images in three dimensions with the current image overlaid semi-transparently.  It shows position and orientation of the current image relative to the heart as revealed in the selected scout images.  
+<P>
+The third method of visual anatomic guidance involved visualizing the image plane's intersection with the three-dimensional target surface.  This method assists in understanding where the current image plane is located and where it should be to cut a short axis or long axis view, making the current image position and orientation visible relative to the heart.  Because of the need to prepare a three-dimensional surface reconstruction of the heart to serve as the anatomic guide, a method called SmartFit was created.  Prior information about heart shape variations was used to estimate the heart's three-dimensional surface.  The shape variations stemmed from a catalog of three-dimensional reconstructions of the surface from patients with diverse diagnoses.  Input data was fitted to a weighted average of shapes in the catalog to generate the estimated surface.  This SmartFit method consistently produced a ventricle-like shape.  
+<P> 
+The impact of visual guidance on the accuracy and reproducibility of quantitative analysis was tested.  Left ventricular volume values acquired with and without anatomic guidance in patients and normal subjects were compared.  The effect of guidance on measuring right ventricular volume was also tested.  
+<P>
+The second specific aim tested a commercial prototype magnetic field tracking system.  The tracking system's receiver was mounted on a stylus with a ball tip that was used to locate two sockets ten centimeters apart on a Plexiglas box.  The stylus mimicked a transducer.  The precision in locating each socket at baseline without ferromagnetic interference and on top of a hospital stretcher, such as that used for echocardiography, was measured repeatedly.    
+<P>
+The third specific aim was to widen the applicability of visual guidance technology in clinical practice.  The accuracy of a piece-wise smooth subdivision surface reconstruction method for determining the shape and volume of the right ventricle was validated, and guidance was applied for its imaging.  Three-dimensional echo imaging of animal hearts in a water bath was performed.  The volume and mass obtained from the image analysis was compared with the true values measured from the hearts.  To validate the ability of the reconstruction of accurately representing the shape of an organ, plaster casts were prepared of the right ventricular endocardium and laser scanned.   The three-dimensional surface reconstructed from the dense accurate laser scan data was compared to that reconstructed from the echo images.  
+<P>
+RESULTS:<BR>
+The left ventricle catalog for the SmartFit method was adequate for reconstructing a variety of patient ventricles.  It consisted of fifty-two normal subjects and fifty-two patients with diverse diagnoses. However, the catalog for the right ventricle contained only twelve studies.  
+<P>
+All three methods of visual guidance were implemented.  Thirty subjects were evaluated, but, because the protocol was long, the subject often moved, and data were unable to be utilized.  Data from only thirteen subjects could be analyzed in the left ventricular volume study and five subjects in the right ventricular volume study.  
+<P>
+The quantitative analysis of the left ventricle did not show benefit from visual guidance.  Accuracy and reproducibility of the left ventricular volume measurement from two-dimensional images was the same with and without guidance.  The result is likely because the left ventricle had such a regular shape that deviations in image plane position did not introduce much error in volume measurement.  Scanning the right ventricle produced a different result.  The visual anatomic guidance system's SmartFit surface, the three-dimensional surface estimation used for guidance, provided an untrained physician with measurements of right ventricular volume that varied from true by a mean error of only 14.2%, comparable to the error of the best published two-dimensional echo method, which was 16.3% by biplane pyramidal approximation.  Calculations using a modification from this study of the biplane pyramidal method showed that the guidance gave the inexperienced physician an error of only 5.0%, which is smaller than previous studies and comparable to an experienced sonographer.  
+<P>
+The guidance system accelerated the rate at which an untrained resident learned to perform scanning by assisting in relating the image to the anatomy.  It also helped a trained sonographer perform cardiac sonograms more efficiently.  Thus, the guidance system was a teaching tool for the novice and was valuable in assisting a trained sonographer to improve performance in the technique.         
+<P>
+The results of the second specific aim demonstrated that the prototype magnetic field tracking system allowed the ultrasound transducer to be tracked accurately even in the vicinity of ferromagnetic interference, such as over a hospital stretcher.  Distance between two points could be measured with high accuracy.  
+<P>
+The result of the third specific aim showed that the piece-wise smooth subdivision method was capable of reconstructing the endocardial surface of the complexly shaped right ventricle.  There was a close correlation between the three-dimensional echocardiogram measurements and the true right ventricular volume.  The method was able to reconstruct the right ventricle with shape accuracy in three dimensions.  Results suggested that visual anatomic guidance using the third method of the first specific aim, intersection with three-dimensional surface, was feasible for organ systems besides the heart.  
+<P>
+The visual anatomic guidance was shown to be feasible for assisting crewmembers with space-obtained images of optimal diagnostic quality.  It could also facilitate preflight training in ultrasound procedures.  It could be upgraded to give ground control the ability to provide the crewmember feedback on operating the transducer.  
+<P>
+Benefits to healthcare include the ability of the visual guidance system to assist sonographers in positioning images.  Variability in organ dimension measurements could be reduced, enabling the measurements to reliably indicate patient status and allow serial measurements to detect changes in the patient condition more efficiently.  Three-dimensional anatomic guidance could teach sonographers how to manipulate the transducer and reduce training time because trainees are shown in real time how the image plane changes position and orientation as the ultrasound transducer is manipulated.  Guidance to the trained sonographer of the correct views could reduce the time needed to conduct the ultrasound and increase the clinical laboratory efficiency.  The ability to document accuracy in image plane positioning may reduce duplication of the ultrasound studies by consultants.  An expert in a remote location could utilize the guidance system to assist the person doing the imaging.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91258</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Sheehan, Florence</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/vayj-9539</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/10db73df-ce89-5e96-94ea-86ea7e564606?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/10db73df-ce89-5e96-94ea-86ea7e564606?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

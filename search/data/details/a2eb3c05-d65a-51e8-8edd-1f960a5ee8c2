@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Determination of Bioactive Proteins Secreted by the Human Vasculature in Response to Low Dose Space Radiation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a2eb3c05-d65a-51e8-8edd-1f960a5ee8c2?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC18K1492</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>A Determination of Bioactive Proteins Secreted by the Human Vasculature in Response to Low Dose Space Radiation</h1>
+        <div class="meta-id">Record ID: 80NSSC18K1492</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a2eb3c05-d65a-51e8-8edd-1f960a5ee8c2?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The purpose of this study is to determine the proteins that are potentially released into the blood stream by the lining of the human vasculature in response to exposure to space radiation. This would create a useful database for radiobiology studies and comparisons with the proteins secreted in astronaut blood. Such proteins have the potential to cause pathological processes such as inflammation, they are also spread around the body in the blood, and are important factors in many pathologies. The microvasculature permeates all tissues at the microscopic level so the whole body is a target for charged particles. A single heavy ion particle would be expected to traverse many micro-vessels as it passes through the body causing a more widespread response. Studies on the effect of different charged particles on human 3D microvessel models shows that both developing and mature microvessels lose structure and function after exposure to very low doses of various charged particles.
+<div>
+Mature microvessels lose structure detectible as low as 1.25cGy. Angiogenesis, the growth of new vessels, is inhibited by light ions and heavy ions detectible at 1.25cGy. Even more striking, the combined effect of each ion has a synergistic effect detectible as low as 0.6 cGy. The low fluence of these doses indicates a bystander effect where the response is transmitted to other cells and such a mechanism would involve the secretion of molecules by the target cell. The investigators aim to use proteomics and other techniques to determine the proteins secreted by the human microvessel models. A database of these proteins secreted by human tissue models would not only be of great use to a number of researchers investigating a diverse number of pathologies related to space radiation but also provide insights into the mechanisms of the vascular response to charged particles.
+</div><div>
+This study has the following specific aims:</div><ol>
+<li>Identify the proteins secreted by the endothelial cells during angiogenesis and in mature human three dimensional (3D) microvessel tissue models in response to radiation.</li>
+1a. Identify proteins secreted by developing microvessels in response to a mixture of low and high linear energy transfer (LET) charged particles.
+1b. Identify proteins secreted by mature microvessels in response to low doses of heavy ions.
+<div>
+APPROACH:<br>
+Proteomic analysis will be performed on conditioned media from human microvessel models made from human umbilical vein endothelial cells (HUVEC). It is critical to optimize the sample preparation prior to experiments to ensure enough protein is collected for proteomic analysis. Analysis of the media will be carried out to determine how much tissue model is required to collect 50µg protein per media sample. The protocol will be to replace serum-containing media 30 minutes prior to irradiations, expose the cultures to charged particles, and then collect the conditioned media 24 hours after irradiations. The experimental conditions will be reproduced in the laboratory at Columbia University for these determinations, including time in heated incubators to simulate traveling to Brookhaven National Laboratory (BNL). The proteins in the conditioned media will be precipitated with chloroform and methanol and protein content determined by standard colorimetric assay.
+</div><div>
+In the angiogenesis assay, cells are seeded in media and growth factors (Lonza – EBM-2 media) cultured for 24 hours then irradiated on day 1 of the culture when the cells are still unconnected and show motile tip activity. Media is changed to serum-free media, exposed to radiation then transported back to Columbia University. Proteins will be precipitated 24 hours after irradiations and proteomic analysis carried out. Five samples each for the unirradiated control and for the irradiated micro-vessels will be subjected to proteomic analysis.
+Secreted proteins will be studied by quantitative measurement of protein abundance with a mass spectrometry-based proteomic method. Precipitated proteins will be digested with trypsin. Separation of peptides will be performed on an UltiMate 3000 RSLCNano (Thermo Scientific) liquid chromatograph (LC) coupled to a Q Exactive HF Orbitrap mass spectrometer. Database searches will done with Mascot v. 2.5.1 (Matrix Science Ltd.) combined with post- processing with the Elucidator Protein Expression Data Analysis Software.
+</div><div>
+RESULTS:<br>
+The study was completed under a continuation of this grant (80NSSC22K0937).
+</div><br><div></div></ol>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC18K1492</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Grabham, Peter</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology, Cardiovascular physiology, Omics</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human, cells</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/y5w3-gc30</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2018 HERO 80JSC018N0001-Crew Health and Performance (FLAGSHIP, OMNIBUS). Appendix A-Flagship, Appendix B-Omnibus</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a2eb3c05-d65a-51e8-8edd-1f960a5ee8c2?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a2eb3c05-d65a-51e8-8edd-1f960a5ee8c2?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

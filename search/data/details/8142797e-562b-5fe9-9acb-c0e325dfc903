@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Processing vs. Packaged Food System Trade Study - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/8142797e-562b-5fe9-9acb-c0e325dfc903?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Trade_Study</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Food Processing vs. Packaged Food System Trade Study</h1>
+        <div class="meta-id">Record ID: Trade_Study</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/8142797e-562b-5fe9-9acb-c0e325dfc903?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The Food Processing vs. Packaged Food System Trade Study addresses the efficiencies and adequacies of growing produce and processing baseline crops into edible ingredients as compared to the efficiencies and adequacies of the utilizing the existing prepackaged food system. Specifically, the research was parceled into four specific aims: <br>
+1.	To determine the requirements on vegetable, fruit, and baseline crops growth and bulk ingredient supply in terms of the estimated pounds required. <br>
+2.	To determine requirements for food preparation and/or processing equipment at the extraterrestrial habitat. <br>
+3.	To provide a quantitative assessment of mass penalties and human factors impacts of each proposed menu option. <br>
+4.	To provide an assessment of feasibility of implementing the proposed systems and identify associated technology gaps. <br>
+<p>
+Recent AFT work to prepare for deep space surface missions identified the shortcomings of using the current prepackaged food system in long exploratory mission application. The degradation of the quality of thermostabilized products and degradation of nutritional content indicates the inadequacy of the current food system for a five-year mission. 
+<p>
+This trade study is central to the decision process on whether to continue work on bioregenerative crop development for future space flight missions. Additionally, the trade study supports the decision process on whether to develop food preparation and food processing technologies and, if so, to what extent the development should occur. Because the food system has huge implications to the upmass considerations of the mission as well as measurable impact to the psyche of the crew members, the appropriate decision on the food system will directly relate to the adequacy of the food system for the mission. 
+<p>
+APPROACH:<br>
+Two 10-day menus were developed in preparation for a Mars habitat mission. The first was built on the assumption, as in previous menu development efforts for closed ecological systems, that the food system would be vegetarian, whereas the second menu introduced shelf-stable, prepackaged meat and entrée items from the current International Space Station (ISS) food system.
+<p>
+RESULTS:<br>
+The trade study answered the key question to which it was targeted – is it better to take the food to Mars or grow the food on the surface? – with the ambiguous “yes.” While the advantages of growing the food at the surface involve a tremendous upmass savings, higher acceptability, and higher potential menu variety, it cannot be discounted that even a small addition of prepackaged food prompted a significant decrease in crew time utilization and decreased the likelihood of food scarcity. The results indicate the food system design should focus on a solution that is mixed with food sources, leveraging the advantages of both farming crops and stowing the food supply. 
+<p>
+Five food systems were postulated based on three menu designs of equal caloric contribution. The first food system was based on meals derived from crops grown at the Martian habitat with minor dry ingredient additions. The second food system used the same meals as the first but was based on meals derived from a smaller number of crops grown at the Martian habitat, stable bulk commodities (rice, beans, wheat) shipped from Earth, and minor dry ingredient additions. The third and fourth food systems mirror the first and second system food sources, respectively, except both the third and fourth systems are supplemented with prepackaged meat products. The final food system was based solely on existing space food. Many recipes were reproduced to ascertain the amount of raw material, the necessary cookware, and time that was required to complete a meal. The equivalent system mass (ESM) and the food metric value (FMV) for each of the five food systems were then compared to determine which food system is preferable based upon resource utilization and other food system metrics. 
+<p>
+For a crew of 6 on a 600-day habitat mission, Food System 3 had the lowest equivalent system mass at 8566 kilograms and the lowest food metric value at 176 kilograms. This food system had both the second lowest mass shipped and second lowest volume shipped but was third in active crew time hours. The ESM for food system 3 was driven primarily by the low mass of stowed ingredients and a crew time utilization that was less than food system 1 or 2. The modified food quality index was not very different between food systems 1-4, and therefore, the value impacted the final results very little. 
+<p>
+The combination of the food processing data with the ESM calculations of other linked subsystems (e.g. biomass production, water) will present the most accurate view of the food processing cost to mission planners.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Trade_Study</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cooper, Maya</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition, Life support systems</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/2r8y-hj63</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/8142797e-562b-5fe9-9acb-c0e325dfc903?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/8142797e-562b-5fe9-9acb-c0e325dfc903?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

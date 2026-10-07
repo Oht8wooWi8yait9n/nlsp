@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hearing Loss Among LSAH Participants - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ec870c92-c80e-5753-95ca-5c30328ce912?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>LSAHNEWSV14_1_1</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Hearing Loss Among LSAH Participants</h1>
+        <div class="meta-id">Record ID: LSAHNEWSV14_1_1</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ec870c92-c80e-5753-95ca-5c30328ce912?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Noise is one of the most common causes of hearing loss, and noise-induced hearing loss (NIHL) is the most common occupational illness in the United States.  The effects of noise on hearing are often underestimated because the damage takes place so gradually, without pain, and cannot be visibly detected because the delicate inner ear is buried deep in the skull.  Audiometric testing, using pure tone stimuli, has been the traditional method of monitoring hearing loss.  Hearing tests have always been part of NASA’s hearing conservation program for personnel exposed to hazardous noise from aircraft and other equipment.  Audiometric data from the Longitudinal Study of Astronaut Health (LSAH) database was reviewed in order to assess trends and compare data with other population studies.
+<P>
+APPROACH:<BR>
+Audiometric data of LSAH astronaut participants, a group of comparison participants, and Air Force subjects (during 1975-1976) were reviewed.   The mean of the audiometric hearing thresholds at 3000, 4000, and 6000 Hz were compared for the LSAH participants and other populations.
+<P>
+RESULTS:<BR>
+Formal hearing conservation efforts (e.g., training in hearing protection and effects of noise, enforcement of hearing protection use) have been aimed at all astronauts, but only those comparison participants who worked in noise-hazardous jobs at the NASA Johnson Space Center (JSC).  Consequently, it would be logical to assume that the astronauts, as the target population of the conservation efforts, were more at risk for and would show more NIHL as compared to the comparison participants.  However, the analysis of the data yielded surprising results. 
+<P>
+A hearing threshold is the lowest sound level that is detected from a specific percentage of presentations during a hearing test, so a higher value indicates less acute hearing.  While hearing loss data in the comparison participants closely matched the average high frequency hearing loss for similar age groups reported for the general population (International Organization for Standardization, 1999), astronauts showed less hearing loss (in the 50 and 60 year-old age groups) than the comparison participants.  When compared to a study of Air Force personnel for the years 1975-1976, astronauts also had better hearing sensitivity, suggesting that close vigilance and high motivation in NASA hearing conservation programs among astronauts may have yielded more effective hearing loss prevention.  
+<P>
+In the 70 and 80 year-old age groups, astronauts had more hearing loss than the comparison participants.  One possible explanation is that hearing conservation programs did not exist or were very primitive prior to 1970.  As a result, the current hearing losses among these individuals may have been accelerated by early NIHL, when hearing conservation efforts, now more rigidly enforced, were not effective.  Whatever the basis for the audiometric results, it is clear that hearing loss prevention is vital to protecting remaining hearing function.<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>LSAHNEWSV14_1_1</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>No Principal Investigator,</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Space Medicine</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;LSAH&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/vfdc-6z19</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ec870c92-c80e-5753-95ca-5c30328ce912?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ec870c92-c80e-5753-95ca-5c30328ce912?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

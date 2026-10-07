@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cardiovascular Deconditioning Countermeasure Assessment - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/73d10bb4-b805-5bd5-bc52-149d8f9d1bd8?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 402</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Cardiovascular Deconditioning Countermeasure Assessment</h1>
+        <div class="meta-id">Record ID: DSO 402</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/73d10bb4-b805-5bd5-bc52-149d8f9d1bd8?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Early in the manned space flight program it was noted that the cardiovascular system undergoes several adaptive changes when subjected to the microgravity environment. Experimentation during NASA's Skylab missions demonstrated that fluid was shifted from the lower extremities to the more central and cephalad portions of the circulation. The results of this redistribution and of other alterations in the controlling mechanisms of the circulation which were not well defined were termed "cardiovascular deconditioning." The term deconditioning was felt to be appropriate because those individuals who were tested during or immediately after space flight demonstrated less orthostatic tolerance when provoked with lower body negative pressure (LBNP), higher submaximal oxygen consumptions at equivalent workloads, and higher resting heart rates when compared to their responses preflight.
+<p>
+With the advent of the Space Shuttle, it was known that astronauts would receive the effects of reentry deceleration in the + Gz axis (head-to-toe), compared to earlier space flights in which these forces were directed + Gx (chest-to-back). The combination of this more stressful acceleration loading with the deconditioned state of the human cardiovascular system following space flights increased efforts directed at developing suitable countermeasures. Most were rejected for actual use in the Space Shuttle due to either complex hardware requirements or objections by flight crews. Even the anti-G suit, considered by many as the only acceptable alternative at the inception of the Shuttle program, was not regarded favorably. Therefore, the development of other, more suitable countermeasures to post-space flight orthostatic intolerance took on greater importance.
+<p>
+Earlier bedrest studies had revealed the usefulness of oral rehydration using normal saline in the more palatable form of bouillon, in providing a degree of protection against the loss of LBNP and acceleration tolerance by expanding the circulating plasma volume. In one study, six male volunteers underwent 15 days of bed rest to "decondition" their cardiovascular systems in a physiological simulation of weightlessness. On each of the last three days of bed rest, each subject was stressed by LBNP at -50 mm Hg in one of three randomly assigned conditions: employing no candidate countermeasures; having ingested 1 L of bouillon alone as a countermeasure; or following ingestion of the bouillon during three hours of LBNP at -30 mm Hg, as a combined countermeasure. The results showed that the combination of oral rehydration and prolonged LBNP provided a more sustained increase in plasma volume and reduction in stressed heart rate response.
+<p>
+APPROACH:<br>
+On the day prior to Shuttle landing, all 26 crewmembers were to consume at least three quarts (2.7 L) of fluids as part of their usual meal and snack routine. This was intended to offset any dehydration due to low intake during the period of adaptation to weightlessness, or to high insensible loss; it was not expected that this consumption would alter the physiological adaptation to microgravity.
+<p>
+Preliminary testing revealed that Shuttle crewmembers found isotonic saline unpalatable even in bouillon form. Therefore, the crews were provided with salt (sodium chloride) tablets (1 g each) and advised to take one tablet with each four ounces (114 ml) of water consumed, to a total of eight tablets and 912 ml of water. This concentration approximated isotonic saline. On the day of landing, starting two hours before entry into the earth's atmosphere, the participating crewmember was to begin oral intake of fluid and salt at a rate dictated by personal comfort. It was stressed that regardless of the total fluid volume consumed, the tablet-to-volume ratio be kept constant as prescribed.
+<p>
+During the interval between one and two hours after landing, each crewmember's heart rate and blood pressure responses to a Passive Stand Test were recorded, for comparison with their preflight values. During the Stand Test, the electrocardiogram was recorded continuously, and blood pressures were measured each minute for five minutes while the crewmember was in the supine position and for five additional minutes immediately thereafter while the crewmember was standing.  The individual stood with his/her feet six inches (15 cm) apart and nine inches (23 cm) from a wall, and leaned slightly backwards against the wall for support.
+<p>
+Heart rate was determined from the electrocardiographic record as the number of QRS complexes occurring during each one-minute interval. Mean blood pressure was calculated as one-third the sum of the systolic blood pressure plus two times the diastolic blood pressure. The average heart rate, systolic blood pressure, and diastolic blood pressure during the equilibrated portion of each five-minute segment of this stand test were used in all calculations. In addition, the minute-by-minute group mean values for heart rate and mean blood pressure were plotted to illustrate the differences in the dynamic adjustments of cardiovascular function before and after space flight, and with and without the countermeasure. 
+<p>
+RESULTS:<br>
+All crewmembers from the first eight Space Shuttle flights were considered as the subjects of this investigation, for a total of 26 data sets from 24 individuals (two individuals flew twice). Of these subjects, 17 utilized the countermeasure and 9 did not. The space flights lasted from 54 hours to 192 hours, and flight length did not appear to correlate with the deconditioning parameters examined in this study. Crewmembers participated in the study on a voluntary basis. Those that did not take the countermeasure did not use other countermeasures for the Stand Test and were considered the control population. The astronauts using the countermeasure consumed fluid and salt according to personal preference. Some drank water while others preferred various on-board beverages, especially fruit juices. Salt tablets were taken as prescribed or less than directed but not in excess. As a result, the amount of fluid consumed ranged from 0.5 L of hypotonic solution to 1 L of isotonic solution. Occasionally, crewmembers who had used the countermeasure prior to reentry consumed additional fluids postflight before the Stand Test was performed. Because of this pattern of compliance, any attempt at volume loading with salt and fluids prior to reentry was considered a use of the countermeasure.
+<p>
+Preflight, both groups had mean supine heart rates of 57 bpm, which upon standing increased to 70 bpm in the control group and 71 bpm in the countermeasure group. These changes in heart rate were statistically significant (p<0.01), and the responses of the groups were essentially identical. Postflight, the control group's mean supine heart rate of 75 bpm was significantly elevated over the preflight supine value (p<0.01). Their mean postflight standing heart rate rose to 110 bpm, a significant increase over both their postflight supine (p<0.01) and preflight standing (p<0.01) values. In the group utilizing the countermeasure, the postflight mean supine heart rate of 64 bpm was only slightly elevated and increased (p<0.01) to 89 bpm with standing. The postflight heart rates were significantly lower in the group using the countermeasure than in the control group, in both the supine (p<0.05) and standing (p<0.01) positions.
+<p>
+The preflight response to assuming the upright posture was a 6 to 10 mm Hg rise in mean blood pressure. Postflight, the control group's mean blood pressure dropped 7 mm Hg when the astronaut assumed the standing position. In the group which utilized the countermeasure, the mean blood pressure rose 2 mm Hg when changing from supine to upright posture. In both the control and experimental groups, the supine mean blood pressure was significantly higher (p<0.05) postflight than preflight.
+<p>
+The Cardiovascular Index of Deconditioning (CID) was calculated for each crewmember.  For those who did not use the countermeasure, the average CID was 49.4 ± 9.6 S.D. For those crewmembers utilizing the countermeasure, the average ClD was 21.4 ± 15.9 S.D., a significantly (p<0.003) lower value than for the abstainers. Of the two crewmembers who had more than one Shuttle flight, one individual did not use the countermeasure either time; his CID values were 45 and 63. The other crewmember did not use the countermeasure on his first flight (CID = 46), but did use a partial countermeasure on his second flight (CID = 24).
+<p>
+Of the 26 crewmembers on the first eight Shuttle flights, one suffered an episode of outright postflight orthostatic syncope, and two had episodes of presyncope. None of these three individuals had utilized either the fluid loading or any other countermeasures for the Stand Test.
+<p>
+This experiment became a standard medical operating procedure beginning with the STS-51A flight.  The preflight and postflight echocardiogram was not included as part of the standard medical procedure.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 402</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bungo, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-4&#x27;], [&#x27;STS-41C&#x27;], [&#x27;STS-41D&#x27;], [&#x27;STS-5&#x27;], [&#x27;STS-6&#x27;], [&#x27;STS-7&#x27;], [&#x27;STS-8&#x27;], [&#x27;STS-9&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/d68x-x293</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/73d10bb4-b805-5bd5-bc52-149d8f9d1bd8?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/73d10bb4-b805-5bd5-bc52-149d8f9d1bd8?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subregional Assessment of Bone Loss in the Axial  Skeleton in Long-Term Space Flight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/9952f1c8-5a3b-54a8-896f-0b527a26e1e9?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>96-E343</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Subregional Assessment of Bone Loss in the Axial  Skeleton in Long-Term Space Flight</h1>
+        <div class="meta-id">Record ID: 96-E343</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/9952f1c8-5a3b-54a8-896f-0b527a26e1e9?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+As evidenced by Skylab and Mir missions, bone loss, which can increase the risk of fracture by weakening the skeleton, is an established medical risk in long-duration spaceflight.  Moreover, there is little information about the extent to which the lost bone is recovered after spaceflight.  Almost all of the measurements of bone loss and recovery have utilized an imaging technique called Dual X-Ray Absorptimetry (DXA).  DXA systems are specially calibrated x-ray devices which measure the mass of an entire bone (e.g., a hip or a vertebrae).  This approach has two limitations.  First, it computes the summed mass of a given bone and cannot look separately at the porous inner core of the bone (trabecular bone) and the outer sheath which surrounds the core (cortical bone).  Studies of osteoporosis and other bone diseases show that cortical and trabecular bone mass may underestimate the change in one of the components.  A second limitation is that DXA computes the bone mass over a large volume of bone.  If the loss of bone is localized in a small sub-region, the DXA image will detect a smaller change averaged over a large volume.  
+<P>
+With the addition of Quantitative Computed Tomography (QCT) and Quantitative Ultrasound (QUS) techniques, this study will provide the first information on spaceflight-related compartmental bone loss (magnitude and distribution) in the axial skeleton and on the extent to which lost bone is recovered in the year following return.  Furthermore, this study will have implications for the frequency of assignment to long duration missions and for the health of the astronauts in older age.  The results may also be of use in the design of exercise or pharmacological countermeasures to prevent bone loss.  
+<P>
+Comparison of QCT bone mineral density (hip and spine) between astronauts and healthy normal subjects will help to improve understanding of the prevalence of osteoporosis between different race and gender sub-groups.
+<P>
+The objective of the experiment is to determine the compartmental and sub-regional distribution of bone loss in the spine and hip in long-duration spaceflight and to assess how bone is recovered after return.  The extent to which the spaceflight-induced changes in bone distribution compare to the spread of bone mineral density (BMD) measures in healthy men and women and the validity of calcaneal Quantitative Ultrasound (QUS) will also be determined.
+<P>
+APPROACH:<br>
+In an earlier study, areal BMD (aBMD) measurements by DXA showed that cosmonauts making
+flights of 4- to 12-month duration on the Soviet/Russian MIR spacecraft lost bone at an average rate of 1% per month from the spine and 1.5% per month from the hip. However, because DXA measurements represent the sum of the cortical and trabecular compartments, there is no direct information on how these bone envelopes are affected by spaceflight. To address this, the investigators performed a study of 16 crewmembers (male and female, age range 40–55 years) on long-duration missions (4–6 months) on the International Space Station (ISS). DXA was used to
+obtain aBMD of the hip and spine and volumetric QCT (vQCT) to assess integral, cortical, and trabecular volumetric BMD (vBMD) in the hip and spine. In the heel, DXA was used to measure aBMD, and quantitative ultrasound (QUS)was used to measure speed of sound (SOS) and broadband ultrasound attenuation (BUA). 
+<P>
+These techniques can examine the trabecular and cortical bone separately and can determine whether the loss is localized in a small sub-region of the bone. Bone loss in the spine and hip was determined by comparing preflight and postflight QCT measurements.  Bone recovery was assessed by comparing QCT data taken immediately postflight and one year after return.  The QCT results were compared with Dual X-Ray Absorptiometry (DXA) and Quantitative Ultrasound (QUS) measurements taken at these time points. These measurements include DXA of the spine, hip, and heel and QUS of the heel.  Finally, to determine how the bone loss in space compares to the range of bone density values in a normal adult population, astronaut QCT measurements in the spine and hip were compared to measurements of 120 healthy normal control subjects consisting of healthy black and white males and females between ages of 35-45.
+<P>
+For the DXA measurements, the lumbar spine, hip and heel were scanned.  Following completion of the DXA scan, the subject underwent hip and spine QCT scans, followed by a QUS scan of the heel. DXA, QCT, and QUS scans were performed once preflight in the year before launch and two times postflight.  There were no inflight measurements taken.
+<P>
+RESULTS:<br>
+There was no compartment-specific loss of bone in the spine. Cortical bone mineral loss in the hip occurred primarily by endocortical thinning. aBMD was lost at rates of 0.9% per month at the spine (p<0.001) and 1.4–1.5% per month at the hip (p<0.001). Spinal integral vBMD was lost at a rate of 0.9% per month (p<0.001), and trabecular vBMD was lost at 0.7% per month (p<0.05). In contrast to earlier reports, these changes were generalized across the vertebrae and not focused in the posterior elements. In the hip, integral, cortical, and trabecular vBMD was lost at rates of
+1.2–1.5% per month (p<0.0001), 0.4–0.5% per month (p<0.01), and 2.2–2.7% per month (p<0.001), respectively. The cortical bone loss in the hip occurred primarily by cortical thinning. Calcaneal aBMD measurements by DXA showed smaller mean losses (0.4% per month) than hip or spine measurements, with SOS and BUA showing no change. In summary, the results show that ISS crewmembers, on average, experience substantial loss of both trabecular and cortical bone in the hip and somewhat smaller losses in the spine. These results do not support the use of calcaneal
+aBMD or QUS measurements as surrogate measures to estimate changes in the central skeleton.
+<P>
+Proximal femoral bone mass was substantially recovered in the year after spaceflight, but measures of vBMD and estimated bone strength showed only partial recovery. The recovery of BMC, in the absence of a comparable increase in vBMD, was explained by increases in bone volume and CSA during the year after spaceflight. The investigator concludes that adaptation of the proximal femur to reloading entailed an increase in bone size and an incomplete recovery of vBMD. The data indicate that recovery of skeletal density after long-duration space missions may exceed 1 year and supports the evidence in the aging literature for periosteal apposition as a compensatory response for bone loss. The extent to which this compensatory effect protects against fracture remains to be seen.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>96-E343</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lang, Thomas</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Expedition 5&#x27;], [&#x27;Expedition 6&#x27;], [&#x27;Expedition 7&#x27;], [&#x27;Expedition 8&#x27;], [&#x27;Expedition 2&#x27;], [&#x27;Expedition 3&#x27;], [&#x27;Expedition 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/9q8f-c177</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>96-HEDS-0/4/05-343</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/9952f1c8-5a3b-54a8-896f-0b527a26e1e9?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/9952f1c8-5a3b-54a8-896f-0b527a26e1e9?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

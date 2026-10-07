@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pulmonary Toxicity Studies of Lunar Dust in Mice and Rats - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/1445c80d-6b16-5710-97c2-d7ebe6a13f09?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Lunar_Dust_ITI</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Pulmonary Toxicity Studies of Lunar Dust in Mice and Rats</h1>
+        <div class="meta-id">Record ID: Lunar_Dust_ITI</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/1445c80d-6b16-5710-97c2-d7ebe6a13f09?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+NASA established the Lunar Airborne Dust Toxicity Advisory Group (LADTAG) to evaluate the risk of exposure to the dust and to establish safe exposure limits for astronauts working in the lunar habitat. Because the toxicity of lunar dust is not known, LADTAG has recommended investigating its toxicity in the lungs of laboratory animals. 
+<p>
+APPROACH:<br>
+After receiving this recommendation, NASA directed the JSC Toxicology Laboratory to determine the pulmonary toxicity of lunar dust in exposed rodents. The rodent pulmonary toxicity studies proposed here are the same as those proposed by the LADTAG. Studies of the pulmonary toxicity of a dust are generally done first in rodents by intratracheal instillation (ITI). This toxicity screening test is then followed by an inhalation study, which requires much more of the test dust and is labor intensive. We succeeded in completing an ITI study on JSC-1 lunar dust simulant in mice and are now proposing to do a study with Apollo lunar dust samples. This study will be similar to the study with the lunar dust simulant. <p>
+RESULTS:<br>
+Toxicological Assessment of Lunar Dust <br>
+To evaluate toxicity of dust particles in human lungs, studies are generally carried out in rodents. In a toxicity study conducted by the DuPont toxicology laboratory to assess five mineral dusts in in vitro lung cell cultures (epithelial cells and macrophages) and in rats, the investigators concluded that the effects of dusts in cell cultures do not correlate with the pulmonary toxicity observed in rats. Generally, pulmonary toxicity investigation is first done in rats or mice by an intratracheal or intrapharyngeal instillation (ITI / IPI). In an ITI / IPI study, a test dust is suspended in saline solution or another nontoxic medium, and is instilled into the upper respiratory tract of a rodent, where the instillant is aspirated directly into the lungs. Such a study allows comparative toxicity testing of the dust of unknown toxicity with reference dusts of known toxicities at several doses and several time points. Relatively small amounts of test dusts will be needed. However, dust administration by ITI / IPI is an unnatural exposure route, and an ITI/IPI study is normally followed by an inhalation study. 
+<p>
+In the ITI study in rats, a native (unground) and two ground lunar dust samples of respirable sizes, prepared by the geology team from the parent Apollo 14 regolith sample (14003,93), were tested simultaneously with two common reference dusts, TiO2 and crystalline silica (quartz). The pulmonary toxicities of these two reference dusts are well characterized: TiO2 is low in toxicity, whereas quartz is a fibrogenic dust that can produce a spectrum of lung lesions. The Occupational Safety and Health Administration (OSHA) and the American Conference of Governmental Industrial Hygienists have set occupational exposure limits on both dusts.
+<p>
+Toxicity of Lunar Dust Assessed in Rats Exposed by Intratracheal Instillation <br>
+If an irritative or toxic dust lands deep in the lung on the alveolar surface, it can irritate or injure the alveolar epithelial cells that line the alveolar surface. This will trigger the cells to produce cytokines or chemokines. Some of these cellular mediators (literally, SOS signals) reach the blood to recruit white blood cells (WBCs), while others induce dilation of capillary walls, making them porous and thus allowing the WBCs and serum proteins to enter the alveolar space. These events are similar to those observed in pulmonary infection. In an infection, the recruited WBCs, particularly the neutrophils, possess destructive oxidants that can kill the invading microorganisms. However, in the case of dust exposure, oxidants have no defensive roles. These harmful molecules could be released from the short-lived recruited WBCs, especially the neutrophils, when they die; the released oxidants can kill the lung cells and cause tissue injury. Injured or dead alveolar epithelial cells would release their cellular contents, including enzymes. The alveolar fluid can be obtained by lung lavage to assess these biomarkers (or indices) of toxicity. Persistent inflammation, characterized by continuous influx of neutrophils, can result in a spectrum of lesions, which can be revealed by microscopic examination of lung tissues. Investigators showed that all five of the respirable dusts they tested caused dose-dependent increases in levels of the biomarkers of toxicity that were assessed in bronchoalveolar lavage fluids and lesions in the lungs. The toxicity of lunar dust was moderate, greater than that of TiO2 but less than that of quartz. As pointed out above, the surface of lunar dust particles on the moon could be reactive. However, grinding lunar dust by zirconia ball mill, which increased surface reactivity of the dust as much as 14-fold, had no impact on its toxicity. Three lunar dusts, ground or not ground, were equally toxic. The comparative toxicity obtained in the ITI study in rats allows investigators to propose an exposure limit of airborne lunar dust for humans.
+<p>
+Toxicity of Lunar Dust Assessed in Rats Exposed by Inhalation <br>
+As pointed out above, an ITI study is generally followed by an inhalation study. The latter requires a greater amount of test dust and is technologically more difficult to perform. The results of the ITI study showed that the respirable lunar dusts isolated from ground (either by jet mill or ball mill) and unground lunar soil samples produced comparable pulmonary toxicity. Thus investigators concluded that the jet-milled lunar dust is a good surrogate for the unground parent sample. In the inhalation exposure study, they exposed rats to air only or to four different lunar dust (jet-milled) concentrations (roughly 2, 7, 20, and 60 mg/m3) for 4 weeks or 1 month (6 hours/day, 5 days/week). The rat lungs were assessed 1 day, 1 week, 4 weeks, and 13 weeks after the last inhalation exposure. Pulmonary toxicity was evaluated in a manner similar to that described above. The findings, that a dose of 7 mg/m3 produced no observable toxicity, allows investigators to propose exposure limits for different exposure durations.
+<p>
+Summary of the NASA Lunar Dust Toxicity Study <br>
+Humans will set foot on the moon again and be exposed to lunar dust, and information about the toxicity of lunar dust is essential for assessing the health risks of human exposure, setting permissible exposure limits, and designing appropriate dust decontamination systems for a lunar habitat or landing vehicle. The present studies were carried out to acquire toxicity information on airborne lunar dust for these purposes. The overall results from the rat studies showed that the toxicity of lunar dust was moderate, greater than that of TiO2 but less than that of quartz. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Lunar_Dust_ITI</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lam, Chiu-wing</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Toxicology, Pulmonary physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/csa1-1778</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/1445c80d-6b16-5710-97c2-d7ebe6a13f09?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/1445c80d-6b16-5710-97c2-d7ebe6a13f09?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

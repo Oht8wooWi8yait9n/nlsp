@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inflight Radiation Dose Distribution - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6ee1250d-8a5f-5fde-bbcd-5eac38a42e64?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 469</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Inflight Radiation Dose Distribution</h1>
+        <div class="meta-id">Record ID: DSO 469</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6ee1250d-8a5f-5fde-bbcd-5eac38a42e64?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Manned interplanetary space travel involves long periods away from the protective cover of the Earth's magnetosphere to the regions where there exists the possibility of serious biological injury from galactic cosmic rays (GCR) and energetic solar panicle events (SPE). For an SPE, the major concerns are acute effects arising from sudden exposure to very large radiation doses of solar protons. The severity of these effects can be reduced when adequate storm shelters are provided.  The high-energy heavy-ion transport code (HZETRN) developed at NASA Langley Research Center is a computationally efficient tool suitable for space mission shielding design use in the protection of crewmembers and microelectronics.
+<p>
+It has been known for some time that terrestrial surface features of the geomagnetic field experience a secular westward drift at a rate of about 0.3° longitude per year. A prominent surface feature of the magnetic field is a local intensity minimum, currently located in the southern Atlantic Ocean near the coast of Brazil. Since the Inner Van Allen Belt particle population is governed by the Earth's magnetic field, it approaches closest to the Earth at that location. The positions of the field minimum and the South Atlantic field and the trapped radiation, one should expect that the South Atlantic Anomaly (SAA) would also participate in some fashion in the secular drift of the magnetic field. Thus, a change of location of the SAA over a period of several decades should provide positive evidence for this process. It is important for this study to use data obtained from a quiet magnetosphere, since following a large magnetic storm a disturbed magnetosphere is known to form additional belts and may temporarily change the location of the Inner Belt. 
+<p>
+To study the secular drift of the anomaly, the investigators averaged the dose rate in all the passes through the SAA as a function of longitude and determined the center of the distribution by fitting it to a gaussian. Similarly, they created a set of "synthetic" passes through the SAA by calculating the dose rate as a function of longitude for the same orbit using the AP-8 Max proton flux model and the IGRF 1965 field, epoch 1970. The investigators chose to use the AP-8 model rather than any single observation of the SAA because this model represents the observational results of a multitude of satellites and thus statistically probably provides a better measure of the particle distribution than any arbitrarily chosen individual measurement. These passes were also averaged in the same manner.
+<p>
+The purpose of this joint NASA/DOD investigation was to establish, evaluate, and verify analytical and measurement methods for assessing and managing health risks from exposure to space radiation.
+<p>
+APPROACH:<br>
+A generalized analytic model was used to describe the energy deposition of direct ion interaction events in a micron-size detector. The transport calculation accounting for the Space Shuttle configuration was accomplished by using a new version of HZETRN that was extensively verified with laboratory and flight data.
+<p>
+During STS-31 the tissue equivalent proportional counter (TEPC) was located on the starboard bulkhead of the crew compartment. Consequently, with respect to the TEPC, the mass distribution of the spacecraft and the associated systems was quite anisotropic and the high energy proton flux had predominant access from the starboard side while from the opposite direction additional shielding set the energy cutoff at a higher value. Since the investigators had information on the spacecraft altitude with respect to the magnetic field, they chose three passes through the SAA during which the spacecraft sampled either predominantly westward or eastward directed proton fluxes. When comparing passes it is very important that the same region of the SAA is covered. Thus, the investigators chose two passes whose longitude-latitude traces were close though not identical during which the TEPC saw a predominantly westward flux and one pass which fell between the other two during which the TEPC measured predominantly an eastward flux.
+<p>
+The objectives of this experiment were accomplished using two hardware configurations.
+<p>
+Configuration 1 consisted of a Passive Proton Spectrometer, a TEPC system, Bonner Spheres, and Activation foils. Preflight, a  15-minute introduction to the equipment for the flight crew occurred followed by the installation of the loop fastener (Velcro Pile) to the middeeck right wall near DLOC #2 (MR85B) in the orbiter.
+<p>
+Within the first 4.5 hours after attaining orbit (FD1), a crewmember destowed the hardware. The deployments of elements on Velcro pads attached to the right wall near DLOC #2 (MR85B) occurred. The TEPC system was activated, noting mission elapsed time (MET). Near the conclusion of the flight, at any time after the completion of the last set of passes through the SAA, the TEPC was deactivated and the hardware restowed.
+<p>
+There weren’t any postflight requirements by the crewmembers. However, Bonner Spheres and foils were returned to the Johnson Space Center (JSC) within 24 hours of landing.
+<p>
+Configuration 2 consisted of a Charged Particle Spectrometer. Flights with an altitude of ~200 nmi were preferred. Preflight training involved a 30-minute introduction to the equipment for the flight crewmembers.
+<p>
+Within the first 4.5 hours after attaining orbit (FD1), the pre-routed DC power cable was connected to the utility outlet and to the spectrometer, the power to the spectrometer was turned on, and MET was recorded to the nearest second.  Prior to deorbit preparations, preferably after the completion of the last set of passes through the SAA, the instrument was deactivated and the DC power cable was disconnected and secured for landing.
+<p>
+There weren’t any postflight requirements by the crewmembers.  However, the data disks had to be returned to JSC within seven days of the landing.
+<p>
+RESULTS:<br>
+The lineal energy transfer (LET) spectrum of both the trapped and galactic cosmic radiation was measured using a TEPC. The overall physical dose is in fairly good agreement with measurements using thermoluminescent detectors in the least shielded location. A comparison of the trapped proton LET spectra from STS-31, STS-40, and STS-42 showed that shapes are rather similar. The measured galactic cosmic radiation LET spectra, however, yielded dose rates that were higher by 1.39 and quality factor lowered by 0.79 in model calculations. There were significant differences between the model calculated LET spectra and the observed spectrum.
+<p>
+<b>DSOs 31, 37, 40, and 48</b><br>
+The observations made both with the TEPC and proton and heavy ion detector telescope (PHIDE) show clearly that over the last 20 years a significant change has occurred in the location of the SAA.  The average position of the SAA has moved westward by about 6.7° in longitude over a period of the past 20 years. While the westward drift in itself does not change, it does affect the planning for astronaut extravehicular activities (EVAs). Operationally, EVAs are scheduled to avoid the SAA as much as possible. The data obtained on STS-31 also allows investigators to observe the east-west effect whose magnitude is in qualitative agreement with both old and recent observations.
+<p>
+The analysis of four shuttle flights which occurred between April 1990 and January 1992 preceding and following a large magnetic storm indicated that the location of the SAA in B-L space was at L = 1.3 and did not vary over that period. However, following the geomagnetic storm of March 24, 1991, the investigators clearly saw the emergence of a second radiation belt at L = 2 two and a half months later, and observed it moving to L = 1.8 six months after the storm. While it is reasonable to assume and independent evidence suggests that the second belt was produced during that storm, the investigators are unable to prove this because neither STS-31 nor STS-37 sampled the L = 2 drift shell. It is useful to point out that the second belt was detected not only by means of conventional particle detectors, but also through single event upsets (SEU) in proton sensitive devices.
+<p>
+<b>DSO 51 and 56</b><br>
+The predicted spectra and flight data are in good agreement for the range from 2 to 400 keV/µm to within 70% with the remaining region below2 keV/µm underpredicted. This trend is consistent for these two flights but with systematic differences in their flux level which suggests possible problems in the geomagnetic transmission function used. The underprediction below 2 keV/µm could be due to neglecting secondary pion, kaons, and electrons in the HZETRN. But the importance of the contributions from these secondaries can only be assessed after the indirect delta ray events are included in the TEPC response model.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 469</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Badhwar, Gautam</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-40&#x27;], [&#x27;STS-28&#x27;], [&#x27;STS-36&#x27;], [&#x27;STS-31&#x27;], [&#x27;STS-65&#x27;], [&#x27;STS-37&#x27;], [&#x27;STS-48&#x27;], [&#x27;STS-51&#x27;], [&#x27;STS-56&#x27;], [&#x27;STS-73&#x27;], [&#x27;STS-42&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/rmjp-9597</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Not applicable</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6ee1250d-8a5f-5fde-bbcd-5eac38a42e64?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6ee1250d-8a5f-5fde-bbcd-5eac38a42e64?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

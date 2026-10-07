@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Designing Individual Countermeasures to Reduce Sleep Disruption and Improve Performance and Alertness in Space - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/9d385125-4e3c-5904-9639-7332286edee9?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958HFP01603</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Designing Individual Countermeasures to Reduce Sleep Disruption and Improve Performance and Alertness in Space</h1>
+        <div class="meta-id">Record ID: NCC958HFP01603</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/9d385125-4e3c-5904-9639-7332286edee9?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Optimal levels of objective neurobehavioral performance, subjective alertness, and high-quality restorative sleep are critically important to astronaut and ground-based crew health and to the overall success of space missions. Neurobehavioral performance and alertness are affected by changes in circadian rhythms, homeostatic sleep/wake regulation, sleep inertia, and the interactions of these processes. Problems with sleep, circadian rhythms, and performance have been widely reported among astronauts and supporting ground crew. Therefore, it is imperative that work and sleep/wake schedules, including the timing of countermeasures such as light and naps, are designed to optimize individual performance, alertness, and sleep quality relative to operational requirements. Our approach is to use mathematical models to describe the underlying physiology of internal circadian timing, alertness, performance, and sleep to design effective countermeasures. 
+<p>
+The investigators developed and validated three linked mathematical models: one of the human circadian pacemaker that includes the influence of light and of non-photic processes; one of performance and alertness that includes the effects of circadian rhythms, sleep/wake homeostasis, and sleep inertia; and one of the physiology underlying sleep/wake regulation. Together these models estimate and predict the effects of sleep/wake timing, light exposure, circadian phase, and some pharmaceuticals on performance and alertness. Performance and alertness measures are modeled independently to reflect differences in the underlying physiological processes and effects of sleep/wake on each measure. CPSS, the software that implements this model, has been used by NASA employees and NASA consultants to design light countermeasures for both astronaut pre-launch schedules and in-flight schedules. 
+<p>
+Specific Aims:<br> (1) Replace the current assumption that an individual sleeps the entire time when scheduled to sleep with probabilities of sleep and wake during scheduled sleep times. <br> (2) Improve daily assessment of sleep and sleep disruption using actigraphy data.<br> (3) Add statistical features including confidence limits to the predictions.<br> (4) Update the software per astronaut and ground crew requests for specific features and reports. <br>
+<p>
+These projects addressed NASA's objectives to improve the design of individual countermeasures to reduce sleep disruption and improve performance and alertness in space and on Earth. As part of these overall goals, investigators published a novel scheduling algorithm called Shifter that automatically designs optimal light countermeasures for user-defined work and sleep schedules. Both experimental and field studies have shown that light interventions minimize fatigue while improving performance and sleep. This work required several mathematical and computational advances, including the development of a novel schedule representation and scheduling algorithm. The utility of this scheduling software extends beyond NASA-related schedules to include any operational setting that relies on work scheduled outside the typical 9am to 5pm shift, including night and rotating shift-work, transmeridian travel, and the design of work schedules for medical residents to improve performance and meet new national guidelines for restricted work hours. 
+<p>
+APPROACH:<br>
+The methodology for the study isn’t available.
+<p>
+RESULTS:<br>
+Specific Aim 1 (predicting sleep/wake amounts within a scheduled sleep episode): Investigators have integrated the existing circadian/performance model with a physiologically-based model of sleep/wake transitions. This integrated model can predict whether individuals are able to conform to enforced work schedules and include estimates for the likelihood of insomnia during scheduled sleep periods or the likelihood that the individual will experience difficulty remaining awake during working hours. They have validated this integrated model against human data for caffeine and melatonin and they have related inter-individual differences in sleep timing (e.g., self-reported chronotype) to differences in the underlying physiology. 
+<p>
+Specific Aim 2 (actigraphy): Investigators have integrated the output from actigraphy software with the input required to run their Circadian Performance Simulation Software (CPSS). CPSS implements thei mathematical model of the human circadian pacemaker, performance, and alertness, which includes the key processes of circadian rhythms, sleep/wake homeostasis, and sleep inertia on performance and alertness, as well as the effects of light on circadian rhythms. Pre-processing tools were developed to generate the sleep/wake schedule and light levels from either raw or processed actigraphy data. Inestigators have tested the ability to use outpatient actigraphy as input to CPSS to predict circadian phase for individuals under circadian entrained and phase-shift conditions. 
+<p>
+Specific Aim 3 (Statistical modeling of individual circadian, sleep, performance, and alertness parameters): Investigators have concentrated on statistical modeling of individual parameters of their circadian, performance, and alertness models. By fitting the model to individual data, rather than group averages, they obtain a set of parameters for the performance and alertness models that are unique to each individual. They can then use other data collected from the individual, such as age, sex, habitual sleep time, morningness/eveningness preference, to determine correlations between model parameters and individual characteristics. 
+<p>
+Specific Aim 4 (Work with NASA and NSBRI personnel to revise features of their current software to meet their specifications for administratively scheduling sleep, wake, and countermeasure design to minimize fatigue and performance issues): Investigators have had discussions with NASA and NSBRI personnel to revise features of their current software to meet their specifications for administratively scheduling sleep, wake, and countermeasure design to minimize fatigue and performance issues, as well as incorporating the models into other modeling work performed by NASA. Investigators also developed a novel scheduling algorithm that automatically designs optimal light countermeasures for user-defined schedules. The scheduling framework is applicable to other work schedules including shift-work and transmeridian travel. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958HFP01603</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Klerman, Elizabeth</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/fqf6-2d60</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2007 Crew Health NNJ07ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/9d385125-4e3c-5904-9639-7332286edee9?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/9d385125-4e3c-5904-9639-7332286edee9?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

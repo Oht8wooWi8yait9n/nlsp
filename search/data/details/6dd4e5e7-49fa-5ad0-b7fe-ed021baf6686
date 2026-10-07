@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Integrated Regulation of Bone and Muscle Metabolism by Simulated Microgravity - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6dd4e5e7-49fa-5ad0-b7fe-ed021baf6686?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958MA02802</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Integrated Regulation of Bone and Muscle Metabolism by Simulated Microgravity</h1>
+        <div class="meta-id">Record ID: NCC958MA02802</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6dd4e5e7-49fa-5ad0-b7fe-ed021baf6686?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+On the ground, associated bone and muscle loss are frequently experienced by individuals confined to bed for long durations, whether a result of neurological injury, trauma, or neuromuscular disease (e.g., cerebral palsy, muscular dystrophy). In these patients, and in healthy patients subjected to extended bed rest, a significant loss of muscle and bone occurs. In the case of recoverable disease, or when ambulation is still possible, this leaves patients at risk for falls and catastrophic fracture. Understanding the interdependence of muscle and bone loss during space flight, and the development of countermeasure strategies, will provide a framework for the development of preventative treatments for astronauts and the clinical population, especially those suffering from osteopenia and sarcopenia. 
+<p>
+The long-term goal of this investigation was to understand the structural and functional relationship between muscle atrophy (i.e., sarcopenia) and bone loss (i.e., osteopenia) which occurs as a result of extended exposure to the space light environment. The specific objectives of this study were to: 1) Examine the time course for structural, functional, and molecular changes occurring in muscle and bone in response to mechanical unloading; 2) Examine the effect of inhibiting, or exaggerating, unloading-induced muscle loss on unloading-induced bone loss; 3) Examine the effect of inhibiting, or exaggerating, unloading-induced bone loss on unloading-induced muscle loss, and 4) Evaluate potential therapeutic strategies for prevention of muscle and bone loss during unloading.
+<p>
+APPROACH:<br>
+Hindlimb suspension (HLS), a well-established in vivo model of simulated microgravity unloading, was used. Understanding how these two systems respond to simulated microgravity allowed the team to recommend specific therapeutic strategies and countermeasures that target muscle and bone as an integrated unit and respect their inherent interdependency.
+<p>
+RESULTS:<br>
+Four-month-old male C57BL/6J mice subjected to HLS for 3 weeks displayed a 7-9% decrease in lean mass versus control from days 7-21. Gastrocnemius (gastroc) mass decreased 8% by day 7, and was maximally decreased 16% by day 14 of HLS. Quadriceps (quad) lost a similar amount by day 14. Control muscle mass did not change with age. Quantification of Messenger RNA (mRNA) for the ubiquitin-E3 ligases Atrogin-1 and MuRF-1 revealed that Atrogin-1 mRNA levels in the gastroc and quad increased 99% and 122%, respectively, at day 7 of HLS. Similar increases in Murf-1 mRNA levels were noted at day 7. Both atrogenes returned to baseline by day 14. Protein synthesis in gastroc and quad was reduced 30% from days 7-14 of HLS, returning to baseline by day 21. Cortical thickness and area fraction of the femur and tibia did not decrease until day 14 of HLS. Cortical bone of controls did not change with age. HLS mice had lower distal femur trabecular bone volume/total volume (-22%) and trabecular thickness (-15%) by day 14; however, the effects of HLS were often eliminated by day 21 due to the decline of trabecular bone mass of controls. Femur strength was decreased approximately 13% by day 14 of HLS. These results suggest that muscle atrophy precedes bone loss during unloading and may contribute to subsequent skeletal deficits. 
+<p>
+Sclerostin, encoded by the Sost gene, is a negative regulator of bone growth and Sost knockout (KO) mice are resistant to HLS-induced bone loss. Four-month-old male C57BL/6J mice globally deficient in Sost (Sost KO) and wild type (WT) controls were exposed to HLS or maintained in control cages for two weeks. Sost KO mice displayed greater bone volume relative to WT at baseline. Sost KO mice, relative to WT controls, displayed reduced loss of trabecular bone volume/total volume, trabecular thickness, and trabecular number after HLS. HLS resulted in a similar loss of gastroc and quad muscle mass (14-18%) in Sost KO and WT mice. 
+<p>
+In a third study, investigators examined the hypothesis that exaggerating unloading-induced muscle loss via HLS + casting also exaggerates unloading-induced bone loss. Twenty 5-month-old male C57BL/6J mice were exposed to HLS with one limb unrestrained and one limb casted (HLS+Cast), or maintained as ground control (GC) for two weeks. Trabecular bone volume/total volume decreased in HLS and HLS+Cast limbs compared to controls, but there was no difference between HLS and HLS+Cast. There was no difference between any groups for trabecular number, thickness, or spacing. Gastroc and quad weight decreased 10% in HLS limbs and 20% in HLS+Cast compared to GC. Protein synthesis was decreased in HLS and HLS+Cast compared to GC; however, HLS+Cast had a 15% increase in protein synthesis compared to HLS. Measurements of mammalian target of rapamycin (mTOR) signaling (S6K1 and 4E-BP1 phosphorylation) correlated with protein synthesis measurements. There was no difference in Atrogin-1 or muscle RING-finger protein-1 (MuRF-1) mRNA between any groups. There was, however, an increase in autophagy associated proteins LC3-II/I, Atg7, and Atg5-12 in the HLS+Cast limb compared to both HLS and GC.
+<p>
+Results suggest that muscle atrophy precedes bone loss during unloading and may contribute to subsequent skeletal deficits. Furthermore, protecting bone from HLS-induced bone loss via Sost deficiency did not protect against HLS-induced muscle. Additionally, casting exacerbates unloading-induced muscle loss via activation of the autophagy degradation pathway. Surprisingly, casting did not cause an exacerbation of bone loss. Taken together, the results suggest that HLS-induced muscle loss occurs before HLS-induced bone loss and that sarcopenia is not necessarily coupled to osteopenia. These findings should be considered when developing countermeasures for microgravity induced bone and muscle loss.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958MA02802</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Donahue, Henry</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology, Muscle physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mice (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ctbg-7330</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2011 Crew Health NNJ11ZSA002NA</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6dd4e5e7-49fa-5ad0-b7fe-ed021baf6686?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6dd4e5e7-49fa-5ad0-b7fe-ed021baf6686?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

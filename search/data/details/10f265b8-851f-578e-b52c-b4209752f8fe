@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space Flight and Immune Function - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/10f265b8-851f-578e-b52c-b4209752f8fe?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 498</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Space Flight and Immune Function</h1>
+        <div class="meta-id">Record ID: DSO 498</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/10f265b8-851f-578e-b52c-b4209752f8fe?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <br>OBJECTIVES:<br>
+As astronauts work and live in crowded and confined conditions on board spacecraft for longer periods of time, the risk of infectious disease increases.  They experience a unique set of stressors that contribute to a diminishment of many immune responses.  Exploration class human space flight missions will require astronauts with robust immune systems. Innate immunity will be an essential element for the healthcare maintenance of astronauts during these lengthy expeditions. This investigation was designed to determine the functional status of important elements of the immune response, and will provide valuable data to help in the assessment of infectious disease risks associated with long-duration space flight.  
+<P>
+Astronauts live and work in relatively crowded, confined environments on the Space Shuttle. They experience a unique set of stressors that contribute to a diminishment of many immune responses. Exploration class human space flight missions will require astronauts with robust immune systems. Innate immunity will be an essential element for the healthcare maintenance of astronauts during these lengthy expeditions. The investigators studied the innate arm of immunity.  Specifically, the natural-killer (NK)-cells, neutrophils, and monocytes were identified to be studied. The goal was to measure the cellular functions of these three immune cells. 
+<P>
+This study will complement ongoing and previous investigations in space immunology.  The hypothesis being tested for this experiment is that essential functions of neutrophils, monocytes, and cytotoxic cells (lymphokine-activated (LAK) and natural killer (NK) cells) will be altered during space flight.  
+<P>
+The specific aims were 1) Conduct functional analysis of neutrophils and monocytes before and after space flight and 2) Assess cytotoxic cells and cytokine production before and after space flight<p>
+APPROACH:<br>
+To understand the effects of space flight on innate immunity, a 10 ml blood specimen and a 10 ml urine specimen were collected during the astronaut's physical examination at 10 days prior to launch (L-10), at landing (R+0), R+15, and at the crewmember's annual medical exam (AME).  The samples collected at the AME served as a low-stress baseline and were collected either preflight or postflight, whichever was furthest from the participant's mission.  
+<p>
+<i>Neutrophils:</i> Changes in leukocyte subpopulations and function after space flight have been observed but the mechanisms underlying these changes are not well defined. This first study of 16 astronauts from three shuttle flights investigated the effects of short-term spaceflight (8 –14 days) on circulating leukocyte subsets, stress hormones, immunoglobulin levels, and neutrophil function.
+<p>
+A second study investigated neutrophil phagocytosis, oxidative burst, and degranulation of 25 astronauts after four space shuttle missions and in nine healthy control subjects. Space flight duration ranged from five to eleven days. Blood specimens were obtained 10 days before launch, immediately after landing, and three days after landing.
+<P>
+<i>Monocytes:</i>  The study included four space shuttle missions and 25 astronauts.  Nine non-astronauts served as controls. Blood specimens were collected 10 days before launch, within three hours after landing, and again three days after landing.
+<p>
+This study also investigated the ability of the shuttle crewmembers’ monocytes to respond to Gram-negative endotoxin that they could encounter during infections. Blood specimens were collected from 20 crew members and 15 control subjects 10 days before launch, three to four hours after landing, and 15 days after landing and from crewmembers during their annual medical examination (AME) at six to twelve months after landing.
+<p>
+<i>NK-cells:</i>  Cytotoxic activity of non-major histocompatibility complex-restricted (CD561) (NMHC) killer cells and cell surface marker expression of peripheral blood mononuclear cells were determined before and after space flight. Ten astronauts (nine males, one female) from two space shuttle missions (nine- and 10-day duration) participated in the study. Blood samples were collected 10 days before launch, within three hours after landing, and three days after landing. All peripheral blood mononuclear cell preparations were cryopreserved and analyzed simultaneously in a four-hour cytotoxicity 51Cr release assay using K562 target cells. NMHC killer cell lytic activity was normalized per 1,000 CD561 cells.
+<P>
+RESULTS:<br>
+<i>Neutrophils:</i>
+<p>
+At landing, a 1.5-fold increase in neutrophils was observed compared with preflight values; lymphocytes were slightly decreased, whereas the results were variable for monocytes. The magnitude of increase in neutrophils varied across individual studies, but a significant increase in neutrophils following space flight was a very consistent finding. Even though neutrophil bands were observed in nine of sixteen astronauts, demargination of neutrophils from the vascular was thought to be the major contributor to the very consistent finding of increased circulating neutrophils following space flight.
+<p>
+A second study found the number of neutrophils increased by 85% at landing compared to preflight levels. The mean values for phagocytosis of Escherichia coli and oxidative burst capacity in neutrophils from astronauts on the five-day mission were not significantly different from those observed in neutrophils from the control subjects. Before and after nine- to eleven-day missions, however, phagocytosis and oxidative burst capacities were significantly lower than control mean values. No consistent changes in degranulation or expression of surface markers were observed before or after any of the space missions. This study indicates that neutrophil phagocytic and oxidative functions are affected by factors associated with space flight and this relationship may depend on mission duration.
+<p>
+<i>Monocytes:</i>  
+<p>
+The number of monocytes did not differ significantly over the interval sampled in both the astronaut or control groups. However, following five to eleven days of space flight, the astronauts’ monocytes exhibited reductions in ability to engulf <i>Escherichia coli</i>, elicit an oxidative burst, and degranulate. The phagocytic index was significantly reduced following space flight when compared to control values.
+<p>
+When challenged with Gram-negative endotoxin, the crewmember’s monocytes collected at all three time points produced lower levels of interleukin-6 (and IL-1 and higher levels of IL-1ra and IL-8 compared to those of control subjects.  There were also increased levels of the lipopolysaccharide binding protein in the plasma of the crewmembers three to four hours and 15 days after landing. This study shows that space flight-associated factors (in-flight and preflight) modulate the response of monocytes to Gram-negative endotoxins.
+<p>
+<i>NK-cells:</i>  
+<p>
+When all 10 subjects were considered as one study group, NMHC killer cell numbers did not change significantly during the three sampling periods, but at landing lytic activity had decreased by 40% from preflight values. Nine of ten astronauts had decreased lytic activity immediately after flight. NMHC killer cell cytotoxicity of only three astronauts returned toward preflight values by three days after landing. No correlation of changes in NMHC killer cell function or hormone levels with factors such as age, gender, mission, or space flight experience was found.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 498</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Pierson, Duane</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-121&#x27;], [&#x27;STS-95&#x27;], [&#x27;STS-96&#x27;], [&#x27;STS-93&#x27;], [&#x27;STS-103&#x27;], [&#x27;STS-101&#x27;], [&#x27;STS-106&#x27;], [&#x27;STS-92&#x27;], [&#x27;STS-97&#x27;], [&#x27;STS-98&#x27;], [&#x27;STS-102&#x27;], [&#x27;STS-100&#x27;], [&#x27;STS-104&#x27;], [&#x27;STS-105&#x27;], [&#x27;STS-108&#x27;], [&#x27;STS-109&#x27;], [&#x27;STS-110&#x27;], [&#x27;STS-111&#x27;], [&#x27;STS-112&#x27;], [&#x27;STS-113&#x27;], [&#x27;STS-114&#x27;], [&#x27;STS-116&#x27;], [&#x27;STS-115&#x27;], [&#x27;STS-99&#x27;], [&#x27;STS-117&#x27;], [&#x27;STS-118&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/x76y-9z85</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>96-OLMSA-01A</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/10f265b8-851f-578e-b52c-b4209752f8fe?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/10f265b8-851f-578e-b52c-b4209752f8fe?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

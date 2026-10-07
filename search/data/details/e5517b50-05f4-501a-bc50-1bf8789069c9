@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artificial Gravity and Light as Countermeasures for Circadian Dysfunction in Altered Gravity Environments - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e5517b50-05f4-501a-bc50-1bf8789069c9?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNJ04HF44G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Artificial Gravity and Light as Countermeasures for Circadian Dysfunction in Altered Gravity Environments</h1>
+        <div class="meta-id">Record ID: NNJ04HF44G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e5517b50-05f4-501a-bc50-1bf8789069c9?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+This study will characterize disturbances of sleep in rhesus monkeys. The rhesus is a well established model for human physiology in many disciplines and is showing promise as a model of human sleep disturbances. This study will directly relate to issues of sleep and circadian rhythm disturbance as a result of occupational factors such as shift work or other irregular schedules and jet lag.
+<p>
+The Circadian Timing System (CTS) is an important temporal organizer controlling both the physiology and behavior of organisms. The CTS has been shown to be sensitive to altered force environments (AFE) in both the microgravity of space flight and in hypergravity produced by centrifugation. Evidence from several species shows that AFE produces changes in the period of the circadian clock (tau). Evidence from rodents also shows that AFE can phase-shift and synchronize the circadian pacemaker. Further, sensitivity to light exposure, the most potent synchronizer of the CTS, appears to be impaired in AFE, as shown by both molecular and physiological evidence. Thus, circadian regulation in AFE may result from interactions of G and light inputs to the CTS. It is important to understand how AFE alters the CTS response to light exposure to ensure that countermeasures for CTS dysfunction such as timed bright light are equally effective in AFE. 
+<P>
+APPROACH:<BR>
+The investigators used AFE produced by centrifugation to determine if the phase-shifting responses to light were impaired in AFE. Countermeasures for circadian dysfunction may differ from those suitable at 1G. They tested a light countermeasure for circadian dysfunction, with defined spectral content, duration and schedule, to determine how its efficacy was affected by AFE. Timed AFE exposure by centrifugation is a proposed countermeasure for changes in cardiovascular, skeletal, muscle and other systems in space flight. Pulses of AFE, however, can entrain and phase shift the CTS in rats, which possess similarities in CTS inputs to rhesus and humans. Of concern is that the use of a timed AFE countermeasure could potentially compromise CTS function, or even conflict with circadian countermeasures, by inappropriately phase-shifting the CTS. It is important to understand how acute AFE exposure at different times of day alters circadian phase and period in a diurnal primate. Impaired phase shifting by light would impact adjustment to new schedules as well as entrainment to either 24-hour or non-24-hour days. Conversely, if AFE is capable of phase shifting or entraining the primate CTS, AFE could also serve as a countermeasure for circadian dysfunction.
+<p>
+RESULTS:<BR>
+This research program has made significant progress in examination of the mechanisms underlying the response of the CTS of primates to altered gravity. The investigators initiated new studies on the interaction of altered gravity and light sensitivity on the CTS. They have examined changes in circadian rhythms, sleep and performance to controlled lighting environments, with and without the perturbation of hypergravity produced by centrifugation. Several improvements have been made to the telemetry system and to the centrifuge housing and data collection system. In addition they have collaborated on a revision of the Psychomotor Test System for performance metrics, which also serves as enrichment by providing an operant task to the animals. In studies of blue light as a potential circadian countermeasure the investigators have seen that the effects of blue light on sleep and alerting depend on the time of day of presentation. They used non-24-hour light dark cycles of alternating 3-hour light and 3-hour dark periods (LD and DL 3:3) to present light and dark at all times of the 24-hour day. Increased sleep was seen following blue light presentation during the day and a phase-dependent alerting effect was seen following blue light exposure early in the subjective night. Blue light was tested as a substitute for white light in a conventional 24-hour day of 12-hour light and 12-hour dark (LD 12:12) to provide a worst-case test of augmented blue wavelengths, known to have the maximum effect on circadian timing. In this study, total sleep time and individual sleep stages did not differ significantly in blue light with the exception of increased rapid eye movement (REM) sleep. However, phase advances in sleep and brain temperature rhythms were seen in blue light, indicating phase re-alignment (advance) during the 24-hour day. Investigators have completed a renovation of their centrifuge facility for suitability with larger rhesus and can now evaluate how these changes interact with those induced by an altered gravitational field. 
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNJ04HF44G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Fuller, Charles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance, Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Monkey (Macaca mulatta) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/q540-r774</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NRA-03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e5517b50-05f4-501a-bc50-1bf8789069c9?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e5517b50-05f4-501a-bc50-1bf8789069c9?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

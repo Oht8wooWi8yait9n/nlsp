@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ASTP - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000106?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>ASTP</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>ASTP</h1>
+        <div class="meta-id">Record ID: ASTP</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000106?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Apollo-Soyuz mission was the first manned space flight conducted jointly by two nations.  Astronauts on this mission were Commander Thomas P. Stafford,  Command Module Pilot Vance D. Brand, and Docking Module Pilot Donald K. Slayton. The mission started with the Russian Soyuz launch on July 15, 1975, followed by the U.S. Apollo launch on the same day.  Docking in space of the two craft occurred on July 17, and joint operations were conducted for two full days.  Both spacecraft landed safely and on schedule; the Soyuz landed in the U.S.S.R. on July 21 and Apollo landed near Hawaii on July 24.  The United States and the U.S.S.R. achieved a substantial degree of success in (1) obtaining flight experience for rendezvous and docking of manned spacecraft and developing a docking system that would be suitable for use as standard international system, (2) demonstrating inflight intervehicular crew transfer, and (3) conducting a series of science and applications experiments.  Twenty-eight science investigations in the fields of Earth resources, Earth gravity, Earth atmosphere, astronomy, solar science, life sciences and space processing were conducted during the mission.<P>During reentry, the American crew was accidentally exposed to nitrogen tetroxide gas. The potentially harmful nitrogen tetroxide gas resulted from inadvertent reaction control system (RCS) firings and entered the command module through the cabin pressure relief valve, which was opened during landing.  As a therapeutic measure, the crew was given 100% oxygen for 15 to 20 minutes aboard the recovery vessel.  All crewmen complained of chest tightness, coughing, a burning sensation when breathing and an inability to inhale deeply, but made a full recovery from the gas exposure.  The therapy given to the crew potentially affected two life sciences experiments that were conducted by preflight and postflight blood sampling and analysis.  Despite this impact, scientifically useful results were obtained in these experiments.<P>Seven life sciences experiments were conducted during the Apollo-Soyuz flight.  Three experiments examined particle radiation effects on living cells, three experiments examined the effects of space flight on the human immune system, and one examined the vestibular system of killifish.  More specifically, the effects of cosmic particles on living cells were examined by the observation of the light flash phenomenon that occurs to astronauts during different orbital orientations.  The Biostack III German experiment extended the studies of previous flights on the effects of highly charged and energetic (HZE) particles on biological organisms by evaluating the growth and development of plant seeds and animal eggs that were contained in the biostack.  The zone-forming fungi experiment, a joint U.S. and U.S.S.R. experiment, was an attempt to observe the real-time mutations caused by HZE particle exposure that might occur in a ring of growing fungal cells. <P>Microbial exchange of marker microorganisms between cosmonauts and astronauts, another joint U.S. and U.S.S.R. experiment, was examined to determine the level of cross-contamination as a way to understand the balance between the immune system and infectious microorganisms in the space environment.  In addition, preflight and postflight blood samples were taken from astronauts to examine in vitro lymphocyte and polymorphonuclear leukocytes response as indicators of cellular immune function. <P>The swimming behavior of the killifish was filmed during various stages of the mission to understand how microgravity effects hatchlings.  Killifish hatching and orientation was observed to determine the function and development of the vestibular system and calcium metabolism as it related to otolith development. <P>The material processing experiments conducted on the Apollo-Soyuz Test Flight consisted of 11 experiments, two of which were biological processing and nine of which were considered solid materials processing.  The biological materials processing experiments consisted of separating a mixture of biological cells by gel electrophoresis to observe how cells separate without the limitations of sedimentation and thermal convection that normally occur during electrophoresis on the ground.  The materials processing experiments were divided into two groups, namely high-temperature and low-temperature processing.  The high temperature processing included the melting and solidifying of seven sets of material samples in an electric furnace.  The low temperature processing consisted of one experiment that attempted to grow crystals in water at ambient temperatures. <P>The space sciences experiments that were conducted on the Apollo-Soyuz mission included five astronomy and five Earth studies investigations.  The astronomy experiments ranged from soft x-ray observations which focus on objects deep in the galaxy to the crystal activation experiments which had implications for the application of crystal detectors in gamma-ray astronomy.  The Earth studies included the ultraviolet absorption experiment which investigated the atomic composition of the upper atmosphere to the study of the Earth's subsurface structure by means of two variations of gravity-field measurements.  In addition, the Earth observation and photography experiment examined the surface of the Earth and its land and water regions. <END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>ASTP</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Apollo-Soyuz Test Project (ASTP)</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1975</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>9</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Human, Rat, Rabbit, Horse</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000106?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000106?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

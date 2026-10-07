@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Risk Assessment of Space Radiation-Enhanced Colon Tumorigenesis - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6d0bf5f2-d07d-586e-b668-3990323064eb?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX08BA54G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Risk Assessment of Space Radiation-Enhanced Colon Tumorigenesis</h1>
+        <div class="meta-id">Record ID: NNX08BA54G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6d0bf5f2-d07d-586e-b668-3990323064eb?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This proposal addressed the Carcinogenesis category of the Bioastronautics Roadmap by investigating carcinogenic risk of human colonic cells and tissues after low and high LET radiation exposure. The colon is a major target for the carcinogenic effects of radiation. Aberrant crypt foci are an early precursor lesion for colorectal cancer (CRC) that is characterized by trisomy 7 (present in 37% of adenomas and 80% of adenocarcinomas). The appearance of the adenomatous polyp becomes more prevalent with increased age (10% incidence at age 40 and >25% by age 60). Pre-cancerous lesions may already exist or develop in astronauts going on long-term missions, the result of which would be an increased risk for cancer development through exposure to space radiation. The key objective was to determine the probabilities for increased colonic carcinogenesis from space radiation as a result of radiation dose, quality, and dose rate. Investigators planned to expose 2D and 3D human colonic cells and human colonic biopsies to energetic protons (H), high Z and energy particles (HZE), and x-rays and analyze results using both biological assays and genome-wide systems approaches. They are comparing these results to a novel immortalized human trisomy 7 colonic epithelial cell line and will model carcinogenic risk of these cells compared to normal and immortalized diploid colonic cells. They have also initiated a small molecule screen to identify nontoxic compounds that may inhibit the trisomy 7 cells but not the normal diploid. They have also examined DNA damage sensing, signaling, and repair kinetics in normal and trisomy 7 human colonic cell lines. Finally, they have obtained a substantial amount of information about a novel oral bioavailable compound CDDO-Me (bardoxolone methyl, RTA 402) and have determined it is an effective and nontoxic countermeasure for protecting normal colonic cells from the detrimental effects of low and high LET irradiation. As part of a new project we are extending these countermeasure studies to mouse models. This research should improve the mechanistic understanding for the variability of radiation dose, quality, and dose-rate dependencies for colon cancer development and provide biological markers for modeling and risk assessment.
+<P>
+APPROACH:<br>
+The methodology is embedded in the results below.
+<p>
+RESULTS:<br>
+Summary of findings:<br>
+1. DNA damage in human colonic epithelial cells is more difficult to repair when caused by iron particles compared to protons and gamma rays. <br>
+2. Iron damage persists longer in both 2D and 3D human colonic epithelial cell cultures compared to protons and gamma rays. <br>
+3. Epithelial cells in intact human colonic tissues display more damage foci than surrounding stromal cells after both high and low LET radiations. All cells in intact colonic tissues are exposed to the same radiation dosage and are likely experiencing equal amounts of DNA double strand breaks, but location in the cell cycle may explain why the replicating epithelial cells show more pronounced DNA damage response compared to quiescent stromal cells. <br>
+4. Additional cells from another patient have been established and characterized. Investigators have an immortalized normal diploid cell line and one that is immortalized with one chromosomal change (trisomy 7). Trisomy 7 is present in about 65% of all colonic adenoma and adenocarcinomas. They have now progressed these cells partially toward tumorigenicity by reducing p53 expression (shRNA to p53), overexpressing K-ras and c- myc and expressing a truncated APC. <br>
+5. Investigators have demonstrated and published the ability to differentiate the immortalized human colonic epithelial cell lines. They showed that their human colonic epithelial cells express several gastrointestinal putative stem cell markers including CD44, CD29, BMI-1, and LGR5. This indicates that our normal diploid hTERT immortalized human colonic epithelial cells can make similar 3D differentiated structures as do primary cells from mouse small intestine. The cells are clonal, can divide long-term (are immortalized), and single cells divide to generate self-organizing structures with several differentiated cell types and architecture of crypts present in adults in the absence of a cellular niche. The cells demonstrate polarized villin staining, junction formation (ZO-1), a subset of cells express Muc2 similarly to the staining of mouse small intestinal cells, and some even express chromogranin A (a neuroendocrine marker). This also helps demonstrate that we are culturing human colonic epithelial stem cells. <br>
+6. Investigators have also passaged the cells with trisomy 7 (contain hTERT, cdk4, shRNAp53 and mutant K-ras) and observed that a subclone of these cells contain a trisomy 20 (also very common in human colon cancer). While these cells make large colonies and grow anchorage independent in soft agar they do not make tumors in nude mice. They have now expressed c-myc in these cells and these also do not make tumors. They have also introduced a key mutant version of APC into these cells. These isogenic partially progressed cell lines are extremely useful for radiation experiments to determine biological steps in cancer progression. Importantly, our results demonstrate that it requires multiple independent changes in a single cell in order to progress a normal human colonic epithelial cells into a fully malignant (lethal) cancer cell. This suggests that the exposure to the type and doses likely to be experienced by astronauts on a long-term mission into space are less likely to have a major impact on lethal cancer formation. However, more research needs to be done to confirm this speculation. 
+<br>
+7. Biological countermeasure experiments. Investigators have conducted a significant number of experiments with methyl-2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oate (BARD, also termed RTA-402, or CDDO-Me). BARD is an Nrf2 mediated phase II enzyme activator with a well understood molecular mechanism of action. Importantly, BARD is a completely synthetic compound that is nontoxic and orally available. In two completed Phase II clinical trials BARD taken orally once-daily not only mimics the body's natural mechanism for resolving inflammation but also reduces the risk of death in patients with stage 3 chronic kidney disease. While anti-oxidant inflammation modulators (AIMs) such as BARD would be expected to provide risk reduction for low-LET radiation, it is much less certain if AIMs would be effective in protecting against high-LET irradiation. In our research, we have documented that BARD is an effective biological countermeasure by reducing high-LET irradiation associated human epithelial cell transformation. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX08BA54G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Shay, Jerry</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Cells, human</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/qbec-bh71</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2008 Space Radiobiology</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6d0bf5f2-d07d-586e-b668-3990323064eb?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6d0bf5f2-d07d-586e-b668-3990323064eb?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

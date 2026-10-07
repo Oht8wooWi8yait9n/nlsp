@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virtual Reality Training: Cybersickness and Effects on Sensorimotor Functions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/bdc6b5d1-8993-590d-be22-21a53d3e4c59?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>BRC04-JSC02</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Virtual Reality Training: Cybersickness and Effects on Sensorimotor Functions</h1>
+        <div class="meta-id">Record ID: BRC04-JSC02</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/bdc6b5d1-8993-590d-be22-21a53d3e4c59?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The overall goal of this research was to examine the extent to which "immersion" in virtual reality (VR) systems produces motion sickness and disrupts perceptual and sensorimotor functions that may ultimately result in negative impacts on performance of operational activities.
+<p>
+Though often brilliantly engineered, two critical and unresolved human factors issues in VR systems are: 1) potential for "cybersickness", a form of space motion sickness, which is experienced in virtual worlds, and 2) maladaptive sensorimotor responses following virtual environment (VE) training. Although, numerous studies show motion sickness and disturbances in sensorimotor functions following flight simulator training, during and following space flight, similar research concerning the aftereffects of VR training is only beginning to appear in literature. The plasticity of the human central nervous system makes it likely that users will eventually adapt to any unpleasant perceptual experiences in a virtual environment. However, the most critical problem for training applications is that behaviors learned in the VE may not be similar to the responses required in the real environment, potentially resulting in the acquisition of inappropriate perceptual-motor behaviors.</p>
+<p>
+APPROACH:<br>
+The purpose of this study was to evaluate and compare responses to two types of VR delivery systems (head-mounted display [HMD] and a dome-projection system), two exposure duration periods (30 minutes and 60 minutes), and repeated exposures (three sessions). Specific responses examined include cybersickness severity and symptom patterns, task performance, and several sensorimotor functions (eye-head and eye-hand coordination, postural equilibrium).
+<p>
+RESULTS<br>
+Data collection was completed on 37/40 subjects (20 men and 17 women) performing a sensorimotor task in either the HMD or dome virtual reality system. This study was designed to examine the effect of two types of VR systems(HMD and dome), duration of exposure to VR (30 minutes or 60 minutes) and repeated exposures (3 separate days) to virtual reality on postural equilibrium. Postural equilibrium was measured using the Neurocom Equitest system sensory organization tests (SOTs). Preliminary analyses showed a significant decrease in overall postural control following exposure to virtual reality which returned to pre-exposure values over a 2-4 hour period, with the largest recovery in the first hour. Exposure to the dome system produced significantly larger decrements in postural stability than the HMD. The data also showed that postural control following virtual reality significantly improved across the three days, indicating subjects adapted over repeated exposures to virtual reality. Finally, the data showed that women did not exhibit significant decrements in posture following VR, whereas men did show significant decrements in postural equilibrium scores following VR exposure. Motion sickness improved significantly across the three days of repeated exposures and generally recovered within the first hour following VR exposure.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>BRC04-JSC02</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Harm, Deborah</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/vz0a-bx43</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NRA-03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/bdc6b5d1-8993-590d-be22-21a53d3e4c59?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/bdc6b5d1-8993-590d-be22-21a53d3e4c59?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

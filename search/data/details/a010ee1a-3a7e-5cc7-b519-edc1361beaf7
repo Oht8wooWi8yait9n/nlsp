@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nutritional Studies - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a010ee1a-3a7e-5cc7-b519-edc1361beaf7?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>AP010</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Nutritional Studies</h1>
+        <div class="meta-id">Record ID: AP010</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a010ee1a-3a7e-5cc7-b519-edc1361beaf7?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The importance of nutrition in the adaptation of man to weightlessness was recognized early in the United States manned space flight program.  Investigators were concerned with the possibility that exposure to microgravity would impose high demands on micronutrients and would therefore lead to nutritional deficiencies.  Experiments conducted during the Gemini program led space life scientists to believe that some physiological changes associated with space flight were related to nutritional imbalances.   It was noted that the musculoskeletal system is one of the primary physiological systems affected by microgravity-induced nutritional alterations.  Numerous studies documented that imbalances between bone formation and resorption can lead to clinical disorders such as increased calcium in the blood and urine and osteoporosis.  Bed rest investigations lasting from 30 to 36 weeks provided evidence that mineral losses associated with bone resorption were likely to continue unabated during prolonged space flight. 
+<P>
+In addition, the physical data on astronauts from the Mercury and Gemini programs showed a consistent pattern of postmission weight loss.  The weight reduction was believed to have resulted from water and muscle tissue losses.  Scientists also considered the possibility that the weight loss was due to insufficient caloric intake.  Therefore, the issue of inflight caloric requirements was investigated thoroughly during the Apollo missions.
+<P>
+Apollo scientists were also concerned with the fact that food systems having minimum weight and volume are required for space flight.  The food consumed during the Apollo missions was generally dehydrated and specially formulated to occupy minimal volume.  Therefore, the effects of the specialized food packaging methods on the nutritional content of the food was investigated.  Thus, the objective of the Apollo nutritional investigation was to conduct a comprehensive metabolic balance study in order to correlate nutrient intake and excretion data to specific inflight physiological changes.  The study helped scientists acquire an accurate knowledge of inflight human nutrition requirements which was essential for the development of more advanced space food systems.   
+<P>
+APPROACH:<br>
+Food analysis:  All foods were analyzed for nitrogen, fat, carbohydrates, crude fiber, phosphorus, iron, sodium, potassium, and magnesium content.  Some composite Apollo menus were analyzed for water- and fat-soluble vitamins.  
+<P>
+Dietetics:  The menus used by the Apollo astronauts were formulated from flight-qualified Apollo foods in combinations that complied with the personal preferences of the crewmen and that met the Recommended Daily Allowance (RDA) requirement.  The menus were primarily composed of dehydrated foods that were reconstituted before eating.  The foods were consumed in a prearranged sequence, but could be supplemented by additional items.
+<P>
+Nutrient intake measurements:  Each meal was composed of a predetermined number of food items.  Records were kept on any foods omitted or incompletely consumed.  Snack items consumed that were not part of the programmed meals were also recorded in the flight logs.  All food residue and unopened food packages were returned from the missions.  Residue was weighed to provide more precise information on inflight nutrient intake.  For the Apollo 17 mission, a five-day metabolic balance study was performed approximately two months before the mission by using the flight menus and collecting urine and fecal wastes.  
+<P>
+Fecal measurements:  Fecal samples were returned from all Apollo flights and analyzed for a variety of constituents either by nuclear activation analysis or by wet chemistry techniques.  
+<P>
+Metabolic balance:  A partial metabolic balance study was performed on the Apollo 16 crew.  Urine and fecal samples were returned for analysis and the data was compared to the inflight nutrient intake data.  For a more detailed metabolic balance study in conjunction with Apollo 17, accurate measurements of fluid intake and output were performed approximately two months before the mission.  A five-day food compatibility / metabolic study was performed in which three Apollo 17 prime and backup crewmembers consumed their flight foods and participated in metabolic collections.  The study was designed to obtain baseline data on the excretory levels of electrolytes and nitrogen in response to the Apollo 17 flight menu.  
+<P>
+Beginning 64 hours before Apollo 17 lift-off and continuing throughout the mission until 44 hours following recovery, all food and fluid intake was measured.  During the preflight and postflight periods, conventional meals were prepared in duplicate for each astronaut.  One duplicate of each meal was analyzed in addition to the residue from the meal that was consumed in order to measure nutrient intake and output.  Every food item consumed inflight was derived from a group of foods that had been analyzed for nutritional content.  All deviations from programmed food intake were logged and reported.  Inflight water consumption was measured using a beverage dispenser.    
+<P>             
+All urine was collected, measured, sampled and returned for analysis.  Inflight urine samples were collected by means of a biomedical urine sampling system (BUSS).  Each BUSS was marked with the name of the crewmember and the time of collection.  Following each collection period, the urine pool was thoroughly mixed before a sample was taken.  The urine samples represented a 24-hour void and were subsequently analyzed for electrolytes, nitrogen, and creatine.  Complete stool collections were also performed. 
+<P>
+Body volume measurements:  For the Apollo 16 crewmembers, three preflight and three postflight body volume measurements were made by stereophotogrammetry.  Body density was calculated from body volume and weight.  Density was used to calculate the percentage of fat.  Changes in calculated lean body mass and total body fat were converted into caloric equivalents.  Total body water was measured using a potassium-42 dilution technique.  
+<P>
+RESULTS:<br>
+Food analysis:  The overall nutritional analysis indicated that the typical Apollo diet was composed of protein, fat, carbohydrates, fiber, and minerals in the following percentages (percent of dry weight): 18.0, 17.0, 61.0, 1.0, and 3.0, respectively.  The results of the vitamin analysis indicated that the Apollo diet provided an excess of some vitamins (A, E, C, B12, B6, and riboflavin) and marginal amounts of others (nicotinate, pantothenate, thiamine, and folic acid). 
+<P>
+Nutrient intake measurements:  The daily intake (grams) of protein, fat, carbohydrates, and fiber averaged over all Apollo missions was 76, 61, 269, and 5.4, respectively.  The daily intake (milligrams) of calcium, phosphorus, sodium, and potassium averaged over all Apollo missions was 773.0, 1121.0, 3666.0, 2183.0, respectively.    
+<P>
+Metabolic balance:  A detailed assessment of energy metabolism was conducted for the Apollo 16 metabolic balance study and special emphasis was placed on potassium intake and excretion.  The average energy intake (kcal/day) for the Commander (CDR), Command Module Pilot (CMP), and Lunar Module Pilot (LMP) was 2403, 1565, and 2366, respectively.  The average daily inflight potassium intake for the CMD was 113.6 milliequivalents (mEq).  In flight, the CMD lost potassium by the fecal route at a rate of 6.4 mEq/day, whereas 18.8 mEq/day were lost preflight and 20.5 mEq/day postflight.  For the LMP, the average daily pre-, in-, and postflight potassium intake was 110.5, 114.7, and 97.5 mEq, respectively.  During the pre-, in-, and postflight phases, the average daily potassium fecal losses for the LMP were 33.5, 11.1, and 31.0 mEq, respectively.  For the CMP, average daily pre-, in-, and postflight dietary potassium intakes were 94.3, 79.9, and 82.4 mEq, respectively.  CMP fecal samples for the same periods indicated that potassium levels were 27.6, 6.3, and 26.2 mEq, respectively.
+<P>
+The metabolic data from the Apollo 17 mission was compared to the five-day control study data, however, the duration of the pre- and postflight measurement periods was not sufficient to establish reliable metabolic baselines.  Inflight urine outputs were proportionately lower for all three crewmembers compared to control study values.  Inflight estimates of water loss for all crewmembers indicated that 900 to 1200 ml/day were lost.  Total body water measurements did not indicate a negative water balance for the crew.  Calcium, phosphorus, and nitrogen balance results indicated that all crewmembers were in negative balance for these elements during the inflight period.   Intake and output measurements for sodium indicated a positive balance for this element during the flight for all crewmembers.  
+<P>
+Anthropometric measurements:  The average inflight weight loss for all crewmen in the Apollo program was 3.53 kg.  Body volume (liters) measurements for the Apollo 16 crew indicated that the CDR, CMP, and LMP had preflight volumes of 75.5, 62.1, and 73.2, respectively.  Postflight data on body volume showed that the CDR, CMP, and LMP had body volume measurements of 74.8, 57.8, and 71.4 liters, respectively.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>AP010</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rambaut, Paul, Smith, Malcolm, Wheeler, Harry</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Apollo</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Apollo 10&#x27;], [&#x27;Apollo 11&#x27;], [&#x27;Apollo 12&#x27;], [&#x27;Apollo 13&#x27;], [&#x27;Apollo 14&#x27;], [&#x27;Apollo 15&#x27;], [&#x27;Apollo 16&#x27;], [&#x27;Apollo 17&#x27;], [&#x27;Apollo 7&#x27;], [&#x27;Apollo 8&#x27;], [&#x27;Apollo 9&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/vmr6-wa28</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a010ee1a-3a7e-5cc7-b519-edc1361beaf7?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a010ee1a-3a7e-5cc7-b519-edc1361beaf7?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

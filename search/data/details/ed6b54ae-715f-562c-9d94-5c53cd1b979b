@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prevention of Renal Stone Complications in Space Exploration - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ed6b54ae-715f-562c-9d94-5c53cd1b979b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958SMST03402</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Prevention of Renal Stone Complications in Space Exploration</h1>
+        <div class="meta-id">Record ID: NCC958SMST03402</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ed6b54ae-715f-562c-9d94-5c53cd1b979b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The objective of this proposal is to refine and validate ultrasound to reposition kidney stones to prevent medical complications on space exploration missions. The objective will be met by adding a probe and software to the Flexible Ultrasound System (FUS). The probe will send ultrasound through the skin to create real time images of the stone and kidney and also to move or fragment the stone within the kidney.
+<p>
+Specific Aims:<ol>
+<li>Refine ultrasound probes to detect, reposition, and fragment kidney stones. 
+<li> Validate probes to visualize, reposition, and fragment stones. 
+<li> Refine and validate imaging to guide therapy.</ol>
+<p>
+APPROACH:<br>
+In Aim 1, the probe(s) will be refined. The capability to image and reposition stones will be added to 1) the kidney imaging probe of the FUS manufacturer and 2) a clinical 3D probe. A third plug-and-play probe will also be developed to fragment kidney stones as a last resort. In Aim 2, the first probe will be validated as a countermeasure for the contingency of stone formation. The five tasks in Aim 2 are to refine and validate the capability 1) to displace a large blocking stone from occluding the exit of the kidney to delay treatment and complications, 2 and 3) to detect and displace a medium-sized stone in the ureter to alleviate complications, 4) to expel a small stone from the kidney to avoid complications, and 5) to measure the size of kidney stones to inform decision making. 
+<p>
+RESULTS:<br>
+This experiment is in progress. However preliminary results are available.
+<p>
+Two patients reported skin discomfort and sensation at depth with a few pushes. Otherwise, there was no pain or adverse effects associated with the treatment. Stones were localized with the system and repositioned in 14 of 15 subjects. In total, the system targeted and repositioned stones from all parts of the kidney and ureteropelvic juncture (UPJ), including the lower pole (20 targets), midpole (10 targets), upper pole (6 targets), and renal pelvis/UPJ (7 targets). Stones were imaged and repositioned at depths as great as 11 cm. Stones were repositioned to a new location in all 6 post-lithotripsy patients, while four of the six passed over 30 stone fragments within a few days of treatment. One passed two 2 mm fragments immediately after the completion of treatment. De novo stones and stones as large as 8 mm were repositioned in awake patients and during URS, although movement was not as great as seen with residual fragments. In four of the 15 subjects, what was noted in clinical imaging as a single, potentially unpassable stone was shown to be several passable stones upon repositioning with ultrasound. One subject with a potentially obstructing UPJ stone felt relief. The FDA has granted 15 more subjects for the next clinical trial. Investigators have developed and tested new probes and systems to continue to improve and validate performance of ultrasonic propulsion. They have participated in several meetings with General Electric (GE) and ExMC about NASA's FUS, and have recently received the GE probe used on the FUS. Investigators have started integrating their ultrasonic propulsion onto the GE probe. A new stone specific imaging mode was developed and reported, and a patent application was submitted. In the first step the system automatically identifies the location of stones in the image and highlights them with color during real-time scanning. In the second step, the system automatically determines the size of the kidney stone.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958SMST03402</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Bailey, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Clinical medicine</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/hppf-7121</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2012 Crew Health NNJ12ZSA</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ed6b54ae-715f-562c-9d94-5c53cd1b979b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ed6b54ae-715f-562c-9d94-5c53cd1b979b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

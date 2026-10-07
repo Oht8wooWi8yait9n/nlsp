@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enhancing Situation Awareness of Automated Procedures using Adaptive Multimodal Augmented Reality Displays [VITA] - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/898c61c8-98ea-54b6-9f58-ee0e3feb18cd?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC19K0667</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Enhancing Situation Awareness of Automated Procedures using Adaptive Multimodal Augmented Reality Displays [VITA]</h1>
+        <div class="meta-id">Record ID: 80NSSC19K0667</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/898c61c8-98ea-54b6-9f58-ee0e3feb18cd?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>During the exploration class missions of the future, crews will no longer have the benefit of real-time or near real-time support from Mission Control and related teams on the ground due to the distance of the crew from the Earth. As a result, crews will have greater autonomy in every aspect of their missions and they are expected to depend more on automated systems to accomplish their tasks. This is an unfamiliar way of working that could put situation awareness (SA) at risk. Therefore, automated systems must include effective methods for promoting good situation awareness. <br><br>This study investigates the effects of a virtual task assistant on human performance of procedural work. The virtual task assistant combines procedure automation with augmented reality multi-modal user interfaces. The virtual task assistant will assist users in becoming familiar with planned procedures, in performing procedure actions, and in maintaining awareness of procedure actions taken by other crewmembers or automation. Human performance will be compared with and without the virtual task assistant with the goal of informing best methods for delivering and using such virtual task assistants.<br><br>This study has the following objectives: <br><br>1.&nbsp;&nbsp; Determine the best methods to improve SA and improve crew autonomy when using a virtual task assistant to prepare for and perform manual maintenance. <br>2.&nbsp;&nbsp; Determine best methods to improve SA and reduce workload when a virtual task assistant is used to handover maintenance tasks between users <br>3.&nbsp;&nbsp; Determine best methods to improve SA and reduce workload when using a virtual task assistant to help manage concurrent manual and automated tasks. <br><br>APPROACH:<br>This ground-based investigation will utilize the Human Exploration Research Analog (HERA) located at the Johnson Space Center in Houston, Texas. Sixteen HERA Campaign 6 subjects, four per mission, will participate in three pre-mission sessions and one post-mission session as well as ten sessions during the mission. <br>Pre-mission: <br><br>In the first pre-mission session, subjects will provide demographic data and information about their background and experience. In the second session, subjects will receive a group introduction to the HoloLens and an overview of some of the tasks they will perform during the mission. In the third session, subjects will receive in-depth training on the HoloLens and the tasks they will perform during the mission.<br><br>In- Mission: <br>During their mission, subjects will be asked to perform two different procedural tasks.<br><br>The procedures necessary to complete the tasks are generated and delivered by the custom-designed software, Procedure Integrated Development Environment (PRIDE). PRIDE-Augmented and Virtual Reality (PRIDE-AVR) generates procedure-based cues by parsing text instructions into verbs and actions and distributing the parsed instruction as an action cue. PRIDE-AVR also extends system models in the PRIDE electronic procedure system to include AVR information (e.g., object location). Procedures include occasional interruptions for queries intended to establish the subject’s understanding of the task and provide a measure of SA.<br><br>The first task is a small rover construction and software testing task. The rover construction task will be performed over two sessions per week during the first four weeks of the mission. Subjects will follow specific sets of procedures involving the assembly of a rover during the first session and the testing (through computer programs) and disassembly of the rover during the second session each week. Individual subjects may be assigned to use HoloLens-based procedures in order to construct and test the rover or to use only tablet-based procedures to construct and test the rover. Other subjects may be assigned to a team of two without a HoloLens, where one subject will read procedures from a tablet device to a second subject performing the task. Different rovers will be constructed and tested, and subject groupings will change with each version of the rover. At the end of each session, subjects will complete a questionnaire (Bedford Workload Scale) to assess workload and ratings regarding aspects of using the HoloLens or tablet system. After all four weeks of rover tasks are complete, subjects will rate the procedure platforms and provide comments on the study.<br><br>The second task is a maintenance task on an inert generator that will be performed during the last two weeks of the mission. This is an individual task. Each subject will perform the task once using the HoloLens and once using the tablet-based procedure. At the end of each session, subjects will complete a questionnaire (Bedford Workload Scale) to assess workload and ratings regarding aspects of using the HoloLens or tablet system.<br><br>Post-mission: <br>Each subject will be individually debriefed on his or her in-mission experiences by the investigator.<br><br>RESULTS:<br>This investigation is still in progress. However, this investigation is expected to provide guidelines for designing effective human-automation systems and evaluate human-automation performance for exemplar procedure automation systems. In addition, it will also provide guidance for the application of multi-modal and adaptive displays and control to Human-Computer Interaction (HCI) design for long-duration operations. <br><br>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC19K0667</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Schreckenghost, Debra</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;HERA Campaign 6&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/mz0v-vp97</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Work in progress. Contact LSDA to learn when data is projected to be available for reuse</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2017 HERO 80JSC017N0001-Crew Health and Performance</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/898c61c8-98ea-54b6-9f58-ee0e3feb18cd?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/898c61c8-98ea-54b6-9f58-ee0e3feb18cd?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Influence of Environmental Stress on Cell-Mediated Immune Function - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/7bc06b8d-50a8-5aeb-88b9-b67c39f9210b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>LMLSTP5.4</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Influence of Environmental Stress on Cell-Mediated Immune Function</h1>
+        <div class="meta-id">Record ID: LMLSTP5.4</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/7bc06b8d-50a8-5aeb-88b9-b67c39f9210b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <p><b><u>OBJECTIVES</u></b><br />
+The human immune system is composed of multiple interacting elements including contributions from both the humoral and cell-mediated arms. These elements play unique roles and interact in various ways with each other in maintaining the optimum immune status and health of humans. Cell-mediated immunity (CMI) involving sensitized T-lymphocytes is important in defense against certain infectious agents (e.g., viruses and fungi), in surveillance against neoplastic cells, and in regulation of immune function. CMI function testing has traditionally been done by skin testing with cutaneous placement of recall antigens (delayed cutaneous hypersensitivity). By introducing an antigen to which an individual has been previously exposed, the capacity of T-lymphocytes to respond to an antigen in memory can be assessed.</p>
+<p>Measurement of cutaneous delayed-type hypersensitivity (DTH) responses to a battery of commonly encountered antigens is a generally accepted and preferred means of assessing CMI function. In the past, such DTH testing suffered from lack of standardized testing techniques, number and characterization of reactions, doses employed, and interpretation of reactions and results. A commercially available system has solved these problems by providing simultaneous and reproducible application of seven standardized recall antigens as a means of measuring DTH in assessment of CMI. Because of its properties, widespread clinical acceptance, and ease of use, this system was adopted for this study.</p>
+<p>This process of skin testing and evaluation of cell-mediated immune function has been used in other extreme environments such as Antarctic expeditions, tours of duty in submarines, and during both short- and long-duration space flights. All of these studies have shown that stress can have a negative impact on CMI function. The exact mechanisms underlying these changes are not yet fully understood.</p>
+<p><b><u>APPROACH</u></b><br />
+In this investigation, repeated skin testing was utilized in order to determine the functional state of the chamber crews' CMI systems over time and compare to a control group of subjects not exposed to the environmental stress of isolation within the closed chamber.</p>
+<p>There were two subject groups in this study: (1) the experimental (chamber) group, which consisted of the four chamber occupants, and (2) the control group, which consisted of four sex- and age-matched volunteers. All individuals completed a training session on the proper application of the skin test device and measurement of the results.</p>
+<p>The following procedure was used for application of the testing device at each time point:<br />
+&nbsp;</p>
+<ol>
+    <li>The volar surface of a forearm was cleansed with an alcohol pad and allowed to dry.</li>
+    <li>The test device was then placed against the forearm and firmly pressed into the skin. The prongs at the tip of each arm entered the skin and delivered the antigen.</li>
+    <li>A rocking motion was used to ensure adequate delivery of the antigens and control.</li>
+    <li>The test device was removed, and the area was allowed to dry for 5 minutes.</li>
+    <li>A permanent marker was used to outline the skin area tested to allow later observation of the proper sites.</li>
+    <li>After 48 hours, each antigen site was evaluated for induration, and calipers were used to measure the diameter of the induration along the vertical and horizontal axes.</li>
+    <li>The number of antigens that reach at least 2 mm in diameter were considered positive. The sum total millimeters of induration and the number of positive antigens were recorded and used to determine a CMI score according to the formula: CMI Score = Sum of Mean Indurations/Number of Positive Antigens.</li>
+</ol>
+<p><b><u>RESULTS</u></b><br />
+The chamber subjects had fewer responses to the seven antigens at the C-30 time point compared to the control subjects. By chamber day 45 (C+45), the chamber subjects showed hypoergic responses, and by chamber day 90 (C+90) all chamber subjects exhibited anergy to the seven challenge antigens. The chamber subjects had returned nearly to their prechamber baselines within 30 days of exiting the chamber. The control group subjects responded to more antigens at the C-30 time point and showed variable responses, but only minor changes throughout the study period.</p>
+<p>Since the chamber subjects responded initially (C-30) to fewer antigens, the baseline value for the sum of the indurations in the chamber subjects is less than that for the control group. The chamber subjects showed a loss of reactivity to most of the antigens by chamber day C+45 and had no response to any of the antigens and thus no measurable indurations at chamber day C+90. By 30 days after exit from the chamber (E+30), the measured sum of indurations had returned to near baseline level in the chamber subjects. The control subjects showed a variable response throughout the study. One control subject exhibited a slightly attenuated response on chamber day C+45 while another showed increased responses at chamber days C+45 and C+90. On day E+30, all control subjects had values similar to pre-chamber baseline measurements.</p>
+<p>The most interesting and meaningful results for both the control and chamber groups involved their average CMI scores. The average CMI score for the control subjects varied little throughout the entire study period (range 4.05 to 4.23). However, the chamber subjects as a group showed a profound decrement in their average CMI scores on chamber days C+45 and C+90 with no response to any of the seven challenge antigens noted in any of the four chamber subjects on chamber day C+90. The average CMI score of the chamber group had returned to near the baseline level at 30 days postchamber (E+30).</p>
+<p>The chamber subjects had a nearly 49% decrease in their CMI scores during the chamber stay which was statistically different from the control data set at p = 0.002. The CMI scores of the chamber subjects were still decreased from control values by approximately 13% at time point E+30 (30 days after exiting the chamber), but the difference was not significant.</p>
+<p>The primary aim of this study was to determine if isolation of human subjects within a closed chamber over a period of 91 days would adversely affect function of the cell-mediated arm of the immune system. The CMI scores were significantly decreased (-48.7% &plusmn; 10.1 SEM; p= 0.002; n = 8) for the chamber subjects during chamber isolation. The CMI scores were decreased below the control level (-13.1% &plusmn; 13.05 SEM) for the isolated chamber subjects at 30 days after exit from the chamber, but were not statistically different from the control values at this time point.</p>
+<p>The short-term and long-term effects of decreased CMI in isolated human subjects are not known. Since CMI plays important roles in combating infectious agents (e.g., viruses and fungi), in surveillance against neoplastic cells, and in regulation of immune function, possible consequences include increased susceptibility to acute and chronic infections, increased cancer risk, and immune dysregulation. The level of these increased risks associated with decreased CMI function in conjunction with isolation and other still poorly understood environmental, physiological, and psychological factors is not known. Additional prospective and retrospective longitudinal studies are required to better understand underlying mechanisms and the level of risks associated with decreased CMI function in persons living in isolated environments. The role of exercise and the specific types, intensity levels, and duration in modulating the immune response during isolation requires further investigation.<end></end></p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>LMLSTP5.4</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Sams, Clarence</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Immunology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;LMLSTP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/t09z-e679</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/7bc06b8d-50a8-5aeb-88b9-b67c39f9210b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/7bc06b8d-50a8-5aeb-88b9-b67c39f9210b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Posturography System - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000678?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>868</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Dynamic Posturography System</h1>
+        <div class="meta-id">Record ID: 868</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000678?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Dynamic Posturography System is based on a posture platform, which tilts up or down to create a postural disturbance as a subject stands on it.  A microcomputer controls the movement of the platform. As the subject reacts to maintain balance, data can be recorded from the muscles and other parts of the body.  
+<P>
+The EquiTest Dynamic Posturography System Version 4.0 (NeuroCom International, Clackamas, Oregon), used by clinicians for the assessment of disorders of balance, was modified for NASA use. The following features were added to the commercial system: (1) an electromyography (EMG) system for monitoring activity in the 4 major weight-bearing muscle groups in the left leg, (2) sway bars for monitoring the anterior-posterior movement of the hips and shoulders and (3) a head set with sensors for monitoring the head's angular velocity in the pitch and roll planes, and headphones for providing pink noise to block external auditory cues. Force transducers provided data used to compute the location of the instantaneous anterior-posterior center of mass.
+<P>
+The subject stood in stocking feet on a dual foot plate capable of tilting and shifting, inside a visual surround capable of tilting. The visual surround completely filled the subject's visual field. The foot plate and visual surround were tilted forward or backward by servomotors about an axis through the subject's ankles. The maximum tilt angle was ±10 degrees. The subject wore a safety harness fastened to two suspension rings mounted to a safety bar during the testing procedures, to prevent falling. Force transducers mounted beneath the foot plate were used to measure the vertical and horizontal forces exerted by the subject's feet under the force of gravity. 
+<P>
+Position of the center of force was used as an estimate of the sway of the body's center of mass. Anterior-posterior position and displacement were measured using a sway bar and potentiometer at the pelvis (center of mass) and shoulder. Rate sensors monitored head movements. While sensory organization tests were conducted during the experiment, either the support surface or the visual surround, or both simultaneously, could be tilted in proportion to the postural sway of the subject as estimated by the subject's center of force.
+<P>
+Data from the force transducers (50-hertz sampling rate) were digitized with 12-bit accuracy and stored in a digital computer for subsequent analysis. This computer system was used to control all aspects of the experiment protocols, including data acquisition and storage, support surface and visual surround servomotor commands, data reduction and analysis and operational displays. <END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Dynamic Posturography System</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>Mir 18, Mir 19, STS-71</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Alterations in Postural Equilibrium Control Associated with Long Duration Space Flight</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>As Configured for the NASA-Mir Missions</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000678?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000678?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

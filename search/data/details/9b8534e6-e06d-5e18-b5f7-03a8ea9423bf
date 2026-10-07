@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Short Radius Centrifuge - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/9b8534e6-e06d-5e18-b5f7-03a8ea9423bf?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>SRC</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Short Radius Centrifuge</h1>
+        <div class="meta-id">Record ID: SRC</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/9b8534e6-e06d-5e18-b5f7-03a8ea9423bf?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+The Short Radius Centrifuge (SRC) was a NASA developed system used for research into the effects of artificial gravity as a potential countermeasure to the deleterious effects of microgravity on the human body.  The SRC was located at the University of Texas Medical Branch at Galveston (UTMB) along with the UTMB/NASA bed rest facility. 
+The artificial gravity employed in this experiment was produced by spinning subjects on a short-radius, human rated centrifuge. <P> 
+The centrifuge radius was 3.0 m, and it contained two subject stations oriented 180 degrees apart from each. The subject stations were rigidly mounted to the centrifuge hub, which was capable of rotating on a bearing. The centrifuge motion was driven by a computer-controlled electric motor, and the rotation profiles were created and controlled via rotator controller software. Ramp-up and ramp-down accelerations were controlled via this software interface, enabling the rotator to come to a complete stop from maximum rotation speed in less than 10 seconds. <P>
+APPROACH:<BR>
+For centrifuge protocols, subjects may spin on the centrifuge alone or with another test subject. The subjects were positioned on their backs in one of the two subject stations with their feet against the foot plate.  The subject was secured to the centrifuge with a safety harness, but the subject station was unlocked so that it freely glided over a range of 10 cm on a set of bearings, allowing subjects to 'stand' against the footplate and ensuring the full load of the centrifugal force was borne by the subjects' feet. The centrifuge design allowed for a 6 degree head down tilt or horizontal orientation of the subject. The 6 degree head-down tilt orientation was used in the pilot study because control subjects were transported to the centrifuge each day, and were required this orientation to avoid fluid shifts that would likely occur if a horizontal orientation were used.
+<P>
+The subject was positioned along the centrifuge arm so that his or her feet were 2.5 m away from the center of rotation. The centrifuge was accelerated at an angular acceleration of 5-10 degrees/sec2 to a maximum angular velocity of 180 degrees/sec (30 rpm), providing a 2.5 g centrifugal force at the feet. The centrifugal force varied along the body z-axis in direct proportion to the radial distance from the center of rotation. With the 2.5 g at the feet, the centrifugal force at the heart level ranged from approximately 1.0 g for the tallest subjects to approximately 1.4 g for the shortest subjects. Similarly, the centrifugal force at the top of the head ranged from approximately 0.6 g for the tallest subjects to approximately 1.0 g for the shortest subjects. The estimated body weight (total z-axis force) during centrifugation ranged from approximately 1.1 to 1.4 times the resting (1 g) body weight of the tallest and shortest subjects, respectively. <P>
+All subjects (Treatment and Control) were prescreened during the Screening to ensure they could tolerate the AG exposure regimen planned for the study.  For the Centrifuge Screening Test Protocol, each subject was tested to see if they were capable of tolerating a minimum of 75 minutes on the centrifuge under the planned treatment protocol conditions of 2.5 g at the feet and 30 rpm rotation rate. Subjects unable to tolerate the 75 minute centrifuge hop were excluded from the study; however, the data was retained for subsequent analysis of factors affecting AG tolerance.
+<P>
+Additional tests were performed to assess whether significant decrements were observed after bed rest in the control group. Comparisons were observed in decrements with similar measurements from other bed rest studies and from short-duration space flight studies. To demonstrate the effectiveness of daily 1-hour doses of AG in ameliorating the physiological deconditioning, data was used from the treatment group to test whether the specific AG protocol protected that group from serious symptoms of physiological deconditioning.  The treatment group was compared to the control group to test whether decrements observed in the control group subjects were significantly improved in the treatment group subjects.<P>
+RESULTS:<BR>
+Results indicate that subjects were able to tolerate the SRC protocol every day without any significant problems.  Cardiovascular, muscular, and mechanical responses were consistent throughout the in test days.  Motion sicknesses observed during this study were scores.  The average motion score was 0.26 plus or minus 0.09, while the average peak motion sickness score for each subject was 0.70 plus or minus 0.21.  The overall health scores were high, and the mean score was 9.7 plus or minus 0.08.
+<P>
+The centrifuge protocol was very well tolerated by the subjects and less than 97 percent of the SRC test sessions were completed without incident.  However the loading protocol was well tolerated by the males but the females has some tolerance issues with the protocol. Future studies would require fine tuning the loading protocol, as well as  the addition of an exercise program to the centrifuge protocol, to assist in mitigating the deconditioning effects that are presented in bed rest.   
+<P>
+This experiment has concluded in ground-based studies sponsored by the National Aeronautics and Space Administration's Human Adaptation and Countermeasures Division. This experiment was conducted during the Artificial Gravity Bed Rest Study. <end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>SRC</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Paloski, William</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Artificial Gravity (AG)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Pilot&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/nj14-7283</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/9b8534e6-e06d-5e18-b5f7-03a8ea9423bf?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/9b8534e6-e06d-5e18-b5f7-03a8ea9423bf?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

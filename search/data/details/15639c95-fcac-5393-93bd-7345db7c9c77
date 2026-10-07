@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Renal Stone Risk During Spaceflight:  Assessment and Countermeasure Validation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/15639c95-fcac-5393-93bd-7345db7c9c77?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 633</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Renal Stone Risk During Spaceflight:  Assessment and Countermeasure Validation</h1>
+        <div class="meta-id">Record ID: DSO 633</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/15639c95-fcac-5393-93bd-7345db7c9c77?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+Human exposure to microgravity results in a number of physiological changes.  Among these are alterations in renal function, fluid redistribution, bone demineralization and muscle atrophy, all of which contribute to an altered chemical urinary environment.  Inflight changes previously observed include decreased urine volume or increases in urinary calcium, phosphate, potassium, and sodium excretion, which could all potentially exaggerate the risk of renal stone formation.  The formation of a renal stone inflight could have severe consequences for both the crewmember as well as mission success. 
+<P>
+Previous studies of Skylab and Shuttle crews have demonstrated significant changes in the urinary chemical composition.  Increases in urinary calcium and phosphorus are well documented and probably represent bone resorption due to exposure to the weightless environment.  Studies of shuttle missions of varying duration noted significant postflight increases in the urinary stone-forming salts and decreases in the concentration of urinary inhibitors of renal stone formation.  This study is expected to show the inflight effects of microgravity on the risk factors associated with renal stone development.  It is expected that space flight will significantly enhance renal stone formation by providing an environment that is saturated with the stone-forming salts, primarily calcium and phosphorus, in the presence of a reduced concentration of renal stone inhibitors.  It is predicted that the increased risk observed during space flight on shuttle crewmembers can be minimized and beneficial changes in the urinary chemistry can be accomplished with the use of potassium citrate.
+<P>
+The objectives of the investigation were to:<BR>
+1. Quantitate the pre-, in- and postflight risk of renal stone formation associated with space flight.<BR>
+2. Evaluate the effects of dietary intake on the urinary biochemistry.
+<BR>
+3. Determine the efficacy of potassium citrate as a countermeasure in reducing the inflight and postflight potential for renal stone formation.
+<P>
+APPROACH:<BR>
+This study involved preflight, inflight, and postflight 24-hour urine collections to assess the renal stone-forming potential that exists during space flight and the recovery after space flight.  Using quantitative measures of risk, the investigators tested the effectiveness of potassium citrate as a countermeasure to the altered urinary chemical environment exhibited during space flight.  Food, fluid, exercise and medications were monitored 24 hours prior to and during the urine collections.  Two 10 mEq potassium citrate tablets (total dose 20 mEq) were ingested daily with the evening meal during the initial preflight potassium citrate evaluation session.  Following that, potassium citrate or placebo ingestion began 3 days prior to launch (L-3), continued during all inflight days, and continued postflight until 14 days after landing (R+14).
+<P>
+There were two study protocols available for implementation for this DSO.  Both protocols A & B required the following:<BR>
+<LI>the pre-, in- and postflight ingestion of potassium citrate for evaluation as a countermeasure to renal stone formation. Two 10 mEq potassium citrate tablets (total dose 20 mEq) were ingested daily with the evening meal.  An initial preflight potassium citrate session was performed at L-95 days to evaluate the tolerance to the medication of the crewmember.  Ingestion of potassium citrate then began at L-3 days, continued during all in-flight days, and following landing through R+14 days.<BR>
+<LI>all participating crewmembers collected 24-hour urine and maintained a 48-hour diet/fluid/exercise/medication record during the three preflight baseline data collection (BDC) sessions.  
+<BR>
+<LI>Postflight urine and dietary monitoring were performed during the R+0-2, R+6-7 and R+13-14 time frames.
+<BR><LI>Samples were required to be removed within 4-6 hours of landing (prime or contingency site) and stored in a room-temperature controlled environment (70–80 degrees F/21–27 degrees C). 
+<P>
+Protocol A additionally required inflight 24 hour urine collection and a 48 hour diet log. Protocol B required only pre- and postflight 24 hour urine collections and diet logging.
+<P>
+RESULTS:<BR>
+Due to the STS-107 tragedy, this experiment was not completed.  The researchers went on to develop the protocol for long-duration missions, and this study was performed thereafter on long-duration missions NASA Mir and the International Space Station.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 633</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Whitson, Peggy</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Skeletal physiology, Endocrinology, Renal, fluid and electrolyte physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-107&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4mft-7j96</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>95-OLMSA-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/15639c95-fcac-5393-93bd-7345db7c9c77?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/15639c95-fcac-5393-93bd-7345db7c9c77?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

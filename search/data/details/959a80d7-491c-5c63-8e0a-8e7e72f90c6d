@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bioavailability of Scopolamine Dosage Forms and of a Combination Dosage Form with Dextroamphetamine after Oral Administration to Human Subjects - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/959a80d7-491c-5c63-8e0a-8e7e72f90c6d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ROI_SCOPDEX</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Bioavailability of Scopolamine Dosage Forms and of a Combination Dosage Form with Dextroamphetamine after Oral Administration to Human Subjects</h1>
+        <div class="meta-id">Record ID: ROI_SCOPDEX</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/959a80d7-491c-5c63-8e0a-8e7e72f90c6d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Space motion sickness (SMS) is one of the most common ailments experienced in space by astronauts. Although on ground, motion sickness is regarded as a nuisance or a discomfort, SMS occurs during mission-critical times in space and is suspected to hinder crew performance during launch and reentry. The National Aeronautics and Space Administration (NASA) Bioastronautics Critical Path document states that "the most overt change affecting an astronaut in space flight is the immediate response of the neurovestibular system to changes in gravity. Astronauts experience orientation illusions, posture and locomotion disturbances, vestibulo-occular function and gaze changes, space motion sickness, and possible structural changes affecting sensory-motor behavior and reorganization". SMS occurs most severely during gravity shifts (launch and reentry) and also during the first few days of (orbital) missions. Nearly 40% of in-flight medication use by US astronauts has been for the treatment of SMS. SMS symptoms include nausea and vomiting, both of which negatively affect drug concentration after oral administration and reaction time.  Reaction time is a marker of cognitive performance.
+<P>
+Scopolamine (SCOP) is an alkaloid which has been used historically for many years as an anti-emetic, a medicine that prevents or controls nausea and vomiting, and a sedative.  It is a muscarinic (a type of receptor in the parasympathetic nervous system that releases acetylcholine as its neurotransmitter) anticholinergic (a substance that opposes or blocks the action of acetylcholine) agent with anti-emetic and anti-vertigo activity resulting from suppression of vestibular labyrinthine input to the central nervous system (CNS). Earlier reports indicate that SCOP is efficacious for countering space motion sickness symptoms. Several sources report SCOP as being the most effective drug for suppressing nausea and vomiting caused by motion sickness.  Many motion sickness drugs, including SCOP, have been reported to negatively affect concentration, cognition, and other cognitive behavioral measures.  SCOP has a shorter half-life compared to other SMS medications used at the present time and therefore, side effects caused by the drug may resolve more rapidly.
+<P>
+Therapeutic effect of a drug is governed by its intrinsic activity and concentration at the site of action. Pharmacokinetics is the mathematical description of drug concentrations in the body (usually in blood or plasma) as a function of time after administration and the physiological variables that govern pharmacokinetic processes, absorption from the site of administration, distribution to the site of action and elimination from the body by metabolism and excretion. Pharmacodynamics, on the other hand, deals with the mathematical description of the onset, magnitude and duration of pharmacologic effect in relation to circulating drug concentration as a function of time. The therapeutic efficiency of a drug, therefore, is determined by the pharmacokinetics and pharmacodynamics of a dosage form.  Earlier reports on SCOP pharmacokinetics indicate that the drug is rapidly eliminated from the body after administration with a systemic clearance of 65 ± 5.2 L/h and a moderate volume of distribution of 1.4 ± 0.3 L/kg.  Oral and intranasal bioavailability of the drug is 10.7-48.2% and 83% after oral and intranasal administration, respectively.  
+<P>
+There are no reports on the bioavailability or pharmacokinetics of the custom-dispensed combination dosage form of SCOP and dextroamphetamine (DEX), commonly referred to as SCOP-DEX.  The KC-135 and currently the DC-9, affectionately referred to as the "vomit comet," are, or have been, operated by NASA's Reduced Gravity Office (RGO) as the primary simulation method of microgravity.  They are flown in a series of parabolic maneuvers which cause brief periods of microgravity onboard and they are usually used for both astronaut reduced gravity training and equipment testing.  Both the parabolic microgravity simulations of the KC-135/DC-9 and longer-term microgravity exposure, such as shuttle and International Space Station missions, induce SMS.  Recent studies of SMS suppression on the KC-135 using SCOP-DEX have demonstrated an unexpected lack of efficacy prompting this investigation into the relative bioavailability of dosage forms of SCOP currently used by the NASA health care program.  Further, KC-135 passengers who elect to take scopolamine to suppress or prevent motion sickness often have visual deficits which impede their performance.
+<P>
+A recent study comparing the efficacy of existing motion sickness medications indicated that SCOP was the most efficacious treatment for suppression of both nausea and the vomit reflex. Of the medications tested in the study, only SCOP was able to affect a prolongation in mean duration of rotation time in a vertical rotation chair.  Additionally, accuracy of Delayed Match-to-Sample (DMTS) test, a short term memory and attention test, was found to be unaffected by SCOP whereas other medications negatively affected DMTS; this finding illustrates SCOP's lesser negative impact on cognitive performance when compared to other motion sickness medications.
+<P>
+<I>Scopolamine pharmacokinetics</I><BR>
+Bioavailability of 0.4 mg SCOP tablets in normal, nonsmoking male volunteers was reported to be 26.8 ± 5.1%.  Plasma and renal clearance estimates in this study were 65.3 ± 5.2 L/h and 4.2 ± 1.4 L/h. Approximately 6% of intravenous and 1% of oral dose was reported to be eliminated unchanged in the urine.  
+<P>
+SCOP is known to cross the blood-brain barrier and the placenta and to be reversibly bound to plasma proteins.  SCOP is known to be metabolized in the liver mainly to conjugated forms.  Oral bioavailability of SCOP has been shown to be increased by pretreatment with grapefruit juice due most likely to inhibition of gut metabolism and/or inhibition of gut transporter proteins caused by flavanoid-like compounds in grapefruit. No significant effect of grapefruit juice on elimination of SCOP was detected.
+<P>
+<I>Dextroamphetamine pharmacokinetics</I><BR>
+Dextroamphetamine is readily absorbed from the GI tract following oral administration with an onset of action generally within an hour of administration.  Biological half-life of the drug was reported to be 11 h in adults with a systemic clearance of 0.31 L/h/kg.  It is distributed throughout the body with high concentrations in the CNS. Elimination of the drug is affected by urinary pH: alkalinization of urine increases half-life and decreases clearance (18 h and 1.5 L/h/kg); acidification of urine decreases half-life and increases clearance (to 4 h and 2.6 L/h/kg).
+<P>
+<I>Significance</I><BR>
+Scopolamine is regularly used in the space program as a custom dispensed formulation, both by itself and in combination with dextroamphetamine, as a countermeasure for motion sickness; however, adequate pharmacotherapeutic evaluation of these formulations has not been conducted. It is important to characterize interactions between currently used countermeasures in order to optimize pharmacotherapeutics in space and on the ground. This study examines the pharmacotherapeutics of operational countermeasure formulations and interaction potential of two currently used medications for SMS; this study was conceived based on anecdotal reports of treatment failure by NASA RGO physicians. The results presented herein are also useful for the Space Medicine and Health Care Systems Office in selecting or optimizing treatment of SMS.
+<P>
+APPROACH:<br>
+<I>Study design overview</I><BR>
+The overall design consisted of 4 treatments administered separately in a randomized fashion to 12 healthy subjects. Treatments were separated by a minimum four-day washout period between doses. Serial biological samples were collected for 24 h post dose along with administration of the ANAM Readiness Evaluation System (ARES) test battery.  ARES is a selection of Automated Neuropsychological Assessment Metric (ANAM) tasks presented on a handheld computer. 
+<P>
+<I>Subjects</I><BR>
+Twelve healthy, non-smoking subjects of normal weight for body size between the ages of 21 and 48 years participated in the study. All subjects were screened and selected through the NASA Johnson Space Center (JSC) Human Test Subject facility. Subjects were excluded if they reported: drug allergies to scopolamine or amphetamines, use of prescription or over-the-counter medications within 3 days of starting the study, use of antibiotics (especially furazolidone) or mono-amine oxidase (MAO) inhibitors within 14 days of starting the study, use of an investigational drug within 30 days of starting the study, tobacco smoking within the past year, blood donation or significant blood loss within 30 days of starting the study, significant gastrointestinal disorder, asthma, seizure disorders, glaucoma, history of urinary retention, history of alcohol or other drug abuse, pregnancy or suspected pregnancy, or lactation, or packed cell volume (Hematocrit<SUP>®</SUP>) values less than 41% for males and 37% for females.
+<P>
+<I>Scopolamine dosage forms</I><BR>
+All formulations were supplied by the flight medicine clinic at the JSC.  The tablet manufacturers were Hope Pharmaceuticals & Eli Lilly & Company.
+<P>
+<I>Treatments</I><BR>
+A 0.8 mg dose of SCOP and a combination dose with 0.8 mg SCOP and 10 mg DEX were administered as tablets or in a gel cap on the morning of the study day after 8-10 h of overnight fasting.  Subject numbers were assigned randomly.
+<P>
+<I>Visual examination</I> <BR>
+Visual testing was administered by a nurse or laboratory personnel.  All vision measurements were taken in the same windowless briefing room after having no less than five minutes of accommodation to the ambient lighting.  Subjects identified their dominant eye after being taught a simple cover-uncover test.  All vision measurements were taken on subjects' dominant eye, with the non-dominant eye covered by an eye patch.  Visual acuity was measured using a Snellen chart held 38 cm from the dominant eye.  Visual accommodation was determined using a Prince Rule, consisting of text of known font size on a card mounted on a slide rule.  Subjects were instructed to hold the Prince Rule to their dominant eye with the text card adjacent to the eye, and to slowly slide the card out until the text is legible, but not yet clear.  All three tests were administered immediately prior to dosing and immediately after ARES had been completed by the subject at 0.5, 1, 2, 8, and 24 hours post dose.
+<P>
+<I>Sample collection</I><BR>
+Blood and saliva samples were collected at 0, 0.25, 0.5, 1, 2, 3, 4, 6, 8, 10, 12, and 24h post dose.  Urine samples were collected pre-dose and as PRN (<I>pro re nata</I>, a Latin term used in medicine that means "as necessary") voids for 24h post dose.  Blood samples (7 ml) were collected into heparinized Vacutainer<sup>TM</sup> tubes from an indwelling catheter (Intracath<SUP>®</SUP>, Becton and Dickinson) placed in the antecubital vein of the arm.  Stimulated mixed saliva samples were collected using Salivettes<SUP>®</SUP> (Sarstedt Inc.).  Blood and saliva samples were centrifuged at 3000 rpm, samples transferred to cryotubes and stored frozen at -70°C until analyzed.  Urine samples were collected into labeled polycarbonate bottles, volumes measured, aliquots (10 ml) stored frozen at -70°C for future analysis, and the remainder discarded.
+<P>
+<I>Sample analysis</I><BR>
+SCOP and DEX concentrations were quantitated using a modified liquid chromatography quadrupole mass spectrometry (LC-MSMS) method.  Plasma and saliva samples were processed by solid phase extraction followed by analysis by positive ion electrospray LC-MSMS; urine samples were diluted 1/100 fold before solid phase extraction.
+<P>
+<I>Pharmacokinetic Analyses</I><BR>
+Plasma and saliva concentration versus time profiles were plotted and PK parameters were calculated by area moment estimation using WinNonlin (software for pharmacokinetic, pharmacodynamic, and noncompartmental analysis). Relevant parameters were compared using both paired t-tests and analysis of variance (ANOVA) to determine differences in PK parameters as a function of treatment.
+<P>
+RESULTS:<br>
+Significant differences were noticed between SCOP administration as a tablet and other formulations included in this study; most significant differences were observed with coadministration of SCOP and DEX.
+<P>
+<I>SCOP Tablets (ST)</I><BR>
+The pharmacokinetic parameter estimates of SCOP given orally are similar to those reported in the literature.  Maximum concentration was 0.26 ± 0.04 ng/mL with time for maximum concentration at 0.71 ± 0.02 h after dosing; these data indicate a fairly rapid absorption rate after oral administration.  Volume of distribution and clearance after oral administration are 47.6 ± 4.72 L/kg and 23.0 ± 4.58 L/h/kg, respectively, both of which were lower than those from earlier reports.
+<P>
+<I>SCOP Gelcaps (SG)</I><BR>
+Time to maximum SCOP concentration was significantly longer when given as gelcap formulation (1.04 h) than when given as a tablet; however, maximum concentrations for both formulations were not statistically different.  No other pharmacokinetic parameter estimates were different from ST.
+<P>
+<I>SCOP-DEX Tablets (SDT)</I><BR>
+The area under the (concentration vs. time) curve (AUC) of SCOP was significantly lower when given with DEX than when given as SCOP tablet; bioavailability of SCOP from SDT was 75% of that from ST.  In addition, both SCOP volume of distribution and clearance were higher with SDT (60.9 L/kg and 25.5 L/h/kg, respectively) than with ST (47.6 L/kg and 23.0 L/h/kg, respectively); however, this could be a result of lower bioavailability from SDT which leads to overestimation of clearance and volume of distribution parameters.  This decrease in relative oral bioavailability may indicate a drug-drug interaction at absorption site.
+<P>
+<I>SCOP-DEX in gelcap (SDG)</I><BR>
+A trend similar to that with SDT was noticed after SDG administration. The AUC of
+SCOP was significantly lower with SDG; bioavailability of SCOP from SDG was only 78% of ST.  The decreased relative oral bioavailability indicates the possibility of drug interaction between SCOP and DEX.  Differences in clearance and volume of distribution of SCOP with SDG and ST were similar to those with SDT and ST. These results indicate that the effects of DEX on SCOP (SDT, SDG) pharmacokinetics and bioavailability are greater than those from gelcap (SG) formulation.
+<P>
+For pharmacodynamic analysis, linear regression analysis was performed between scores from ARES tests and circulating SCOP concentrations using both pooled data from all subjects and individual subject data.  Simple reaction time throughput, a parameter that incorporates both accuracy and reaction time, was significantly (p<0.05) affected by SCOP concentrations from pooled data analysis.  When the data were analyzed subject by subject, performance indices for several tests (reaction time and accuracy for simple reaction and memory related tasks) were found to be significantly affected by scopolamine concentrations.  No uniform trend was observed in performance decrements; however, SCOP-related performance decrements were different among different subjects.  Although DEX has been reported to enhance performance in humans, in this study, no significant differences in performance scores were observed between SCOP and
+SCOP-DEX treatments (p=0.69).
+<P>
+Visual acuity for some individuals, but not for all, was significantly affected by SCOP.  Visual acuity for sensitive individuals was affected by even the lowest concentrations of SCOP. The relationship was sigmoidal, meaning that the effect of SCOP on visual acuity is linear, and therefore concentration dependent.  In lower concentration ranges there is a minimal response, and in higher concentration ranges there is a maximum response.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ROI_SCOPDEX</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Putcha, Lakshmi</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ROI&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/1fht-ar67</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/959a80d7-491c-5c63-8e0a-8e7e72f90c6d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/959a80d7-491c-5c63-8e0a-8e7e72f90c6d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

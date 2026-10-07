@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluation of Space Radiation-induced Myocardial and BM-derived EPC Damage and Assessment of Associated Long-term Degenerative Cardiovascular Risks - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/d1072cb2-808c-50fc-bb61-76f9dda1edf3?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX11AD22G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Evaluation of Space Radiation-induced Myocardial and BM-derived EPC Damage and Assessment of Associated Long-term Degenerative Cardiovascular Risks</h1>
+        <div class="meta-id">Record ID: NNX11AD22G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/d1072cb2-808c-50fc-bb61-76f9dda1edf3?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The main objectives of this study were to determine space radiation-dependent short- and long-term degenerative cardiovascular (CV) risks on the molecular, cellular, and tissue levels in the heart as the primary organ and bone marrow (BM)-derived endothelial progenitor cells (EPC) first, as a primary space radiation target and second, as a possible significant contributor to degenerative CV risks, later on in life. The central hypothesis is that low-dose space radiation-induced DNA damage repair is inefficient in BM-derived EPC and this may lead to increased mutagenesis with subsequent long-term loss of endothelial function of BM-derived EPCs. This may then pose significant degenerative CV risk on physiologic homeostasis in the aging heart and on the regeneration and neovascularization processes in the heart under pathologic conditions such as acute myocardial infarction (AMI). 
+<p>
+This study addressed two high-priority research topics of this specific solicitation and NASA research interests for degenerative risks to the heart -- (1) development of murine models to estimate risks for degenerative heart diseases; (2) determine the progression rates and latency periods for space radiation-related degenerative CV risks as a function of radiation type (proton versus heavy ion), exposure frequency (single versus fractionated), age, and age plus adverse CV event.
+<p>
+APPROACH:<br>
+Comparisons were made between two types of low-dose radiation - proton versus iron and single versus fractionated exposures. In short-term in vitro studies (minutes, hours, and up to 30 days after exposure) investigators evaluated ex-vivo expanded EPCs and cardiomyocytes DNA damage and repair as well as radiation-induced bystander effects (irradiated cells emit signals to "un-hit" cells), angiogenic gene expression in EPCs. In short-term in vivo studies in the heart investigators evaluated acute damage (inflammation and cell death), DNA damage, and repair kinetics. In the long-term studies (3, 6, 9, and 12 months after exposure) investigators evaluated oxidative stress and antioxidant defense in BM-derived EPCs, alterations in several EPC endothelial functions, number of circulating peripheral blood EPCs, and cardiomyocyte contractility. In the last part of the studies investigators assessed CV risks as a result of low-dose radiation plus aging and CV risks under pathological condition -- radiation plus aging plus adverse CV event (i.e., AMI). Here they evaluated post-AMI survival, alterations in cardiac physiology (echocardiography), infarct size, inflammation, cardiac regeneration, neovascularization, and mobilization of EPCs from BM.
+<p>
+SUB-PROJECT 1: <br>
+Title: Delayed Cardiomyocyte Response to Total Body Heavy Ion Particle Radiation Exposure Identification of Regulatory Gene Networks. Background: Understanding the effects of low dose ionizing radiation (IR) for ions of high atomic number (Z) and energy (HZE) on cardiovascular (CV) tissue is important for characterizing the risk of human space exploration. Cardiomyocytes (CM) are the basic contractile cells within the heart, whose contractile function directly influences the pathogenesis of heart disease. Understanding of complex processes that take place in CMs after insults caused by IR, such as proton and HZE particles, is paramount to our understanding of CV system function during and after exploration-type space missions. 
+<p>
+Methodology: Adult (8-9 months old) male C57Bl/6NT mice were exposed to single full-body IR of proton (90 cGy, 1 GeV) or 56Fe, iron particles (15 cGy, 1 GeV/nucleon); 0.15 Gy was delivered using 1 GeV/nucleon iron ions (linear energy transfer-LET ~151 keV per µm) or 0.9 Gy at 1 GeV energy protons (LET ~0.22 keV per µm). Primary left ventricular (LV) CMs were isolated using standard preparation protocol that includes cannulation of the aorta and collagenase digestion followed by a Ca2+ gradient selection, yielding >90% of Ca2+ tolerant CMs. Investigators looked at molecular responses using transcriptome profiling in isolated LV murine CMs to 1H- and 56Fe-IR at 1, 3, 7, 14, and 28 days post-IR using Ingenuity IPA and NIH DAVID programs. 
+<p>
+Main Findings: Unsupervised clustering analysis of gene expression segregated samples according to the IR response, and time after exposure with iron IR showing the greatest level of gene modulation. Little differential transcript modulation was seen in response to whole body proton IR. There were two notable types of upstream regulators – cytokines and transcriptional regulators. Individual transcription factors were inferred to be active at 1, 3, 7, 14, and 28 days after exposure. The activation of several developmental transcription factors, such as TBX5, GATA-4, MEF2C two weeks after 56Fe-IR, strongly suggest initiation of cardio-protective and regeneration responses in 56Fe-IR hearts. To identify time independent changes in biological pathways, investigators also analyzed differences between iron and proton arrays. The top five significant pathways identified were Parkinson’s disease, Alzheimer’s, oxidative phosphorylation, cardiac muscle contraction, and Huntington’s disease, followed by hypertrophic cardiomyopathy and dilated cardiomyopathy. These top five significant pathways shared the majority of transcripts that were involved in mitochondrial and oxidative phosphorylation function illustrating the inter-relationship between the same oxidative phosphorylation genes that play a role in neurodegenerative and cardiovascular disorders/diseases. 
+<p>
+Summary: These data suggest that the molecular response to 15 cGy, 1 GeV/n of iron is unique and shows long-lasting gene expression in cardiomyocytes, up to 28 days after exposure. In addition, proteins involved in signal transduction and transcriptional activation via DNA binding play a role in the response to HZE particles. This study may have implications for NASA’s efforts to develop more accurate heart risk estimates for astronaut safety via identification of specific to HZE IR molecular markers as well as for patients receiving conventional and particle radiotherapy. 
+<p>
+SUB-PROJECT 2: <br>
+Title: Different Sequence of Fractionated Proton and Single Low Dose Iron Radiation Induce Divergent Biological Responses in the Heart. Background: Astronauts are exposed to IR composed of a spectrum of low-fluence protons (1H) and high charge and energy (HZE) nuclei iron (i.e., 56Fe). During GCR each cell in an astronaut’s body is traversed by a 1H about every three days and HZE nuclei about every few months. Hence, the traversal sequence of cells with an ion in space could be random. Therefore, a scenario that a cell in human body may be hit first with several 1H particles then with HZE or an HZE then several 1H should be equally probable. The effect of cosmic IR during and after space flights on cardiovascular (CV) system is unknown. 
+<p>
+Methodology: Investigators evaluated the effect of low-dose fractioned and sequential IR dose regimens in 8-9 month old C57BL/6NT male mice in the following groups: Group 1- control; Group 2 - 1H 17 cGy once every 2 days for a total of 3 doses (fractionated proton); Group 3 – Fractionated 1H 17 cGy once every 2 days for a total of 3 doses followed by a single dose of 56Fe 15 cGy 2 days after the last dose of proton; Group 4 – a single dose of 56Fe 15 cGy/followed by fractionated 1H 17 cGy once every 2 days for a total of 3 doses 2 days after a single 56Fe-IR. The energy for both ions was 1 GeV. Cardiac function was assessed by echocardiography and hemodynamic measurements. To determine the effect of fractionated/sequential regimens of 1H and 56Fe-IR on recovery after an ischemic event, acute myocardial infarct (AMI) was induced by ligation of left anterior descending coronary artery 1 and 3 months post-IR. 
+<p>
+Main Findings: In IR + Aging group, at 1 and 3 months post-IR, fractionated 1H-IR alone or fractionated 1H-IR followed by a single 56Fe-IR did not induce negative effect on post-IR mice survival and cardiac function, and cardiac fibrosis was decreased in mice of these IR groups. However, when a single 56Fe-IR was followed by a fractionated 1H-IR, there were several negative and CV degenerative developments. In this group post-IR survival was decreased by >20% at 1 and 3 months, left ventricular (LV) end diastolic pressure (LVEDP) was increased at 3 months, and LV maximum pressure change (dP/dtmax) was decreased at 1 month; both of which are indicative of negative hemodynamic developments in the heart of the surviving fraction of mice in 56Fe-IR/1H+1H+1H radiation regimen - Group 4. 
+<p>
+In IR + Aging + AMI group, fractionated 1H-IR alone or 56Fe-IR followed by fractionated 1H-IR did not have significant negative effect on post-AMI survival and cardiac function at 1 month post-IR. However, when fractionated 1H-IR was followed by a single 56Fe-IR, there were several negative developments. In this group, at 1 month, there was a 24% decrease in post-AMI survival and a substantial increase in post-AMI cardiac fibrosis. These findings are indicative of significant negative effects for post-AMI recovery after 1H+1H+1H/56Fe-IR regimen in the surviving fraction of mice in Group 3. 
+<p>
+Summary: Taken together, the findings in mixed ion fractionated/sequential IR groups strongly suggest dramatically different biological responses due to diverse sequence and fractionation of 1H versus a single 56Fe-IR. These findings emphasize the necessity to determine underlying molecular mechanisms responsible for this significant mix ion fractionation and sequence-dependent divergent responses in the heart during aging and in case of a possible ischemic cardiovascular event. 
+<p>
+SUB-PROJECT 3: <br>
+Title: Particle Radiation Induced Long-lasting Cyclical Decreases in the Number of Bone Marrow Pregenitor Cells is Associated with Upregulation of Several Pluripotent Stem Cell Markers Over Ten Months Post-IR. Background: Radiation-induced decreases in the number of bone marrow (BM)-derived endothelial progenitor cell (BM-EPCs) and their lineage precursors which include Early- and Late-Multi-Potent Progenitor cells (E-MPPs and L-MPPs) could contribute to the pathogenesis of ischemic and vascular diseases. Investigators examined the effect of full-body single dose of proton (1H) at 0.5 Gy, 1 GeV, and 0.15 Gy, 1 GeV/nucleon of iron (56Fe) ionizing radiation (IR) on survival of multipotent progenitor cell populations. The survival of E-MPPs and L-MPPs in the BM after particle IR in C57BL/6NT mice were determined at 1, 2, 4, 8, 12, 28, and 40 weeks post-IR. 
+<p>
+
+Methodology: Total BM-derived mononuclear cells were triple-stained with FITC-labeled RAM34 antibody (that consists of CD34, c-kit, and Sca1 antibodies), PE-Cy7-AC133, and PE-hematopoietic lineage cocktail, then sorted by Fluorescence Associated Cell Sorting (FACS) analysis for Early-MPPs and Late-MPPs. 
+<p>
+Main Findings: Compared to control mice, 1H-IR increased the number of both E-MPPs (665%) and L-MPPs (203%) by 1 week, whereas 56Fe-IR decreased E-MPP (74%) and L-MPPs (65%) at 1 week post-IR, suggesting an initial stimulation by 1H and “a hefty” damage by 56Fe in the BM milieu. In 56Fe-IR mice, E-MPPs were partially recovered between 4 and 12 weeks but declined again below ~55-70% of control levels between 28-40 weeks. In 1H-IR mice, E-MPPs were close to control levels up to 4 weeks, but declined >50% at 8 and 28 weeks. These long-lasting cyclical effects on the number of BM-derived E-MPPs and L-MPPs suggest the presence of prolonged non-targeted effects in BM milieu. Total RNA isolated from L-MMP cell pellets up to 10 months post-IR to determine the expression of three pluripotent stem cell markers - Sox-2, Nanog and Oct-4. Our targeted gene expression results reveal long-lasting and cyclical (2 and 10 months) upregulation of these Sox-2, Nanog and Oct-4 in Late-MPPs. Without a significant preconceived notion, the decrease in the number of Early- and L-MPPs associated with upregulation of three pluripotent stem cell factors in BM may indicate a significant depletion/loss of stem and progenitor cells in the BM and an activation of endogenous re-programing signaling. The specific mechanism(s) of this phenomenon is not known. 
+<p>
+Summary: These long-lasting and cyclical effects of IR on the BM E-MPPs and L-MPPs after a single 1H or 56Fe IR dose suggest the presence of prolonged and non-targeted effects in BM milieu, particularly in cells that were not traversed by IR directly. The function of the surviving fraction of E-MPPs and L-MPPs and, more importantly, their impact on cardiac homeostasis, cardiac repair, and regeneration, remain unknown. These findings warrant inquiry into the mechanistic studies of the stem cell functions such as, pluripotency and self-renewal, in surviving fraction of BM progenitor cell populations. In addition, future longitudinal studies are necessary to determine whether BM progenitor cell populations may be affected in astronauts after deep space missions as well as after low dose terrestrial IR exposure, such as full body CT and PET scans. 
+<p>
+SUB-PROJECT 4: <br>
+Title: Ionizing Particle Radiation Induce Cyclical Increase in Bone Marrow-derived Endothelial Progenitor Cell Apoptosis. Background: Long-lasting radiation (IR)-induced chromosomal instability has been demonstrated in the bone-marrow (BM) after full body IR with either X-rays or neutrons. It has been shown that after space flights, the numbers of myeloid and lymphoid BM-derived stem and progenitor cells are reduced to just one-half of their normal levels. This result suggests that endothelial progenitor cells (EPCs) may be similarly reduced in the bone marrow milieu. During future exploration-type space missions, astronauts will be exposed to space IR composed of a spectrum of low-fluence protons (1H) and high charge and energy (HZE) nuclei (e.g., 56Fe) for extended time. BM-derived EPCs are critical to endothelial cell (EC) maintenance and repair. The data on the effects of low-dose ionizing space-type particle IR on survival and proliferation of BM-EPCs are limited. 
+<p>
+Methodology: Investigators studied the effects of low dose proton and 56Fe (iron) IR on BM-EPCs in mice and cultured BM-derived EPCs. Adult (8-9 months old) male C57Bl/6NT mice were exposed to a single full-body IR of proton (90 cGy, 1 GeV) or 56Fe particles (15 cGy, 1 GeV/nucleon). Mononuclear fraction of BM cells (MNCs) were isolated from full-body IR mice at 2, 5, 24 hours and 7, 14, and 28 days. The ex-vivo expanded BM-EPCs were obtained by culturing the BM-MNCs for 72 hours in EPC selective culture media. After 72 hours in culture they assessed apoptosis and proliferation of BM-derived EPCs. In the second part of the study, BM-EPCs were obtained from non-irradiated (non-IR) mice and subjected to IR. After 2, 5, and 24 hours, IR conditioned medium (IR-CM) was collected and transferred to non-IR BM-EPCs to test the non-targeted effects in the naïve non-irradiated BM-EPCs. Twenty four hours after incubation with non-IR, control and IR-CM media, the formation and decay of DNA double strand breaks were assessed by p-H2AX staining. The production and accumulation of inflammatory cytokines was measured by enzyme-linked immunesorbent assay (ELISA). 
+<p>
+Main Findings: The results showed that there was a cyclical (early 2-5 hour and delayed 28 days) increase in BM-EPC apoptosis and decreased proliferation after a single, full body, low dose 1H- or 56Fe-IR in mice. In both 1H- and 56Fe IR-CM treated naïve BM-EPCs, the number of p-H2AX foci was significantly increased between 2-24 hours after co-culture, which was associated with 2-15-fold increases in the concentration of inflammatory cytokines such as TNF-alpha, IL-1 alpha, IL-1 beta, MCP-1, and MIP-1 alpha, in IR conditioned media. 
+<p>
+Summary: The data indicate that early, within hours, increase in BM-EPC apoptosis may be the effect of direct IR exposure, whereas late increase in apoptosis and decrease in proliferation could be a result of non-targeted effects in the cells that were not traversed by IR directly. Further, identifying the role of specific cytokines responsible for IR-induced non-targeted effects in BM milieu may allow development of mitigating factors to reduced long-term effects of ionizing particle IR.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX11AD22G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Goukassian, David</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens), Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/d8me-xw50</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2010 Space Radiobiology NNJ10ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/d1072cb2-808c-50fc-bb61-76f9dda1edf3?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/d1072cb2-808c-50fc-bb61-76f9dda1edf3?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

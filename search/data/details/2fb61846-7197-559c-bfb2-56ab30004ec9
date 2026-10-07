@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>An Integrated Framework for Characterization of the Noncoding Genome and Epigenome in Astronauts - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2fb61846-7197-559c-bfb2-56ab30004ec9?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX17AB26G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>An Integrated Framework for Characterization of the Noncoding Genome and Epigenome in Astronauts</h1>
+        <div class="meta-id">Record ID: NNX17AB26G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2fb61846-7197-559c-bfb2-56ab30004ec9?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Massively parallel DNA sequencing continues to provide astonishing insights into the regulatory complexity of the mammalian genome, revealing heritable and <i>de novo</i> occurring risk factors that predispose humans to a wide variety of diseases and disorders. Recently, members of the ENCyclopedia of DNA Elements (ENCODE) Consortium have mapped thousands of non-coding, regulatory elements in the human genome that specify risk and protective sites for many diseases. These non-coding genetic variations show differential impact depending on the epigenetic changes of the genome, including methylation of DNA and chromatin states inside cells.
+<p>
+Investigators plan to examine the impact of these epigenetic changes from space travel using the genetic data acquired from the NASA Twins Study. These data from the NASA Twins Study provide a unique opportunity to generate new computational tools for the integration of the data from these samples and to utilize novel, single-cell approaches for epigenetic states in the human cells taken from space. For this study, investigators will develop a new web-based tool (EpiSuite) to evaluate genetic variation and differential epigenetic states in astronauts. Then, they will validate the results obtained from EpiSuite with those produced by <i>single cell assay for transposase accessible chromatin</i> (scATAC-seq).
+<p>
+This study has the following specific aims:<br>
+<p>
+1. Create a web-based framework for integrating non-coding genomic variation and differential epigenetic states.<br>
+2. Validate the altered chromatin states in cells from space travel and measure the proportion of cells changed with single-cell ATAC-seq.
+<p>
+APPROACH:<br>
+Investigators will create a web-based framework for integrating non-coding genomic variation and differential epigenetic states (EpiSuite) using existing tools for epigenetic analysis (methylKit, eDMR, methclone, g-make, HUGE-Seq, and r-make). This EpiSuite interface and set of machine-learning algorithms will help with ongoing work on the NASA Twins study and aid future investigations that leverage multi-omics data sets from astronauts. These data will also be linked to gene expression data to gauge the impact of genetic and epigenetic changes on specific biological networks. Additionally, EpiSuite will be an open source, and will allow other researchers to use existing data, as well as upload their own results. The code for the program will be deposited into GitHub, and will enable users to view predicted sites, validation status, scripts, raw and processed data from the algorithms imbedded in the tool.
+<p>
+Additionally, investigators will validate results from EpiSuite with those produced using a protocol called <i>single cell assay for transposase accessible chromatin</i> (scATAC-seq), which measures sites of open and closed chromatin on a cell-by-cell basis. This will validate the sites where epigenetic changes are observed and also provide the first estimate of the proportion of cells epigenetically impacted by space travel.
+<p>
+RESULTS:</br>
+Results are not yet available for this investigation.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX17AB26G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Mason, Christopher</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Cell and molecular biology, Omics</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/6bz4-9w14</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Work in progress. Contact LSDA to learn when data is projected to be available for reuse</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2015-16 HERO NNJ15ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2fb61846-7197-559c-bfb2-56ab30004ec9?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2fb61846-7197-559c-bfb2-56ab30004ec9?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

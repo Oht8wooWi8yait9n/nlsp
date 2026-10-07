@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microbial social behavior and heritable genetic or epigenetic changes affected by the spaceflight environment: Understanding the evolution of microbial interactions during spaceflight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/18735c68-acec-5ac3-89c7-4bc8b473af5a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC19K1597</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Microbial social behavior and heritable genetic or epigenetic changes affected by the spaceflight environment: Understanding the evolution of microbial interactions during spaceflight</h1>
+        <div class="meta-id">Record ID: 80NSSC19K1597</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/18735c68-acec-5ac3-89c7-4bc8b473af5a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Microorganisms are important regulators of human health and can impact the function and integrity of human built environments, including the International Space Station (ISS). Microbes within the ISS are constantly exposed and adapted to the unique spaceflight environment which include microgravity, low fluid shear and enhanced radiation. A variety of microbial isolates have been recovered from the ISS, including the potable water system. The ISS Water Recovery System recycles urine, condensation, and wastewater. Astronauts rely on the recycled portable water for survival. Most of the microbes recovered from ISS portable water are known biofilm formers, which can cause infections or damages in system function and integrity, thus can be a serious threat to onboard systems operation and crew health. Therefore, it is critical to understand how microbes in the ISS water system adapt and evolve over time. Microbes naturally exist as mixed-species communities where they actively communicate and interact with neighboring cells. They adapt and evolve over time within the mixed-species populations. While many studies have shown that the spaceflight environment (and ground-based spaceflight analogues) impacts microbial biological processes, most of these previous experiments were based on single-species cultures. It is still unclear how the spaceflight environment influences microbial social behaviors and how their interaction in the mixed-species community contributes to microbial evolutionary processes in the spaceflight environment. Understanding the effects of the spaceflight environment on the changes in microbial social behavior and the associating evolutionary mechanisms will be important for spaceflight design, operations, and astronaut health. It is particularly important in regard to preparation for long-duration life support systems during future exploration missions far from Earth. The goal of this proposal is to determine whether the spaceflight environment is responsible for changes in microbial social behavior in community and evolutionary processes, as well as how the ecological success within the mixed-species population in the spaceflight environment contributes to microbial evolution over time.
+<p>
+The goal of the proposed investigation is to find answers to the following questions:<br>
+1. Is the distinct social behavior of ISS potable water isolates associated with heritable genetic changes?<br>
+2. Is the spaceflight effect responsible for the distinct social behavior of ISS water isolates?<br>
+<p>
+APPROACH:<br>
+The proposal is designed to align the phenotypic social behavior in the population to the genetic analysis through multidirectional comparison studies. The study will include ground and flight experiments, with comparisons before and after spaceflight. Completion of this project will provide evidence of microevolution of ISS potable water isolates associated with interactive social behavior and determine whether or not the spaceflight environment is a key contributing factor that regulates microbial social behavior related genetic changes. Furthermore, this study will advance our knowledge of microbiology in the human Built Environment (MoBE), providing novel insight into how ecological success within the mixed-species population contributes to microbial evolution over time, whether in the MoBE of spaceflight or on Earth.
+<p>
+RESULTS:<br>
+This experiment is currently in progress.  Results will be available at the conclusion of the study.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC19K1597</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Yang, Jiseon</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>TBD Missions</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Bacteria (Sphingomonas sanguinis), Bacteria (Ralstonia insidiosa)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/h464-fp44</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2018 Space Biology (ROSBio) NNH18ZTT001N-FG</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/18735c68-acec-5ac3-89c7-4bc8b473af5a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/18735c68-acec-5ac3-89c7-4bc8b473af5a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

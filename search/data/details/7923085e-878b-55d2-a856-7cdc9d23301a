@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bacteria and Spores - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/7923085e-878b-55d2-a856-7cdc9d23301a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ED31</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Bacteria and Spores</h1>
+        <div class="meta-id">Record ID: ED31</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/7923085e-878b-55d2-a856-7cdc9d23301a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <p>OBJECTIVES: <br>
+Cells are the fundamental building block for all living organisms. The word
+cells was first coined by physicist Robert Hooke during his examination of a
+cork slice under a microscope. Complex organisms such as plants and animals are made of
+many cells that work together. Microorganisms are single cell organisms that are too small
+to see with the naked eye. Microorganisms were first discovered with the invention of a
+microscope by the Dutch scientist Anton van Leeuwenhoek. Leeuwenhoek, who made microscopes
+to count threads in drapery material for his shop in Holland, first described
+microorganisms as animalcules or little animals. Improvements in
+microscopes have greatly increased the knowledge of microorganisms and have led to many
+advances in medicine. However, much is still to be learned about the biological processes
+of microorganisms. The objective of this experiment was to determine the effects of
+microgravity on the survival, growth rates, and mutations of certain bacteria and spores. </p>
+
+<p>APPROACH: <br>
+<i>Bacillus subtilis</i> and <i>Escherichia coli</i> were selected from a group of eleven
+non-pathogenic bacteria species that were screened before the Skylab 2 flight for
+experiment suitability. Originally planned for one flight on Skylab 2, this experiment was
+performed a second time on Skylab 4 to collect additional data. <i>B. subtilis</i> and <i>E.
+coli</i> were grown from broth culture and added to a water solution containing polyvinyl
+alcohol (PVA). PVA kept the bacteria alive but dormant until the experiment was started.
+The PVA solution containing bacteria was transferred to a circular disk of filter paper.
+The PVA suspension polymerized, holding the bacteria forms suspended on the filter paper
+in a viable state. Each disk was covered with aluminum foil for storage until inoculation.
+Bacterial growth was initiated by the insertion of the filter disk into agar-filled Petri
+dishes. Nine of the Petri dishes were placed in an incubator at approximately 95 degrees F
+and six were incubated at ambient temperature of approximately 77 degrees F. The cultures
+were periodically observed and photographed by crew members. Bacteria Petri dishes were
+placed in a food chiller to stop colony growth and preserve the cells for postflight
+analysis. However, the loss of the Skylab heat shield during launch resulted in a 10 day
+period where the maximum ambient temperature that the bacteria inoculum discs were exposed
+to was approximately 120 degrees F. This high temperature may have affected the viability
+of the bacteria. Inoculation of the Petri dishes with the bacterial disc was performed,
+however, and the total incubation time was extended from 48 hours to 69 hours. On Skylab
+4, <i>Bacillus mycoides</i> was substituted for <i>E. coli</i> because of the failure of <i>E.
+coli</i> to grow on Skylab 2. </p>
+
+<p>RESULTS: <br>
+During Skylab 2, colonies of <i>E. coli</i> did not develop and 75 colonies of <i>B.
+subtilis</i> developed following inflight inoculation. Bacteria growth rate was slower
+than expected for the flight cultures, therefore, the incubation time was extended from 48
+hours to 69 hours. In addition, the ground control colonies also experienced a slower than
+expected growth rate. This experiment was repeated on Skylab 4 with <i>B. mycoides</i>
+substituted for <i>E. coli</i>. However, <i>B. mycoides</i>, like <i>E. coli</i>, failed
+to grow colonies on Skylab 4. The slower-than-planned growth rate of both flight and
+ground control colonies was also observed on Skylab 4. In addition, it was observed that
+there was contamination in the Petri dishes. Overall, bacterial control cultures grew more
+colonies compared to the Skylab cultures. However, the colonies that grew on Skylab were
+larger, grew faster, and were more irregular than control colonies. On Skylab 2, <i>B.
+subtilis</i> colonies were 50 percent larger than control colonies. Individual cells grew
+larger in diameter, but did not significantly increase in number. In addition, Skylab
+grown bacteria appeared to be more sensitive to postflight antibiotic treatment.<END> </p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ED31</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Staehle, Robert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Marshall Space Flight Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Skylab</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Microbiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Skylab 2&#x27;], [&#x27;Skylab 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Hay bacillus (Bacillus subtilis) N/A, Bacteria (Bacillus mycoides) N/A, Bacteria (Escherichia coli) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/msfs-t434</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/7923085e-878b-55d2-a856-7cdc9d23301a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/7923085e-878b-55d2-a856-7cdc9d23301a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

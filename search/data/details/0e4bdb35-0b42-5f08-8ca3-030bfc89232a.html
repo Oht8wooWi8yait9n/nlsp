@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Automation Interface Design Tools Development - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/0e4bdb35-0b42-5f08-8ca3-030bfc89232a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>AIDTD</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Automation Interface Design Tools Development</h1>
+        <div class="meta-id">Record ID: AIDTD</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/0e4bdb35-0b42-5f08-8ca3-030bfc89232a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+The addition of automation has greatly extended humans’ capability to accomplish tasks, including difficult, complex and safety critical tasks. The majority of Human - Automation Interaction (HAI) results in more efficient and safe operations; however, certain unexpected automation behaviours, or “automation surprises” can be frustrating and, in certain safety critical operations (e.g. transportation, spaceflight, medicine), may result in injuries or the loss of life. 
+<p> 
+The next generation of space exploration systems will place an increased reliance on automation. Traditional techniques for the design and evaluation of automation interfaces rely on subject-matter-experts, human-in-the-loop testing (i.e. usability testing), guidelines, heuristics and rules-of-thumb. Given the volume and time-line for the development of new automation required for space exploration, the time and cost required to perform these evaluations by human factor experts will be prohibitive. Further, guidelines, heuristics, and rule-of-thumb have previously yielded sub-optimum designs (as they are focused on the interface, not on the process of interaction between human and automation interface. State of the art cognitive science and Human-Automation Interaction (HAI) approaches may provide the type of analysis needed, but are not currently usable by designers without extensive cognitive science expertise. 
+<P>
+The automation design community needs methods that are usable by designers early in the design process to meet the demands for the development and testing of automation required for space exploration. The objective of this research project is to develop a set of methodologies and tools to support the design and evaluation efficient, and robust interaction with automation. The research plan is to integrate existing foundational research results into HAI methods and tools usable by designers. 
+<P>
+APPROACH:<br>
+This work is divided into three areas, with the ultimate goal of developing a suite of tools to support each area. It is important to note that the idea of the project is to develop and evaluate the tools in actual design processes, and the level and type of support and evaluation will be dependent upon the scope and maturity of each design domain. The three areas are organized around an abstraction of the primary focii of the design process. 
+<P>
+Analyze: The first set of methods and tools are intended to help designers to identify, describe and evaluate the different parts of the job. Depending on the stage of the design process, these methods are referred to as work domain analyses, task decompositions, task analyses, knowledge elicitation, and in the later stages, validation. 
+<P>
+Formulate: The second set of methods and tools is intended to bridge the gap from the analysis of the work domain. Specifically, once the structure of the work domain and tasks has been determined, methods and tools are needed to link the task structures to corresponding interface structures that can later be refined and evaluated. We will be drawing upon research from a number of different communities for this effort including ecological interface design and design patterns. 
+<P>
+Build: This set of methods and tools are intended to enable rapid development and evaluation of automation, including the user-interface and the underlying automation behavior. The specific focus of this effort is to develop methods and tools that are usable by designers who are expert in the design domain, but aren’t necessarily formally trained in computer programming, or human performance analysis. We will primarily be using research in formal methods to help support the Build effort. 
+<P>
+RESULTS:<br>
+The outcomes of this research will be methods and tools for the automation of the design and evaluation of the automation interfaces. These tools will provide the means to: (i)meet the demand for analysis required for space exploration development time-line, (ii)enable increased iterative human factors testing of automation prototypes early in the design process (ii) reduce the cost of development by design and testing of proposed systems early in the development life-cycle (iii) reduce the cost of training and the maintenance of proficiency (iv)improve safety (and reduce the costs of inefficiency and unsafe operations) through significant reduction in failure to complete task metrics. 
+<P>
+This research makes contributions at two levels. At one level, the problems of interaction between humans and computers/automation in a particular application domain was addressed. The domain of application was the planning work done by Attitude Determination and Control Officers (ADCO), part of Mission Control for the International Space Station (ISS). At a second, higher level, it was abstracted from this case to suggest a more general method for needs analysis and this was the primary motivation for this research. A brief summary on the ADCO domain follows, before describing the methods and tools that emerged from working on this case. 
+<P>
+A core aspect of this research was a detailed study of the planning work done by ADCO and identification of the work needs that should be supported by software. As the analysis was carried out of the ADCO planning domain, the characterization of the problem was changed. It was realized that rather than focusing on the current tasks and practices, as in Task Analysis, the needs future software should meet were identified. One result of this work was support for ADCO by providing an analysis of ADCO needs. An illustrative prototype designed to better fit these needs was developed.  An experimental study of this prototype, comparing performance to that with the legacy system was conducted. These products are of value to ADCO operators seeking the design of software that is more effective than their current legacy systems. The second, more general result was development of methods and tools for carrying out such analyses. The ADCO domain was used to develop Structure Identification, our approach to needs analysis. Structure Identification was developed to be particularly appropriate for rapid identification of needs for safety critical, technical, information work. Needs analysis based on Structure Identification finds the high-level structure in the work domain and uses this to design the structure of the interaction between the human and computer or automation. A combination of eliciting function information from expert users, identifying candidate structure from documents and functional descriptions, and vetting the developing characterization with experts was relied on. 
+<P>
+Structure Identification contrasts with conducting needs analysis based on Task Analysis; task analysis identifies current tasks, yet a change in the work applications naturally brings with it change in the tasks so that matching the old tasks is not a reliable design guide. Task Analysis can be a helpful approach to identifying structure, but we prioritize identifying the domain structure not the activities. This approach is related to both Work Domain Analysis (WDA) and Contextual Inquiry (CI), in that these also seek to identify stable aspects of work in order to guide design. WDA focuses on identifying constraints, particularly constraints in how a physical system, such as a chemical plant, operates; it is directly applicable to control tasks, but much less applicable to work consisting of finding, transforming, building, and distributing information products. CI methods focus on observing users, typically carrying out office work; this approach is less adequate in highly technical domains where critical aspects of work cannot be understood from watching users. 
+<P>
+The goal was to make needs analysis more efficient and effective. To this end the methods that were developed focused on gathering important information quickly.  We consolidated what we learned to make the methods easier to reuse and to apply to another case, by building simple tools as we carried out the needs analysis for the ADCO planning domain and developed the SI approach. These include templates for gathering high-level function information from experts, templates for presenting the identified structure to experts for verification, and templates for comparing the contents of multiple product documents. 
+<P>
+An additional contribution of the research was a preliminary assessment of Structure Identification. Broadly, whether Structure Identification, followed by Structure Matching from the domain to an application structure, contributes to better design of the application was investigated.  An illustrative study using the ADCO planning domain was conducted. The domain structure was used to guide the design of an experimental prototype for ADCO planning. An experiment was conducted comparing the experimental prototype, which closely matched the domain structure, versus the legacy system, which matched much more poorly. A variety of measures were included, from speed of performance to conceptual understanding and retention of periods of disuse.  Differences in performance on a variety of planning tasks that are detailed analogs of simple ADCO planning tasks were predicted: overall faster performance by users of the new, well-matched system compared to that by users of the legacy, poorly-matching system; and particular performance advantage for the new system at points where the legacy system most mismatched domain structure. It was found that performance times were cut in half for the new prototype vs legacy system on some tasks, accompanied by much lower error rates as well. Further, it was also found the predicted pattern of poor performance at legacy points of mismatch. 
+<P>
+The whole design cycle was run through, from needs analysis through evaluation, in the ADCO domain. This process provided an illustrative case showing the feasibility of this approach. The results from this experiment suggest that capturing and matching domain structure may be an efficient, productive way to guide design of interaction between humans and computers/automation for technical information work. 
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>AIDTD</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Feary, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/2rzt-rr02</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/0e4bdb35-0b42-5f08-8ca3-030bfc89232a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/0e4bdb35-0b42-5f08-8ca3-030bfc89232a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

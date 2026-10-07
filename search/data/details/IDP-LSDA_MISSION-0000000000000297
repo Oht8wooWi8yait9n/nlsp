@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STS-68 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000297?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>STS-68</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>STS-68</h1>
+        <div class="meta-id">Record ID: STS-68</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000297?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          Space Shuttle Endeavour (STS-68) launched on September 30, 1994, carrying six crewmembers, Commander Michael A. Baker, Pilot Terrence W. Wilcutt, Payload Commander Thomas D. Jones, and Mission Specialists Steven L. Smith, Daniel W. Bursch, and Peter J. K. Wisoff.<P>The primary payload on the STS-68 mission was the second flight of the Space Radar Laboratory (SRL-2).  SRL-2 gave scientists highly detailed information that could be used to distinguish between human-induced environmental changes and other natural forms of change.  SRL-2 collected radar images of the Earth's surface for Earth sciences studies, including geology, geography, hydrology, oceanography, agronomy and botany.  This payload was comprised of the Spaceborne Imaging Radar-C/X-Band Synthetic Aperture Radar (SIR-C/X-SAR), and the Measurement of Air Pollution from Satellite (MAPS). The German Space Agency (DARA) and the Italian Space Agency (ASI) provided the X-SAR instrument. <P>The imaging radar of the SIR-C/X-SAR instruments can make measurements over virtually any region at any time, regardless of weather or sunlight conditions. The radar waves can penetrate clouds, and under certain conditions, also can see through vegetation, ice and extremely dry sand. In many cases, radar is the only way scientists can explore inaccessible regions of the Earth's surface.<P>An international team of 49 science investigators and three associates conducted the SIR-C/X-SAR experiments. Thirteen nations were represented: Australia, Austria, Brazil, Canada, China, the United Kingdom, France, Germany, Italy, Japan, Mexico, Saudi Arabia and the United States.<P>The MAPS experiment measured the global distribution of carbon monoxide in the lower atmosphere. Measurements of carbon monoxide, an important element in several chemical cycles, provide scientists with indications of how well the atmosphere can cleanse itself of greenhouse gases' chemicals that can increase the atmosphere's temperature.<P>STS-68 was the first flight of the Biological Research in a Canister (BRIC) small payloads flight project.  BRIC payloads consist of passive experiments contained within a metal canister placed in a middeck locker with foam padding for vibration dampening. BRIC-01 experiments were specifically designed to examine how microgravity affects the developing gypsy moth's diapause cycle, the period of time when the moth is in a  dormant state undergoing development, with the aim of creating sterile moths.  The experiment specimens were exposed to the temperatures, carbon dioxide, oxygen, atmospheric pressure and humidity conditions of the middeck; little to no crew interaction with the payload was required.<P>STS-68 was also the fifth flight of the Chromosome and Plant Cell Division in Space Experiment (CHROMEX-05).  CHROMEX payloads flew in the middeck of the Orbiter and consisted of experiments using the Plant Growth Unit (PGU), which allowed scientists to grow whole plants in orbit.  The plants were allowed to grow for the length of the mission and were analyzed postflight to determine the effects of microgravity and space flight on their reproductive structures; little to no crew interaction with the payload was required.<P>Additional life sciences experiments performed during the STS-68 mission were those classified as Detailed Supplementary Objectives (DSOs).  A DSO is a NASA-sponsored investigation performed by Space Shuttle crewmembers, who serve as the test subjects.  These studies are designed to require minimal crew time, power and stowage.  Biomedical DSOs focus on operational concerns, including space motion sickness, cardiovascular deconditioning, muscle loss, changes in coordination and balance strategies, radiation exposure, pharmacokinetics and changes in the body's biochemistry. <P>The STS-68 mission also provided a continuation of NASA's Get Away Special (GAS) experiments program.  This project gives a person or organization a chance to perform experiments in space on a Shuttle mission. Two universities, North Carolina A&T State University and University of Alabama in Huntsville, and the Swedish Space Corp., Soina, Sweden, flew small self-contained payloads during this mission. Other GAS hardware in Endeavour's payload bay carried 500,000 commemorative stamps for the U.S. Postal Service in recognition of the 25th anniversary of the Apollo 11 Moon landing.<P>Other payloads aboard Endeavour included the second flight of the Military Applications of Ship Tracks experiment to examine the effect of ships on the marine environment, the Commercial Protein Crystal Growth experiment to research the growth properties of protein crystals in microgravity, and the Cosmic Radiation Effects and Activation Monitor to study the radiation environment within the Shuttle.<P>STS-68 landed on October 11, 1994, at Edwards Air Force Base in California.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>STS-68</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1994</td>
+        </tr>
+        <tr>
+          <th>Duration</th>
+          <td>11</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Soybean, Mouse-ear cress, Gypsy moth</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000297?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000297?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

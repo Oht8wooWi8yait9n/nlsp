@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lighting Protocols for Exploration: HERA Campaign - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/458854af-0858-5fca-bab1-a72db205c22d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AM28G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Lighting Protocols for Exploration: HERA Campaign</h1>
+        <div class="meta-id">Record ID: NNX15AM28G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/458854af-0858-5fca-bab1-a72db205c22d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Space flight exposes crews to unusual light-dark and work schedules that lead to misalignment of the circadian pacemaker, resulting in poor sleep, impaired alertness, and increased risk of fatigue-related accidents. Space flight is also associated with short sleep (only approximately six hours per night) and so even in non-shifted settings, such chronic sleep deficiency will lead to impaired performance. Recently, investigators have shown that short- wavelength (blue) light is the most effective wavelength for enhancing alertness and performance directly, and for phase-shifting the circadian pacemaker. Light therefore has the potential to be a safe, non-pharmacological countermeasure to reduce the risk of performance deficits and circadian misalignment during space flight. Using blue light alone, however, is undesirable as it impairs visual function but manipulation of the blue light content of white light has similar benefits, and can optimize visual and non-visual light responses simultaneously.
+<p>
+NASA is replacing the current lighting aboard the International Space Station (ISS) with a new solid state lighting assembly (SSLA), incorporating three pre-determined settings to address different operational needs: 1) white light for general vision; 2) blue-enriched high intensity white light to enhance alertness and circadian adaptation; 3) blue- depleted low intensity white light to minimize alertness prior to sleep. The investigators have developed a Dynamic Lighting Schedule (DLS) which determines when each of these three settings will be used to optimize lighting to improve alertness and performance, reset circadian rhythms and enhance sleep, while maintaining vision. Laboratory-based analog studies of the DLS are ongoing. This study will extend this work to apply the DLS in the Human Exploration Research Analog (HERA) as the next step in examining the feasibility and efficacy of the SSLA system, and to provide the testing necessary to finalize the operational procedures for in-flight testing of the new light aboard the ISS.
+<p>
+In a series of 45-day HERA Campaign missions, investigators will conduct randomized crossover within-subject clinical trials to test the hypotheses that deployment of the DLS, as compared to deployment of a standard, static lighting schedule, and while also maintaining acceptable visual performance and color discrimination for operational tasks, will:<br><ol>
+<li>Significantly improve polysomnographic and subjective measures of sleep latency, sleep quality, and sleep efficiency.
+<li>Significantly improve cognitive performance, subjective alertness and mood, and objective EEG correlates of alertness and enhancement of EEG-derived high-alpha activity.
+<li>Significantly increase the rate of circadian adaptation, as measured using the circadian rhythm of melatonin and its metabolites before and after the shift.</ol>
+<p>
+APPROACH:<br>
+Investigators will study crewmembers during the 45-day HERA mission in groups of four using a within-subject crossover design. The 45-day mission will be divided in half and crewmembers will be exposed to either standard lighting for the first 22 days, followed by the DLS for the second 22 days, or vice versa. Due to operational requirements, each mission will be randomized in a block design to determine which lighting conditions are used first (two missions per order) and therefore all four members of the crew in each mission will be studied with the same protocol. The sleep-wake, light-dark and work schedules will be identical in each half of the mission although the light properties will differ between the two halves.
+<p>
+RESULTS:<br>
+The HERA missions will provide a unique opportunity to conduct ground-based testing in a high fidelity analog that is required to develop guidelines for operational use prior to flight testing. This study specifically targets lighting countermeasures to address circadian misalignment and performance decrements that occur operationally, particularly during a ‘slam-shift,’ which is a common requirement during space missions, and to enhance sleep and alertness during both slam-shift and normal operations. These data will provide a solid biological basis to inform the operational guidelines for in-flight testing of the new light source in time for the fluorescent light replacement. Without such data, future recommendations for operational deployment of the new lighting will be suboptimal.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AM28G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lockley, Steven</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;HERA Campaign 4&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/v1ga-g763</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Work in progress. Contact LSDA to learn when data is projected to be available for reuse</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013-14 HERO NNJ13ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/458854af-0858-5fca-bab1-a72db205c22d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/458854af-0858-5fca-bab1-a72db205c22d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

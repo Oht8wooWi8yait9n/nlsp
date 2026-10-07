@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spacesuit Trauma Countermeasure System for Intravehicular and Extravehicular Activities - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a5d99fb2-73d1-5889-8b54-892993e81e67?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX12AC09G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Spacesuit Trauma Countermeasure System for Intravehicular and Extravehicular Activities</h1>
+        <div class="meta-id">Record ID: NNX12AC09G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a5d99fb2-73d1-5889-8b54-892993e81e67?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Extravehicular Activity (EVA) is a critical component of human space flight. Working in gas-pressurized space suits, however, results in numerous challenges, causing fatigue, unnecessary energy expenditure, and injury. These problems are exacerbated with the additional hours astronauts spend training inside the suit, especially underwater in the Neutral Buoyancy Laboratory (NBL). Although the U.S. has studied space suit performance and improved upon system designs, relatively little is known about how the astronaut moves and interacts with the space suit, what factors lead to injury, and how to prevent injury. The objective of this research is to develop an understanding of how the person interacts with the space suit, and use that information to design personalized solutions to mitigate injury. This will be achieved through the following specific aims. 
+<p>
+Specific Aim 1: Analyze data for correlations between anthropometry, space suit components, and injury. The investigators’ work compiles all known open source injury information from the literature to create an EVA specific database. They then focus on analyzing the most up to date EVA injury database currently used by NASA. The database currently includes information regarding each subject and their selected space suit components. Anthropometric dimensions, spacesuit components, and all recorded EVA injuries will be included in an updated database because a mismatch between body dimensions and suit sizes is hypothesized as a causal mechanism for injury. Data mining techniques will be used to find correlations between anthropometry, suit components, and injury. 
+<p>
+Specific Aim 2: Develop a pressure-sensing garment. The investigators will develop a pressure- or force-sensing garment worn by astronauts inside the space suit. The pressure-sensing garment will be worn to quantify the locations on the body where the person impacts the space suit to move it. This suit is beneficial to many stakeholders, such as spacesuit designers, engineers, researchers, flight surgeons, and exercise and rehabilitation specialists. In our project, the data will be used to determine areas of discomfort and impingement, which are prone to injury. Additionally, the sensing capability can be used determine the effectiveness of protective devices (Specific Aim 4). 
+<p>
+Specific Aim 3: Model human-spacesuit interaction. A human-space suit model will be used to understand the biomechanics of movement in a spacesuit. It will be used to quantify changes between unsuited and suited conditions leading to injury. In addition, the human-space suit model will elucidate the differences in the astronaut biomechanics once suit modifications and protective devices (Specific Aim 4) have been implemented. 
+<p>
+Specific Aim 4: Develop modular protective devices. The ultimate objective of this work is to develop solutions to mitigate injury. The protective devices will alleviate injury prone areas and adjust the person’s placement within the suit to improve suit fit. They will be integrated to the space suit and protective garments can be personalized for each crewmember. 
+<p>
+APPROACH:<br>
+Investigators analyzed data for correlations between anthropometry, space suit components, and shoulder injury. They also analyzed human-space suit interaction during EVAs. The musculoskeletal analysis developed provided new insights into the human musculoskeletal performance inside the space suit, and contributed to the assessment of astronaut health and safety during EVA.
+<p>
+RESULTS:<br>
+Specific Aim 1: Statistical Shoulder Injury Analysis. The first specific aim is to analyze data for correlations between anthropometry, space suit components, and shoulder injury. Four hypotheses were proposed to relate injury to 1) body morphologies, 2) space suit HUT components, 3) training variables, and 4) previous injury. Each hypothesis was confirmed, since for both models variables for each of the first three hypotheses were identified and record of previous injury was associated with the Neutral Buoyancy Laboratory (NBL) model. The major contributions of this work are to: 1) Add quantitative statistical analysis to the causal mechanisms of injury found in the literature. 2) Provide a framework for identifying relevant predictor variables related to injury given the small number of data points, large number of predictor variables, and the differences in their distributions. 3) Identify variables related to injury which can be addressed and resolved through operational changes to training, suit design and accommodation, and identification of higher risk subjects given previous medical history. 4) Propose future areas of study for which additional data may continue to be collected and analyzed, such as HUT sizing information as related to clearance anthropometry.
+<p>
+Specific Aim 2: Experimental Evaluation of Human-space Suit Interaction. Development of a wearable pressure sensing garment. The novel Polipo low-pressure sensing system for extreme environments achieved here has many advantages. With the Polipo human-suit interaction can be measured for the first time through dynamic movement. It can accurately measure low-pressures against the body over underneath the soft-goods. The system of 12 sensors is transferrable between many different people, creating an independent stand-alone pressure-sensing system. Sensors can easily be changed to allow for improved designs or to accommodate different target pressures. The wiring was intentionally designed to achieve the best trade-off between flexibility, resistance, and stretch ability. The system achieves near shirt-sleeve mobility as sensors are moved to accommodate users. It can also be used in conjunction with a high-pressure sensing mat placed over the shoulder to measure loading between the person and HUT. The electronics architecture allows for low power onboard or real-time data collection. The entire system has been designed with extreme environments in mind, where considerations of shock, battery hazards, and material properties in mixed gas environments were minimized to ensure user safety. Finally, it has a cover shirt to slide easily over the system and prevent catching and ensure proper placement. Nearly all requirements were met and those that were not were evaluated for extent of their impact on the system performance. Therefore, this work confirms Design Requirement 1 “A pressure sensing tool will achieve both high wearability and high utility in a space suit environment.” This system could easily be extrapolated to other environments where biomechanics and comfort under load needs to be evaluated, for example, soldier pack accommodation or wearable protective devices for the elderly where discomfort substantially decreases compliance.
+<p>
+Specific Aim 3: Human-Space Suit Interaction Modeling. A new framework has been developed to analyze human-space suit interaction during EVA. The musculoskeletal analysis being developed will provide new insights into the human musculoskeletal performance inside the space suit, and will contribute to the assessment of astronaut health and safety during EVA. Ongoing research includes analysis of data in the MarkIII-suited conditions, together with knee flexion/extension motion capture data from subjects wearing the EMU and MKIII collected at Johnson Space Center. Future work includes refining the space suit model by incorporating EMU torques in other joints, and using a more accurate human musculoskeletal model that contains musculotendon actuators in the upper torso and arms.
+<p>
+Specific Aim 4: Prototype Design. The present injury of astronauts during training and space operations are significant. Some injuries are mild, such as skin being chafed or irritated; others are more severe, such as sprains, torn muscles or ligaments. The preventive protecting system being used today provides the astronaut with foam pads sometimes layered with a rigid Teflon sheet. These vary in thickness depending on the size of the astronauts, and their physical relationship to the space suit. Although this system has proved to be effective, astronauts still report pain, and are getting injured.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX12AC09G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Newman, Dava</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/axn5-8550</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Crew Health NNJ10ZSA003N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a5d99fb2-73d1-5889-8b54-892993e81e67?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a5d99fb2-73d1-5889-8b54-892993e81e67?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

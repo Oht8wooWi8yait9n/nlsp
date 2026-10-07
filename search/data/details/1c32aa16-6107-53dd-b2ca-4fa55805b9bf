@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constellation Program (CxP) EVA Systems Test 1 - Metabolic Costs and Biomechanics of a Planetary Suit - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/1c32aa16-6107-53dd-b2ca-4fa55805b9bf?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>IST_1</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Constellation Program (CxP) EVA Systems Test 1 - Metabolic Costs and Biomechanics of a Planetary Suit</h1>
+        <div class="meta-id">Record ID: IST_1</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/1c32aa16-6107-53dd-b2ca-4fa55805b9bf?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The Constellation Program (CxP) EVA Systems Project Office (ESPO), which is developing design requirements for the next-generation lunar EVA suit, initiated a series of tests, working with the extravehicular activities (EVA) Physiology, Systems, and Performance (EPSP) Project and the Anthropometry and Biomechanics Facility (ABF) aimed at understanding human performance and suit kinematics under a variety of simulated lunar EVA conditions. These studies included matched unsuited controls in an attempt to identify the specific metabolic costs and biomechanics of the prototype Mark III Advanced Spacesuit Technology Demonstrator (MKIII). A primary goal of the overall test series is to provide evidence-based recommendations for suit mass, center of gravity (CG), pressure, and suit kinematic constraints that optimize human performance in partial gravity environments. Results of this test series will also be combined with studies in other lunar analogs to evaluate the effectiveness and limitations of these environments.
+<p>
+The first of these studies, the EVA Walkback Test (EWT), was conducted using the Partial Gravity Simulator, nicknamed, POGO in the Space Vehicle Mock-up Facility (SVMF) at NASA's Johnson Space Center (JSC) and the Mark III (MKIII) spacesuit. The MKIII was used as it represents a suit concept that provides the dynamic ranges of motion considered necessary for a wide variety of planetary tasks. Results from the EWT showed initial estimates for the total metabolic cost of suited locomotion in the reduced-gravity environments of the moon (1/6-g) and Mars (3/8-g) as well as preliminary biomechanical parameters. For this study, Integrated Suit Test-1 (IST-1), the suited conditions had a constant CG location and suit mass while the suit offload (weight), pressure, and suit kinematic constraints (waist rotation mobility locked versus unlocked) were varied to determine their individual effects on lunar ambulation. For unsuited conditions, either the subject’s mass was held constant while the offload was varied or the subject’s weight was held constant while the subject’s mass was varied. 
+<p>
+The purpose of IST-1 was to expand on the initial findings from the energy-velocity tests of the EWT. Specifically, the primary objectives of this test were:<ol>
+<li>Identify the individual contributions of weight, mass, pressure, and suit kinematics to the overall metabolic cost of the MKIII suit in its POGO configuration (121 kg [265 lb], including the mass of the Portable Life Support System (PLSS) mockup and gimbal, 29.6 kPa [4.3 psi]), during lunar ambulation.<br>
+<li> Quantify the effects of the following factors on suited and/or unsuited metabolic rate, biomechanics, and subjective ratings during level ground ambulation at varied speeds:<br>
+a. Suited – varied suit pressure at constant offload, mass, and CG<br>
+b. Suited – varied suit offload (weight) at constant pressure, mass, and CG<br>
+c. Unsuited – varied offload (weight) at constant mass and CG<br>
+d. Unsuited – varied mass at constant offload and CG<br>
+<li> Compare the MKIII at POGO configuration to the MKIII at POGO configuration with the waist bearing locked.
+<li>Develop predictive models of metabolic rate, subjective ratings, and suit kinematics based on measurable suit, task, and subject parameters.</ol>
+<p>
+Beyond the primary objectives, additional scientific and engineering objectives and/or applications of IST-1 data were:<ol>
+<li>Define standard measures and protocols for objectively evaluating future exploration suit candidates and requirements verification of the flight suit.
+<li>Understand specific human performance limitations of the suit compared to matched shirtsleeve controls.
+<li>Collect metabolic and ground-reaction force data to develop an EVA simulator for use on future pre-breathe protocol verification tests.
+<li>Provide data to estimate consumables usage for input to suit and PLSS design.
+<li> Assess the cardiovascular and resistance exercise associated with partial-gravity EVA for planning appropriate exploration exercise countermeasures.</ol>
+<p>
+APPROACH:<br>
+Subjects were recruited from a pool of personnel who typically perform EVA-suited studies for the JSC Engineering Directorate and from the group of astronauts selected to support exploration EVA studies. Suit fit checks in the MKIII suit were performed on a range of subjects, and only those who had good suit fit were considered for inclusion in this study because of potential medical safety issues. From this list, six male astronaut subjects participated in the data collection phases of the study. One additional subject performed the peak oxygen consumption (VO2pk) test, but did not complete the data collection sessions because of poor suit fit. At the time of testing, no available female astronauts properly fit in the MKIII suit.
+<p>
+To compare energy expenditure across the different conditions planned for this test, subjects performed a graded treadmill exercise test to determine their aerobic capacity via measurement of VO2pk. The test began with a 5-minute warm-up at 1.56 m.s<sup>–1</sup> followed by three stages lasting three minutes each on a level surface, starting at 2.68 m.s<sup>–1</sup> and increasing 0.45 m.s<sup>–1</sup> at the start of each new stage. After the third stage, the speed remained the same and the incline on the treadmill surface was increased 3% at the start of each subsequent minute. Subjects continued exercising through these stages as long as possible, to maximal effort. VO2pk and peak heart rate were determined by the highest 1-minute average attained during the test. From the VO2pk, measured levels of energy expenditure during subsequent test sessions can be evaluated as percentages of VO2pk to ensure subject safety and allow valid relative comparisons among subjects. 
+<p>
+Each subject donned the MKIII suit with initial pressure of 29.6 kPa (4.3 psi) and in-suit oxygen concentration of 21% provided via certified breathing air as is customary during EVA test operations with the MKIII suit. Each subject translated on a level treadmill (0% grade) for three minutes at each of the six prescribed velocities while the POGO system provided partial weight relief to simulate lunar gravity. Subjects completed the ambulation trials at each of five different suit pressures: 6.9, 20.7, 29.6, 34.5, and 44.8 kPa (1.0, 3.0, 4.3, 5.0, and 6.5 psi). Varied pressure trial order was balanced. Suit mass was constant at 121 kg in these trials. 
+<p>
+RESULTS:<br>
+The unsuited baseline metabolic cost was consistently the largest component of the model at about 60% of total metabolic cost with the other components variable. The absolute metabolic cost of pressure-volume work at 29.6 kPa (4.3 psi) slowly increased with increasing speeds, but did drop at the fastest speed. The metabolic cost of weight steadily increased as speed increased, but the proportion of metabolic cost plateaued at 14%. As the metabolic cost of weight increased, the cost of the other factors decreased, indicating there are variable trends among the other factors. 
+<p>
+Changes in suit pressure exhibited minimal changes in selected biomechanical variables. Mean peak ground reaction force (GRF) increased with increasing speed, but showed no observable trends with change in pressure. Temporal spatial gait parameters, including percentage of stance time, step width, and cadence, demonstrated no observable changes with changes in suit pressure. The joint ranges of motion for the hip, knee, and ankle showed increases with increasing speed, similar to GRF, but there was no consistent effect in varying pressure.  Overall, these findings suggest that as suit pressure increases, the average joint ROM in the hip, knee, and ankle does not change significantly, which supports the observation that metabolic rate  is essentially unchanged by suit pressure. Different suit designs with different joint designs and sequencing might be affected differently by suit pressure.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>IST_1</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Gernhardt, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Constellation</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Extravehicular Activity (EVA), Biomedical countermeasures, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;EPSP&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4y2z-z810</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/1c32aa16-6107-53dd-b2ca-4fa55805b9bf?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/1c32aa16-6107-53dd-b2ca-4fa55805b9bf?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

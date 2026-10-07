@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Association of Diffusion Tensor Imaging Parameters of Optic Tracts and Cerebral White Matter Tracts with Visual Impairment and Structural Changes of the Eyes and Optic Nerves in Long-Duration Microgravity Exposure - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/5da269a1-67ba-5357-b447-503beb894c68?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX13AH23G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Association of Diffusion Tensor Imaging Parameters of Optic Tracts and Cerebral White Matter Tracts with Visual Impairment and Structural Changes of the Eyes and Optic Nerves in Long-Duration Microgravity Exposure</h1>
+        <div class="meta-id">Record ID: NNX13AH23G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/5da269a1-67ba-5357-b447-503beb894c68?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Some crewmembers on long-duration missions have experienced visual impairment and concomitant anatomical changes in the eye detected by ophthalmoscopy and diagnostic imaging. Some of these changes have been reversible and others have persisted for months or even years, and have included increased optic nerve sheath diameter, tortuosity of the optic nerve, and flattening of the posterior  globe. The optic nerves are direct extension of the encephalon; hence, some of the changes in the eyes and optic nerves may represent changes occurring in the brain. In the terrestrial environment, similar findings have been described in cases of intracranial hypertension.    <p>
+Subtle changes in the intracranial pressure (ICP) can remain undetected if only anatomical-based imaging is used. Advanced MRI technology, often termed functional MRI, allows seeing beyond the gross anatomy to characterize brain pathways and function; these include tools with the ability to detect and image the motion of fluid around the brain tracts, known as Diffusion Tensor Imaging (DTI). DTI is based on the non isotropic (anisotropic) diffusion of water molecules if exposed to large magnetic fields; water molecules diffuse favoring one direction over the others. Through computer algorithms, a "diffusion tensor" is calculated for each volume element (voxel), allowing to identify voxels representing a given nerve fiber tract. One of the advantages of this system is that it can also detect the magnitude of decrease in signal in the anisotropic direction and calculate the fraction of anisotropy (FA) for a tract. Recently, DTI has been used to evaluate white matter alteration in various brain pathologies, including those with elevated ICP. The corticospinal tract (CST) is the pathway most frequently evaluated by DTI in different conditions, and is especially useful in hydrocephalus. For instance, Hattori et al. have shown that patients with idiopathic normal-pressure hydrocephalus (iNPH) have altered microstructures in the CST detected by DTI.    <p>
+Optic nerve tracts have also been studied with DTI for a variety of pathologies such as glaucoma, neuritis, and multiple sclerosis (MS). In a recent study on 104 MS patients, DTI abnormalities (a drop in FA) were found to be present and correlated with both loss of visual acuity and retinal nerve fiber layer thinning. Thus, DTI can provide functional information of the brain tracts and help detect early changes of the brain before they manifest anatomically.  This experiment team suggests that DTI abnormalities are likely to be present in individuals subjected to long-duration microgravity, especially those with prolonged exposure to elevated ICP. Using the proposed technology, the project aims to detect changes in the DTI of the brain in individuals that have been exposed to microgravity and to compare them to preflight imaging and with clinical data and other parameters obtained in the process of crewmember monitoring for ICP elevation. This proposal will initiate the first study to evaluate brain microstructures in astronauts beyond anatomical characterization and CSF dynamics, and may offer much improved understanding of the mechanism of ICP elevation and vision changes in a subset of space crewmembers. Quantitative DTI data may also reflect the long-term cumulative effects of multiple microgravity exposures, which is a critical component of knowledge needed to enable human space missions.
+<P>
+APPROACH:<br>
+ A 3-Tesla MRI protocol will be used to scan the brain of the study subjects using isovolumetric voxels and 20 diffusion tensor directions. One preflight and one postflight data acquisition will be reviewed to consider the degree of persistence of the quantitative DTI changes in the affected areas of the brain and in optic nerves. These findings will be compared to the astronaut’s clinical data and to non-invasive MRI based measurement of intracranial compliance and pressure measurements calculated from the craniospinal CSF fluid dynamics. <p>
+            </p>
+RESULTS:<br>
+Results for this study are currently not available.
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX13AH23G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Riascos-Castaneda, Roy</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/03v9-dq85</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2011 Crew Health NNJ11ZSA002NA</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/5da269a1-67ba-5357-b447-503beb894c68?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/5da269a1-67ba-5357-b447-503beb894c68?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

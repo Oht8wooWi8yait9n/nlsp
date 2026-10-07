@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Investigation of Microgravity Effects on Physiology, Global Gene Expression, and Biofilm Phenotypes of the Caries-Causing Bacterium Streptococcus mutans - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/da0ac4b9-bafa-569e-adb8-7a24aaeedb4b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX13AM09G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Investigation of Microgravity Effects on Physiology, Global Gene Expression, and Biofilm Phenotypes of the Caries-Causing Bacterium Streptococcus mutans</h1>
+        <div class="meta-id">Record ID: NNX13AM09G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/da0ac4b9-bafa-569e-adb8-7a24aaeedb4b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          https://genelab-data.ndc.nasa.gov/genelab/OBJECTIVES:<br>
+Although preventable by fluoridation of water and various dental procedures, dental caries remains one of the most prevalent chronic diseases in the world. The oral bacterium Streptococcus mutans is considered the major etiological agent of dental caries, and displays a remarkable ability to persist as part of dental plaque biofilm on the tooth surface. Traditionally, the approach to maintaining astronaut oral health during space flight missions has been routed in rigorous preventative dentistry. However, in the face of future long-term space flight missions, research and discovery of new methods for maintaining oral hygiene and dental health under a microgravity environment will be required. Recent studies have shown that simulated microgravity exposure can cause increased mandibular and alveolar bone loss and decreased saliva flow, but little research has been dedicated to studying the effects of space flight and microgravity on virulence attributes of oral pathogens such as S. mutans. Therefore, the overall hypothesis of this New Space Biology Investigation proposal is that S. mutans physiology, biofilm formation and/or expression of virulence phenotypes will be altered in response to simulated microgravity conditions, and will be tested in two specific aims: (1) Gene expression profiles and cell physiology of S. mutans will be compared when grown in rotating wall vessels to simulate microgravity and “normal” (1×g) gravity conditions, using RNAseq and metabolomics approaches, respectively; (2) S. mutans biofilm formation on hydroxyapatite (HA) and related virulence phenotypes will be compared when grown under simulated microgravity and normal gravity conditions. The outcomes of this pilot study will serve as a springboard to development of a full Ground-Based Research proposal, focusing on understanding the regulatory mechanisms behind microgravity-specific changes in gene expression, physiology or virulence phenotypes, in the hopes of targeting these for development of future anti-caries therapies that could be easily adapted to space flight.
+<P>
+APPROACH:<br>
+For the experiments in both aims, microgravity conditions were simulated using rotating wall vessels (RWV), bioreactors that maintain cells in a sustained low-shear, low-turbulence growth environment. When the RWV vessel is rotated on an axis perpendicular to the gravitational vector, cells or small spheres within the vessel will remain suspended in solution. Conversely, when rotated on an axis parallel to the gravitational vector, “normal” (1 ×g) gravity conditions are obtained, whereby cells or particles will sediment at the bottom of the vessel. All experiments in this project utilized Rotary Cell Culture Systems designed to rotate High Aspect Ratio Vessels (HARVs) in both perpendicular axis and parallel axis orientations. To minimize the effects of possible carry-over contamination and clogging from build-up of physical debris i.e. hydroxyapatite (HA) powder, disposable HARVs were used in these studies. Growth media used in these studies was either Brain Heart Infusion Broth (BHI, containing 11 mM glucose) or semi-defined biofilm media (BM, containing 11 mM glucose and 10 mM sucrose), as indicated. S. mutans strain UA159 was used for all experiments.
+<p>
+For Aim 1, an “-omics” approach was utilized to study the effects of microgravity on the global transcriptome and metabolism of S. mutans. Both end-point (where separate HARVs were grown undisturbed to defined time points) and continuous (where the same HARV was sampled throughout the experiment) growth curves were performed to determine if major growth differences would be observed between the S. mutans normal gravity and simulated microgravity HARV cultures. End-point HARV S. mutans cultures (both simulated micro-gravity and normal gravity, n=3 independent experiments each) were harvested at 4, 8, and 24 hours growth in BM, and cell pellets and culture supernatants were harvested and stored at -80 C for metabolomics analysis by Metabolon, Inc. Metabolite profiles were obtained from cell pellets and supernatants using untargeted, metabolic profiling on three different platforms [liquid chromatography/tandem mass spectrometry (LC/MS/MS) with and without electrospray ionization (ESI), and gas chromatography-mass spectrometry (GC-MS)]. Duplicate cell pellets from each 8 hour HARV (both simulated micro-gravity and normal gravity, n=3 independent experiments each) were also stored at – 80 C for RNA isolation and DNase treatment. RNA samples were then submitted for analysis, which included an mRNA enrichment step and generation of a library of cDNA template molecules of known strand origin using the Illumina TruSeq Total mRNA Sample Preparation Kit. All sequencing and subsequent data analysis (alignment of reads, differential expression analysis, and statistics) was performed by SeqWright using the Illumina HiSeq Platform. Select genes of interest that exhibited significant expression changes in response to microgravity were also validated in our research lab by performing quantitative real-time PCR on cDNA from the original RNA samples.
+<p>
+For Aim 2, a variety of S. mutans virulence and biofilm-specific phenotypes were evaluated in HARVs (simulated microgravity and normal gravity growth, n=2-4 independent experiments each). These included: (1) ability to form mono-species biofilm on HA powder (determined by CFU/ml of planktonic and HA-associated bacteria); (2) ability to form mono-species (GFP-expressing S. mutans) and dual-species (GFP-expressing S. mutans – RFP-expressing S. gordonii) biofilms on microcarrier beads (determined by CFU/ml and confocal microscopy); (3) quantitative competence assays performed in BHI + 5% horse serum (used to induce natural competence) and in BM media; and (4) oxidative stress assays performed on cells harvested from HARV cultures grown in BM for 4, 8, and 16 hours (determined by %survival in response to challenge with 5 mM hydrogen peroxide).
+<p>
+RESULTS:<br>
+The results from our experiments suggest that S. mutans undergoes changes in metabolism, physiology, and global gene expression during stationary-phase simulated microgravity growth that impact cell aggregation and oxidative stress resistance. Defining the exact regulatory circuits and contributions of these differentially regulated genes to the ability of S. mutans to survive and adapt to LSMMG and spaceflight environments will help in the development of treatment and control strategies to combat the caries potential of this pathogen. Furthermore, these studies may provide insight into the response of S. mutans to low-fluid shear encountered in the oral cavity. Our future research efforts will focus on assessing S. mutans biofilm formation during simulated microgravity growth using culture conditions more closely mimicking the oral cavity (i.e., artificial saliva media and periodic pulsing of sucrose addition), as well as growth of S. mutans as part of a mixed-species biofilm consortium.
+<p>
+For Aim 1, detailed analyses of S. mutans HARV growth, and the metabolomics and RNAseq results are complete. There were not major differences in S. mutans growth observed between normal gravity and simulated microgravity end-point HARV cultures, although they did display macroscopic differences in cell-cell aggregation structures at early stationary phase (8 hrs growth). For the continuous HARV cultures, the simulated microgravity culture appeared to enter stationary phase slightly earlier than the normal gravity HARV culture. In the metabolomics experiment, 286 and 250 biochemicals were detected in the cell pellets and supernatants, respectively. However, it appears that only subtle differences in the metabolite profiles were observed between the normal gravity and microgravity conditions at each of the 4, 8, and 24-hour time points. These results also indicated that time had much more of a significant impact on global metabolism than growth under the different gravity conditions. For RNA-seq differential expression (DE) analysis, 155 genes were significantly up-regulated = 2-fold and 94 genes were significantly down-regulated = 2-fold in the microgravity growth condition relative to the normal gravity condition. A subset of these genes was chosen to validate the dataset by qPCR, and these tested genes follow the same pattern of DE changes as observed in the RNA-seq data. These DE genes have been assigned to functional groups using gene annotations and DAVID tools, and the metabolic gene expression changes have been analyzed using a “paint-omics” and pathway enrichment type tool via BioCyc.
+<p>
+For Aim 2, detailed analysis of the results is complete. It has been determined that competence (ability to uptake exogenous DNA) was not affected by simulated microgravity growth in both BHI and BM media at the time point tested. However, some competence genes were differentially regulated in the RNA-seq analysis, which was performed in BM at a later time point of growth (8 hours). Cells isolated from simulated microgravity HARV cultures were more sensitive to H202-killing at stationary phase (16 hrs growth), but not at the earlier time points. HA biofilm experiments revealed that HA-associated biofilm cells were not altered by simulated microgravity growth (as measured by CFU), but increased CFU were observed in the corresponding planktonic bacteria during simulated microgravity growth in HARVs. A similar result was also observed when S. mutans biofilms were grown on microcarrier beads in microgravity HARVs. S. mutans and S. gordonii were capable of forming dual-species biofilms when grown on microcarrier beads in normal gravity and microgravity HARVs. Confocal microscopy data indicates that similar biofilm structures formed under each HARV growth condition.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX13AM09G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rice, Kelly</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Microbiology, Omics</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Bacteria (Streptococcus mutans)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/e58e-f308</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2012 Space Biology NNH12Z</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/da0ac4b9-bafa-569e-adb8-7a24aaeedb4b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/da0ac4b9-bafa-569e-adb8-7a24aaeedb4b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

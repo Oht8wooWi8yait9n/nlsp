@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mir Interface to Payloads System (MIPS) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000065?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>653</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Mir Interface to Payloads System (MIPS)</h1>
+        <div class="meta-id">Record ID: 653</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000065?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Mir Interface to Payloads System (MIPS) provided a common software and hardware interface for US provided experiment hardware to the Mir data systems; allowing telemetry down-link, limited command up-link, and time inputs.  There were three types of MIPS:  the Shuttle Acceleration Measurement System (SAMS) MIPS (referred to as MIPS-1), the Core Module MIPS (MIPS-2), and the Spektr Module MIPS (MIPS-3).  Each consisted of a portable laptop computer, an input/output (I/O) controller (referred to as the MIPS Controller), and an optical disk storage system.  Laptop computers and cables were launched and stowed in Standard Interface Adapter (SIA) drawers on board the Spektr module.
+<P>
+MIPS-1<BR>
+The MIPS-1 system provided data collection and timing control for the SAMS experiment.  It also provided data collection and archival capabilities for the Tissue Equivalent Proportional Counter (TEPC).  Both of these investigations were in flight well before the Shuttle-Mir Science Program-2 (SMSP-2) payloads.  Additional information on the MIPS-1 system components is not available.
+<P>
+MIPS-2<BR>
+The MIPS-2 system interfaced American experiments and the Mir Housekeeping System (EVN) with the Mir Space Station Core Module and consisted of a portable laptop computer (MIPS-2L), an I/O Controller Box (MIPS-2C), and an optical disk storage unit attached to the MIPS-2C.
+<P>
+The MIPS-2 laptop computer (MIPS-2L) provided an information system on Mir used for interfacing experiments that require data handling, data storage, and processing of software.  It was a portable unit (with some restrictions) and was attached to a location by means of Velcro.  MIPS-2L was an IBM 750C Thinkpad with an Intel 486SL 33 MHz microprocessor, a 2.5 inch removable hard disk drive and a 3.5 inch removable floppy diskette drive.  The user interfaced with the laptop via the keyboard (Cyrillic characters were engraved on the keysets), a pointing device, and a display.  The Video Graphics Array (VGA) display featured a Liquid Crystal Display (LCD) with 256 colors, 640 by 480 resolution, and brightness and contrast controls.  External interfaces included a serial connector (RS-232), a parallel connector (DB-25), an external input device connector, an external display connector, and a Personal Computer Memory Card International Association (PCMCIA) slot which accepted one or two PCMCIA cards.  The PCMCIA card was a solid state memory card, the size of a credit card, which could be replaced on orbit.  It also had a headphone jack and microphone/line-in jack that supported a dynamic microphone or self-battery-powered condenser microphone.  The laptop's 240-pin, 16 bit Advance Technology (AT) bus connector was available for system expansion.  The laptop weighed approximately 3 kilograms (kg).
+<P>
+The MIPS-2C controller provided a means to archive data, transfer data and interfaced with the Mir Telemetry System (TMS).  Interfacing to the Mir occurred for three functions: down-linking experiment data, receiving commands and collecting Mir housekeeping data.  The Housekeeping System (ENV) interface provided data including air temperature, gas pressure and content, Core Module bus voltage and total current.  The telemetry interface was used for down-linking data from the Mir to ground.  Down-linking was available for approximately 5 to 10 minutes during every 90 minute orbit.
+<P>
+The MIPS-2C controller was a sheet metal chassis with Velcro strips on the back and bottom for mounting to the Core Module.  The front panel contained data and power connectors.  A PCMCIA drive was located on the right hand side of the chassis.  The chassis contained a card cage that could hold 8 full length PCMCIA cards, power stack, External Machine Interface (EMI) input filter, thermal cutoff switch, and backup battery for the Single Board Computer (SBC) memory.  The card cage was mounted on a plate for easy assembly.  Two fans on the left side of the chassis vented the unit of heat generated during use.  The fans were powered by 12 VDC and were thermostatically controlled.  The MIPS-2C controller chassis was 45.7 x 35.6 x 15.9 centimeters and weighed 10.7 kg.  The requirements for the MIPS-2C controller were based on experiments for the following disciplines:  cardiovascular, neuroscience, behavior and performance, hygiene, sanitation and radiation, metabolic, and microgravity.
+<P>
+The MIPS-2C controller was based on an Intel 80386 Single Board Computer (SBC).  The SBC controlled the data flow into and out of the controller.  The SBC provided a parallel port, Small Computer Systems Interface (SCSI) port, and two RS-232 ports.  The SCSI port was used to connect the controller to the Optical Disk Drive.  The RS-232 port was used to connect the MIPS-2 computer to the controller for operator interface, data display and download, and to set the time of the controller.  A Data Acquisition and Control (DA&C) board provided 32 differential analog to digital channels, 8 digital input lines and 2 digital to analog channels.  An Ethernet board provided a network channel.  Two custom boards provided the interfaces to the Mir Telemetry and Environmental Systems.  The PCMCIA drive substituted for a floppy drive and the cards held the programming for the MIPS-2C controller.
+<P>
+The Magneto-Optical Drive, a separate item in a rugged enclosure, was used to store all experimental data, and environmental data from the Mir Housekeeping System.  The Magneto-Optical Drive, manufactured by Mountain Optech, was a read/write optical drive with removable 1.2 GB disk cartridge that was switched out by the astronauts at predetermined time intervals.  Power was provided to the drive by the MIPS-2C controller via the auxiliary power output connector.
+<P>
+MIPS-3<BR>
+The MIPS-3 system interfaced American experiments with the Mir Space Station Spektr Module and consisted of a portable laptop computer (MIPS-2L), and an I/O Controller Box (MIPS-3C) with an internal optical disk drive.  The laptop computer used with the MIPS-3 system was a separate item but identical to the MIPS-2L unit.
+<P>
+The MIPS-3C Controller provided a means to archive data and transfer data to the Standard Interface Adapter (SIA) rack controller for eventual down-link through the Mir Telemetry System.  MIPS-3C fit in a Standard Interface chassis in the Spektr Module and was powered from the SIA.  The front panel contained data connectors, an optical drive and a PCMCIA drive.  The optical disk drive was built into the chassis.  The chassis contained a card cage that could hold 8 full length PCMCIA cards, power stack, External Machine Interface (EMI) input filter, thermal cutoff switch, and backup battery for the Single Board Computer (SBC) computer memory.  The card cage was mounted on a plate for easy assembly.  The fan on the back panel vented heat generated during use.  The fan was powered by 12 VDC and was thermostatically controlled.  The MIPS-3C controller was 48 x 63 x 18 centimeters and weighed 22.6 kg.  The requirements for the MIPS-3C controller were based on experiments for the following disciplines:  cardiopulmonary, neuroscience, behavior and performance, radiation, metabolic, and microgravity.
+<P>
+The MIPS-3C controller was based on an 80386 Single Board Computer (SBC).  The SBC controlled the data flow into and out of the MIPS-3C controller and provides a parallel port, Small Computer Systems Interface (SCSI) port, and two RS-232 ports.  The SCSI port was used to connect the SBC to the optical disk drive.  The RS-232 port was used to connect the MIPS-3 computer to the controller for operator interface, data display and download, and to set the time of the MIPS-3C controller.  A Data Acquisition and Control (DA&C) board provided 32 differential analog to digital channels (16 unfiltered and 16 filtered), 8 digital input lines and 2 digital to analog channels.  An Ethernet board provided a network channel to the SIA rack controller.  A time generator board provided commercial and modified Inter-Range Instrumentation Group Standard B (IRIG-B) output.  An IEEE-488 board allowed data to be sent to the SIA rack controller for data down-link to the ground.  The PCMCIA drive substituted for a floppy drive and the cards held programming for the MIPS-3C controller.
+<P>
+The Magneto-Optical Drive, manufactured by Mountain Optech, is a read/write optical drive with a removable 1.2 GB disk and was used to store experiment specific data.  At predetermined time intervals, it was switched out by the astronauts.  A small section of the critical data was sent to the SIA Rack Controller's Mir Telemetry System to be down-linked for verification of experiment functionality.  The characteristics of experiments and the data to be down-linked were defined in the software of each experiment.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Mir Interface to Payloads System (MIPS)</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>Mir 18, Mir 19, Mir 23, Mir 24, Mir 97, NASA 2, NASA 3, NASA 4, NASA 5, NASA 6, NASA 7, STS-71</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Crewmember and Crew-Ground Interactions During NASA-Mir; Evaluation of Skeletal Muscle Performance and Characteristics; Eye-Head Coordination During Target Acquisition; Human Circadian Rhythms and Sleep in Space; Inflight Radiation Measurements; Microgravity, Sleep/Wake Immune Functions (SWIF) in Humans; Sleep and Vestibular Adaptation; The Effects of Long Duration Space Flight on Gaze Control</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>Version Used During the Mir 18 and Mir 19 Missions; Version Used During the NASA-Mir Missions</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000065?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000065?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

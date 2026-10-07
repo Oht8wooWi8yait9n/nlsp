@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mitigating Neurobehavioral Vulnerabilities to Space Radiation (Postdoctoral Fellowship) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/0cd529ca-8405-53f4-8feb-52f41d925095?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958PF02602</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Mitigating Neurobehavioral Vulnerabilities to Space Radiation (Postdoctoral Fellowship)</h1>
+        <div class="meta-id">Record ID: NCC958PF02602</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/0cd529ca-8405-53f4-8feb-52f41d925095?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+To assess the likelihood of space radiation producing long-term functional changes in the CNS, neurobehavioral functions are being measured in rodents via an animal test analogous to 'vigilance' tests in humans. Cognitive neurobehavioral functions relevant to astronaut mission performance effectiveness are assessed with a rodent analog of the Psychomotor Vigilance Test (PVT) currently used in space analog environments and by astronauts aboard the International Space Station (ISS). Neurobehavioral functions examined include assessments of general motor function and speed, vigilance, memory, inhibitory control ('impulsivity'), timing, motivation, and basic sensory function. 
+<p>
+Specific Aims:<br>
+1: To determine the degree to which radiation-induced deficits in neurobehavioral function differ as a function of basal dopaminergic tone.<br> 2: To determine the radioprotective effectiveness of dietary flaxseed (FS) to mitigate the deleterious effects of low-dose proton radiation on neurobehavioral function. <br> 3: To determine DAergic and inflammatory protein levels in radiation-induced, neurobehaviorally-impaired rats and in radioprotectant-treated rats. <p>
+APPROACH:<br>
+Groups of animals with inherent differences in dopamine system function were trained on the rodent version of the PVT, following which they were exposed to radiation and then re-tested periodically for up to five months post-exposure to assess potential performance deficits. In an upcoming study, separate groups of animals will be given an experimental diet supplemented with flaxseed and will undergo the same behavioral testing using the rPVT. Likely mechanisms of damage to the CNS following radiation exposure and flaxseed treatment are being examined using Western blotting of proteins relevant to neurotransmitter function and inflammation.
+<p>
+RESULTS:<br>
+Radiation-induced changes in rPVT performance in the Fischer 344 and Lewis rat strains was accompanied by differential cytokine expression in the frontal cortex. Interestingly, two of the cytokines elevated in the Lewis rats, the strain that did not display any radiation-induced rPVT deficits, are cytokines reported to decrease cognitive impairments in animal models of Alzheimer's disease and ischemic injury. Given these results, CNTF and GM-CSF could be possible candidates for treatments for radiation-induced cognitive deficits in future studies. Radiation-induced changes in rPVT performance were evident in rats supplemented with a 10% flaxseed diet. However, these rats recovered from the radiation-induced rPVT deficits by the end of post-radiation testing period, whereas irradiated rats receiving a control diet had rPVT deficits that remained throughout the post-radiation test period. Quinpirole, a D2/3 receptor agonist, and amisuplride, a D2 receptor antagonist, had differing effects on behavioral performances of rats exposed to 56Fe that were related to their performances on the rPVT following exposure. Rats displaying no rPVT deficits following exposure were more sensitive to the behavior-decreasing effects of quinpirole; rats displaying rPVT deficits were more sensitive to the behavior-increasing effects of amisulpride. These data demonstrate the importance of the dopamine system in individual behavioral differences following irradiation. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958PF02602</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Davis, Catherine</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition, Radiation biology, Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/3e2m-cg91</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2011 NSBRI-RFA-11-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/0cd529ca-8405-53f4-8feb-52f41d925095?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/0cd529ca-8405-53f4-8feb-52f41d925095?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

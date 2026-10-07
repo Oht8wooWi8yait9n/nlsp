@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monitoring of Bone Loss Bio-Markers in Human Sweat: A Non-Invasive, Time Efficient Means of Monitoring Bone Resorption Markers under Micro and Partial Gravity Loading Conditions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/b29d2596-b729-5bf2-b348-3ec478de2b1b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX08AQ37G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Monitoring of Bone Loss Bio-Markers in Human Sweat: A Non-Invasive, Time Efficient Means of Monitoring Bone Resorption Markers under Micro and Partial Gravity Loading Conditions</h1>
+        <div class="meta-id">Record ID: NNX08AQ37G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/b29d2596-b729-5bf2-b348-3ec478de2b1b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR> Loss of bone mass, density and structural integrity is a significant health risk in a variety of populations such as the elderly, post-menopausal women, young female athletes and astronauts. Such changes in overall bone quality lead to a greater risk of bone fracture and potentially a reduced rate of bone healing after injury. The ability to monitor biomarkers of bone remodeling (e.g. ionized calcium, collagen cross links) using sweat as an analytical sample provides an attractive alternative to the more invasive and costly measures presently employed, such as a bone density scans by DXA, 24-hour urine collection protocols or whole blood analyses. <P>
+The development of a non-invasive, skin-mounted monitoring device which allows the quantitation of ionized calcium and/or collagen cross links in sweat will allow bone loss to be monitored in a wide variety of terrestrial populations that to date have not easily been monitored outside of a clinical setting. This particular project focuses on validating the concept that sweat analysis can be used as a non-invasive means of monitoring bone loss in crew members during periods of mechanical unloading under altered gravitational conditions. In addition, this project is also investigating the best technical approach to collecting a sweat sample, specifically applicable to the space-flight environment, while utilizing well-accepted, clinically validated analytical methods. Development of a technology capable of real-time monitoring of biomarkers of bone loss that satisfies the criteria required for use in the space-flight environment (i.e. non-invasive/non-intrusive, passive, small, light-weight, low power) has many direct applications in various populations here on Earth.
+<P>
+APPROACH:<BR>
+The team was tasked with validating that the rate and extent of unloading-induced bone loss in humans can be assessed by monitoring the levels of two bone resorption markers in sweat, namely ionized calcium and collagen break-down products. Initial testing was carried out in a young healthy population (at rest and during activity) and then in a clinical population undergoing active bone loss, namely spinal cord injury patients. All groups included both male and female participants. Biomarker concentration was determined in contemporaneous samples of sweat, blood, and urine collected during both short (24 hour) and long-term studies (multiple sessions over a period of months) to define the relationship between biomarker levels in the respective biological samples. Several different sweat collection techniques were investigated to determine the most appropriate and efficient means of sample collection suitable for deployment during a space flight mission. These experiments also included investigation of the most appropriate biomarker analysis techniques that allow for future deployment in micro- or partial gravity environments. This near-real-time monitoring approach also provided the information required to justify modifying an ineffective bone loss countermeasure prescription during a mission. One of the approaches tested was a novel, micro-fabricated fluid collection capillary array, known as the micro-fabricated sweat patch (MSP) device, specifically developed for use in microgravity. The MSP technology was initially developed because of its potential to become an autonomous, solid-state collection/analysis device worn on the skin of an astronaut requiring little or no crew interaction to perform its monitoring function.
+<P>
+RESULTS:<BR>
+Initial studies indicate significant individual variation in the amount and rate of sweating observed between subjects based on: 1) the anatomical site sampled (i.e. forehead, shoulder, forearm); 2) level of activity (i.e. "active" sweating during exercise; and 3) the concentration of biomarkers relative to the onset of "active" sweating. In addition, the existing sweat collection technology previously employed to collect sweat (i.e. commercial absorptive pad) exhibited significant analytical issues based on sub-optimal analyte retention and analyte extraction efficiency. To overcome these difficulties investigators developed a standardized sweat collection protocol in which subjects performed a defined exercise protocol at a fixed level of intensity (i.e. 30 minutes of aerobic exercise at an intensity of 40 percent of their age-predicted VO2max) under similar environmental conditions and hydration status. Sweat samples were collected at the forehead using micro-fabricated polymer capillary arrays which collect sweat as an unadulterated liquid sample. This approach allows both determination of the volume of sweat produced and has the advantage of minimal residual analyte retention within the array due to its polymer construction, unlike the commercially available absorptive sweat collection technology. 
+<P>
+Sweat samples were initially collected at discrete time intervals to determine when during exercise-induced sweating did biomarker concentration reach "steady-state" levels. These experiments indicated that biomarker concentrations (i.e. Ca2+ and T-CCL) in "active" sweat reached a "steady state" after 15 minutes of exercise regardless of the volume of sweat produced by a particular individual. In addition, analyte concentration (i.e. T-CCL) in actively produced sweat was found to be highly correlated (R = 0.92) with plasma levels of the same analyte during the period sweat was being collected. However, comparison of analyte concentration produced during actively produced sweat and 24 hour urine voids in the same individual indicated, indicated that although related in a linear fashion (R = 0.61), sweat analyte excretion during the 15 min period of exercise was not predictive of total 24hr urine analyte excretion. As 24 hour urine void collection provides an integrated value for whole body biomarker excretion rates, comparison of the amount of biomarker excreted during a 15 minute period of “active” sweating from 7.5cm of skin surface at the fore-head appears inappropriate as a means of predicting total calcium and T-CCL excreted in a 24 hour urine void.
+<P>
+The team investigated the accuracy of the existing commercially available absorptive patch sweat collection technology with regard to analyte concentration relative to unadulterated liquid sweat samples collected in a contemporaneous fashion at the same anatomical site. These data indicated that the cellulose matrix of the commercially available absorptive patch posed significant analytical problems.  These issues were that the cellulose matrix: 1) contained significant amounts of endogenous calcium signal; 2) resulted in significant retention of sweat-derived T-CCL that could not be extracted from the matrix using the standard method (i.e. extraction in ddH2O); and 3) that extraction efficiency from the matrix was variable between identical samples. To address these analytical issues during Year 2 of these projects, investigators studied the use of two new absorptive materials, a glass fiber material and a polypropylene woven material, for the collection of sweat over a 24 hour period. Their initial experiments focused on the extraction efficiency of four bone loss biomarkers of interest, namely calcium, T-CCL, NTx and osteocalcin (OST). They also modified the extraction protocol to utilize acidified ddH2O (pH 5.0) or a Tris buffer (pH 5.0) to enhance the solubility of these biomarkers in the extraction buffer and reduce ionic interactions within the matrix of the absorptive material. Unlike the original commercially available cellulose absorptive pad technology, efficient recovery of known amounts of all analytes was achieved using our modified extraction method from both the glass fiber and woven polypropylene materials.
+<P>
+Glass fiber absorptive pads (7.5cm2 in area) and the modified extraction protocol were used to collect sweat samples from a total of 18 normal healthy subjects over a period of 24 hours at three separate anatomical locations: shoulder, hip and forearm. 24 hour urine voids were also collected from these subjects during the same 24 hour period. When the total amount of calcium excreted in sweat over a 24 hour period into a 7.5cm2 glass fiber absorptive pad was compared to the total amount of calcium excreted in a 24 hour urine void obtained from the same individual, results indicated that there is a near linear correlation between the two values in sweat collected from the shoulder (R = 0.90) and forearm (R=0.86) and contemporaneous 24 hour urine voids. A similar relationship between 24 hour sweat T-CCL and 24 hour urine void T-CCL levels was observed at the shoulder (R = 0.99) in a subset of these subjects (N=6) for which this analysis has been completed. Data indicate that calcium and T-CCL levels detected in 24 hour sweat samples are highly correlated with levels detected in 24 hour urine voids from healthy individuals, suggesting that bone loss biomarker concentration in the criterion sample (i.e. 24 hour urine void) can be accurately predicted from that found in a sweat sample collected over the same 24 hour period using an absorptive pad technology.
+<P>
+The project then focused on validating this approach to monitoring bone loss biomarkers in a terrestrial population undergoing active bone loss (a clinical population of spinal cord injured patients). In addition, the team also developed a new protocol suitable for deployment on-orbit for the extraction and collection of analytes from the absorptive sweat patch based on the Salivette technology previously validated for use on-orbit. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX08AQ37G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Clarke, Mark</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Skeletal physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/mq49-kv52</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2007 Crew Health NNJ07ZSA</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/b29d2596-b729-5bf2-b348-3ec478de2b1b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/b29d2596-b729-5bf2-b348-3ec478de2b1b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

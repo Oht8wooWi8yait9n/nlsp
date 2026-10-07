@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adaptation in Artificial Gravity - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/bc245784-6093-5612-9dc0-68d42fb51e59?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NAG91483</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Adaptation in Artificial Gravity</h1>
+        <div class="meta-id">Record ID: NAG91483</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/bc245784-6093-5612-9dc0-68d42fb51e59?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+Many of the space flight-related deleterious physical effects on the human body associated with space flight are caused by a lack of gravity.  For years, researchers have sought to design artificial gravity for use during space flight to reduce or eliminate inherent physiological risks, such as degeneration of the skeletal, muscular, cardiovascular, and sensorimotor systems.  One practical method of providing artificial gravity during space flight is to design a rotating chamber that generates a centrifugal force on the astronaut's body.  An understanding of the limits of the ability of the human to adapt and function within a rotating environment is needed to design an effective rotating artificial gravity chamber. <p>
+The goals of this experiment were threefold:  1) to determine whether individuals can be trained to move between stationary and rotating environments without exhibiting errors in arm movement control, 2) to enhance the ability to use tools and move objects in rotating environments, and 3) to determine whether mechanical disturbance of movement pathways can be used to preadapt astronauts to the centrifugal forces that they would encounter in a space vehicle rotating to generate artificial gravity. <p>
+APPROACH: <br>
+The corresponding aims of this study were:  1) to measure the acquisition of dual adaptation of arm movements to rotating and non-rotating environments, 2) to measure disruption and restoration of object transport accuracy as a function of background gravitoinertial force level, and 3) to determine whether adaptations to mechanical and to centrifugal disturbances of reaching movements show transfer and can be substituted for one another.  The study was conducted in a slow rotation room that was manipulated by robotic action. <p>
+RESULTS: <br>
+<i>Specific Aim 1</i><br>
+The investigators found that when subjects are initially exposed to a rotating room the Coriolis forces generated when they attempt a reaching movement causes large errors in the endpoint and path of the movement. The dominant models of movement control had predicited there would be no endpoint errors. Similar errors occur for other types of movements – leg movements, head movements, whole body movements. They found that 10-20 reaching movements in a rotating environment is sufficient to restore accurate reaching movements to a visual target. Earlier work had suggested that many orders of magnitude more movements would be required. The magnitude of initial reaching errors increases monotonically from room speeds of 5 to 30 rpm, and there is rapid, complete adaptation at all speeds. 
+<p>
+It was shown that adaptation is extraordinarily rapid if subjects are given a spatial goal or target to attain rather than just make random arm movements. Investigators also found that if subjects in a rotating environment stand passively, they do not show post-rotation postural aftereffects. However, if they voluntarily sway they rapidly adapt to the Coriolis forces generated by their movements and show large aftereffects post-rotation. The key to postural adaptation is - as with the arm – having spatial goals. 
+<p>
+Subjects who have adapted to one speed of rotation can be switched to other rates of rotation and maintain good accuracy. Once they are exposed to a new rotation speed their first reach is in error and subsequent reaches are again accurate. It is as if the first reach serves as a probe keying the CNS to the rotation rate and allowing corrective adjustments to be made. 
+<p>
+<i>Specific Aim 2 </i><br>
+When subjects make reaching movements during passive body rotation that the way in which they adapt depends on the presence or absence of contact cues on the hand. If subjects reach with their hand free, then normal movement paths and accuracy will be regained within 20 movements. However, if the adapted subjects then reach while holding an object, renewed errors will result. By contrast, if subjects initially adapt while reaching and holding an object, they do not overcompensate when reaching without it. This means the CNS identifies some of the Coriolis forces during the initial reaches as having arisen from the object and some from the arm itself. The component of adaptation is tuned out when the subject reaches without the object. This decomposition of contacting and non-contacting forces on the arm must underlie context specific adaptation of tool use and self-calibration. 
+<p>
+<i>Specific Aim 3</i> <br>
+The investigators studied adaptation to Coriolis force perturbations of reaching movements in a rotating environment when subjects reached freely to targets or when they reached to them while grasping a robotic manipulandum that was deactivated. After adaptation was achieved they then looked for transfer to when they reached grasping the deactivated robotic manipulandum or when they reached with the free hand. Subjects who initially reached holding the manipulandum showed little transfer to the free hand. This means they attributed the perturbation during the initial movements to the manipulandum not to properties of the environment or of the hand. Subjects who initially reached with the free hand showed retention of adaptation when reaching while holding the manipulandum. Such asymmetric transfer emphasizes the critical role of contact cues on the hand in determining the characteristics of adaptation, whether it is hand or tool dependent. Further experiments are necessary to determine if contact cues can be simulated – and in some conditions masked – to allow predictable manipulations of the adaptive state. This is key if robotic manipulanda are to be useful for pre-adapting astronauts to the Coriolis forces associated with rotation. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NAG91483</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lackner, James</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/zbqh-nc14</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/bc245784-6093-5612-9dc0-68d42fb51e59?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/bc245784-6093-5612-9dc0-68d42fb51e59?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Microgravity Effects on the Function of Vascular Stem Cells - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/88a1d706-c538-57d5-8bc6-afd31537954a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX13AM03G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Microgravity Effects on the Function of Vascular Stem Cells</h1>
+        <div class="meta-id">Record ID: NNX13AM03G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/88a1d706-c538-57d5-8bc6-afd31537954a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The negative effects of space flight on cardiovascular health has been demonstrated and documented over many years. One of the body’s normal vascular repair mechanisms is the recruitment of adult stem cells from bone marrow to integrate into the vasculature. These recruited cells are involved in blood vessel wall repair and the formation of new blood vessels. This proposal seeks to study the effect of microgravity on adult stem cells. Of specific interest is how well these cells can differentiate into vascular cells under altered environmental conditions such as microgravity, and how well these cells function as healthy vascular cells once differentiated. Differentiation studies using a bioreactor will be conducted to expose the cells to microgravity conditions. Once differentiated, the cells will be exposed to several stimulatory environments that will demonstrate their functional ability. Molecular biology techniques, such as gene expression studies, will elucidate the effect of microgravity on these cells.<P>
+
+<p>Studying adult stem cells is a means towards the goal to develop countermeasures for the negative effects of space flight on vascular health. This proposal addresses one of NASA's research interest, specifically, studies of the effect of gravity and the space environment on cellular and molecular processes. In this proposal, the cellular and molecular processes under investigation are stem cell differentiation and the corresponding molecular changes the stem cells undergo.<p>
+
+APPROACH:<br>
+To achieve our goal, we have established 2 specific aims, briefly, 1) Differentiate circulating stem cells into vascular endothelial (EC) and smooth muscle cells (SMC) under conditions of microgravity and normal gravity; 2) Assess the functional potential of the microgravity exposed differentiated cells. Our approach to achieving these goals involves first isolating blood derived stem cells, then culture under microgravity conditions in a rotating wall vessel bioreactor or static (normal gravity) in tissue culture polystyrene (TCPS) plates. Following dynamic and static culture, the cells are assessed for differentiation. Our assessments include both protein and gene expression changes, using western blot analysis and real-time quantitative polymerase chain reaction (rt-PCR), respectively. We are interested in the loss of stem cell protein and gene expression and upregulation of endothelial and smooth muscle cell protein and gene expression. For our second aim, our goal is to assess the changes in functional capacity of the differentiated cells, particularly the changes in function as a results of microgravity. To assess SMC function, we proposed to evaluate the ability of the differentiated cells to respond to contractile stimulation, migration, secrete extracellular matrix proteins, and modulate between synthetic and proliferative phenotypes. Our approach involves culture under stimulatory conditions where appropriate and assessments of SMC functions can be made. For endothelial cell functional analysis, we are interested in assessing the production and secretion of antithrombogenic factors, nitric oxide (NO) and prostacyclin (PGI2) by the differentiated endothelial cells. In addition, our approach involves assessing the hemocompatibility of the cells in terms of clotting and platelet activation when exposed to whole blood from human subjects.<P>
+
+RESULTS:<br>
+
+<p>1. Goal: Optimizing bioreactor and experimental set-up and methodology with Human Umbilical Vein Endothelial Cells (HUVECs)<p>
+ 
+<p>The experimental set-up we proposed using a commercially available rotary cell culture system (RCCS) bioreactor (Synthecon) was optimized using HUVEC cells. Our goal was to optimize various bioreactor/experimental parameters such as microcarrier bead handling and protein coating, cell seeding density and culture parameters, bioreactor rotational speed, culture maintenance and sample extraction from bioreactor chambers, as well as overall training within the experimental system. Early project challenges such as low cell adhesion on microcarrier beads and cell detachment under dynamic conditions in the rotating wall vessel (RWV) were eventually overcome by changing our experimental design. Our results show successful cell attachment and faster proliferation of HUVECs under microgravity than under static conditions.<p>
+
+<p>2. Goal: Isolation and culture of human endothelial progenitor cells and differentiation into endothelial cells<p>
+
+<p>Once our bioreactor and experimental setup was optimized, we extended our work to the target cell population that is the focus of this work, human endothelial progenitor cells (EPC) derived from circulating blood. The human EPCs are a rare population of stem/progenitor cells that are isolated from the peripheral mononuclear cell (PBMNC) fraction of whole blood. PBMNCs were isolated from human blood obtained from donors as per Institutional Review Board (IRB) guidelines. Circulating progenitor cells contained within the PBMNC fraction of whole blood were differentiated into endothelial-like cells, as confirmed by the formation of colonies (within 2-6 weeks) with EC specific ‘cobble-stone’ morphology, and positive expression of EC specific proteins.<p>
+
+<p>3. Goal: Study the effect of microgravity on the differentiated endothelial cells in culture<p>
+
+<p>We assessed the ability of these cells to adapt to simulated microgravity conditions after short term culture and expansion. More specifically, the functionality of the differentiated ECs following exposure to simulated microgravity assessed conditions such as proliferation, release of soluble factors, changes in gene expression, and anti-thrombogenic potential was investigated. The results of the present study demonstrated that the populations of human blood EPC derived ECs when exposed to simulated microgravity proliferate faster, release higher amounts of soluble NO and lower amounts of pro-inflammatory cytokines such as IL-6, when compared to their normal gravity cultured controls. This can be possibly attributed to the ability of the cells to sense simulated microgravity as a “stressful” condition and adapt by upregulating gene expression of hsp70. However these secretory as well as proliferative functions had no effect on the anti-thrombogenic functions of these cells. Their anti-coagulative and anti-thrombogenic ability as assessed by both upregulation of tPA as well their ability to delay plasma clotting, were impaired upon exposure to simulated microgravity. This study is the first step towards understanding the ability of these repair cells to regulate clotting mechanisms and cardiovascular health in space. Further studies to assess alternate and synergistic mechanisms involved in regulation of cardiovascular health as well as inflammatory dysfunction under microgravity are required to develop possible cell based countermeasures to prevent cardiovascular deconditioning due to space travel.<p>
+
+<p>4. Goal: Expand to include porcine EPCs to further study the effect of microgravity on differentiation of the blood derived EPCs.<p>
+
+<p>Due to the initial challenges we had faced with differentiating as well exposing human blood derived progenitor cells during the pre- differentation stage under simulated microgravity, our goal was to extend our work to an alternative cell source, porcine EPCs. Our lab has previously obtained porcine PBMNCs (under University of Florida IACUC approval) and differentiated these into cells with endothelial cell phenotype (PE-like cells). Circulating progenitor cells contained within the PBMNC fraction of porcine whole blood were exposed to simulated microgravity, using a RWV bioreactor. After exposing the circulating progenitor cells to 6, 12, and 18h of simulated microgravity, the cells were then cultured on fibronectin coated TCP under static conditions and their ability to differentiate into endothelial cells was assessed by the formation of colonies with EC specific ‘cobble-stone’ morphology and confirmed by immunohistocytochemical staining for CD31 as well as eNOS. Our results showed that longer exposure to simulated microgravity delayed the onset of differentiation of EPCs to PE-like cells.<p>
+
+<p>Clotting behavior assessment showed that following the clotting rate for 6h-µg exposed cells are the clotting times for the 12h and 18h-µg exposed cells. Normal gravity cultured cells clotted the next while the last to clot was the plasma exposed to the EC control cells. Similarly, the whole blood clotting kinetics showed that the kinetic profile of whole blood when incubated with PE-like cells differentiated after exposure to simulated microgravity, showed faster clot formation than normal gravity controls. However, longer exposure times showed greater inhibition of clotting.<p>
+
+<p>Collectively, the data shows that within the 3 time points of µg exposure, the longer exposure times showed greater inhibition of clotting, which may be attributed to the increased ability to release soluble anti-thrombogenic factors, NO and PGE2. While both the migration and proliferation of cells were inhibited by microgravity exposure, prolonged exposure of EPCs to microgravity resulted  in decrease in the migration abilities of EPC derived EC and the proliferative capacity of the ECs seemed to recover on longer time of exposure. The initial decrease and subsequent increase in release of soluble factors such as NO and PGE2 reaffirmed the possibility of recovery mechanisms being involved on prolonged exposure to weightlessness. Finally the assessment of whole blood and plasma clotting, indicated that microgravity pre exposure at the progenitor stage caused inhibition, in the ability of PE-like cells to delay blood or plasma clotting while this effect was again nulled with increase in time of exposure of EPCs to microgravity. This data collectively provides some insight into the role of short term exposure to low shear stress environment due to simulated microgravity, on cardiovascular deconditioning during space travel.<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX13AM03G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Allen, Josephine</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/7tzv-zx20</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2012 Space Biology NNH12Z</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/88a1d706-c538-57d5-8bc6-afd31537954a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/88a1d706-c538-57d5-8bc6-afd31537954a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

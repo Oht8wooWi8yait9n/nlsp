@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>(NSCORT) for Advanced Life Support at Purdue/Howard/AAMU - Integrated Systems Group - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e6bd3b81-f219-5db3-a6ad-f44c850c14ea?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NSCORT_ISG</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>(NSCORT) for Advanced Life Support at Purdue/Howard/AAMU - Integrated Systems Group</h1>
+        <div class="meta-id">Record ID: NSCORT_ISG</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e6bd3b81-f219-5db3-a6ad-f44c850c14ea?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Throughout the life of ALS NASA Specialized Center of Research and Training (NSCORT), the systems group researchers matured from learning and exploratory mode, which can be mainly characterized by proof-of-concept studies to build a viable toolbox of systems analysis methodologies suitable for ALS analysis, e.g. SimOpt (SIMulation based OPTimization), Markov Theory and Model Predictive Control, towards well-structured and coordinated efforts to improve their readiness level for repeated use in answering questions that matters to NASA and ALS community at large. 
+<p>
+As systems group was undergoing through its voyage within ALS NSCORT, the systems group’s analysis and modeling scope has been expanded to all ALS technologies and to adopt lifecycle management view to study 15-20 year Mars Base ALS system evolution which recognizes the fact that Mars Base ALS system will not stay as it was deployed at the very first mission. Unfortunately, the plans and resources had to be revised per early termination notice as NASA was undergoing through major re-organization and re-prioritization to maximize the return on NASA’s investment in ALS NSCORT by focusing on completing the matured on going tasks and retiring the new initiatives such as, the proof-of-concept study that has been initiated in collaboration with Envision Center at Purdue University on visualizing the evolution of Mars Base and its ALS system. 
+<p>
+A simulation was developed to assist decision-making in choosing control policies in a closed environment. This closed environment consists of a simplified representation of the water subsystem based on the documentation by the National Aeronautics and Space Administration (NASA). The water requirement (consumption) and generation are based on the crewmembers’ demographics, activity schedules as well as intensity of each activity. The overall goal of this project was to develop methodologies to ensure crewmembers survive while on space missions.
+<p>
+APPROACH:<br>
+The health of this system is the result of the intricate interaction between the crewmembers as well as the water subsystem. The primary measure of the health of the system is the “state” representation of the system. This representation is a conglomeration of various hourly assessments of different aspects of the system. These aspects include the deterministic as well as the stochastic nature of the system. Due to the potentially vast number of possible states in the entire state space, state reduction techniques as well as assessments for infeasible states are applied for state reduction. A reward system is designed for allocating reward/penalty values to system states that satisfy predetermined conditions. Due to the strong stochastic characteristics and the “memoryless” property of the system, the transition of system state can be modeled as a Markov process.
+<p>
+Due to the incomplete knowledge of the new system (that is not yet in existence) and its dynamics, process-control strategies need to be developed in such a way that they are comprehensive enough to manage the system given any kind of system behavior, anticipated or otherwise. However, before strategies can be developed, system states need to be captured. In order to explore the possible system states, a Controlled Random Walk (CRW) algorithm is developed to visit more system states in less amount of time, compared to traditional techniques such as the Pure Random Walk and the Round Robin Walk.
+<p>
+Transition probabilities are obtained through the simulation of the Markovian model. Capturing “true” state transition probabilities has been a challenge to researchers. In this research, a methodology is developed to minimize the number of data points (or simulation hours) while obtaining the transition probabilities that are closest to the system’s steady state probabilities by observing the percentage increase of states visits as well as probabilities convergence based on discrete consecutive time periods. The Kullback-Leibler Divergence distance is used as the foundation of the measurement. It is then modified in order to be used in this research study. A reference index is also defined based on this measure to study the “distance” between each probability distribution from the index. These probabilities, together with the reward values are formulated into appropriate mathematical representation and are solved by applying the Policy Iteration (PI) algorithm. The outcome from PI is an indication of the “best” policy to be applied when the system is in a given state.
+<p>
+RESULTS:<br>
+The simulation was done in three stages: Data Collection/State space exploration, System Evaluation with Dynamic Policy and System Evaluation with Fixed Policy. The Data Collection stage was performed through 800,000 ticks (simulation hours) of simulation time. Every set of 100,000 ticks consists of 5 sets of 20,000 ticks, each with a re-initialized starting condition. This is done to prevent the system from being “stuck” in a state or a loop of states. The proposed Controlled Random Walk technique is used during the data collection. Best policies are obtained through every set of 100,000 ticks, yielding eight sets of best policies. Every set of best policies are applied to a test system for evaluation. Results show that outcomes from applying these best policies are statistically better than using fixed policies, or using random policies. 
+
+<p>
+As mentioned above, comprehensive process-control strategies are to be developed for various system states. The system might visit certain states that have not been visited before during data collection. These states will not have a corresponding “best” policy as they are “new” to the control system. In order to counter that problem, machine-learning technique is used. The See 5.0 algorithm (previously ID3) is used to generate a complete decision tree based on every set of best policies obtained from the PI. With the outcome from the See 5.0 algorithm, an action is available for use in the system given any state that the system visits. The outcomes of See 5.0 algorithm are evaluated against the outcomes from the PI using an independent test system. Results from non-parametric tests show that there is no statistical difference between the two, indicating that while policies obtained from See 5.0 perform as good as optimal policies from PI, See 5.0 also provides a complete decision tree, covering the entire state space.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NSCORT_ISG</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Mitchell, Cary</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Not applicable</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4gsf-jb97</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e6bd3b81-f219-5db3-a6ad-f44c850c14ea?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e6bd3b81-f219-5db3-a6ad-f44c850c14ea?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

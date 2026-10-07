@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ovarian Cancer and Space Radiation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/183261eb-c4c0-5549-82e2-93fe7fbbb51f?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC19K1620</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Ovarian Cancer and Space Radiation</h1>
+        <div class="meta-id">Record ID: 80NSSC19K1620</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/183261eb-c4c0-5549-82e2-93fe7fbbb51f?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <div>OBJECTIVES:</div><div>Women made up 50% and 45%, respectively, of the 2013 and 2017 NASA astronaut classes. Astronauts are exposed to galactic cosmic rays during travel in deep space. GCR consist of protons, helium ions, and charged particles heavier than helium, such as silicon, iron and oxygen.&nbsp; Our published work demonstrates profound sensitivity of the ovary to charged particle radiation, with destruction of the irreplaceable ovarian follicle pool and 4-fold as many ovarian tumors as in control non-irradiated mice. Comparison of our data with published studies of ovarian follicle depletion and ovarian tumorigenesis by exposure to gamma radiation suggest that charged particle radiation may be a more potent inducer of both premature ovarian follicle depletion and ovarian tumors, but this has not been directly tested. <br><br>We hypothesize that ovarian follicle depletion by iron and oxygen charged particle radiation is greater than ovarian follicle depletions by -radiation at comparable doses and that silicon and mixed heavy ion beam (Si,Fe, Ti,) charged particle radiation cause ovarian tumors at lower doses than -radiation.<br><br>Aim 1: Utilize archived ovaries to compare ovarian tumor induction by irradiation with silicon, mixed heavy ion (3-HI) beams composed of equal doses of 28Si, 56Fe, and 48Ti ions charged particles or -rays. We will compare ovarian tumorigenesis at 16 months after irradiation of female CB6F1 mice irradiated at approximately 3 months of age with 260 MeV/u 28Si (0, 4, 8, 16, or 32 cGy), 3-HI mixed beam (0, 3x10cGy=30cGy, or 3x20cGy=60 cGy),&nbsp; or 137Cs gamma-rays (0, 4, 8, 12, and 16 cGy) in archived ovaries from the NASA Tissue Sharing Archive (N=30 ovaries/group). We will conduct detailed histopathology of ovaries and molecular characterization of tumors using immunostaining for tumor markers. <br><br>Aim 2: Utilize archived ovaries harvested at various time points after irradiation with low doses of oxygen or iron charged particles to examine the persistence of ovarian oxidative lipid, protein, and DNA damage, archived serum to measure a biomarker of ovarian reserve, and evaluate these as potential early biomarkers of ovarian tumorigenesis. Irradiate mice with low doses of -radiation and harvest ovaries at 1 week after irradiation in order to compare ovarian follicle depletion by charged iron or oxygen particles with -radiation. Our published work demonstrates oxidative damage and dose-dependent apoptotic depletion of ovarian follicles after exposure to 0, 0.05, 0.3, and 0.5 Gy charged iron or oxygen particles. Serum luteinizing hormone (LH) and follicle stimulating hormone (FSH) were significantly elevated in 0.5 Gy-irradiated mice 8wk after irradiation, consistent with loss of negative feedback due to follicle depletion, but serum LH and FSH are not optimal serum markers of ovarian reserve because they vary with estrous cycle stage and are secreted episodically, and we did not perform immunohistochemical analyses of ovaries at 8 wk after irradiation. We will examine oxidative lipid, protein, and DNA damage by immunostaining as potential biomarkers of ovarian tumor risk in archived ovaries from mice euthanized 8 wk after irradiation with charged iron or oxygen particles. We will measure Anti-Müllerian Hormone (AMH), a serum marker of ovarian reserve that is used clinically, in archived serum from mice euthanized 1 wk and 15 months after irradiation. 3-month old female C57BL/6J mice will be irradiated with 0, 0.05, 0.15, or 0.5 Gy ?-rays and euthanized one week post irradiation for ovarian follicle counts, which will be compared to our published data on charged iron or oxygen particle-irradiated mice.<br></div><div><br></div><div>APPROACH:</div><div>We propose to leverage these stored tissue and blood samples, together with ovaries from gamma- irradiated mice from the NASA tissue archive to 1) compare ovarian tumor prevalence and molecular characteristics after low dose mixed heavy ion (3-HI) beam or 28Si irradiation with gamma irradiation in adult female mice; 2) examine the persistence and types of ovarian oxidative damage after irradiation and evaluate serum concentrations of a clinically utilized biomarker of ovarian reserve, Anti-Mu¨llerian Hormone (AMH), as a potential early biomarker of ovarian tumorigenesis. We will quantify the effects of charged particles on numbers of ovarian follicles and ovarian tumor number and size. We will use in situ methods to assess oxidative damage and to molecularly characterize the ovarian tumors. Our analyses will provide critical insights into whether preneoplastic changes in ovarian follicle numbers, serum AMH, as well as ovarian oxidative damage caused by exposure to charged particles demonstrate similar dose-response as ovarian tumor induction. The analyses will also examine the relative biological effectiveness of gamma versus charged particle irradiation for these endpoints. These studies will help to fill important gaps in our understanding of the effects of space radiation on ovarian function and ovarian carcinogenesis and will lead to better ways to prevent ovarian cancer and protect reproductive health in women astronauts.<br></div><div><br></div><div>RESULTS:</div><div>Aim 1: We expect the highest incidence of ovarian tumors in mice irradiated with 3-HI beam, followed by 28Si irradiated, and lowest incidence in gamma-irradiated. We expect that most of the tumors will be epithelial based on immunohistochemical characterization. We expect a greater percentage of ovarian tumors in the 3-HI beam irradiated mice will be malignant than in the other groups.<br><br>Aim 2: We expect that charged iron and oxygen particles will be more potent inducers of ovarian DNA damage, oxidative damage, and apoptosis and therefore of ovarian follicle depletion than gamma radiation. We further expect that AMH will be more strongly associated with numbers of growing follicles than resting primordial follicles at one week post-irradiation. At 16 months after irradiation, we expect low levels of AMH within all groups due to the age of the mice, but that levels will be higher in control un-irradiated mice due to some remaining follicles, while the ovaries of irradiated mice will be devoid of follicles.<br></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC19K1620</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Luderer, Ulrike</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus) C57BL/6J</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/zzx1-6v85</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2018 HERO 80JSC018N0001-Crew Health and Performance (FLAGSHIP, OMNIBUS). Appendix A-Flagship, Appendix B-Omnibus</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/183261eb-c4c0-5549-82e2-93fe7fbbb51f?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/183261eb-c4c0-5549-82e2-93fe7fbbb51f?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

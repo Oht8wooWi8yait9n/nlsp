@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sleep and Vestibular Adaptation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/61b3cdb2-6623-5609-bc14-b41b27ad95de?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9401663</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Sleep and Vestibular Adaptation</h1>
+        <div class="meta-id">Record ID: 9401663</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/61b3cdb2-6623-5609-bc14-b41b27ad95de?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+This experiment was designed to study the effects of space flight on both sensorimotor (especially vestibular) and cognitive functions (especially orientation.)  Optimal human performance depends upon integrated sensorimotor and cognitive functions both of which are known to be exquisitely sensitive to loss of sleep.  The main objective of this study was to investigate variations in sleep and dreaming over an extended period of space flight, with special attention to changes in sleep and dreaming associated with the vestibular adaptation that occurs with adaptation to microgravity, and readaptation to 1-G conditions.   To achieve this, a sleep monitoring system was tested that could accurately identify periods of wake, non-rapid eye movement (NREM) and rapid eye movement (REM) sleep on-board the Mir space station.  
+<P>
+APPROACH: <br>
+Five crewmembers completed measurements relating to the protocol before, during and after space flight.  During each phase, the experiment was divided into approximately three 12-day segments called measurement blocks.  The inflight measurement blocks were scheduled early in the mission (mission day 37-49), in the middle (MD 79-91) and at the end (MD 110-122) of the mission.  This investigation was conducted for the first time as part of the NASA 4 and Russian Mir 23 missions with three crewmembers participating.  The experiment protocols were repeated on the Mir 24 mission with two additional crewmembers.
+<P>
+In each of the 12-day blocks, test subjects monitored sleep by wearing an apparatus called a Night Headband.  It consisted of a simple athletic headband into which a head movement sensor had been sewn, along with a self-adhesive eyelid movement sensor that attached to the surface of the upper eyelid.  The sensors were connected by two cables to a wallet-sized recording unit called the Night Headband Monitor (NHM).  Subjects wore the NHM in a supplied arm band or attached the unit to a nearby wall with Velcro.  The NHM analyzed data from the sensors and could store up to 30 nights before transfer to a computer.  Usually, data from the NHM was uploaded to a laptop computer daily and subsequently stored on disk.  Data was stored as one-minute counts of the number of 250 ms epochs during which eye or head movement was detected.  
+<P>
+Because the head movement sensor originally designed for the Night Headband utilized a gravity-dependent mercury switch, the sensor was redesigned as an inertial switch.  The inertial switch had appropriate sensitivity in microgravity; no head movements were detected during quiet rest, but gentle rotations of the head were adequate to produce clear head movement signals.  Inflight Night Headbands all had these inertial switches built into them; baseline data collection Night Headbands continued to use the mercury switch version.
+<P>
+Data was used to determine both the percent of sleep spent in rapid eye movement (REM) sleep (REM %) and the absolute amount of time spent in REM sleep (REM time).  The allowed testing of the hypotheses that REM % and REM time would increase during the period of adaptation to microgravity and then return to preflight baseline levels.  It was also hypothesized that the REM % and REM time would again increase during the period of readaptation to normal gravity.
+<P>
+In addition to the objective sleep data described above, subjects were also asked to dictate dream reports into a pocket voice recorder at each awakening.  Researchers hoped to observe a shift in the fictive vestibular and motor activity of the subject's dreams as he went through adaptation first to microgravity and then, on return, to normal gravity.
+<P>
+RESULTS:<br>
+Subjects recorded an average of 26 nights of sleep during the preflight period, 24 nights inflight, and 14 nights postflight during the postflight recovery period.  All told, 317 nights of sleep data were recorded, of which 120 were collected inflight, between the 24th and 171st day in orbit.  Sixty of the 120 nights were recorded more than three months into the flight.  Analysis of data was made using repeated measures ANOVA's.
+<P>
+For all five subjects, REM sleep was severely diminished during flight.  Both REM time and REM % were significantly diminished (REM time, F=20.5, p<0.001; REM %, F=16.5, p<0.002).  On average, REM time was reduced by 53% and REM % was reduced by 35% inflight compared to preflight.  All subjects showed at least a 40% reduction in REM time.  In contrast, postflight rates were essentially the same as preflight, showing on average a 4% increase in both REM time and REM % compared to the preflight period.  There was also decrease in total sleep time inflight (F=7.1, p<0.02).  Inflight values were reduced by 27% on average, while postflight values were 0.3% higher.  All subjects showed at least a 13% decrease in average nightly total sleep time inflight.  This did not result from a decrease in time in bed (F=0.2, p=0.84); subjects spent on average 4% longer in bed while inflight.  Rather it resulted from decreased sleep efficiency (F=24.1, p<0.005).  Sleep efficiency dropped from a mean of 89% in the preflight period to 63% inflight.  
+<P>
+The Night Headband Kit sleep system permitted more extensive sleep recording during space flight than had previously been possible.  Data collected over 6 months of flight indicated that extended space flight leads to a consistent and pronounced decrease in sleep efficiency, time spent in REM sleep, and the percent of total sleep time spent in REM sleep as measured by the Nightcap.  
+<P>
+Neither the causes nor the consequences of these alterations were clear as the result of this experiment.  It was hypothesized that a continued reduction in the above values might well lead to diminished performance of crewmembers in space.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9401663</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hobson, J., James, John, Larina, Irina, Ponomareva, Irina</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Chronobiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NASA 4&#x27;], [&#x27;NASA 5&#x27;], [&#x27;Mir 23&#x27;], [&#x27;Mir 24&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/5cxh-7f44</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>94-OLMSA-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/61b3cdb2-6623-5609-bc14-b41b27ad95de?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/61b3cdb2-6623-5609-bc14-b41b27ad95de?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

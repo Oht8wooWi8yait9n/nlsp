@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Unloading-Driven Regulation of Eukaryotic Translation Initiation Factor 2 Alpha (eIF2a) and Genes linked to Integrated Stress Response (ISR) in Mouse Bone Tissues - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a3f2db13-5f3a-51b0-b33c-4d1dcd0ec930?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARC00XX118</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Unloading-Driven Regulation of Eukaryotic Translation Initiation Factor 2 Alpha (eIF2a) and Genes linked to Integrated Stress Response (ISR) in Mouse Bone Tissues</h1>
+        <div class="meta-id">Record ID: ARC00XX118</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a3f2db13-5f3a-51b0-b33c-4d1dcd0ec930?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The objective of the proposed sub-project is to examine a molecular mechanism of gravitational unloading-driven bone loss, focusing on the role of phosphorylation of eIF2a and integrated stress responses (ISR). It is known that diverse environmental stresses including radiation, oxidative stress, nutrient limitation, and stress to the endoplasmic reticulum induce integrated stress responses. The responses lead to a pro-survival pathway (rescue program) for alleviation of cellular injury or, conversely, an apoptotic pathway for removal of damaged cells. Gravitational unloading in space is a unique form of environmental stress and the resulting physiological responses in connection to the phosphorylation of eIF2a and IRS are poorly understood.<P>
+
+APPROACH:<br>
+Three specific aims using a mouse hindlimb suspension model and space-flown samples were used to test our hypothesis by using real-time PCR, Western blot analysis, enzymatic assays, and bone histology with pharmacological agents, and eIF2a-linked knockout mice.:
+<p>
+Aim 1: Evaluate phosphorylation of eIF2a and its kinases (e.g., PERK and GCN2) as well as translational efficiency in response to transient unloading.<br>
+Aim 2: Evaluate gene regulatory mechanisms linked to oxidative stress and stress to the ER in response to continuous unloading.<br>
+Aim 3: Examine the effects of administration of salubrinal (inhibitor of eIF2a phosphatase) on pro-survival signaling and bone metabolism.<br>
+<p>
+In the first year: Aim 1 was completed; the second year was focused on Aim 2 with bone samples from STS-135, therefore the experiments were conducted using both space-flown samples and hindlimb-suspended samples.
+<p>
+RESULTS:<br>
+STS-135 space-flown mice: Among seven distal tibia samples which were harvested 4 h 20 min – 7 h 20 min after landing, the level of eIF2a-p was significantly reduced compared to two ground control samples. Unlike the ground hindlimb unloaded samples, the reduction in the eIF2a-p level of space-flown samples was not restored, even 7 h 20 min after landing. 
+<p>
+Discussion of the current data: In summary, this study presented for the first time that the phosphorylation of eIF2a and the genes involved in ISR are modulated after 2-weeks of space flight. The ground-based loading and unloading control experiments suggested that the observed alterations in the level of eIF2a and the mRNA levels in space-flown animals were potentially caused by the several hours between landing and tissue harvest. Loads linked to landing presumably applied stimulatory loading to mouse limbs and reduced ISR. Based on the ground experimental results, it is possible that the level of eIF2a and the expression levels of stress sensitive genes during space flight might be substantially different from the samples harvested several hours after landing. To evaluate molecular events such as phosphorylation and transcriptional activation that may take place within an hour, it is necessary to harvest and freeze/store tissues on orbit.<P>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARC00XX118</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Yokota, Hiroki</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-135&#x27;], [&#x27;PMA&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus) C57BL/6J</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/eeab-nw80</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNH09ZTT003N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a3f2db13-5f3a-51b0-b33c-4d1dcd0ec930?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a3f2db13-5f3a-51b0-b33c-4d1dcd0ec930?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

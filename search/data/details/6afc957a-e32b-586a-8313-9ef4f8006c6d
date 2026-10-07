@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Effect of High LET Radiation on Differentiation and Tumorigenesis in the Human Hematopoietic System: Modeling in vitro and in vivo for Risk Assessment - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6afc957a-e32b-586a-8313-9ef4f8006c6d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX14AC27G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Effect of High LET Radiation on Differentiation and Tumorigenesis in the Human Hematopoietic System: Modeling in vitro and in vivo for Risk Assessment</h1>
+        <div class="meta-id">Record ID: NNX14AC27G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6afc957a-e32b-586a-8313-9ef4f8006c6d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The effects of space flight on human physiology are complex and represent a sum of many factors, the main two of which are microgravity and radiation. The effect of exposure to the space environment is illustrated in studies that show altered immune response of T lymphocytes following spaceflight dating back to Apollo and Skylab missions. Although this is reversed once the astronauts are back to the Earth, these effects are persistent in space and were more recently documented in astronauts during their six month mission to the International Space Station. While difficult to estimate which one of the stress factors is dominant in low Earth orbit flights, a flight to Mars for example will lead to radiation exposure that is above NASA's current standards and its effect has to be studied in advance. The human hematopoietic system is one of the most radiosensitive tissues in the human body given that it is comprised of a large number of continuously and rapidly proliferating cells. It is well known that an insult to the hematopoietic system will generate effects that are not limited in scope to hematologic endpoints. There is an interrelationship between the correct function of the hematopoietic system and other organ systems. All of this knowledge taken together has sparked much scientific effort on studies of the effects of radiation on human hematopoietic system in the last decades using in vitro and in vivo studies in model organisms. A noticeable gap in these studies is the lack of in vivo studies of radiation effects on the human hematopoietic system. The recent development of immunodeficient mouse models allows for first time such studies. These mouse models allow the engraftment of human hematopoietic stem cells in the mouse bone marrow, leading to reconstitution of functioning human hematopoietic system in the mouse bone marrow, spleen, thymus, and blood. Importantly, the side effect for the mice is minimal. This permits long term human cell engraftment and gives excellent opportunity for radiation studies. 
+<p>
+The main hypothesis was that studies of the effects of high linear energy transfer (LET) radiation on a human hematopoietic system, reconstituted in immunodeficient mice, will provide meaningful information on not only post-radiation depletion and repopulation kinetics but also tumor formation. Such information can then be applied to space radiation risk assessment. The importance of this work is clear given the lack of in vivo data on the effects of high LET radiation on human organ and tissue systems. The study had two key objectives: The first was to characterize the early and late response of a human immune system reconstituted in mice to high LET radiation and gamma-rays. The goal was to build a detailed picture of the series of changes that the reconstituted human hematopoietic system undergoes after a high LET radiation exposure. The second objective was to characterize the human tumors that may arise in the irradiated and non-irradiated mice.
+<p>
+APPROACH:<br>
+To accomplish these objectives investigators produced and irradiated mice engrafted with a human hematopoietic system. The mice were exposed to either HZE (high energy) ions or x-rays and subsequently monitored along with non-irradiated control mice. The early effects of the radiation on the human cells were assessed by periodic peripheral blood tests. The obtained differential counts were compared with differentials acquired before the irradiation. Monitoring the peripheral blood cell counts for extended periods of time may show the depletion and recovery kinetics of peripheral blood cells which was a measure of the degree and duration of the radiation induced damage and also the ability of the human hematopoietic system to recover after radiation induced insults. In addition, the mice were monitored for tumor development. The tumor characterization was done by a team of pathologists from the Columbia University Department of Pathology and Cell Biology using established clinical laboratory methods for human tumor characterization with corrections based on the specificity of the mouse model. 
+<p>
+RESULTS:<br>
+Assessment of the early and late effects of high LET 28Si irradiation and X-ray irradiation on the depletion and recovery kinetics of human peripheral blood cells in humanized mice: Clinical and physiologic assessment of any radiation exposure entails a survey of circulating lymphocyte counts. This is no different with high LET radiation and so the investigators assessed the response of engrafted human cells by examining these blood cell counts. Two very important endpoints can be measured by determining the blood cell counts at different periods after the irradiation. These are cell killing and depletion-recovery kinetics. Any detectable loss of cells as a result of radiation was a measure of the radiation damage to the hematopoietic system. Monitoring the peripheral blood cell counts for extended periods of time may show the depletion and recovery kinetics of peripheral blood cells which measured the degree and duration of the radiation induced damage. Depletion-recovery kinetics also report the ability of the human hematopoietic system and the whole organism to recover after radiation induced blood cell losses. To obtain data on these endpoints, investigators used irradiated and control mice irradiated at NASA Space Radiation Laboratory (NSRL). Blood samples were obtained at 3 weeks before the irradiation and at 7 days, and 30 days and 75 days after the irradiation. A dose of 0.4 Gy of 350 MeV/n 28Si-ions were used for these irradiations. The depletion-recovery findings show the overall changes of the blood cell counts for each mouse. The investigators observed a statistically significant decrease of the white blood cell (WBC) counts at day 7 after the irradiation. This is specifically due to the reduction in the B cells counts which are the most sensitive human blood cells and comprise the majority of circulating lymphocytes in the humanized mouse. Remarkably, there is no statistically significant difference between the WBC and the B cells and T cells pre-irradiation and day 30 or day 75 after the irradiation. Two important results can be derived from this data. Firstly, irradiation of a human hematopoietic system, reconstituted in mice, is affected by 0.4 Gy of 350 MeV/n 28Si-ions. Secondly, the engrafted hematopoietic system does recover after some period of time. 
+<p>
+Additional data was obtained by the analysis of 28Si irradiated mice done at 5-7 months after the irradiation. The data analysis shows that there is no statistically significant difference between mice irradiated with 28Si ions versus control mice when assessed for human CD45 blood cell counts in the BM, spleen, and blood. Further, there is no statistically significant difference in the weight of the mice also analyzed at this point. All these results indicate that Si irradiation does not have long-term effect on the human blood cell counts in the hematopoietic compartments and most probably on the overall physiology of the mice. 
+<p>
+Depletion-recovery kinetics after Si irradiation has never been measured in neither human blood cells or humanized mice. As such there was a requirement for a reference irradiation to provide context for the physiological significance of the Si irradiation. For this, the investigators studied a parallel cohort of humanized mice subject to 1Gy of 250kVp x-rays. This dose, at the selected energy, is considered a standard reference radiation having relative biological effectiveness (RBE) of 1. The results show, surprisingly, a pronounced effect of the x-ray irradiation in blood cell counts. This effect was specifically significant at day 7 after the irradiation where the WBC cell numbers were reduced 5.5 fold. Again, this effect was primarily B cell losses. The number of B cells recovered slightly at day 30 after the irradiation but decreased again at day 60. All surveyed populations (WBC, T, and B cells) exhibited statistically significant changes relative to pre-irradiated baseline for these time points. As expected, the effect of the x-rays was less pronounced on the T cells. A separate cohort of x-ray irradiated humanized mice and controls was investigated for blood cell counts between six and eight months after irradiation with 1Gy of x-rays. Not surprisingly, the percent human cells in the spleen of the irradiated mice was an average of 14% while the percent of the human cells in the spleen of the control mice was an average of 47%. Interestingly, the T cell/B cell ratio was two times higher in the irradiated mice in comparison with the non-irradiated. These results show that mice can recover from X-ray irradiation, but the human cell population decreases significantly. 
+<p>
+Assessment of early and late effects of high LET 28Si ion irradiation on the depletion and recovery kinetics of human hematopoietic stem cells in humanized mice: The array of cell types and relative population proportions of the human hematopoietic system are a function of the activity of the hematopoietic stem cells (HSC). Obviously the effect of radiation on these cells is most significant. To test the effect high-LET radiation on the HSC, investigators obtained HSC counts and their relative abundance as a fraction of the lineage negative population in the BM. The cells they focused on were characterized by the following surface markers: hCD45+, Lin-, CD34+, and CD 38-. The cells that are defined by these markers included the HSC, multipotent progenitors (MPP), and multilymphoid progenitor (MLP) cells. These cell types give rise to the lineage negative progenitors that from their side give rise of the different blood cell lineages. Investigators determined the HSC in the BM of mice irradiated with 0.4 Gy of 350 MeV/n 28Si-ions and control mice at day 7, day 30, day 60 after Si irradiation. They found statistically significant reduction of the HSC between the irradiated and control mice at all the indicated time points. An important question was when (if ever) the difference between irradiated and control mice is reduced to non-significant. To answer to this question, they accessed the HSC population in the BM of Si irradiated and control mice at 5 and 7 months after the irradiations. At this later time, no statistically significant difference between the irradiated and control mice is observed for either endpoint. In addition, there was no statistically significant reduction of human CD45 cells (WBC) in the BM of irradiated and control mice. Overall, these results show that large proportion of the BM HSC are killed by the Si ion irradiation and recover at lower pace. However, the results from the blood depletion and recovery kinetics show that the peripheral blood cells are back to the pre-irradiation counts at day 30 after the irradiation. This means that the HSC in the BM are capable of maintaining the peripheral blood cell counts even if a their counts are reduced. Taken together, these results indicate that the human hematopoietic system is capable of recovery after high-LET radiation, as already shown for low-LET radiation during HSC transplantation of tumor patients. While resilient and capable of regenerating various populations of human blood cells in the host mouse, we do observe depletion of human HSC numbers in vivo in response to high-LET radiation. 
+<p>
+The central finding of this study is there were no detectable differences between the Si-irradiated mice and the controls. The human cell counts were statistically similar in the BM, the spleen, and the blood of the irradiated and control mice. The differentiation of both lymphocyte and myeloid lineages was normal. Importantly, no aberrant marker expression was detected. These results in combination with the result from the blood and the HSC cell depletion and recovery kinetics build a very detailed picture of the effect of high LET radiation on developing human HS that investigators believe is first of its kind for a radiation study. They monitored the entire process of hematopoietic cell development from BM to the spleen and blood in the greatest resolution currently achievable. Combined, these results give a basis for the conclusion that the effects of high LET radiation at the studied dose and energy is not detrimental to the human hematopoietic system at least on developmental level. The damage induced initially by the irradiation did not persist in the system of study. Also the lack of tumor development shows that at this energy and dose and time point, high LET radiation is unable to transform human cells in vivo. 
+<p>
+No datasets exist for this study, A final report was archived.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX14AC27G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Smilenov, Lubomir</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/hgtq-5893</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013 Space Radiobiology N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6afc957a-e32b-586a-8313-9ef4f8006c6d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6afc957a-e32b-586a-8313-9ef4f8006c6d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

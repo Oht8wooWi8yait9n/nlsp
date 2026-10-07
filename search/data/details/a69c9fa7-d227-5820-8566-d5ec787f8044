@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STS-135 Space Flight&#x27;s Affects on Vascular Atrophy in the Hind Limbs of Mice - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a69c9fa7-d227-5820-8566-d5ec787f8044?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARC00XX74</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>STS-135 Space Flight&#x27;s Affects on Vascular Atrophy in the Hind Limbs of Mice</h1>
+        <div class="meta-id">Record ID: ARC00XX74</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a69c9fa7-d227-5820-8566-d5ec787f8044?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This is a collaborative study between NASA Ames Research Center BioServe Space Technologies, and AMGEN that will evaluate a novel therapeutic countermeasure to prevent flight induced bone loss in mice.These experiments will explore a novel therapeutic countermeasure to prevent flight induced bone loss in mice.
+
+<p>Hypogravity leads to sarcopenia and a loss of cortical bone mass and bone mineral density (BMD) in the lower hindlimb in rodents. Skeletal muscle and bone tissues contain an intrinsic vascular supply that is recognized as essential for proper maintenance of vital tissue functions. It has been suggested that hypogravity may induce some vascular degeneration within hindlimb tissues thereby contributing to sarcopenia and osteopenia, but this concept has not been extensively investigated. AIM: Assess muscle- and bone-associated vasculature volumes in the hindlimbs of mice flown in space (STS-135) and compare them to ground-based mice undergoing weight bearing (WB) or hindlimb unloading (HLU).</p> 
+<P>
+APPROACH:<br>
+Pre-flight C57BL/6J female mice will receive injection of the sclerostin antibody or a placebo. Animals will be flown in 3 Animal Enclosure Modules (AEMs).  Ground controls will also be housed in AEMs and run on a 48 hour offset. The AEMs are series re-flown hardware and provide a reliable habitat for rodents during space flight. Post flight the mice will be returned to investigators at ~R+3 hours for bone structure, composition and strength analyses, serum analyses for bone resorption  and formation markers and protein and gene expression analysis. 
+<P>
+Lower hind limb muscle- and bone-associated vascular tissue outcomes will be evaluated in mice after 12 days of STS-135 space flight exposure, and compared to vascular tissue outcomes over an identical time period of synchronous ground based WB and HLU mice. Vasculature outcomes in a standardized region of the mid-lower hind limb (including portions of the soleus muscle and tibia/fibula) will be assessed using both immunostaining of vascular cell markers in tissue sections along with q PCR gene array analyses for genes associated with endothelial cell function from adjacent tissue sections. These vascular outcomes will be compared to muscle and bone tissue assessments in the same tissue regions as assessed by histomorphometry.</p>
+<p>
+RESULTS:<br>
+qRT-PCR Analyses: A greater than 1.5-fold increase or decrease in gene expression levels between spaceflight and ground control was chosen as physiologically significant. For “bone” samples, 10 of 84 interrogated genes were altered in spaceflight specimens as compared to ground controls. Gene expression levels for 3 genes (Cxcr5, Ccl2, Il1b) were decreased by = 2-fold and that for 1 gene (Mmp1a) was increased = 2-fold. Gene expression levels for 3 genes (Selplg, Icam1, Vegfa) were decreased by > 1.5-fold and those for 3 genes (Fgf1, Cpb2, Serpine1) were increased by > 1.5-fold; these changes were also statistically significant. For “muscle” samples, 16 of 84 interrogated genes were altered in spaceflight specimens as compared to ground controls. Gene expression levels for 8 genes (Adam17, Bcl2l1, Cdh5, Pf4, Edn2, Mmp9, Selplg, Serpine1) were increased = 2-fold. Gene expression levels for 1 gene (Tek) was decreased by > 1.5-fold and those for 7 genes (Ace, Agtr1a, Bcl2, Cx3cl1, Il6, Mmp2, Ptgis) were increased by > 1.5-fold; these changes were also statistically significant. Selplg and Serpine1 were the only gene expression alterations occurring in both bone and muscle samples; = 2 for muscle and between 1.5 and 2.0 for bone samples, but fold trends were opposite in the two tissue compartments.
+<p>
+Immuno-histomorphometry Analyses:  Tissue sections have been immuno-stained and photomicrograph images have been collected.  Data analysis is pending upon completion of histomorphometry measurements.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARC00XX74</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Midura, Ronald</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-135&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/hapr-2620</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNH09ZTT003N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a69c9fa7-d227-5820-8566-d5ec787f8044?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a69c9fa7-d227-5820-8566-d5ec787f8044?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

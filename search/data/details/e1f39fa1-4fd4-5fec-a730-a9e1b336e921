@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Characteristics of Light Exposure Necessary for Development of Optimal Countermeasures to Facilitate Circadian Adaptation and Enhance Alertness and Cognitive Performance in Space - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e1f39fa1-4fd4-5fec-a730-a9e1b336e921?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958HPF01301</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Characteristics of Light Exposure Necessary for Development of Optimal Countermeasures to Facilitate Circadian Adaptation and Enhance Alertness and Cognitive Performance in Space</h1>
+        <div class="meta-id">Record ID: NCC958HPF01301</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e1f39fa1-4fd4-5fec-a730-a9e1b336e921?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Space missions often expose crewmembers to unusual light-dark cycles that lead to misalignment between the circadian pacemaker and the sleep-wake schedule, resulting in disturbed sleep and impaired waking function. An effective countermeasure is required to facilitate more rapid adaptation of the circadian system and directly enhance alertness and performance. Investigators have shown that short-wavelength (blue) light exposure at night is the most effective wavelength for phase-shifting the circadian pacemaker, suppressing pineal melatonin, enhancing subjective alertness and performance, and increasing brain activation. These data are consistent with stimulation of a novel blue-light sensitive non-rod, non-cone melanopsin-based photoreception system. These effects, however, have only been examined during the night using relatively bright light and recent evidence suggests that the spectral sensitivity of the circadian photoreception system may depend on the time of day, intensity of light and duration of light. Based on model fits to irradiance-response curves to 460 and 555 nm, the investigators predict edthat photopic (cone) photoreceptor system, which is maximally sensitive to green (555 nm) light, can contribute significantly to these responses and may be more effective at shifting the circadian system and suppressing melatonin than blue light at low light intensities. Furthermore, while blue light therapy to facilitate circadian adaptation and alertness has been proposed based largely on the effects of melatonin suppression at night, these data may not be transferable to the effects at other times of day (when melatonin is not produced) or for other effects of light. Before blue light is operationalized, three fundamental questions remain: 1) Does the spectral sensitivity depend on light intensity? 2) Do all non-visual effects of light have the same spectral sensitivity? 3) Is the spectral sensitivity of the circadian photoreception system different between the day and the night? Failure to address these questions may result in deployment of suboptimal lighting countermeasures. <p>
+The proposed project tested whether the spectral sensitivity of the circadian photoreception system is intensity-dependent, response-dependent or time-of-day dependent. The investigators aimed to conduct three experiments: Experiment 1 aimed to compare the melatonin suppression, phase resetting and alerting effects of exposure to dim 460 nm and 555 nm monochromatic light exposure at night, and compare these data to historic bright light studies using the same protocol. Experiment 2 tested the effects of bright 460 nm and 555 nm monochromatic light on daytime alertness and compared these data to previously collected night-time data using the same protocol. Experiment 3 changed from that originally proposed based on state-of-the-art unpublished findings on the effects of light pattern, duration, and wavelength. The revised experiment tested the hypothesis that an intermittent exposure to monochromatic 555 nm light for 6.5 hours during the biological night would cause a greater circadian phase shifting response than exposure to an equal photon density of continuous monochromatic 555 nm light. The data have been combined with those from historical experiments and the results of Experiment 1 to examine the interaction between light timing (day versus night), intensity (dim versus bright) and wavelength (460 versus 555 nm). 
+<p>
+APPROACH:<br>
+The methodology for this study isn’t available.
+<p>
+RESULTS:<br>
+As hypothesized, 555 nm dim night-time light exposure caused a significantly greater circadian phase shift as compared to 460-nm light exposure. In addition, there was significantly greater melatonin suppression induced by dim 555-nm light exposure as compared to 460-nm light exposure during the first quarter of the 6.5-hour light exposure, but not over the total 6.5-hour duration. The acute effects of light on alertness and performance were not consistent with the phase resetting responses. Dim 460-nm night-time light-exposure was associated with significantly quicker reaction times and lapses of attention as compared to dim night-time 555-nm exposure suggesting short-wavelength sensitivity for the acute alerting effects of light. Subjective sleepiness levels showed a similar trend but the results did not reach significance, suggesting that subjective ratings of sleepiness may not be an appropriate way to rate the potential performance risk associated with sleepiness and sleep deprivation. Comparisons between daytime and nighttime bright monochromatic light revealed novel results. Nighttime exposure to bright 460-nm light maintains alertness at levels that approach daytime alertness, suggesting that blue light is a powerful countermeasure to the strong circadian drive for sleepiness at night. Conversely, neither bright nor dim 555 nm light at night could improve performance to the same extent as blue light and has minimal effect on the circadian rhythm of sleepiness. Green 555nm light may still be effective under some circumstances, however. When bright green light exposure is used during the daytime, 555 nm light appears to improve alertness as the exposure-duration increases (>3-hours) although never to the extent that bright blue light maintains alertness, which remains high throughout the entire duration. Green 555nm light may also be able to exert a temporary alerting effect at the start of a 10-minute vigilance ask but cannot maintain a prolonged response for the entire duration, unlike 460 nm exposures. As a result of this work, investigators envisage the development of smart' lighting systems that will detect the ambient lighting conditions using an in-built sensor and automatically adjust the intensity, wavelength and pattern of light emitted to maximize the circadian, alerting and visual effects of light under any conditions and at any time of day, and at the greatest energy efficiency. Steps to develop such lighting recommendations for the International Space Station (ISS) have been initiated. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958HPF01301</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lockley, Steven</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Chronobiology, Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/a4h2-vt47</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e1f39fa1-4fd4-5fec-a730-a9e1b336e921?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e1f39fa1-4fd4-5fec-a730-a9e1b336e921?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

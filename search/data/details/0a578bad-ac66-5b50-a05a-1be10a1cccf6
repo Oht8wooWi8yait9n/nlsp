@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Does Spaceflight Alter the Virulence of a Natural Parasite of Drosophila? - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/0a578bad-ac66-5b50-a05a-1be10a1cccf6?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AB42G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Does Spaceflight Alter the Virulence of a Natural Parasite of Drosophila?</h1>
+        <div class="meta-id">Record ID: NNX15AB42G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/0a578bad-ac66-5b50-a05a-1be10a1cccf6?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The seminal discovery of Toll and Toll-NF-#B signaling as a central mediator of innate immune responses in the model insect Drosophila catalyzed similar discoveries in other organisms including innate immunity in humans. These findings led to an appreciation of the fundamental roles of innate immunity in human immune deficiency on the one hand, and immune health of insects on the other. In Drosophila larvae, primed, but quiescent hematopoietic progenitors are called into action from an organ with functional similarities to mammalian bone marrow. Blood cells signal the fat body (equivalent to the mammalian liver) to activate the expression of antimicrobial peptide genes (humoral immunity). Antimicrobial peptides efficiently combat deadly bacteria and fungi. The Leptopilina wasps are natural metazoan enemies of Drosophila and their attack kills fruit flies. Wasp attack (e.g., L. boulardi) activates both the humoral and cellular immune arms of larval hosts, each being dependent on Toll-NF-#B signaling. Previous NASA-funded studies of Drosophila have shown that stresses in the space environment compromise hematopoietic development and modulate larval and adult innate immunity. We hypothesize that stimuli from the space environment will also alter the virulence of the parasitic wasps, and therefore their success on the fly hosts cultured in space.<p>
+
+APPROACH:<br>
+In Drosophila-wasp co-culture experiments using the NASA Fruit Fly Lab hardware over 30-days, we propose to (1) examine whether the fly or the wasp partner wins the arms race in space; (2) examine the effects of spaceflight on the anti-parasite response in fruit fly hosts; and (3) examine if virulence of “space-cultured” wasps is different from counterparts grown on Earth. While both L. boulardi and L. heterotoma parasites always succeed on the wild type, only the latter wasp species produces unique cell-killing activities residing in its virus-like particles. It also suppresses humoral immunity completely. We will examine if changes in the expression of VLP genes underlies changes in parasite virulence affected by spaceflight. Host defense and virulence will be inferred from a suite of other well-established assays of fly/host survival and measures of immune response.<p>
+
+RESULTS:<br>
+Experiment is currently in progress. Results will be available at the conclusion of the study.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AB42G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Govind, Shubha</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Developmental biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>SpaceX_14</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Fruit fly (Drosophila melanogaster)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/qt7k-fj36</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014 Space Biology NNH14Z</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/0a578bad-ac66-5b50-a05a-1be10a1cccf6?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/0a578bad-ac66-5b50-a05a-1be10a1cccf6?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

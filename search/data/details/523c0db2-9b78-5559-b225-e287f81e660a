@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speech Alarms Pilot Study - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/523c0db2-9b78-5559-b225-e287f81e660a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Speech_Alarms</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Speech Alarms Pilot Study</h1>
+        <div class="meta-id">Record ID: Speech_Alarms</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/523c0db2-9b78-5559-b225-e287f81e660a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Correct and fast detection, discrimination, and identification of alarms are crucial to crew safety, efficiency, and mission success. Speech alarms can reduce cognitive workload and may lead to faster and more accurate detection of anomalous conditions than tone-based alarms. Existing caution and warning systems on NASA spacecraft have used only non-speech auditory signals for the three categories of alerts: caution, warning, and emergency. Redundant alarms, such as the combination of speech and tone information can ensure that the alarms are detected faster and more accurately, even in conditions of noise or high workload, or when eyes are busy. Deconditioned crewmembers may also be aided by the supplemental information provided in a speech alarm. During missions beyond Low-Earth Orbit, it will be critically important for crew to be able to detect off-nominal situations so that they can put the vehicle/habitat in a safe configuration without ground coordination. This is highly relevant when considering missions with increasing crew autonomy. 
+<p>
+Previous studies conducted in 2008-2010 evaluated auditory alerts currently in use with NASA flight deck displays along with proposed candidate alerts. In the 2009 study, non-crew and crew participants were asked to compare and rate in each category six candidate alerts relative to the current ones on their adequacy. One sound included a speech component after the alert tone, termed a “speech suffix” that gave additional information about the location of the event. The results showed that the inclusion of a speech suffix was preferred by both crew and non-crew subjects. In a follow-on 2010 study, various combinations of tone, speech, and speech suffix components were used with and without background conversation noise (voice loop). Overall, alerts starting with a speech component were identified faster than alerts starting with a tone. Listening to the alerts over the voice loop led to decreased identification speed, but speech alarms were still identified faster than tones. These results show that speech alarms lead to faster identification even in the presence of background noise. Due to advances in sound synthesis, investigators would like to replicate the study with higher quality sounds. They would also like to determine if in addition to identification time, response to the content of the alert is also improved. This work would provide the opportunity to begin establishing the feasibility and potential benefits of speech alarms. This study had the following specific aims:<ol>
+<li>Replicate the 2010 study with new sound stimuli to validate results related to speech alarms. 
+<li> Conduct a pilot test in the Human Exploration Research Analog (HERA), potentially including crew participants, to demonstrate the feasibility of speech alarms in a realistic environment.</ol>
+<p>
+APPROACH:<br>
+The current study replicated the results from the previous study in a more rigorous experimental design to determine if the candidate speech alarms are ready for transition to operations or if more research is needed.  Participants were instructed to complete items on a task list and respond to caution and warning alerts as they occurred. The HERA portion of this study was a feasibility assessment only.
+<p>
+RESULTS:<br>
+Four types of alarms (caution, warning, fire, and depressurization) were presented to participants in both tone and speech formats in laboratory settings and later in the Human Exploration Research Analog (HERA). In the laboratory study, the alerts were presented by software and participants were asked to identify the alert as quickly and as accurately as possible. Reaction time and accuracy were measured. Participants identified speech alerts significantly faster than tone alerts. The HERA study investigated the performance of participants in a flight-like environment. Participants were instructed to complete items on a task list and respond to C&W alerts as they occurred. Reaction time and accuracy were measured to determine if the benefits of speech alarms are still present in an applied setting. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Speech_Alarms</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Sandor, Aniko</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/7adx-ed13</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/523c0db2-9b78-5559-b225-e287f81e660a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/523c0db2-9b78-5559-b225-e287f81e660a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

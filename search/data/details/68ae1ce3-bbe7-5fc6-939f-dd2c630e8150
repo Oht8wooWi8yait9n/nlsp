@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Envihab Bed Rest Standard Measures: Ocular Tests - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/68ae1ce3-bbe7-5fc6-939f-dd2c630e8150?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ESA_BRSM_Ocular</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Envihab Bed Rest Standard Measures: Ocular Tests</h1>
+        <div class="meta-id">Record ID: ESA_BRSM_Ocular</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/68ae1ce3-bbe7-5fc6-939f-dd2c630e8150?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR> <p> Ocular Test is one of eleven International Bedrest Standard Measures conducted on healthy subjects at the :envihab facility in Cologne, Germany. Ocular Tests consist of assessing Intraocular Pressure (IOP), an Ocular Ultrasound, and Optical Coherence Tomography (OCT) and A-scan. The purpose of the standard measures project is to populate a repository with data that enables high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes. These standard measures will support future, hypothesis-driven research that enables planetary missions by providing an optimized minimal set of measures captured from subjects. These measures will be available to other studies under data sharing agreements as well as undergo analysis to understand risk posture. <p>
+APPROACH:<BR> <p>
+Intraocular Pressure:<p>
+Intraocular pressure is the fluid pressure of the aqueous humor inside the anterior chamber of the eye. Tonometry will be performed on the right and left eye using a commercial tonometer. The operator will stabilize the subject's head and gently tap the tonometer tip to the clear surface of the open eye directly over pupil to obtain the measurement. Each measurement consists of six successive taps. The tonometer will automatically drop the highest and lowest values and report the mean of the remaining four values. The mean constitutes one measurement. If the variability between the four taps is too high, the device reports “deviation error” and the measurement will not be recorded. Three good measurements are required, and the measurements should fall within a range of 1.5 mmHg. Measurements will be continually taken until three measurements fall within 1.5 mmHg of one another. <p>
+
+Ocular Ultrasound:<p>
+The diameter of the optic nerve and nerve sheath will be analyzed using a Prosolv ultrasound. Other parameters that will be derived from the ocular ultrasound scan include assessment of the optic nerve tortuosity and increased optic sheath-to-optic nerve diameter. The ultrasound scan will also be used to identify changes in the globe morphology (flattening of the posterior globe and globe axial length).
+
+Optical Coherence Tomography and A-scan:<p>
+The retinal thickness, volume, and retinal nerve fiber layer (RNFL) thickness will be measured using optical coherence tomography (OCT) and a quantitative cross-sectional analysis method. Axial samples of A-scans will be obtained in each “scan pass.” All the A-scans will be combined into one image producing an image with a resolving power of about 10 microns vertically and 20 microns horizontally. However, OCT has a high sensitivity for detecting subtle changes to the RNFL of the optic nerve head. An anterior segment module will be used to measure corneal thickness, anterior scleral thickness, and anterior chamber angles. Subjects will be seated with their chin placed on a chin rest. Subjects will focus their eyes into the machine. The machine will scan the subject's eyes and an image and report will be generated and viewed by the ophthalmologist or optometrist. 
+<p>
+
+The scheduled days of collection are as follows: <ul> 
+<li> Three days prior to mission </li>
+<li> The day mission ends </li></ul>
+
+RESULTS:<BR><p> The :envihab International Bedrest Standard Measures Test Battery is not a hypothesis-driven study, but rather a collection of data made available to future researchers and for trend analysis. As such, there are no specific hypotheses, outcome measures, or statistical analyses associated with the skeleton of the project. The questionnaire will capture a "snapshot" of optimized data that can be investigated by researchers in the future. <p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ESA_BRSM_Ocular</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Clement, Gilles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Clinical medicine, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;VaPER&#x27;], [&#x27;AGBRESA_1&#x27;], [&#x27;AGBRESA_2&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/tngk-ac61</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing. Available datasets are accessible via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/68ae1ce3-bbe7-5fc6-939f-dd2c630e8150?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/68ae1ce3-bbe7-5fc6-939f-dd2c630e8150?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

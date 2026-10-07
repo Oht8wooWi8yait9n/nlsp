@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RNA Binding Proteins as Evolutionarily Conserved Cellular Spaceflight Response Mechanisms - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/3d80b5c5-2757-59e1-bb17-91764042e37f?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ARC00XX63</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>RNA Binding Proteins as Evolutionarily Conserved Cellular Spaceflight Response Mechanisms</h1>
+        <div class="meta-id">Record ID: ARC00XX63</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/3d80b5c5-2757-59e1-bb17-91764042e37f?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Understanding infectious disease risks during spaceflight is critical to provide safe passage for human exploration to the moon and Mars. This issue is especially important given reports that the crew's immune system is dysfunctional during flight, and our recent discovery that spaceflight increased the disease-causing potential and globally altered the gene expression of the human food-borne pathogen Salmonella typhimurium. Our research also showed that many of the observed changes in Salmonella were associated with specific proteins in the cells, called RNA binding proteins, that bind to and regulate genetic material within the cell to control cellular characteristics in response to stress. In addition, our studies during spaceflight and using ground-based, spaceflight analogue culture systems have shown that increasing the concentration of certain ionic salts, like phosphates, in the growth media can prevent the increased disease causing potential observed for Salmonella during spaceflight. Interestingly, human cells also contain evolutionarily conserved RNA binding proteins that are very similar in structure and function to those found in bacteria. In human cells, these RNA binding proteins are critical for the cells proper function, including supporting a healthy immune system, maintaining tissue differentiation, and responding to cellular stress. We hypothesize that RNA binding regulatory proteins and their small RNA binding counterparts are key to a conserved, common cellular spaceflight response mechanism in both bacterial and human cells and that this response can be manipulated by environmental salt/ion levels. The implications of a universally conserved molecular response to spaceflight would affect NASA's approach to infectious disease risk assessment, development of biological processing systems for exploration, and changes in biodegradation during a mission. Indeed, if these responses are also observed in human cells, they may translate into knowledge of both the astronaut's response to infection and possibly larger physiological responses that are influenced by cellular changes.
+<p>
+The work performed for this ground experiment are directly related to and complement on-going work in our flight-based grant - NRA NNH08ZTT003N; “Space Tissue Loss Innate Mammalian Mechanisms Universal Novel Expressions ” 
+<p>
+APPROACH:<br>
+Two different human epithelial cell lines representing model intestinal (HT-29) and lung (A549) epithelium were used in these studies and their molecular and phenotypic responses to the stress of spaceflight and microbial pathogen challenge were independently profiled.  The Gram negative and Gram positive bacterial pathogens selected for use in the infection studies, S. typhimurium and S. aureus, respectively, have been shown by us to exhibit important changes during culture in spaceflight and/or spaceflight analogue conditions in ground-based simulation. All flight study results were compared to those obtained when the same experiments were performed with identical cells cultured as synchronous ground controls at the Kennedy Space Center in the same hardware used for flight (the Cell Culture Module/CCM), and as asynchronous controls under ground-based spaceflight analogue conditions in NASA-designed bioreactors. 
+<p>
+This study was the first to use true spaceflight and spaceflight analogue culture to determine the effect of these environments on the host-pathogen interaction between S. typhimurium and human intestinal epithelium when both host and pathogen are simultaneously exposed to these conditions. In addition, this study was the first to profile the infectious disease process in human cells during spaceflight.  By investigating the effect of spaceflight analogue culture on the interaction between S. typhimurium and human intestinal epithelium, insight will be gained into the ability of this environment to alter host resistance to infection, and thus the risk of infectious disease during space flight. This proposal focused on key questions that are pertinent to NASA goals for long duration manned spaceflight as well as the mitigation of risk to the crew of the International Space Station. 
+<p>
+RESULTS:<br>
+Sample analysis is finalized for global alterations in both transcriptomic and proteomic profiling, cellular differentiation, immune function (inflammatory response mediators), and stress responses associated with space flight in the presence and absence of infection. All flight sample comparisons were made to identical synchronous ground controls housed in duplicate CCM hardware as that used for flight. Through iTRAQ analysis, we have identified 86 total unique human proteins (95% confidence, 1% FDR) that were expressed by the HT-29 intestinal epithelial cells cultured on orbit either before or after infection with Salmonella typhimurium. These proteins belonged to a range of different functional classes and categories, including those important for metabolism, apoptosis, cell communication, immune function, and others. Of the 89 proteins identified, a unique subset of these were found to be differentially regulated in response to space flight, and showed differences in response to infection between flight and ground cultures. Collectively, we found intriguing differences in how microgravity uniquely impacted the space flight infected intestinal cells as compared to the ground controls. We have also finalized global proteomic response profiling for the A549 lung epithelial cells as well. Moreover, immunohistochemical profiling has revealed differences in both distribution and expression patterns of targeted host cell proteins and alterations in cellular cytoarchitecture.
+<p>
+No data submitted. Summarized and analyzed data figures are available in Characterization of the invasive, multidrug resistant non-typhoidal Salmonella strain D23580 in a murine model of infection.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ARC00XX63</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Nickerson, Cheryl</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Omics, Immunology, Network physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Bacteria (Salmonella typhimurium)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/h5mr-x920</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNH08ZTT003N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/3d80b5c5-2757-59e1-bb17-91764042e37f?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/3d80b5c5-2757-59e1-bb17-91764042e37f?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

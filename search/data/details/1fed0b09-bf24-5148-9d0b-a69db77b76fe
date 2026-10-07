@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Non-pharmaceutical Motion Sickness Mitigation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/1fed0b09-bf24-5148-9d0b-a69db77b76fe?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>Nonpharm_Motion_Sick</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Non-pharmaceutical Motion Sickness Mitigation</h1>
+        <div class="meta-id">Record ID: Nonpharm_Motion_Sick</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/1fed0b09-bf24-5148-9d0b-a69db77b76fe?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <div>OBJECTIVES</div><div><span><span>Motion sickness represents one of the greatest clinical challenges impacting crew activities following G-transitions.&nbsp;This project seeks to validate a non-pharmaceutical tool using galvanic vestibular reduction (GVR) by transcutaneously delivering bilateral inhibitory signals to suppress vestibular sensitivity and reduce post-landing motion sickness. The
+
+ first specific aim is to evaluate the effect of timing and magnitude on the administration of our non-pharmaceutical treatment to motion sickness. </span></span></div><div><span><span><br></span></span></div><div><span><span>While&nbsp;the researchers&nbsp;have previously demonstrated that&nbsp;their approach can mitigate motion sickness if introduced prior to provocative stimuli, one of the goals of this study is to determine the efficacy if&nbsp;they administer the treatment following the onset of symptoms. Validating the efficacy following symptom onset would greatly enhance flexibility to implement this treatment during recovery operations. Using a repeated measures counter-balanced design exposing subjects to provocative Coriolis cross-coupling stimuli on a rotating chair,&nbsp;the researchers&nbsp;will compare motion sickness severity across three treatment interventions: prior to stimulus (symptom) onset, following symptom onset, and placebo control. Symptom severity will be assessed using both subjective reports and objective autonomic measures (e.g., electrogastrography).&nbsp;They expect that the most effective administration will be GVR delivered prior to the onset of symptoms, but that it will continue to be more effective relative to placebo control even if delivered following symptom onset. </span></span></div><div><span><span><br></span></span></div><div><span><span>
+
+In order to leverage&nbsp;their non-pharmaceutical technique that allows continuous adjustments in “dosage” level throughout recovery,&nbsp;the&nbsp;researchers&nbsp;must map changes in GVR level with functional performance.&nbsp;The second specific aim is to characterize the dose response of GVR amplitude to functional fitness task performance.&nbsp;Investigators will measure performance on a sensorimotor and cognitive test battery in steps ranging from 0mA (control) to the level of GVR thought to provide maximal motion sickness protection. The advantages of&nbsp;their non-pharmaceutical countermeasure approach will be to provide rapid therapeutic effect while allowing continuous titration of GVR amplitude during recovery to minimize side effects while enhancing performance.
+<br><br></span></span></div><span>
+</span><div>APPROACH</div><div>Twenty-nine healthy subjects (32.0 ±9.1 y mean ±std, 16 male/ 13 female) were recruited to participate in a repeated measures design involving four test sessions. Subjects completed a medical history questionnaire confirming they had no known history of vestibular pathology. Subjects completed a short version of a standardized motion sickness susceptibility questionnaire (MSSQ-short, Golding 2006), and recorded a simple 5 point self-rating of susceptibility from 0 = none to 4 = extreme. During the initial session all subjects were exposed to the galvanic vestibular reduction (GVR) stimulus and completed a battery of balance, mobility, and oculo-cognitive tests to evaluate the effect of GVR amplitude on functional fitness task performance. Two male subjects were unable to complete all of the testing. The remainder of the 27 subjects (32.2 ±9.4 y mean ±std, 14 male/ 13 female) completed three motion sickness sessions using a counter-balanced cross-over design to compare motion sickness severity across three treatment interventions: (1) Prevention: GVR on throughout stimulus testing, (2) Rescue: GVR on following symptom onset, and (3) Control: no GVR. The motion sickness sessions were scheduled several days apart (20 ± 40 d, mean ± std) to minimize carry-over (e.g., habituation) effects across sessions.<br><br></div><div><div>Galvanic vestibular reduction stimulation: Galvanic vestibular reduction was delivered using a proprietary system developed at the Mayo clinic laboratory. This utilizes a multi-channel commercial galvanic stimulator (Good Vibrations Engineering Ltd, King City, ON) with custom software. The stimulator bidirectionally delivered a sinusoidal profile (2.5 Hz) with variable amplitudes from ±1.75 to ±2.25 mA to provide matching cathodal or anodal currents simultaneously to each mastoid.</div><div><br></div><div>Motion sickness stressor: Each of the three sessions involved a series of trapezoid velocity profiles with acceleration (6 º/s2) up constant velocity of 60 º/s for 2.5 min during which 7 forward (chin to chest) and backward (return to upright) head movements were cued every 10 seconds. Although the head position was not measured, the typical range of motion for head flexion in young healthy adults is 60º. Subjects were tested in a dark room with their eyes closed and audio cueing over a chair-fixed speaker to pace the head movements and allow operator-subject communications throughout the protocol. Since the GVR stimulus was chair mounted and needed to be turned on manually, the 2 min pause between rotations was required to allow the operator to turn on the GVR during the rescue sessions. This pause also allowed time for symptom recovery and in part led to a higher-than-expected number of subjects who did not reach the symptom endpoint during the control session.</div><div><br></div><div>Symptom reporting: During the 2 min pause between head movement sets, symptom scoring was obtained using the Pensacola Diagnostic Index (PDI) and a Subjective Discomfort Rating (SDR). The PDI provides an acute score by obtaining the subjective intensity of eight different modalities of symptoms and signs reported on a “slight/moderate/severe” basis used to derive a weighted “malaise index”. The symptom endpoint for stopping the test was a PDI score of 8 pts, considered severe malaise. We also used the PDI to determine when to initiate the GVR during the Rescue session. During these sessions, the GVR was initiated with a moderate malaise (PDI = 3), or following 4 sets of head movements, whichever came first. The SDR used a subjective magnitude estimation scale of 0-20, with 20 indicating vomiting, similar to what has been used for Field Tests and Spaceflight Standard Measures. If GVR effectively suppresses vestibular sensitivity, it was hypothesized that subjects would experience lower symptom scores, and be able to perform more head movements before reaching the endpoint. An objective measure of sickness was also obtained using the physiological response of gastric myoelectric activity, known as the electrogastrogram (EGG). These EGG recordings were analyzed to derive the dominant power instability coefficient (DPIC) as an index for motion sickness. DPIC quantifies the stability of the power of the dominant frequency – higher DPIC values indicate higher gastric dysrhythmia, presumably in this case due to motion sickness.</div><div><br></div><div>Motion perception reporting: A chair-mounted joystick was used to obtain objective measures of motion perception in three-dimensions during the pitch head movements. During the head movements, subjects experienced a combination of yaw rotation from the persisting horizontal canal response to the angular acceleration of the chair rotation, pitch tilt from canal, otolith and cervical cues associated with alternating the head between upright and chin-to-chest positions, and Coriolis cross-coupled roll canal cues associated with aligning the roll plane of the head relative to plane of rotation. As the horizontal canal response decays, the conflicting cues from the cross-coupled roll canal cues and otolith cues of pitch head tilt give rise to the nauseogenic effects. Subjects were trained to indicate the direction and magnitude of perceived pitch and roll tilt using the joystick so that the maximum deflection represented the magnitude of the pitch forward and backward movement. If GVR effectively suppresses vestibular sensitivity, we hypothesized subjects would experience reduced pitch and roll tilt sensation during GVR versus the control condition without GVR.</div><div><br></div><div>Sensorimotor cognitive test battery: This test battery utilized both dynamic posturography as well as a modified timed up and go (TUG) locomotion task. A third test in the battery was designed to measure cognitive performance indicators during variable workload through eye movement features. The Oculo-Cognitive Addition Test (OCAT, Pradhan et al. 2022) tracks eye movements as the subject sums three consecutive single-digit numbers displayed at various positions around an infinity-loop pattern to elicit saccades in horizontal, vertical, and diagonal directions.</div></div><span style="font-size:14px;"><br>
+<br>
+RESULTS</span><div><div>Fifteen of the 27 subjects were not susceptible to the motion stressor (i.e., did not reach an endpoint in the control condition). While the time to endpoint, or number of head movements, did not significantly vary across the three GVR conditions in the remaining subjects, the symptom levels were significantly delayed during the Prevention session when GVR was on throughout the testing. Initiating GVR following symptom onset did not appear to alter the symptom progression nor time to motion sickness endpoint. Based on the joystick measures, GVR significantly modified the perceived roll and pitch sensation during head movements, reducing the amplitude of tilt in most subjects. It is important to note that comparable levels of GVR did not impair performance on the functional test battery including mobility, balance, and oculometric tasks.</div><div><br></div><div>These findings suggest GVR may be useful in reducing disorienting roll and pitch illusions and delaying the onset of motion sickness. Further enhancements will be required to individualize the stimulation amplitude and optimize the waveform delivery. Adapting this non-pharmaceutical countermeasure approach to allow self-administered titration of current amplitude during recovery would enable transfer to post-flight treatment, perhaps combined with a pharmaceutical approach to mitigate G-transitional induced motion sickness.</div></div><div><span><br></span></div>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>Nonpharm_Motion_Sick</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Wood, Scott J.</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>NASA JSC</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/f5b6-ck63</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/1fed0b09-bf24-5148-9d0b-a69db77b76fe?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/1fed0b09-bf24-5148-9d0b-a69db77b76fe?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

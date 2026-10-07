@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visuo-Motor Coordination Facility (VCF) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000195?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>226</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Visuo-Motor Coordination Facility (VCF)</h1>
+        <div class="meta-id">Record ID: 226</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000195?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Visuo-Motor Coordination Facility (VCF) displayed stationary or moving visual targets on a laptop computer screen that subjects viewed on a tilted reflective screen.  Using real-time video analysis, it recorded trajectories of manual responses towards these targets.  The VCF, attached to the VCF mounting structure, consisted of a Data Acquisition System and a Virtual/Real Image System (VRIS).   <P> The VCF Data Acquisition System consisted of an IBM ThinkPad computer, docking station, electronics box, image processing board, multiplexer board, input/ouput interface board, and a power cable.<P> The IBM ThinkPad 755C laptop computer performed image presentation, acquisition, and processing; data Input/Output (I/O) handling and storage; and experiment control.  The laptop consisted of 540-MB hard disk, 12-MB RAM, high resolution color Liquid Crystal Display, and 3.5-inch floppy drive. <P> The docking station housed the image processing and multiplexing boards, which provided the real-time video acquisition and analysis.  The docking station was the on-site expansion tray, complete with four full-length (AT) slots to accommodate 8- and 16-bit cards, an RS-232 port and a very fine graphics adapter (VGA) video display port.   <P> The electronics box housed dc-dc converters, circuit breakers, camera controllers, fans and wiring.  The image processing board processed a digitized image captured by the multiplexer board.  The multiplexer board simultaneously sampled, digitized and multiplexed the camera input onto the image processing board.  An I/O interface board provided interfacing for status and control of the Screen Tilt/Lock Unit, power control to the glove micro-lamps and interface to the subject trigger switches.  The I/O functions were performed via the laptop/docking station parallel printer port.  The power cable provided power from a Space Shuttle Vdc power source to the VCF hardware.  The cable did not interfere with crewmembers or experiment operations and was stowed in a compartment at the rear of the VCF.<P> The VCF Virtual/Real Image System (VRIS) consisted of a camera assembly, two CCD cameras, reflective screen assembly, tilt/lock assembly and cover screen.  The camera assembly held the cameras and reflective screen assembly in optical alignment with laptop screen.  The assembly was fixed in place to reduce the risk of optical misalignment and reduce total setup time.  Cameras were encased in a structure mounted to the VRIS plate and positioned with locating dowels.  A Lexan cover contained the glass lens.  The CCD cameras viewed glove lights on the subject's fingers inside the working volume from different angles to determine the light position in three dimensions. <P> A Lexan reflective screen assembly with a tiltable black backing was mounted at a 45-degree angle from the laptop computer screen.  The black backing could be placed in a down or up position producing reflective or semi-transparent modes, respectively.  In the down position, the screen is zero percent transparent, preventing the subject from seeing his/her hand.  In the up position, the screen is 50 percent transparent, allowing the subject to see the image in the computer screen, as well as hand movements.  Computer control allowed the paradigms to automatically actuate the black backing without affecting the subject.  The computer screen center position was 31.22 cm up and 11.5 cm back.  Working volume was defined relative to the reflective screen center. <P> The computer-controlled tilt/lock assembly moved the black backing to change the state of the reflective screen (reflective or semi-transparent).  The computer control has a manual override to ensure that computer-actuated screen failure does not impede experimentation. <P> The cover screen of the VVIS was thin Lexan attached by a hinge to the VRIS plate.  Handles located on either side allowed for manual actuation of the Tilt/Lock Assembly, and a spring assembly kept the cover screen in position during manual operation.  Computer control was performed by a Seromotor attached to the handle.  To disengage the computer, the linkage is removed. <P> Additional hardware used with the VCF included a hand reaction switch, a black screen, a VCF glove, the VCF mounting structure, a floppy disk kit, a back restraint and VCF stability straps. <P> The Hand Reaction Switch (HRS) was employed on the subject's dominant hand side to allow the subject to start a paradigm.  Software protected against accidentally triggering the switches, and the frame accommodated and protected the switches.  The SITE Handswitch clamped to the VCF Mounting Structure. <P> The Black Screen prevented background light from interfering with determination of the micro-lamp positions.  The lightweight Black Screen assembly attached easily to the black frame of the VCF with Velcro through Black Screen spaces.  A light shield prevented stray light from entering the volume subtended by the reflective screen and the computer screen. <P> The VCF Gloves (left and right) are black Spandex gloves to be donned on the subject's dominant hand and extended to the subject's elbow.  Incandescent micro-lamps were located on the glove index finger and thumb to facilitate finger position tracking.  The glove's anti-reflective surface minimized reflected light interference with light position determination.  A flexible wire runs down the glove to the computer electronics box. <P> The VCF Mounting Structure provided a rigid structure to ensure accurate and repeatable optical alignment.  The Mounting Structure consisted of a VCF Mounting Bar that interfaces to the VCF and permanently attaches to a base plate secured to the Spacelab floor. <P> Floppy disks were used to store experiment data from the VCF hard drive and run VCF software protocol.  The disk kits were stored in foam in a compartment at the rear of the VCF when not in use. <P> The back restraint supported the subject's waist and lower back during operations.  The subject attached the back restraint on each side of the VCF Mounting Structure. <P> The VCF stability straps were two tethers that attached from the VCF Mounting Bar to the VCF baseplate giving the structure stability.<P>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Visuo-Motor Coordination Facility (VCF)</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>STS-90</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Visuo-Motor Coordination during Space Flight</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>Neurolab Configuration</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000195?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000195?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

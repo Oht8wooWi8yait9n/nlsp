@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Effects of Microgravity on Lymphatic Structure and Function - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/f07fff98-b5cc-5f1c-ac18-4769fae68657?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX15AG54G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Effects of Microgravity on Lymphatic Structure and Function</h1>
+        <div class="meta-id">Record ID: NNX15AG54G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/f07fff98-b5cc-5f1c-ac18-4769fae68657?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+This project combines aspects of two proposals that were selected for funding: “Effects of microgravity on lymphatic proliferation and transport efficiency in the gastrointestinal system of C57/BL6 mice” (#14-14SF_Step2-0079) and “Tissue Sharing (B7): Effects of Microgravity Adaptations on Cephalic Lymphatic Function and Associated Edema Development and Immune Dysfunction” (#14-14SF_Step2-0092). Both of these proposals have at their basis the idea that long-term space flight inhibits lymphatic function, which will impair the transport of immune cells, fluids, and macromolecules from the interstitium. This lymphatic inhibition could affect many aspects of astronaut health, especially upper body edema, CSF (cerebrospinal fluid) pressure regulation, visual acuity loss, gastrointestinal dysfunction/ inflammation and immune impairment due to diminished transport of fluid, large molecules and immune cell transport to and from the nodes.</p>
+
+<p>The visual acuity disturbances from space flight are thought to be related to the increases in intracranial pressure because of the space flight induced cephalic fluid shift. Cephalic lymphatic function has been intimately linked to the regulation of CSF pressure via the lymphatic removal of CSF through the cribriform plate. The cribriform plate and associated lymphatic network moves lymph derived from CSF towards the cervical lymph nodes en route to the veins of the neck. This provides part of a multi-faceted CSF pressure regulatory mechanism as well as a modulator of neurological immunity. We will study the role of the cephalic lymphatic network in CSF pressure dysfunction and the assessment of correlative immunological components.</p>
+
+<p>Space flight is also known to cause alterations in the development and function of the gastrointestinal (GI) tract. This is associated with lymphostasis, gut edema, reduced fat deposition in the mesentery and visceral organs, and reduced size of immune associated organs, similar to what is seen in intestinal lymphangiectasia. All of these symptoms are also found in patients with GI inflammation. Intestinal inflammation has not been studied in human subjects during space flight, but we have seen that simulated space flight resulted in the development of intestinal inflammation in animal models. However, this has not been measured in the same space-flown animal model. The role of GI lymphatic dysfunction, which is likely a causative factor in many of these pathologies has NEVER been systematically assessed.</p>
+
+APPROACH:<br>
+Thus we propose that space flight induced lymphatic dysfunction is responsible for the development of edema and inflammation in multiple tissues, specifically producing dysfunction in CSF pressure regulation and GI function. The previous applications both proposed to test this general hypothesis using very similar experimental protocols applied to the head/neck and GI tissues respectively for #14-14SF_Step2-0092 and #14-14SF_Step2-0079. In the combined grant we propose 3 modified Aims to test this general hypothesis: Aim 1--To analyze changes in the structure and functional implications of the pre and postnodal cephalic lymphatic architecture due to spaceflight-induced adaptations (old Aim 1 of #14-14SF_Step2-0092); Aim 2--To evaluate space flight adaptations of the network structure of lymphatic vessels of the cribriform plexus and the GI tract. Increases in lymphangiogenesis are commonly associated with inflammation and lymph transport insufficiency. We will determine alterations in lymph vessel number, size, and distribution in these tissues. We will also determine if there are alterations in the formation of lymphatic valves, which are an important structural component of lymphatic vessels (old Aim2 of #14-14SF_Step2-0092 combined with old Aim 1 of #14-14SF_Step2-0079); Aim 3--To analyze changes in lymph node structure that could alter the delivery of important immunological components to and from the nodes (cephalic for the head and neck tissue and mesenteric node for the GI tissue) leading to immune dysregulation and modulation of nodal lymph flow. We will also determine if there are shifts in the cell populations that reside in the lymph nodes, and around the prenodal lymph vessels (old Aim 3 of #14-14SF_Step2-0092 combined with Aim 2 of #14-14SF_Step2-0079). Cunent changes to the source of the tissue and preservation techniques will however preclude histological (Haemotoxilin and Eosin staining).</p>
+
+RESULTS:<br>
+This experiment is currently in progress.  Results will be available at the conclusion of the study.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX15AG54G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Zawieja, David</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Developmental biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;SpaceX_8&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Mouse (Mus musculus)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/h9vh-n703</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NHH14ZTT001N Space Biolog</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/f07fff98-b5cc-5f1c-ac18-4769fae68657?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/f07fff98-b5cc-5f1c-ac18-4769fae68657?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

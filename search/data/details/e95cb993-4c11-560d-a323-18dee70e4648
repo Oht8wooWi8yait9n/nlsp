@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Medical Operations Support Team--Development and Testing of a Space-Adapted Human Patient Simulator - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e95cb993-4c11-560d-a323-18dee70e4648?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958SM00012</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Medical Operations Support Team--Development and Testing of a Space-Adapted Human Patient Simulator</h1>
+        <div class="meta-id">Record ID: NCC958SM00012</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e95cb993-4c11-560d-a323-18dee70e4648?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+NASA has understood the educational benefits of using simulation during its history as demonstrated by its integration of simulation into multiple aviation disciplines to prepare its astronauts for space flight. The NASA Space Life Sciences Directorate (SLSD) at the Johnson Space Center (JSC) has observed these benefits along with recognizing the recent success of medical patient simulation in teaching terrestrial medicine. As a result, the SLSD has developed an infrastructure to use high-fidelity medical patient simulation as a teaching tool for astronaut crew medical officers (CMO) and flight surgeons (FS). In order to integrate medical patient simulation into medical training programs, the SLSD tasked the NSBRI with constructing a team that has the expertise and experience to develop medical patient simulation-based curricula. 
+<p>
+The NSBRI assembled diverse clinical and scientific personnel from both inside and outside the space medicine community to create the Medical Operation Support Team (MOST). Since its inception, the team has used its unique skill sets to develop eight medical patient simulation-based products for these cohorts per the direction of NASA Medical Operations Branch (MOB), the Astronaut Office, and the NASA Human Research Program (HRP). Overall, the MOST has used its expertise with their strong space medicine collaborations and NASA-JSC’s medical patient simulator infrastructure to develop robust space medicine training products. 
+<p>
+Specific Aims:<br>
+1. Adapt Human Patient Simulator (HPS) physiologic scripting and modeling to space flight training. <br>
+
+2. Develop an integrated, multimedia medical curriculum and web development to integrate with the HPS training sessions. <br>
+3. Develop, evaluate, and validate space medical procedures. <br>
+4. Maintain and expand the multidisciplinary team in conjunction with NASA-JSC's needs and requests. <br>
+APPROACH:<br>
+The methodology for the study is embedded in the results below.
+<p>
+RESULTS:<br>
+The key findings of the aims and their impact are listed below. Please note that the following tasks were accomplished on a (mostly) volunteer/non-funded basis due to the decrease in project funding.
+<p>
+The Medical Operation Support Team (MOST) developed an experimental integrated medical simulation program to instruct astronauts and their ground-based flight surgeons how to mitigate medical issues related to space flight. The team conducted this experimental training for two cohorts.
+<p>
+Training was developed for the flight surgeons and astronaut crew medical officers (CMO) of the STS-118 Space Shuttle mission, per the request of the Lead CMO. The team developed curricula using medical patient simulators to train the CMOs how to mitigate space flight-related medical events while being remotely guided by their ground-based flight surgeons in Mission Control. The session was the first simulation exercise of its kind and is being reviewed by the Medical Operations Branch (MOB) at NASA-Johnson Space Center for possible integration into the Space Medicine Training flow. 
+<p>
+The MOST developed an emergency medicine scenario for an ‘Emergency Medical Drills’ session that was conducted during the 12th and 13th expeditions of the NASA Extreme Mission Operation (NEEMO) project. NEEMO consists of an underwater habitat that is supposed to mimic the isolation and constraints experience during space flight and, thus, this project acts as a good test-bed for researchers to evaluate procedures and equipment for possible use during space missions. The data collected by the MOST from these ‘Drills’ demonstrated that that having a physician as a CMO led to an expeditious identification and treatment of an unknown medical condition. As a result of this finding, the Medical Operations Branch (MOB) at NASA-Johnson Space Center is reviewing whether implementation of physician-astronauts as Lead CMO would be beneficial for long duration space missions (e.g. International Space Station, Moon, and Mars).
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958SM00012</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Doerr, Harold</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors, Clinical medicine, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/bdyf-pw28</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e95cb993-4c11-560d-a323-18dee70e4648?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e95cb993-4c11-560d-a323-18dee70e4648?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Developing Personalized Countermeasures for Sensorimotor Adaptability: A Bedrest Study - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/04d5aed3-878b-5122-b79b-ab1553d66bbf?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958SA03801</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Developing Personalized Countermeasures for Sensorimotor Adaptability: A Bedrest Study</h1>
+        <div class="meta-id">Record ID: NCC958SA03801</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/04d5aed3-878b-5122-b79b-ab1553d66bbf?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+This study aimed to identify and characterize a set of predictive measures that included: 1) behavioral tests to assess sensory bias and adaptability; 2) imaging to determine individual brain morphological and functional features; and 3) genotype markers for genetic polymorphisms that play a role in the neural pathways underlying sensorimotor adaptation. Information from this study will help in the design of sensorimotor adaptability training countermeasures that may be customized for each crewmember’s individual characteristics. The study was almost completely retrospective, in that no new bed rest or flight studies were required. 
+<p>
+This study had the following specific aims:<ol><br>
+<li>Determine whether baseline individual sensory biases and capabilities for strategic and plastic-adaptive responses predict both change and also the ability to re-adapt sensorimotor and functional performance after 70 days of bed rest or short/long-duration space flight. Investigators will determine if participants’ individual sensory biases in use of vision, vestibular, and proprioception as well as tests of strategic and long-term adaption predict the change from pre-to post-tests after bed rest or space flight and determine if those biases predict rates of re-adaptation in sensorimotor performance. 
+<li>Determine if baseline brain morphological and functional metrics predict both change and also the ability to re-adapt sensorimotor and functional performance after 70 days of bed rest or short/long-duration space flight. Investigators will determine if individual differences in regional brain volumes (structural MRI), white matter integrity (diffusion tensor imaging, or DTI), functional network integrity (resting state functional connectivity MRI), and sensorimotor adaptation task-related functional brain activation (functional MRI) predict pre to post levels of decrements and their rates of re-adaptation in sensorimotor performance. 
+<li>Determine if genetic markers predict both change and also the ability to re-adapt sensorimotor and functional performance after 70 days of bed rest or short/long-duration space flight. Investigators will determine whether genetic polymorphisms in Catechol-O-methyltransferase (COMT), dopamine receptor D2 (DRD2), brain-derived neurotrophic factor (BDNF), and genetic polymorphism of alpha2-adrenergic receptor are associated with pre to post levels of decrements in sensorimotor performance and rates of re-adaptation. </ol>
+<p>
+APPROACH:<br>
+Developing predictive measures of sensorimotor adaptability allowed investigators to better design and implement sensorimotor adaptability training countermeasures that are customized for each crewmember’s sensory biases, adaptive capacity, brain structure and functional capacities, and genetic predispositions. Investigators recruited and tested six crewmembers and three bed rest subjects for whom they collected prospectively data across sensory utilization tests; adaptive capabilities in locomotor and manual control; single nucleotide polymorphisms (SNPs) for dopamine receptor D2 (DRD2), Catechol-O-methyltransferase  (COMT), brain-derived neurotrophic factor (BDNF), and Alpha 2 adrenergic receptor (DraI). They also shared retrospectively collected functional performance data on two tasks before and immediately after space flight and bed rest. Preliminary results show subjects' ability to utilize how somatosensory information may predict the change in dynamic postural control after exposure to both space flight and bed rest analog environments. This data was combined with predictor metrics - behavioral, brain imaging, and genomic measures collected from these returning subjects to build models for predicting post-mission (bed rest or space flight) adaptive capability as manifested in their outcome measures. Comparisons of model performance for various groups of predictors provided insight into how to design subject-specific countermeasures against decrements in post-mission adaptive capability. 
+<p>
+RESULTS:<br>
+A control subject database was augmented to 45 subjects that have the same test of performance. Using information from these tests, data show that subjects' utilization of somatosensory information at the bottom of the feet and at the ankle joints were predictive of the ability to adapt to novel sensorimotor disturbance during walking. Further, the SNP in BDNF and DRD2 showed the ability to delineate subjects' ability to adapt to visuomotor disturbance during walking. 
+<p>
+A control-subject group study (n=58) conducted at the University of Houston explored the link between adaptation in manual control and the classical split-belt treadmill locomotor adaptation task. Data showed a significant linear relationship between the number of attempts required to achieve adaptation in the two tasks. These data confirm the notion that a common central adaptive mechanism is employed across sensorimotor sub-systems. 
+<p>
+A control subject study (n=34) at the University of Michigan investigated whether individual variability in the rate of visuomotor manual adaptation is associated with differences in regional gray matter volume and resting state functional connectivity. Resting state functional connectivity strength between sensorimotor, dorsal cingulate, and temporoparietal regions of the brain was found to predict the rate of learning during the early phase of the adaptation task. As for structural predictors, greater gray matter volume in temporoparietal and occipital regions predicted faster early learning, whereas greater gray matter volume in superior posterior regions of the cerebellum predicted faster late learning. These findings confirm that neural predictors of early and late adaptation may facilitate different aspects of sensorimotor adaptation that may be targeted by countermeasures. 
+<p>
+A study conducted on people with benign paroxysmal positional vertigo (BPPV) explored the interaction between visual dependence and balance control. Control subjects with poor balance scores had significantly greater visual dependence, indicating reliance on visual cues can affect balance control. The side of impairment was strongly related to the side of perceived bias in the Earth vertical determined by BPPV subjects, indicating a relationship between the effect of BPPV with spatial orientation perception. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958SA03801</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Mulavara, Ajitkumar</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Neuroscience, Cell and molecular biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/4ywr-tv61</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013 HERO NNJ13ZSA002N-Crew Health (FLAGSHIP &amp; NSBRI)</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/04d5aed3-878b-5122-b79b-ab1553d66bbf?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/04d5aed3-878b-5122-b79b-ab1553d66bbf?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

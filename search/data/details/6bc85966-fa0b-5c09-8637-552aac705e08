@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Operational Evaluation of In-suit Doppler - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6bc85966-fa0b-5c09-8637-552aac705e08?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NEEMO-DOPPLER</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Operational Evaluation of In-suit Doppler</h1>
+        <div class="meta-id">Record ID: NEEMO-DOPPLER</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6bc85966-fa0b-5c09-8637-552aac705e08?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+The goal of this project was to perform an operational evaluation of an in-suit Doppler (ISD).  The effectiveness of the written procedures, hardware, and human interface of the in-suit Doppler device were assessed.  This study was important because it addressed a risk and critical question involving the prevention and treatment of decompression sickness.
+<P>
+APPROACH:<BR>
+Crewmembers received two 1-hour training sessions prior to the mission. These sessions focused on the Doppler hardware: donning the device, obtaining a good signal, and recording the data. A separate 2-hour training session was held for the subjects outlining the use of the software for data transfer.
+<P>
+While on Aquarius, subjects took Doppler readings after each dive to monitor nitrogen bubbles in the blood stream. These recordings began as soon as possible upon returning from a dive (within 30 minutes). Placement of the Doppler and initiation of data recording took approximately 15 minutes. The device was then worn for 2-4 hours, as time and activities allowed. The data was stored in an attached solid-state memory device, which left the subjects free to move about the habitat and engage in other activities. At the end of the designated interval, the subject removed the hardware and downloaded the data. After the data were transferred, the subject selected several sample (.wav) files to e-mail to the surface for analysis.
+<P>
+The data collected included Doppler recordings taken during an increment of every minute. In addition to the Doppler data, recordings of the subject's activity (collected as part of a separate objective) via an Actiwatch® were also used.
+<P>
+Doppler readings were also taken after decompression from saturation upon arrival at the shore base, 20-24 hours after decompression, and 44-48 hours after decompression in four-hour increments.
+<P>
+RESULTS:<P>
+<U>Evaluation of Doppler Data:</U>
+<P>
+Approximately 150 digital wave files were recorded as part of each post dive Doppler record.  Each wave file represents 24 sec of recording in a total 73 sec period; therefore, 49 sec are when the ISD is off.  
+
+Each wave file was assigned a Doppler Quality Score (DQS) and evaluated for unusual Doppler Events (DEs).  Doppler Events are sounds that could be attributed to the presence of a moving gas phase (bubbles) within the sampling envelope of the Doppler sensor.   
+<P>
+The Doppler Quality Score (DQS) reflects the recorded quality of the pulmonary artery (venous blood) blood flow, termed the right ventricular outflow tract.  A quality blood flow signal is about the potential to hear bubbles, so is based only on the quality of the venous blood flow sound through the pulmonary artery.  The blood flow "swish-swish" sounds are good sounds in which to hear bubbles followed by the pulmonary valve "whip" sounds.  The heartbeat is not a good sound in which to hear bubbles. 
+<P>
+The design of the hands-off Doppler sensor means that all of the sounds described above will likely appear on the recordings.  The score is developed based on a perfect ideal flow sound given a perfect Doppler and a perfect placement by a trained technician.  It is more important in our space application to have high confidence that we are not hearing bubbles since the negative predictive value is about 98% while the positive predictive value given Grade IV venous gas emboli (VGE) is only about 50%.  If a superior recording to determine if bubbles are present is available, then one can guarantee that no bubbles are present, and have the confidence to grade the bubbles.
+<P>
+Four categories and definitions were used to assess the quality of the Doppler ultrasound bubble detectors, both within one subject over multiple monitoring periods and between multiple subjects over multiple monitoring periods.  See datasets for this information.
+<P>
+The standard operating procedure was to dive in buddy pairs and conduct two dives per day.  The buddy pairs were not always the same, and all four divers would normally dive at once, and dive twice a day.  There were 62 dives conducted over the 12-day mission, but no diving was done on Mission Day 7.  Thirty-nine of the dives were the first dive of the day with 23 dives as the second dive of the day.  The mean maximum depth in meters below the surface was 23 msw + 3.8 msw SD, n = 62, with a range from 18.3 msw to 28.9 msw.  The mean dive time was 169.6 min + 66.8 min SD, n = 62, with a range from 48 min to 333 min.  Only 32 of the 62 dives had post-dive Doppler measurements collected.  
+<P>
+The post-mission monitoring was performed with a Techno Scientific Model DBM9008 Ultrasound Bubble Detector to verify that no VGE were present after the decompression from saturation conditions.  No VGE were detected. 
+<P>
+<U>Doppler Quality Scores:</U>
+<P>
+DQS varied between data recording sessions and between subjects.  DQS also varied throughout a single data session (not shown) possibly due to the subject's body position or the subject being less active during portions of the data session.  The subjects received equal amounts of training and were trained together.  It is reasonable to conclude that the within and between-subject variability is not attributable to training.
+<P>
+Two divers were better able to find and maintain a quality Doppler flow signal (DQS 3 or 4) compared to the other two divers.  Our observation in training was that these two groups of subjects had significantly different chest anatomies.  The group with the high percentage of poor quality signal had chests with more muscle mass, requiring considerable pressure to obtain a quality signal.   It is difficult to apply the necessary pressure with the current ISD adhesive design.  Thus, a conclusion that explains the data is that the quality of the Doppler flow signal is greatly influenced by the chest anatomy.  Matching the current ISD with the person that can provide a quality flow signal is a better approach than simply assigning an ISD to anyone willing to use it during an EVA.  
+<P>
+<U>Doppler Events:</U>
+<P>
+Only 50 of 4,893 total useful wave files (1%) contained DEs. The majority of DEs were detected in the two subjects with more quality DQS (DQS 3 and 4).  However, most DEs (22 of 50) were detected in wave files with the poorest DQS (DQS 1).  There were 11 DEs with a DQS 2, 16 DEs with DQS 3, and 1 DE with DQS 4.  It is interesting that even the poorest quality signal is capable of detecting DEs, and more frequent in those subjects that clearly had a better signal overall.  This may be due to a better transducer placement and/or a more accommodating chest anatomy, as confirmed in an adjunct study described later in this report.
+<P>
+<U>Doppler Events versus Venous Gas Emboli: </U>
+<P>
+The time distribution of DE after an excursion dive and through the multi-day mission was not inconsistent with what would have been expected for VGE. The sound and onset characteristics of the DEs were very different than observed in previous decompression tests. Transient showers of gas phase were observed intermittently during the monitoring periods, and there was no pattern of sustained VGE with time or increase in VGE quantity.
+<P>
+The signal has the same character in all 50 examples, and just varies in intensity in a few cases.  We would expect the signal from VGE to be rich in high and low frequencies indicating different size bubbles traveling at different rates as they are propelled toward the lungs in synchrony with the heart rate.  
+<P>
+These atypical results drove a closer review of the data to other possible sources of the DEs. An adjunct study was conducted on two subjects (1 male, 1 female), collecting data with the ISD while drinking and eating varying quantities of liquid and food at varying intervals.  Optimum and non-optimum Doppler signals were evaluated for liquid detection.  Liquid intake (presumably with entrained air) produced sounds identical to the DEs in both of the subjects, using an optimum signal. DE were occasionally detected with the transducer in a non-optimum position, but were not detected most of the time.  DEs were not detected with food intake in either subject.
+<P>
+<U>Correlation of DE with Liquid Intake:</U>
+During the NEEMO mission the aquanauts also participated in a nutritional assessment study, which involved bar code inputs of all food and liquids at the time of consumption. These records were reviewed and correlated with the DEs.  Twelve of the 32 data sessions were missing blocks of wave files and/or some log on/off times were not consistent with the number of wave files, making it impossible to calculate the time with any measure of certainty.  The times for the DEs that occurred during the other 20 data sessions could be calculated using the wave file number, Mission Elapsed Time, and the logs giving on/off times for the ISD.  The results from data showing the % DE correlated with liquid intake combined with the qualitatively identical sounds produced in the adjunct study using the ISD, suggested that the DEs were air entrainment associated with liquid intake.  This observation had not been made in previous studies because continuous Doppler monitoring was not performed over a multi-hour period. The normal Doppler monitoring period was generally less than five minutes, with the subjects neither drinking nor eating since they were at altitude and wearing an oxygen mask. 
+<P>
+<U>In-Suit Doppler (ISD) Questionnaire</U><P>
+The subjects were asked to complete a questionnaire after the mission.  Questions were asked on operational and human factors such as the acceptability of set up time, transducer placement procedures, transducer adhesive design, ISD software, and download operations.  All subjects wrote that the training, procedures, and set up time were adequate.    
+<P>
+Most recommendations concerned the transducer adhesive and the downloading process.  One subject experienced severe skin irritation and the other subjects had minor problems.  We believe shaving prior to the application precipitated the severe reaction, made worse by repeated applications of adhesive tape.  The NEEMO mission required daily applications of the adhesive, while a Shuttle or ISS mission would not.  One subject recommended a transducer that would disconnect from the rest of the Doppler modules, thereby requiring only one application of the adhesive tapes.   
+<P>
+There were multiple comments about the downloading operations.  The ISD software is not compatible with the more recent operating systems, and requires Windows 95.  This was an inconvenience.  The time and battery power required for downloading caused significant problems.  This issue requires extensive evaluation before use in a space flight scenario.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NEEMO-DOPPLER</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Gernhardt, Michael</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Human factors, Clinical medicine, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;NEEMO 5&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/xy6f-5541</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6bc85966-fa0b-5c09-8637-552aac705e08?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6bc85966-fa0b-5c09-8637-552aac705e08?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

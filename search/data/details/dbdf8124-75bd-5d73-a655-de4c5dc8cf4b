@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Treadmill with Vibration Isolation and Stabilization System (TVIS) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/dbdf8124-75bd-5d73-a655-de4c5dc8cf4b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>RME 1318</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Treadmill with Vibration Isolation and Stabilization System (TVIS)</h1>
+        <div class="meta-id">Record ID: RME 1318</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/dbdf8124-75bd-5d73-a655-de4c5dc8cf4b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The EOO Treadmill, developed under the Extended Duration Orbiter Medical Project
+(DTO 659) was first flown on STS-64. Additionally, this EOO Treadmill was used as
+the exercise countermeasure device for the Mir crew returning on STS-71. During these
+test flights, it was determined that the passive treadmill functioned as an appropriate
+exercise device for exercise countermeasures, and that the restraint harness was
+comfortable and provided stability during exercise. Recent study and evaluation of International Space Station (ISS) requirements has determined that several design modifications to the treadmill will be required for successful installation and operation in the Russian Segment (Service Module) of the ISS. These design modifications include significant redesign of the
+Subject Restraint System, motorization of the treadmill, and the addition of a Vibration Isolation and Stabilization System to make up the ISS TVIS.
+<p>
+The objectives of this RME were:<br>
+1. Evaluate the effectiveness of TVIS in reducing the magnitude of force transmitted
+during exercise.<br>
+2. Evaluate the TM with Vibration Isolation and Stabilization (TVIS) with respect
+to running surface stability.<br>
+3. Evaluate the ISS TM Subject Restraint System for physical comfort, stability, and
+effectiveness for exercise at different restraint loads.<br>
+4. Evaluate the ISS TM motorization for physical comfort, noise, belt speed and
+sufficient variability for exercise.<br>
+<p>
+APPROACH:<br>
+PREFLIGHT<br>
+At -L-180 days a 1-hour familiarization session was held during which the subject received a briefing of the overall objectives and procedures of this RME and a display of the TVIS set-up and operation. TVIS assembly sessions (90 minutes each) were performed at L-150, -120, and -90 days. The first two assembly training sessions were conducted using dimensionally correct hardware. (Assembly training with the flight hardware was not recommended for early sessions because the TVIS components are large and heavy.) The final assembly session was conducted using the flight hardware and special ground support stands for assembly aid. TVIS protocol training was performed in two 90-minute sessions at L-90 and L-60 days. This training was conducted at Lockheed-Martin in a test tower designed to support the system in a simulated 0-g environment. (This is the only way the VIS portion of the system can be operated.) These sessions provided the subjects with the opportunity to train on a truly vibrationally isolated treadmill. One 90-minute treadmill assembly session was performed at L-120 days, and a treadmill operation training (for nominal exercise) was performed at L-90 days (one session).
+<p>
+IN-FLIGHT<br>
+<i>Operators</i><br>
+Assembly of the TVIS system required two operators for approximately two hours. The operators were also required for photo/television camera setup. This included three cameras which must be mounted, two camcorders, and one minicam. The mimicam provided live video downlink during the TVIS sessions. The operator was also required to configure the PGSC prior to TVIS operations to collect TVIS force data. These data were downlinked to the ground after each subject's TVIS session.
+<p>
+<i>Subjects</i><br>
+Subjects were asked to perform two sessions in inflight: one in the hard-mounted configuration and one in the TVIS configuration. The exercise evaluation began with stretching and the donning of a HeartWatch. The purpose of the HeartWatch is twofold: (1) to provide feedback if a subject reaches 85% age-predicted maximum heart rate, and (2) to compare the input with the heart rate receiver that is embedded in the display panel. The actual exercise session lasted 30 minutes and included a minimum of two minutes at each of the following speed ranges: slow walk (1-2.5 mph), moderate walk (2.5-3.5 mph), jog (4-6 mph), and run (6-7 mph) at loads that the subjects chose. The remainder of the session was at crewmember preference. The investigators requested that subjects duplicate as closely as possible both protocols, hard-mounted and with TVIS, so that an accurate comparison could be made.
+<p>
+POSTFLIGHT<br>
+<i>Subject and Operator</i><br>
+Operators and subjects were asked to participate in a 30-minute debrief at -R+4 days.
+<p>
+RESULTS:<br>
+For DTO 659. the crew reported that the treadmill was easily set up for in-flight use and easily stowed for landing. They also reported favorably on the comfort of the restraint system and the dynamics during exercise. Additional comments were that the motorized tread was the preferred mode and the control panel needed simplification. Even before the treadmill flew on STS-64, it was decided that a vibration isolation system be devised for the existing treadmill. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>RME 1318</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Moore, James</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Clinical medicine, Technology development</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-81&#x27;], [&#x27;STS-93&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/hx3a-xn29</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/dbdf8124-75bd-5d73-a655-de4c5dc8cf4b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/dbdf8124-75bd-5d73-a655-de4c5dc8cf4b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

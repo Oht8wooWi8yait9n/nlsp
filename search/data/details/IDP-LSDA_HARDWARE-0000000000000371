@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collapsible Lower Body Negative Pressure (LBNP) System - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000371?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>738</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Collapsible Lower Body Negative Pressure (LBNP) System</h1>
+        <div class="meta-id">Record ID: 738</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000371?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The Collapsible Lower Body Negative Pressure (LBNP) System provides a controlled, measured orthostatic stress to the cardiovascular system.  The system consists of the LBNP Device, a cylindrical chamber into which the subject places the lower half of his/her body, and the LBNP Controller that provides automated pressure control and signal conditioning.  Negative pressure is maintained within the chamber during experiment measurements.  Decreased pressure within the device is provided by a vacuum.  The LBNP System is used to track orthostatic deconditioning in flight by using staged application of negative differential pressures of up to -50 millimeters of mercury (mm Hg).  It counteracts orthostatic intolerance by stimulating physiological responses that encourage a redistribution of body fluids.
+<P>
+LBNP was used in flight as early as 1973 when astronauts on Skylab 2 underwent experimental protocols in the first generation LBNP chamber.  This device, although effective and still in use for ground-based studies, was much too large and heavy to be practical for use on the Shuttle.   A second generation LBNP device was developed for the Spacelab, but was too bulky for stowage and use in the Shuttle middeck.  The challenge was to develop a collapsible device, capable of being easily assembled and yet stowed in a single middeck locker.  The challenge was met, and the first version of this collapsible system flew on STS-32 in January 1990.  Although hardware operation was successful, the astronauts using the device experienced significant discomfort.  During the LBNP protocol the astronauts body was supported by a bicycle-style seat suspended from the chamber opening.  The atmospheric pressure outside the chamber pushed the crewmember against the seat, analogous to hanging from a bicycle seat without being able to touch the floor.  Crew suggestions following this flight led to an anthropometric redesign of the chamber and the seat.
+<P>
+The main component of the Collapsible LBNP System is the LBNP Device, which forms a chamber in which the subject is exposed to the varying levels of negative pressure.  The LBNP Device consists of inner and outer cylindrical Nomex bags with an airtight urethane coated nylon bag sandwiched between the two.  Woven into the inner Nomex bag is a skeletal support structure of four struts and seven rings fabricated of 304 stainless steel. The struts can be disengaged and folded, allowing the chamber to collapse into a compact cylinder stowable in a Shuttle middeck locker.  
+<P>
+As mentioned earlier, during the first flight of the LBNP, crewmembers commented that the device was not comfortable.  In an attempt to eliminate discomfort, the LBNP device was modified.  The addition of a ring canted at a 30-degree angle to the open end of the cylinder and the replacement of the bicycle seat with a flat, tractor-like seat pan allowed the subject to assume a more natural neutral body position within the LBNP device, and it distributed the forces previously centered on the groin across the subjects buttocks.   In addition to the seat pan, other modifications to the LBNP device included:<P><OL><LI>a back rest, to provide support and cushioning to the lower back,</LI><LI> a foot rest, allowing the subject a leverage point, and </LI><LI>the addition of an iris assembly, which reduced the cross-sectional area at the top of the bag exposed to standard cabin pressure, thereby reducing the suction forces translated to the subject and to the neoprene waist seal.</LI></OL>  
+<P>
+Maintaining proper waist seal integrity and eliminating leakage is critical to the success of LBNP.  Original versions of the waist seal, while successful, presented difficulties when subjects of widely varying waist sizes were required to use the same device.  This led to the development of removable neoprene waist seals that zip onto the LBNP Device and can be fabricated to fit different subjects.  
+<P>
+Operation of the system is managed by the LBNP Controller.  The Controller is a self-contained, programmable integrated logic circuit (ILC) control unit that provides automated pressure control, as well as signal conditioning for ECG, blood pressure, and LBNP device pressure waveforms.  The Controller connects directly to the LBNP device via a quick-disconnect (QD) mounted on the front of the LBNP device.  In order to create a vacuum, a stainless steel flex hose attaches to the QD mounted on the LBNP Controller and on an Orbiter vacuum source.  For Shuttle middeck operation, the vacuum source is the Waste Collection System (WCS), accessed via a QD mounted on a panel below the Orbiter toilet.  For Spacelab operation, the LBNP uses the Spacelab Vacuum Vent, accessed through a custom panel fabricated by Marshall Space Flight Center (MSFC).   Regulation of the internal vacuum is provided by two solenoid valves.  These valves are: (1) a normally open valve on the Controllers vent port, and (2) a normally closed valve located on the vacuum inlet port.  To decrease pressure in the LBNP device, the normally open vent solenoid is energized, forcing the vent valve closed, and shutting off the LBNP chamber from the cabin.  This provides a sealed environment in which to pull a vacuum.  At the same time, the normally closed vacuum valve is commanded to the open position to begin evacuation of the LBNP device.  A pressure transducer, located inside the LBNP Controller, is connected directly to the LBNP device via a dedicated sample port.  The pressure transducer sends signals to the Controllers microprocessor, which compares the actual pressure in the LBNP device to the expected (programmed) pressure.  This, in conjunction with the microprocessors internal clock, allows the Controller to regulate and control the pressure in the LBNP device throughout the entire protocol.  If power is terminated to the Controller unit, the solenoid valves automatically default to the vent positions, allowing the LBNP device chamber to return to ambient cabin pressure.  
+<P>
+For simplicity, the Controller is limited to three protocols stored in memory.  However, the capability exists to modify the Controllers software and external controls to allow much greater flexibility in executing alternate protocols.  A "Pause" feature is also provided.  When the Pause button is depressed, the Controller interrupts the protocol in progress, holds the last target pressure, and displays a clock to indicate the time since the pause was initiated.
+<P>
+During all LBNP protocols, ECG, blood pressure, and heart rate are monitored with the use of an Automatic Blood Pressure Monitoring (ABPM) System.  The ABPM is connected to the LBNP Controller via a data cable, and analog data from the ABPM are processed by signal conditioning circuitry in the Controller.  Analog data, including continuous ECG, Korotkoff sounds, cuff pressure, LBNP vacuum pressure, and voiced comments are recorded on board for postflight analysis using a 9-channel TEAC data recorder connected to the LBNP Controller.  
+<P>
+For safety reasons, ground-based subject monitoring via telemetry is required during portions of the LBNP test and treatment protocols.  Because LBNP is performed both in the middeck and in the Spacelab, the LBNP Controller had to be designed for two operational telemetry interfaces.  In the middeck, data are down-linked via the Orbiter Bioinstrumentation System (OBS).  In this configuration, conditioned analog data are sent via a data cable directly from the LBNP Controller to the OBS, which then digitizes and downlinks the data as a part of the S-band communications.  The two available OBS channels can be used to downlink any two of three available waveforms: ECG, blood pressure (K-sounds superimposed on cuff pressure), and LBNP pressure.
+<P>
+For Spacelab, the analog signals are sent, via a data cable, to the Data Acquisition System (DAS), which processes data for the Spacelab telemetry system.  On board the Shuttle, the LBNP Controller provides real-time feedback to the crewmembers through a 20-character, 2-line liquid crystal display (LCD) that supplies continuous updates on chamber pressure and displays a countdown to the next pressure change.  An aneroid pressure gauge mounted on the LBNP Controller provides a redundant means of monitoring pressure in the LBNP Device.  The ABPM tracks subjects heart rate and blood pressure, and provides the subject and operator with a digital readout of critical test termination criteria, such as a sudden drop in blood pressure.  ABPM heart rate and blood pressure data are recorded on a hardcopy logbook by an astronaut trained to monitor subjects during testing.  As a matter of course, a manual sphygmomanometer is also provided for use in the event of failure of or questionable data from the ABPM.
+<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Collapsible Lower Body Negative Pressure (LBNP) System</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>Mir 18, STS-32, STS-37, STS-39, STS-42, STS-43, STS-44, STS-45, STS-47, STS-50, STS-52, STS-58, STS-62, STS-65, STS-71</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Cardiovascular Responses to Lower Body Negative Pressure Following Space Flight; In-flight LBNP Test of Countermeasures and End-of-Mission Countermeasure Trial; In-Flight LBNP: Countermeasure to Reduce Post-Space Flight Orthostatic Intolerance; Studies of Orthostatic Intolerance with the Use of LBNP</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>Version Used During the Extended Duration Orbiter Medical Project (EDOMP) Studies; Version Used During the NASA-Mir Missions</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000371?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000371?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

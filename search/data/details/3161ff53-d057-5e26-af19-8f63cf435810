@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MiniCog: A Portable and Fast Assessment of Cognitive Functions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/3161ff53-d057-5e26-af19-8f63cf435810?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958NBPF00405</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>MiniCog: A Portable and Fast Assessment of Cognitive Functions</h1>
+        <div class="meta-id">Record ID: NCC958NBPF00405</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/3161ff53-d057-5e26-af19-8f63cf435810?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Astronauts work in a dangerous and noisy environment, and have extraordinarily compressed work schedules.  In addition, they are isolated from friends and family for long periods of time. Thus they may be fatigued, depressed, or anxious. Such stressors conspire to make individual performance and that of the team as a whole, particularly vulnerable to cognitive decrements. It is crucial to assess cognitive ability at regular intervals while astronauts work. In a project funded by the NSBRI, the investigators implemented a portable system, the MiniCog Rapid Assessment Battery (MRAB), which assesses nine different cognitive functions. This system is intended to provide an "early warning alert," indicating when an astronaut or worker is suffering from stress-related deficits, such as fatigue, that may affect performance. One strength of the system is that the assessment is quick. The information can be used by the astronauts or workers themselves, either alone or as part of a team, or by a supervisor. In all cases, users can be warned to pay additional attention and take extra care, or better yet, take a break, consume food or caffeine, or even take a nap. 
+<p>
+In this phase of the research, investigators proposed two major goals: First, they wished to extend the MiniCog system by a) programming the software to run on additional operating systems, b) allowing users to predict their performance before and after taking a test (but before seeing their scores, which would be compared with their predictions), c) adding wireless relay capability, and d) by including an additional initial screening test. Second, investigators planned validation studies of the MRAB tests, partly in collaboration with NSBRI team members David Dinges, Philip Lieberman, and Judith Orasanu. In their own lab, they planned to conduct three kinds of studies: 1) correlating scores on MRAB with scores on assessment batteries currently used by NASA; 2) examining the effects on cognitive performance of four factors (anxiety, noise, circadian rhythm, and time-pressure); examining the mitigating effects of three potential countermeasures (a pre-learned short relaxation procedure, vigorous exercise, and caffeine). 
+<p>
+APPROACH:<br>
+During the second year of the study, investigators initiated a study to address the following question: Is the MRAB capable of detecting the effects of induced anxiety on very specific aspects of performance? Thirty-one participants came to the lab for three one-hour practice sessions within a two-week period. During this time they practiced the tasks eight times. At the end of the two-week period participants returned to the lab for a final session, during which they completed the MRAB tests and a series of mood and cognitive state questionnaires before and after receiving instructions about a stressful public-speaking task they would perform, and then again after they had performed this task. 
+<p>
+RESULTS:<br>
+Mean state anxiety scores on the Spielberger State Anxiety Inventory (SA) changed significantly only in females, from 38 at the beginning of the session to 47 upon learning that there would be a public-speaking task (and 46 at the end of the session, which was not a significant decrease); in males the scores were 31 and 34 (and 33 at the end), respectively. In contrast, Spielberger reports increases to 50 and 61 (males and females) during a stressful movie. Investigators were hoping the task would induce stress levels similar to the movie condition, but this did not occur, and with the funding shortage, there was no opportunity to redesign the protocol and administer it to more participants. In looking at the MRAB scores of just the female participants during the final session, investigators found an increase from baseline (at the beginning of the session) in ERs on the "cognitive set switching" task (from 1.85% to 4.63% [p<.01] upon learning about the public speaking task) and on the "filtering" task (from 2.91% to 5.49% [p<.01] at the end of the session). However, RTs decreased on other tasks: MR, SWM, and VWM (all tasks for which there were non-significant increases in ERs). 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958NBPF00405</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Kosslyn, Stephen</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition, Behavior and performance, Biomedical countermeasures</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/jnny-nq31</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2003 Biomedical Research &amp; Countermeasures 03-OBPR-04</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/3161ff53-d057-5e26-af19-8f63cf435810?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/3161ff53-d057-5e26-af19-8f63cf435810?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

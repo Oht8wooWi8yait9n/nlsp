@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interaction of the Space Shuttle Launch and Entry Suit and Sustained Weightlessness on Egress Locomotion - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6867ff72-b080-5d65-ae5a-ab0a5f2d4fc1?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>DSO 331</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Interaction of the Space Shuttle Launch and Entry Suit and Sustained Weightlessness on Egress Locomotion</h1>
+        <div class="meta-id">Record ID: DSO 331</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6867ff72-b080-5d65-ae5a-ab0a5f2d4fc1?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Two flight suits are currently worn by crewmembers during Space Shuttle launch and landing. The Launch and Entry Suit (LES) and Advanced Crew Escape Suit (ACES) are designed to protect crewmembers in the case of emergency but may increase thermal stress and limit their egress capabilities. A Liquid Cooling Garment (LCG) worn under the flight suit was designed to counteract the heat storage of the suit. 
+<p>
+This study was conducted to assess egress performance of Space Shuttle crewmembers after space flight. Emergency egress performance was evaluated during a simulated egress in which an astronaut stands and then walks on a treadmill at 3.5 miles per hour for 5 minutes. Preflight testing was conducted in both unsuited and suited conditions. Postflight testing was conducted within two hours of landing in the suited condition only. To partially assess thermal load during the egress simulation, skin temperature was measured at four body locations: upper arm, chest, thigh, and calf.
+<p>
+The primary purpose of this of DSO was to assess the thermal loads experienced by Shuttle crewmembers during the performance of a simulated egress before and after space flight. Specifically, the investigators sought to:<br>
+1) Determine the additional heat stress imparted by the LES and ACES suits above normal unsuited conditions.<br>
+2) Determine whether there was a differential effect of suit choice (LES or ACES) on thermal stress during simulated egress.<br>
+3) Determine whether the LCG would successfully maintain a constant skin temperature from rest through the end of simulated emergency egress.<br>
+4) Assess any changes in thermal stress during egress from pre- to postflight.<br>
+5) Document skin temperature during deorbit burn, landing, and hatch opening immediately prior to egress.<br>
+<p>
+APPROACH:<br>
+Crewmembers were tested twice: once three to six months prior to flight and once within two hours of landing. During the preflight testing, crewmembers were tested in both the unsuited (T-shirt and shorts) and suited (LES or ACES) conditions. On landing day (R+0), crewmembers were tested in the suited condition only. All subjects read and signed a statement of informed consent prior to participating in any data collection. The protocol for this study was approved by the JSC Institutional Review Board.
+<p>
+<i>Preflight Testing</i><br>
+Unsuited Condition<br>
+In the first testing session, crewmembers performed the simulated unaided egress in the unsuited condition while wearing a T-shirt, shorts, and flight boots. Subjects stood in the center of the treadmill for approximately two minutes and donned the mouthpiece, pneumotach, and nose clips for the sampling of respiratory gases. Treadmill speed was increased to 3.5 miles per hour. Upon reaching 3.5 mph, the test began and the heart rate monitor was started. Subjects walked for five minutes at this speed.
+<p>
+Suited Condition<br>
+After unsuited testing was completed, crewmembers donned either the LES or ACES, depending on which suit they would use for flight, and repeated the above test. With the crewmember seated in a chair on the treadmill, the g-suit was inflated to the pressure anticipated to be used during landing and egress and the crewmember regulated the flow rate to the liquid cooling garment to maintain comfort. With the helmet visor closed, the crewmember pre-breathed 100% O2 for six minutes. The crewmember then stood, liquid cooling was discontinued, and he/she began walking as the treadmill speed was increased to 3.5 mph. Test time started when the treadmill speed reached 3.5 mph, at which time the heart watch was started. The crewmember continued walking at this speed until one of the following test termination criteria was attained: 1)subject request, 2) completion of five-minute walk, 3) inspired CO2 exceeded 6%, 4) medical monitor request, or 5) subject exhibited symptoms of CO2 toxicity (ie., unsteady gait).
+<p>
+<i>Postflight Testing</i><br>
+While in orbit, crewmembers donned the skin temperature thermistors and the chest strap for the heart rate monitor. Crewmembers then donned their liquid cooling garments and either the LES or ACES. All crewmembers received self-controlled liquid cooling during re-entry and landing.
+Skin temperature data loggers recorded data in 15-second intervals for seven hours and 30 minutes prior to the completion of the simulated egress after landing. Time of major events, deorbit burn, landing, and hatch opening, were identified from Shuttle operations records. Data from these time points were collated and compared.
+<p>
+All postflight tests were conducted on the Crew Transport Vehicle (CTV) within two hours of landing. Crewmembers exited the Space Shuttle and were directed to the testing area at the rear of the CTV. Prior to testing, crewmembers self-adjusted cooling through the liquid cooling garment to personal comfort. Postflight testing was conducted in the same manner as the preflight suited condition, and the same termination criteria were applied. If on R+0 the crewmember chose to use a g-suit inflation pressure different from that used during preflight testing, the preflight suited testing condition was repeated three to six months after landing, and these data were substituted for the preflight data.
+<p>
+RESULTS:<br>
+In the comparison of LES and ACES, there is no significant difference between the two suits at the arm, chest, and thigh measurement sites, or in the mean skin temperature. ACES T-calf is significantly lower than LES T-calf during rest and through minute 2 of exercise. Both suits demonstrate a significant rise in skin temperature from rest to exercise, starting at minute 2, at the arm, chest, thigh, and mean skin temperature. ACES T-calf is also significantly greater than rest starting at minute 2 of exercise. LES T-calf during exercise is not different from T-calf at rest.
+<p>
+A comparison was also made for the skin temperatures at four stages of landing. Skin temperatures were compared at de-orbit (D/O) burn, landing/wheel stop, hatch opening, and orbiter exit. From D/O burn through Orbiter exit, all regions dropped in skin temperature. The arm and chest regions demonstrated the highest temperature from D/O burn through orbiter exit.
+The calf skin temperature was the lowest at D/O burn, while the thigh skin temperature was the lowest at landing through orbiter exit.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>DSO 331</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Fortney- Schneider, Suzanne</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-82&#x27;], [&#x27;STS-83&#x27;], [&#x27;STS-88&#x27;], [&#x27;STS-76&#x27;], [&#x27;STS-77&#x27;], [&#x27;STS-84&#x27;], [&#x27;STS-87&#x27;], [&#x27;STS-85&#x27;], [&#x27;STS-93&#x27;], [&#x27;STS-75&#x27;], [&#x27;STS-94&#x27;], [&#x27;STS-90&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/tf03-5764</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6867ff72-b080-5d65-ae5a-ab0a5f2d4fc1?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6867ff72-b080-5d65-ae5a-ab0a5f2d4fc1?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DNA Double-strand Break Induction by HZE Particles: Repair and Consequences in Human and Rodent Cells - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/f47ddc46-8516-50e4-acb7-189e39e26a51?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>T9493W</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>DNA Double-strand Break Induction by HZE Particles: Repair and Consequences in Human and Rodent Cells</h1>
+        <div class="meta-id">Record ID: T9493W</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/f47ddc46-8516-50e4-acb7-189e39e26a51?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Exposure to ionizing radiation during space travel may hinder long-term missions for humans.  Interplanetary travel, such as between Earth and Mars, will involve exposure to galactic cosmic rays of high charge and high energy (called HZE particles) that damage human cells.  In the field of radiobiology, researchers have gained a better knowledge of lower energy particles (LET particles) as compared to HZE particles.  It is possible that HZE particles cause damaging effects that differ from LET radiation in a fundamental way.
+<p>
+At the cellular level, ionizing radiation causes breaks in both strands of the double-stranded DNA structure.  These double-strand breaks (DSBs) in DNA are the basis of chromosomal breaks that can kill cells.  Although a DSB can be repaired by the body, they can also lead to mutations, gene translocation and cancer.  The objective of this investigation is to test the hypothesis that HZE particle exposure causes predictable DSBs and, thus, chromosomal and cellular damage. 
+<p>
+Investigators predict that cellular effects of HZE particles can be understood by the initial complexity and spatial distribution of DSBs within the cell. To test this, experiments are performed with both low LET radiation (X-rays), low-energy high LET radiation (29 MeV/n N-ions) and HZE particles (400-1000 MeV/n Fe ions). By comparing theoretically derived spatial distributions and complexity of DSBs in the three cases with experimental endpoints (repairability of DSBs, chromosome damage, cell killing), investigators are testing the validity of such a paradigm for HZE particles. If effects are seen that cannot be explained by the hypothesis, new mechanisms specific for HZE particles would have to be postulated. The project also has an important component in testing bystander effects. Such effects occur in cells that are not directly exposed to radiation, but are exposed to deleterious factors secreted from exposed cells. It has been suggested that bystander effects will dominate at the low doses and dose rates at which astronauts will be exposed, since only a small proportion of all cells will experience a hit from a HZE particle, and the remaining cells will be bystanders. In this project we are comparing bystander responses by medium transfer for the three classes of radiation as delineated above.
+<p>
+The task objectives were:<br>
+1. To measure DNA double-strand break induction by HZE Fe-ions, low energy high LET N-ions and X-rays in the dose-range of 0.1 – 10 Gy to look for specific low-dose effects. 
+<br>
+2. To test the possibility that DSBs can be induced in non-irradiated bystander cells. The medium transfer technique is used to test for clastogenic factors in the growth medium of cells irradiated with HZE Fe ions. 
+<br>
+3. To measure in human cells the number of DSBs remaining unrejoined 24 hours after irradiation and compare this with remaining unrejoined premature condensed chromosomes (PCC) in the same dose and time interval. 
+<br>4. To compare micronuclei formation induced by HZE Fe ions of various energies in normal cells and cells defective in non-homologous end-joining. 
+<br>
+5. To measure micronuclei formation behind shielding. It is important for risk estimation to verify that there are no unexpected effects from HZE ions compared to other more well-studied high LET ions. Also, mechanistic understanding of bystander effects may help to design countermeasures. 
+<p>
+APPROACH: <br>
+Cultured human cells were exposed to HZE iron ions in a low dose range (0.1 - 10 Gy) to induce DNA double-strand breaks (DSBs).  The yield of DSBs as a function of dose was measured to determine whether the effects of this exposure are linear.  Areas of tissue made unstable by the heat generated by the ionizing radiation will be determined, since these sites can also induce DSBs.  The distribution of DSBs in certain regions of DNA was measured. 
+<p>
+A technique called medium transfer was used to test whether it is possible for DSBs to be induced, not only in irradiated cells, but also in non-irradiated bystander cells. DSBs are capable of being repaired by the body.  The portion of DSBs that are not repaired 24 hours after HZE irradiation were measured and compared to the number of unrepaired breaks within chromosomes exposed to the same dose.  Iron ions of various energy levels were used in the dose range of 1 - 10 Gy.  This helps gain insight into the mechanisms and relationship between DSBs and chromosome breaks. 
+<p>
+The survival of normal human cells and cells defective after irradiation was measured.  HZE particles of various energy levels were compared to low energy particles of similar LET to better understand the relationship between them. 
+<p>
+RESULTS: <br>
+Progress for the 3rd year of this project relates mainly to Aim 4 (To compare micronuclei formation induced by HZE Fe ions of various energies in normal cells and cells defective in non-homologous end-joining). Investigators wanted to study a significant biological effect as a function of Fe ion energy and shielding thickness. For this purpose they measured micronuclei (MN) induction rather than clonogenic survival as originally proposed. This assay is much faster and can accommodate many more samples per run, and therefore could still be carried out during the grant period. They measured MN induction for three energies of Fe ions (300 MeV/n, 600 MeV/n and 1 GeV/n) for wild type V79 cells and DSB repair-deficient xrs-6 cells. The doses were in the interval of 0.02 Gy to 1 Gy, low enough to be relevant for risk estimations.
+<P> 
+To obtain the relative biological effectiveness (RBE) for MN induction at the lowest doses possible investigators fitted second order polynomials to the induction curves and used the initial slopes for RBE calculations. This represents dose values below 0.2 Gy, unusually low for this type of experiments, and therefore of particular significance for risk estimation. For wild type V79 cells, the RBE relative to 300 kVp X-rays was found to increase with increasing LET (up to over 200 keV/µm), while for the DSB repair-deficient xrs6 cells, the RBE did not deviate significantly from 1 regardless of energy. For V79 cells, irradiation with 1 GeV/n Fe ions (LET = 151 keV/µm) gave RBE = 3.1, 600 MeV/n Fe ions (LET = 176 keV/µm) gave RBE = 4.3 and 300 MeV/n Fe ions (LET = 235 keV/µm) gave RBE = 5.7. An RBE equal to one for NHEJ deficient cells is consistent with literature. The data for the repair-proficient V79 cells are interesting, since a considerable proportion of the Fe ion dose will be in the form of delta rays, and only part of the dose will form a track. Furthermore, the track is much wider than a standard high LET radiation such as alpha particle radiation. Both of these considerations would suggest that the peak of RBE versus LET will appear at a higher total LET for an HZE particle than for a low-energy alpha particle. Our experiments thus show a behavior that was expected, supporting the notion that no unexpected phenomenon was present in MN formation from the HZE Fe ions compared with low-energy high LET particles. 
+<P>
+WInvestigators also measured MN formation behind plastic shielding material (same material as routinely used at the beam-line to determine the Bragg curve). Various shielding thicknesses were introduced in front of the beam to obtain MN frequency along the whole Bragg curve for 1 GeV/n Fe ions. Special measures were taken to test the efficiency precisely at the Bragg peak where surviving Fe ions stop with very high LET values. This beam undergoes a lot of nuclear fragmentation so the cells were receiving a mixture of ions of lower Z in addition of the Fe ions. The exposure beyond the Bragg peak is exclusively from fragments. Investigators found that MN formation in their cell lines was proportional to the dose profile with the exception at the Bragg peak, suggesting the RBE does not change significantly by introducing shielding materials. At the Bragg peak the efficiency was lower, as expected from an “over-kill” response of cells exposed to Fe ions of very low energy (with LET values above 1000 keV/µm). This experiment suggests that the effect of polyethylene shielding is primarily to lower the dose, while the RBE or quality factor does not change significantly. 
+.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>T9493W</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Rydberg, Bjorn</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;BRC&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/5cqk-vh89</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>01-OBPR-07</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/f47ddc46-8516-50e4-acb7-189e39e26a51?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/f47ddc46-8516-50e4-acb7-189e39e26a51?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

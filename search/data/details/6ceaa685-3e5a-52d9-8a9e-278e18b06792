@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cosmic Ray Effects on the Eyes of Stationary and Centrifuged Rats Flown on Cosmos 936 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/6ceaa685-3e5a-52d9-8a9e-278e18b06792?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>COS 936-7</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Cosmic Ray Effects on the Eyes of Stationary and Centrifuged Rats Flown on Cosmos 936</h1>
+        <div class="meta-id">Record ID: COS 936-7</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/6ceaa685-3e5a-52d9-8a9e-278e18b06792?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          <B>Objectives:</B><P>The site of sharpest vision is located in the rod-free area of the fovea, the tiny central area of the macula.  Cellular damage in this area, about 26 µm diameter in humans, could become a severe problem by limiting vision in space travelers.  It is known that a short term flight causes damage in the retinas of mice and rats.  In longer space flights, long term, low dosage radiation could cause lens changes, leading to cataracts.  Although data are lacking in this area of long-term, low dose response, the possibility of extended flights makes such information vital.<P><B>Approach:</B><P>Radiation dosimeters were placed in the biosatellite to obtain an average flux and atomic number of the cosmic ray particles.  Photomontages were constructed and large retinal areas from flight and control eyes were compared to each other. Some micrographs of the outer nuclear layer of the retina (ONL) from an eye in each group were put on a Ladd digitizer, and the cells were counted and measured.  Averages for population density, width of the ONL, and nuclear volume were computed for flight stationary, flight centrifuge, and ground controls.<P><B>Results:</B><P>The flux of HZE particles indicated an average of 35 particles/cm<sup>-2</sup> for the 18.5 day flight in the areas where the dosimeters were placed.  No differences were noted when comparing flight-weightless to flight-centrifuged samples.  Affected cells in the outer nuclear layer, where synthesis of the outer segment takes place, showed swelling, clearing of the cytoplasm, and disruption of the membranes. The abnormal assembly of the membranes could be a consequence of altered DNA. Preliminary results using the digitizer indicated an increase in cell size after radiation, a narrowing of the ONL in flight eyes, and a decrease in the number of cells in the outer nuclear layer.  Since active synthesis in the ONL magnifies any pathological insult to ONL cells, the vesiculated membranes found in the rods may be due to improper synthesis of membrane material.  Cell necrosis in the retina seems to follow the same pattern after exposure to HZE both on the ground and in space.  Following cell enlargement, cellular collapse occurs, which may be due to membrane dysfunction as active transport ceases.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>COS 936-7</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Philpott, Delbert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Ames Research Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Cosmos Biosatellite Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Radiation biology, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Cosmos 936&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus) Wistar</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/ytxs-ck94</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>No data from this study was submitted to LSDA. Please contact LSDA if you know of available data.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/6ceaa685-3e5a-52d9-8a9e-278e18b06792?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/6ceaa685-3e5a-52d9-8a9e-278e18b06792?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

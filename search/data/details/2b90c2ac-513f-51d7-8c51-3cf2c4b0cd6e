@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GeneLab Process Verification Test - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2b90c2ac-513f-51d7-8c51-3cf2c4b0cd6e?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>KSC00XX03</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>GeneLab Process Verification Test</h1>
+        <div class="meta-id">Record ID: KSC00XX03</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2b90c2ac-513f-51d7-8c51-3cf2c4b0cd6e?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Microbes interact with humans in complex ways and understanding how they respond to the spaceflight environment is important to the success of future manned spaceflight missions. The BRIC-23 mission was designed to measure the response of Bacillus subtilis and Staphylococcus aureus to the spaceflight environment. This experiment aimed to produce high quality omics data from B. subtilis and S. aureus grown aboard the International Space Station (ISS) to allow comparison to matched ground controls. These datasets will be publically released through the GeneLab data system to allow widespread distribution.
+<P>
+There were two primary objectives for this experiment: (1) Demonstrate all post-flight processes and operations required for successful completion of GeneLab Reference Missions conducted on ISS, and (2) Generate high quality GeneLab Reference Mission omics data sets for two prokaryotic model organisms, Bacillis subtilis and Staphylococcus aureus.
+<P>
+APPROACH:<br>
+BRIC-23 EXPERIMENTAL DESIGN
+<P>
+Samples. BRIC-23 utilized eight Biological Research In Canisters Petri Dish Fixation Units (BRIC-PDFUs) -- four were prepared with flight samples, while four were prepared with ground control samples. The eight BRIC-PDFUs included five 60 mm Petri dishes (20 flight, 20 ground control). 1x107 S. aureus cells (strain UAMS-1) were air dried onto 20 Petri dishes (10 flight, 10 ground control), while 1x107 B. subtilis spores (strain 168) were air dried onto the remaining 20 Petri dishes (10 flight, 10 ground control). 
+<P>
+Flight. Flight samples were delivered to the ISS on SpaceX-9 which launched 7/18/16. Once aboard the ISS, growth of both microbes was initiated by the addition of 8.5 mL of TSY-Glycerol media (10% glycerol (v/v), 1.7% (w/v) tryptone, 0.5% (w/v) NaCl, 0.3% soytone, 0.3% (w/v) yeast extract, 0.25% (w/v) K2HPO4, 0.25% (w/v) glucose). S. aureus and B. subtilis samples were grown for 48.5 and 34 hours, respectively at 20-30 °C without agitation before growth was terminated by transferring the BRIC-PDFUs to -80 °C. Matched ground controls followed the same procedures using identical hardware with the same ISS environmental conditions that the flight samples were exposed to.
+ <P>              
+Sample Return and De-Integration. Before return on SpaceX-9 (8/29/16), all BRIC canisters were transferred to -32 °C cold bags and maintained at this temperature until arrival at Kennedy Space Center (KSC). At KSC, BRIC-PDFUs were de-integrated and the Petri dishes containing experimental samples were then removed and stored at -80 °C. 
+<P>
+RESULTS:<br>
+Will be made available through the GeneLab Data System.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>KSC00XX03</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Nicholson, Wayne</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Kennedy Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>International Space Station (ISS)</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Microbiology, Omics</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;SpaceX_9&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Bacteria (Bacillus subtilis) strain 168, Bacteria (Staphylococcus aureus) UAMS-1</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/csf7-6j27</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing. Available datasets are accessible via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2b90c2ac-513f-51d7-8c51-3cf2c4b0cd6e?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2b90c2ac-513f-51d7-8c51-3cf2c4b0cd6e?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

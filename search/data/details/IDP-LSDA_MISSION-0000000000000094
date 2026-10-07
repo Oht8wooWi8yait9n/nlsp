@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mercury 3 - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000094?dataType=MISSIONS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #7c3aed;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Missions</span> /
+      <span>Mercury 3</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Missions</span>
+        <h1>Mercury 3</h1>
+        <div class="meta-id">Record ID: Mercury 3</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000094?dataType=MISSIONS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          The first U.S. manned flight, Mercury 3 (MR-3), was to be one of three sub-orbital missions to rate the Mercury spacecraft safe for manned orbital flight. Mercury was a bell-shaped capsule about nine and a half feet high and six feet across. Alan B. Shepard, the pilot of MR-3, became the first American astronaut in space. The launch vehicle was the 80 foot-high Redstone intermediate-range ballistic missile with a thrust of 78,000 pounds. It was launched on May 5, 1961, and landed a little over 15 minutes later the same day.<P>A major objective of the MR-3 flight was to record and study the astronaut's physiological responses to stresses caused by space flight, especially during launch and reentry. Microgravity and high acceleration forces, as well as the transition from the two extremes, were of special interest to scientists studying the astronaut's responses. Additional flight objectives were to demonstrate the performance capability of the astronaut in space and to familiarize him with a space flight experience.<P>Alan Shepard wore a full body space suit during the length of the MR-3 flight; the suit supplied 100 percent oxygen and 5.7 lbs per square inch of air pressure. The air temperature inside the Mercury spacecraft ranged from 93 to 111 degrees Fahrenheit, while the space suit temperature ranged from 71 to 80 degrees Fahrenheit (the higher temperatures were experienced only during descent through the atmosphere). The Redstone rocket's trajectory produced a peak launch acceleration of 6.2 G (or 6.2 times the force of gravity on Earth under normal conditions). During reentry, peak forces were 11.0 G. Illumination in the spacecraft fluctuated as a function of the spacecraft attitude with increases in light intensity when the sunlight came through the spacecraft windows.<P>Using bioinstrumentation developed specifically for space flight, the astronaut's physical condition was monitored continuously from the time he entered the spacecraft until landing. Electrocardiogram, respiratory rate, and body temperature were displayed continuously via telemetry. Additional data was obtained from the astronaut observer film, which transmitted pictures of the astronaut to the Mission Control Room at a rate of 6 frames per second. Astronaut voice transmissions were a particularly valuable source of data and were of a quality sufficient to convey to medical personnel the mental state of the astronaut.<P>An intensive debriefing of Astronaut Shepard, commencing at recovery aboard an aircraft carrier and continuing over the subsequent 48 hours, was performed following the 15 minute flight. Medical observations, spontaneous impressions of the flight and detailed flight analysis questionnaires were recorded after landing.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Mission ID</th>
+          <td>Mercury 3</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Mercury</td>
+        </tr>
+        <tr>
+          <th>Launch Year</th>
+          <td>1961</td>
+        </tr>
+        <tr>
+          <th>Species Flown</th>
+          <td>Human</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000094?dataType=MISSIONS">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_MISSION-0000000000000094?dataType=MISSIONS</a>
+    </div>
+  </div>
+</body>
+</html>

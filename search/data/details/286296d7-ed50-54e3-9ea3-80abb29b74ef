@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Countermeasures for Neurobehavioral Vulnerabilities to Space Radiation - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/286296d7-ed50-54e3-9ea3-80abb29b74ef?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958NBPF04201</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Countermeasures for Neurobehavioral Vulnerabilities to Space Radiation</h1>
+        <div class="meta-id">Record ID: NCC958NBPF04201</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/286296d7-ed50-54e3-9ea3-80abb29b74ef?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Risk assessment of the biological consequences of living in the space radiation environment represents one of the highest priority areas of NASA radiation research. Astronauts will be spending more time in space and ultimately will venture to the Moon, Mars, and other destinations outside of the protection of Earth’s magnetosphere. It is essential that methods are developed to detect behavioral changes induced by radiation exposures and that potential strategies and countermeasures are developed for ameliorating radiation damage, with the long-term goal being the prevention of those sequelae that impact astronaut health and mission success. 
+<P>
+To this end, the proposed research will focus on determining the effectiveness of biomedical countermeasures for mitigating the effects of space radiation on the human central nervous system (CNS) function. The proposed studies will assess the effectiveness of a number of pharmacologic compounds in ameliorating the deleterious effects of radiation exposure on neurobehavioral function. This work will provide animal performance data obtained with an animal analog of the human Psychomotor Vigilance Test (PVT) that is employed on the International Space Station (ISS) and in the Human Exploration Research Analog (HERA) for human risk assessments via quantification of sustained attention (e.g., ‘vigilance’ or ‘readiness to perform’ tasks). The proposed research will thus use an animal model that employs neurobehavioral tests identical or homologous to those currently in use in human models of risk assessment.
+<P>
+APPROACH:<BR>
+Within this framework, the first aim of this research will be to assess the degree to which likely biomedical countermeasures can mitigate the known effects of space radiation on cognitive neurobehavioral functions relevant to astronaut mission performance. Rodents will be trained in tests analogous to human neurobehavioral tests (e.g., a rodent version of the human PVT). Performance measures will include assessments of general motor function and speed, inhibitory control (“impulsivity”), attention, motivation, and basic sensory function. Separate groups of rats will be trained until stable performances are obtained, following which they will be transferred to NASA’s Space Radiation Laboratory (NSRL) at Brookhaven National Laboratory (BNL) for radiation exposure to protons (25 and 100 cGy, 150 MeV/n) encountered in the space radiation environment, and then returned to Johns Hopkins for extended post-exposure testing to 1) identify neurobehavioral performance deficits over durations similar to a long-term exploratory mission, and 2) assess the effectiveness of a number of pharmacologic compounds to mitigate the deficits.
+<P>
+The second aim will be to assess the mechanisms of action of effective radioprotective countermeasures on the CNS by employing different types of potential mitigating and protective compounds. These will include compounds that directly alter dopaminergic (DA) signaling by binding to the dopamine transporter protein (DAT; e.g., amphetamine), compounds that directly alter dopaminergic signaling by binding to one or more receptors from the D2 receptor family (e.g., aripiprazole), and compounds that indirectly alter dopamine levels through another mechanism (e.g., norepinephrine reuptake inhibition, atomoxetine). Two FDA-approved radioprotective compounds that have mechanisms of action not specifically DA-related will also be employed (the putative DNA repair targeting drug cholorquine, and the hemopoietic growth factor erythropoietin) to provide assessments of alternative mechanisms of action.<P>
+<P>
+RESULTS:<BR>
+The results for this experiment are currently not available.
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958NBPF04201</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Hienz, Robert</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Metabolism and nutrition, Biomedical countermeasures, Neuroscience, Radiation biology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Rat (Rattus norvegicus), Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/63hc-vd12</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2014-15 HERO NNJ14ZSA001N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/286296d7-ed50-54e3-9ea3-80abb29b74ef?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/286296d7-ed50-54e3-9ea3-80abb29b74ef?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

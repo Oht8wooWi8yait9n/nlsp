@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aerobic Capacity Using Graded Bicycle Ergometry - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/7599044c-3947-5368-b317-309987c2fe2a?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>3.2.1</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Aerobic Capacity Using Graded Bicycle Ergometry</h1>
+        <div class="meta-id">Record ID: 3.2.1</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/7599044c-3947-5368-b317-309987c2fe2a?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES: <br>
+Space flight and its analogues have a significant impact on metabolism during work and exercise. Decreases in submaximal and peak aerobic responses to standard exercise tests have been reported after exposure to real and simulated microgravity.  Assessment of aerobic exercise metabolism during space flight has been limited. 
+<p>
+Investigations conducted on Skylab were designed to determine whether man's metabolic effectiveness during mechanical work was progressively altered by exposure to microgravity. Results from these exercise tests showed decreases from baseline in aerobic condition (heart rate responses to individualized standard work rates) of the Skylab 2 crew during and after flight.  The Skylab 3 crew increased the amount of inflight exercise and showed no change in aerobic condition during the flight, but showed a decrease postflight.  On Skylab 4, 2 of the 3 crewmembers completed a greater volume of exercise than the crew of Skylab 3.  The inflight exercises produced a physiologically significant increase (22%) in inflight peak oxygen consumption (VO<sub>2peak</sub>) and peak work rate (20%) for one crewmember, while the other two showed a slight upward trend (3-6% and 0-2%, respectively) during the flight.  
+<p>
+This data, in conjunction with an insignificant change in postflight submaximal heart rate (3 to 9 BPM higher than preflight), may suggest an uncoupling between aerobic capacity and cardiovascular adjustments to exercise postflight.  However, there were no studies that compared the inflight and postflight submaximal and peak responses of these linked systems.  Thus, two hypotheses were drawn based on the Skylab results:
+<p>
+1) The inflight cardiorespiratory responses to supine cycling will not be different than pre- and postflight values where posture is not a part of the testing. <br>
+2) The inflight cardiorespiratory responses to treadmill exercise will be different than pre- and postflight values where posture is a part of ground-based testing.
+<p>
+A 1977 Russian study evaluated a Russian "micro-cycle" countermeasure program.  This program provided the equivalent volume of exercise as running 12.9 km (8 miles) per day for three consecutive days for a 70 kg person (no exercise was done on the fourth day).  Exercising subjects maintained their baseline work capacity levels after 45 days at -4° head down tilt bed rest (the effects of head down tilt bed rest is a close approximation to effects of weightlessness).  
+<P>
+A 1980 Russian study used a slightly reduced countermeasure protocol.  The average volume of exercise for this study was equivalent to running 10 km (6.2 miles) per day, for approximately 6 days per week for a 70 kg person.  Exercising U.S. subjects reported this amount of exercise to be greater than the average amount of preflight exercise, which is equivalent to approximately 3-4 miles per day for 3-4 days per week.  The subjects showed a decrease in heart rates (91% of the maximal heart rate to 47%) when evaluated at a constant work rate.  This data suggested that the subject showed an increase in aerobic capacity.  
+<p>
+The micro-cycle countermeasure program was used during a yearlong Mir flight.  The heart rate response to standard exercise increased during flight, suggesting a decrease in exercise conditioning.  Adherence to the micro-cycle program, as well as postflight aerobic responses, was not reported.  A 1992 report by Siconolfi and Charles reported that astronauts were able to maintain the VO<sub>2peak</sub> levels after 7 to 11 days of space flight, even when the volume of inflight exercise was equivalent to only 25-75% of their preflight exercise volumes.  The ability to maintain aerobic responses on short-duration flights might not require the higher than normal volumes or intensities used on the longer duration Skylab 4 and Russian flights.  Given the long duration of the Mir flight, and the high volume of exercise in the Russian countermeasure program, a third hypothesis was proposed:
+<p>
+3) The Russian countermeasure program will increase aerobic capacity during the flight and this increase will be evident after the flight.
+<p>
+The main objective of this investigation was, therefore, to evaluate whether exercise countermeasures would mitigate the normally observed decreases in cardiorespiratory responses to exercise associated with long-duration exposure to microgravity.  
+<p>
+APPROACH:<br>
+Aerobic capacity was measured before, during and after flight.  Aerobic capacity was assessed from a graded exercise test performed on a cycle ergometer (CYCLE protocol), as well as a modification of the Russian treadmill test (SPORT protocol).  Subjects cycled at several different stages:
+<p>
+2 minutes at 50 Watts (W)<br>
+5 minutes at 100 W<br>
+5 minutes at 125 W<br>
+5 minutes at 150 W<p>
+
+The last stages of exercise were one minute in duration at 25-W increments until the subject reached volitional fatigue or the maximum work rate of the cycle ergometer.  Subjects then pedaled for 3 to 5 minutes after the test for a cool down.
+<p>
+The SPORT protocol allowed subjects to select speeds--of walking, jogging, and running--based on standard descriptions of desired exercise level.  the protocol consisted of the following:
+<p>
+3 minutes of walking <br>
+5 minutes of slow jogging (approximate speed: 6-7 kph)<br>
+2 minutes of moderate jogging (approximate speed: 8-9 kph)<br>
+1 minute of running at maximal speed (approximate speed: 10 kph or greater)<p>
+
+During both protocols, several parameters were measured. Heart rate (ECG) and metabolic gas analysis were recorded.  The gas analysis included measurement of oxygen consumption (VO<sub>2</sub>), carbon dioxide output (VCO<sub>2</sub>), expired volume (V<sub>E</sub>), and respiratory rate (RR).  Cardiac output (CO<sub>2</sub> rebreathing gas technique) was measured once during each 5-minute stage (3 times during CYCLE; once during SPORT).  All measurements were repeated during the first minute of recovery.  Resting (supine) heart rate (HR) and blood pressure were assessed before exercise.  The largest VO<sub>2</sub> recorded during the graded exercise test was the subject's aerobic capacity (VO<sub>2peak</sub>). <p>
+
+Preflight baseline data collection (BDC) occurred at 120, 32 and 31 before flight for the Mir 18 crew.  Postflight BDC occurred at 5, 6, 12, and 15 days after landing (table 1).  One inflight data collection session occurred on FD5 of STS-71; all other inflight data collection sessions were canceled due to time constraints. The aerobic responses to graded exercises were assessed during the flight at regular intervals while on Mir and in the Shuttle's Spacelab module.  Postflight assessments were conducted immediately before and immediately after rehabilitation if crewmembers had not returned to preflight levels by R+29.
+<p>
+RESULTS:  
+<p>
+Before Flight versus After Flight (table 2)
+<p>
+Subject A (90% Exercise Countermeasures): External work (speed and watt) and associated internal work (VO<sub>2peak</sub>) decreased.  At a standard work rate (CYCLE protocol) efficiency was maintained with slight increases in arteriovenous oxygen difference (a-vO<sub>2</sub>) and HR.  At self-selected exercise rates (SPORT protocol), VO<sub>2</sub> was maintained while external work (speed) had a slight increase.  However, capillary flow (Q<sub>C</sub>) decreased (mainly due to HR) but was totally moderated with an increase in a-vO<sub>2</sub>.  The slower HR decreased Q<sub>C</sub>, but allowed greater extraction of O<sub>2</sub> by the tissues (a-vO<sub>2</sub>).  This may support training-induced maintenance of blood volume. 
+<p>
+Subject B (70% Exercise Countermeasures): External work (speed and watts) and associated internal work (VO<sub>2peak</sub>) decreased.  At a standard work rate (CYCLE protocol), efficiency decreases were linked to decreases in Q<sub>C</sub>, mainly due to stroke volume (SV), but this was somewhat moderated with an increase in a-vO<sub>2</sub>.  At self-selected exercise rates (SPORT protocol) VO<sub>2</sub> was maintained while external work (speed) had a slight increase.  However, Q<sub>C</sub> decreased (mainly due to SV) but was totally moderated with an increase in a-vO<sub>2</sub>.  This is similar to classical detraining.
+<p>
+Subject A versus B Comparisons: External work (speed and watt) and associated internal work (VO<sub>2peak</sub>) decreased.  Seventy percent (70%) compliance (by self report) to the exercise countermeasures did not prevent cardiorespiratory deconditioning, indicated at both peak and submaximal exercise responses, while 90% compliance was more, but not completely, effective.  Exercise countermeasures may have been effective by maintaining stroke volume.  Self-selected peak running speeds showed a decrement in external work 5 days after flight without a concomitant decrease in metabolic work.  This may suggest a change in biomechanics or neuromuscular function (figure 5).  CYCLE provides standard work rates for comparisons (e.g. efficiency), while the SPORT protocol provided neuromuscular evaluation or perceived work that has a greater operational impact.
+<p>
+Before Flight versus During Flight (table 3)
+<p>
+Results from the SPORT protocol demonstrated a clear differentiation between a subject's compliance to exercise countermeasures while the CYCLE test had a more mixed result.  Not all in-flight parameters could predict the after flight responses. This suggested that ground-based testing and in-flight testing are not equivalent.  The effects of long-duration space flight should be evaluated before versus after flight and early versus late (flight days).  This may impact how exercise countermeasures are monitored during long-duration flight.   Note that supine cycling, which is thought to represent microgravity testing, did not produce similar responses during the flight.
+<p>
+Conclusions
+<p>
+The sample size of this investigation was too small to make general inferences for long-duration space flight; however, the following results apply to the three subjects: (1) subjects completing a greater percentage of the prescribed exercise were closer to preflight levels of performance, (2) maintenance of submaximal performance, regardless of modality, appears to be linked to stroke volume, and (3) both CYCLE and SPORT protocols should be continued because they independently assess different--cardiorespiratory and neuromuscular--aspects of performance.
+<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>3.2.1</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Mikhaylov, Valeriy, Siconolfi, Steven</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Nasa-Mir</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology, Exercise physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Mir 18&#x27;], [&#x27;STS-71&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/6xe2-0335</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/7599044c-3947-5368-b317-309987c2fe2a?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/7599044c-3947-5368-b317-309987c2fe2a?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

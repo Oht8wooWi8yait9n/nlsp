@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Development and Testing of Biomarkers to Determine Individual Astronaut Vulnerabilities to Behavioral Health Disruptions - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/80a99406-2ebe-56d3-afd5-a48ab6bddfb2?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NNX14AK53G</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Development and Testing of Biomarkers to Determine Individual Astronaut Vulnerabilities to Behavioral Health Disruptions</h1>
+        <div class="meta-id">Record ID: NNX14AK53G</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/80a99406-2ebe-56d3-afd5-a48ab6bddfb2?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+It is well established that sleep deficiency and circadian desynchrony impair alertness and performance. This is of concern given that chronic sleep loss is highly prevalent during space missions, which also often require maintenance of unusual sleep-wake and work schedules that the circadian system does not readily adapt to, further increasing sleepiness and reducing sleep. In such a high-risk environment, the risk of sleepiness-related performance impairment must be minimized. It is also increasingly recognized that the response to sleep loss and circadian desynchrony is highly individualized and both challenge- and task-dependent. This high degree of inter-individual variability makes it very difficult to predict who will be at risk and when they will be at risk, and therefore a ‘one-size-fits-all’ approach is likely to be suboptimal. What is needed are biomarkers of individual vulnerabilities and resiliencies to sleep loss and circadian desynchronization that can be used to predict problems and intervene when necessary. 
+<p>
+To date, there are no biomarkers that are approved to determine individual astronauts’ vulnerabilities to sleep loss and circadian rhythm disruption, although there are many candidates to test. In a recent NASA Evidence Review addressing HRP Sleep Gap4, the investigator team identified and evaluated approximately 80 potential biomarkers of response to sleep loss or circadian desynchrony, ranging from simple subjective assessments of alertness through to genetic polymorphisms. While there are few data specifically characterizing individual responses to sleep loss and circadian desynchrony, fortunately, many of these biomarkers have been studied by their research group in detailed laboratory conditions of thousands of subjects over tens of thousands of bed-days in federally-funded studies, but have never been examined with respect to individual differences. Furthermore, in a previous NASA-supported study (ROSES-2008), investigators studied 51 Antarctic expeditioners over six months during the Antarctic winter (March to September) at Australian Antarctic stations Casey, Davis, and Mawson (54% of the overwintering population). A large number of subjective and objective measures of stress, affect, safety, team interactions, and well-being were recorded, in addition to subjective and objective measures of individual behavioral health outcomes including sleep, circadian rhythms, urinary cortisol, and melatonin levels, a range of neurocognitive performance outcomes and alertness. The large dataset is available to test the predictive value of a range of behavioral, performance, sleep, and circadian biomarkers on neurocognitive impairment and going forward, will allow the research team, in collaboration with HRP, to select only those measures that yield significant information for future study, and will allow the capacity to add new measures not yet assessed under these operational conditions.
+<p>
+APPROACH:<br>
+Investigators have devised a protocol to assess the sensitivity and specificity of a core set of these biomarkers to predict neurocognitive and psychological responses to the sleep deprivation and circadian misalignment inherent in International Space Station (ISS) operations. First, they plan to identify candidate biomarkers from their laboratory analog, where individuals are housed in individual, semi-isolated, window-less suites, and from existing extensive longitudinal data in over 50 Antarctic expeditioners. These, and previously untested biomarkers, will then be validated in new limited laboratory analog studies to inform a new analog study that will test the feasibility and utility of a set of core biomarkers to predict and assess variation in neurocognitive and psychological function associated with living in Antarctica during a 12-month mission. These innovative studies have a high potential to identify reliable biomarkers that are suitable for operational use.
+<p>
+RESULTS:<br>
+This experiment is in progress.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NNX14AK53G</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Lockley, Steven</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/nep8-hq06</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2013 HERO NNJ13ZSA002N-Crew Health (FLAGSHIP &amp; NSBRI)</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/80a99406-2ebe-56d3-afd5-a48ab6bddfb2?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/80a99406-2ebe-56d3-afd5-a48ab6bddfb2?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

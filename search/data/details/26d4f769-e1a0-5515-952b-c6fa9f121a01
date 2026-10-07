@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spatial Orientation of the Vestibulo-Ocular Reflex and Velocity Storage - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/26d4f769-e1a0-5515-952b-c6fa9f121a01?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>9301047</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Spatial Orientation of the Vestibulo-Ocular Reflex and Velocity Storage</h1>
+        <div class="meta-id">Record ID: 9301047</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/26d4f769-e1a0-5515-952b-c6fa9f121a01?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+The otolith organs of the inner ear, the utricle and saccule, are the primary gravity sensors of the body. Activation of the otoliths by linear acceleration (including that of gravity) generates various spinal and ocular reflexes that act to maintain posture and gaze. Ocular counter-rolling (OCR) is one example of an otolith-ocular reflex in response to activation of the otoliths. When the head is tilted laterally (to the side), the eyes rotate around the line of sight. Termed OCR, this torsion is an orienting reflex that tends to align the eyes with the spatial vertical. During centrifugation, side-to-side head movements, and while turning corners, the OCR reflex orients the eyes towards the sum of the imposed accelerations from body movements and gravity. For example, when walking or driving around a bend, there is an inward linear (centripetal) acceleration that sums with gravity to create a vector that is tilted into the turn.  This is called the gravitoinertial acceleration (GIA) vector.  Recent work has shown that rolling the head and eyes towards alignment with this tilted GIA vector plays a role in maintaining balance and gaze when walking around sharp turns.  
+<P>
+The semicircular canals in the inner ear, which sense angular acceleration of the head, also induce torsional eye movements during rapid head movements; but these responses are transient. In contrast, otolith-induced OCR responses are sustained during static tilts of the head or the GIA vector, with a gain (amount of ocular torsion/head tilt angle) of approximately 0.1. The magnitude of OCR is related to the angle of head tilt.  
+<P>
+Deconditioning of otolith-mediated spinal and ocular reflexes following adaptation to microgravity has been proposed as the basis of many of the postural, locomotor, and gaze control problems experienced by returning astronauts. Consequently, OCR has been used in many postflight studies to gauge the effect of microgravity exposure on otolith function.  There is evidence that OCR is reduced postflight in about 75% of astronauts tested; but the data are sparse, primarily due to difficulties in recording torsional eye movements. OCR was reduced in two cosmonauts for 14 days after landing. Following the 10-day Spacelab-1 mission, OCR to leftward roll tilts was reduced by 28-56% in three subjects and was unchanged in one subject.  Asymmetries in the OCR response to left and right static roll tilts were also observed. OCR was reduced by 57% in one astronaut for five days after the 1992 Russian Mir mission. OCR was also reduced in two subjects during postflight side-to-side oscillations at 0.4 and 0.8 Hz. OCR gain was depressed in four subjects following the two-week SLS-2 mission. In addition, asymmetries in OCR to left/right roll tilt were observed in all subjects studied on SLS-2. The development of video-oculography has led to significant improvements in OCR measurements in humans, compared to the techniques used in the results cited above. OCR gain, measured using video-oculography following a 30-day Mir mission, decreased in one astronaut but increased in two other astronauts who had been in space for 180 days.  
+<P>
+Strong evidence for deficits in postflight otolith function was obtained from two monkeys following a 14-day COSMOS mission. Torsional eye position was measured postflight using a robust and accurate measure of ocular torsion (search coils). The eye movements were measured both during static roll tilt and during off-vertical axis rotation (OVAR).  OVAR presents a sinusoidal linear acceleration stimulus to the otoliths suitable for averaging. There was a highly significant (70%) reduction (>2 SD) in OCR gain, which persisted over the 11 days of postflight testing. In addition, vergence of the eyes, an otolith-mediated response to front-to-back linear acceleration, was also reduced during this 11-day period.  Thus, although the data are not entirely consistent, the majority of subjects tested have exhibited a decrease in their OCR response following short-duration missions. In this experiment, investigators present a direct comparison of the OCR responses during preflight, inflight, and postflight centrifugation, as well as during pre- and postflight static tilt.
+<P>
+APPROACH:<br>
+<I>Centrifugation</I><BR>
+Four payload crewmembers of the Neurolab STS-90 Space Shuttle mission served as subjects and as inflight operators for this experiment. Over the 16-day mission, the astronauts were exposed to inflight 1-G centrifugation on flight days (FDs) 2, 5, 10, 11, and 16. Two crewmembers were also exposed to 0.5-G centrifugation on FDs 7 and 12. Approximately 80% of the exposure to sustained one-G linear acceleration was in the form of centripetal acceleration directed along a line connecting the ears. In addition, subjects underwent centrifugation where the centripetal acceleration was directed along the spine.  Cumulative flight exposure times to 1-G centripetal acceleration were 50 minutes, 62 minutes, 37 minutes, and 62 minutes for the four subjects. Three subjects had their first exposure to centrifugation on FD2, less than 24 hours into the mission. One subject did not experience inflight centrifugation until FD5. In addition, due to mission operational constraints, this subject's exposure time was limited to approximately half that of the other payload crew's.
+<P>
+Baseline 1-G data using the same paradigms as in flight were collected at Johnson Space Center (JSC) in Houston 90, 60, and 15 days prior to launch (L-90, L-60, and L-15) on the baseline data collector rotator.  The baseline collector rotator, or ground centrifuge, was a replicate of the flight centrifuge. The same tests were repeated in Houston 24 hours after return (R+1) and on subsequent days (R+2 and R+9). Baseline 0.5-G data were obtained from all four subjects on L-30 and R+4.
+<P>
+In each run, subjects were accelerated at 26 degrees/second<sup>2</sup> in darkness to a constant angular velocity of 254 degrees/second or 179 degrees/second, which generated a 1-G or 0.5-G centripetal acceleration along a line connecting the ears. Subjects were oriented with their left ear facing away from the center of rotation (left-ear-out (LEO)), or right-ear-out (REO). After 65 seconds at constant velocity in darkness, subjects were presented with a centering display dot for 9.5 seconds and instructed to fixate the dot. Eye movement data recorded during this period were used to calculate OCR. Subjects were then decelerated at 26 degrees/second<sup>2</sup> to rest in darkness either immediately following the center display, or after optokinetic and smooth pursuit stimuli were displayed. A typical trial consisted of clockwise (CW) LEO centrifugation (facing-motion), counterclockwise (CCW) LEO (back-to-motion), and CCW and CW REO (facing- and back-to-motion). The video eye monitors were calibrated by having the subject fixate on 25 points at known gaze angles prior to the first LEO and REO runs.
+<P>
+<I>Static Tilt</I><BR>
+Full-body static roll tilt was performed in Houston using the tilt mode of the ground centrifuge, and at Kennedy Space Center (KSC) in Cape Canaveral using a static tilt chair developed at Mount Sinai Medical Center. After subjects were positioned in the tilt chair and the video system was calibrated, subjects were rolltilted from the upright (zero degree) to 60 degrees left-ear-down in 15-degree increments. The chair was locked in place at each tilt angle, and after 60-second video images were recorded for approximately 10 seconds while the subject viewed a centering dot on the visual display. This segment was used to measure OCR. Preflight baseline data collection was carried out 60 and 30 days prior to launch (L-60 and L-30) in Houston. Postflight data were obtained on the day of return (R+0) two to four hours after landing at Kennedy Space Center, and in Houston on R+1, R+4, and R+9.
+<P>
+RESULTS:<br>
+<I>OCR during Centrifugation</I><BR>
+During constant angular velocity sideways centrifugation (Gy centrifugation), there is a radial inward linear (centripetal) acceleration, Ac, regardless of the direction of rotation along a line connecting the ears (the interaural axis). On Earth, the equivalent acceleration of gravity, Ag, is aligned with the head vertical axis. The sum of Ag and Ac, known as the GIA vector, is tilted with respect to the head vertical axis. Ground-based centrifugation with one-G of centripetal acceleration generated a GIA vector with a magnitude of 1.4-G tilted 45 degrees with respect to the head. As a result, the subjects felt like they were titled 45 degrees while rotating at this speed on Earth. Gy centrifugation at 0.5-G on Earth generated a GIA magnitude and tilt of 1.1-G and 27 degrees, respectively. In microgravity, however, the gravitational component was negligible, and the GIA was equivalent to the centripetal acceleration; i.e., it was directed along the interaural axis with a magnitude of either 1-G or 0.5-G.  
+<P>
+Robust torsional movements of the eyes were induced during Gy centrifugation both on Earth and inflight. The OCR was characterized by dynamic and static components.  The dynamic component decayed at the onset of constant velocity and was dependent on the direction of rotation. For example, a LEO CCW angular acceleration (back-to-motion) generated CW torsional eye movements in which the upper pole of the eye rolled to the subject's right. CW rotation (facing-motion) initially generated CCW ocular torsion. Thus, the dynamic component added to the static component of OCR when moving back-to-motion and subtracted from it when facing-motion.
+<P>
+When back-to-motion, ocular torsion developed rapidly during angular acceleration, reaching a maximum of 10 degrees at the onset of constant-velocity rotation before decaying to a steady-state value of approximately six degrees after 10 seconds at constant velocity. During facing-motion centrifugation, the eye initially torted in the CCW direction then rolled back in the CW direction, reaching a plateau of approximately six degrees following 10 seconds of constant velocity rotation-as it did for back-to-motion centrifugation. Since the OCR had the same polarity for facing- and back-to-motion, the dynamic component could be isolated by subtracting the two torsional eye position traces and halving the result. Dynamic torsional eye position reached a peak of approximately four degrees at the onset of constant-velocity centrifugation and then decayed with a time constant of approximately six seconds. The directional dependence of the dynamic ocular torsion response has previously been observed during on-center rotation and is likely a semicircular canal response.
+<P>
+The static OCR component was generated by the otoliths in response to the tilt of the GIA with regard to the head, reaching a plateau during constant-velocity centrifugation after 10 seconds.  In contrast to the dynamic component, static OCR was in the same direction (towards the GIA vector) for a given subject orientation (LEO or REO) regardless of the direction of rotation.  This was because the centripetal acceleration, and therefore the GIA tilt, was in the same direction during facing- and back to-motion centrifugation. The static OCR response was extracted by averaging the facing- and back-to-motion traces, which cancelled the oppositely directed dynamic components. The static OCR response followed the tilt of the GIA, reaching a maximum of approximately six degrees where the GIA tilt reached a plateau of 45 degrees at onset of constant velocity.  The investigators obtained the measures of OCR magnitude after approximately one minute of constant velocity rotation, when the dynamic contribution had ceased.
+<P>
+Torsional eye position showed little difference between the responses in microgravity and on Earth. The OCR response was roughly proportional to the applied interaural linear acceleration, with OCR magnitude during 0.5-G centrifugation approximately 60% of that generated during 1-G centrifugation. The overall mean OCR response was determined by combining LEO and REO OCR data from the four payload crewmembers. On Earth, 1-G Gy centrifugation elicited an OCR response of 5.7±1.1 degrees (mean and SD).  During inflight 1-G centrifugation there was a small but significant (p=0.0025) 10% decrease in OCR magnitude to 5.1±0.9 degree. The magnitude of OCR during postflight 1-G centrifugation was 5.9±1.4 degrees, which was not significantly different from preflight values. A similar trend was observed during 0.5-G Gy centrifugation. Preflight centrifugation generated 3.3±0.9 degree of OCR. There was an 11% decrease observed in OCR during inflight 0.5-G centrifugation to 3.0±0.8 degree (mean and SD of two subjects only), but this was not statistically significant. Postflight 0.5-G centrifugation generated a weak but significant (p=0.02) increase in postflight OCR to 4.1±1.5 degrees as compared to preflight values.
+<P>
+It is interesting to note that, in contrast with the other three subjects whose responses were symmetrical, one subject developed a marked OCR asymmetry in response to left/right tilts of the GIA during inflight centrifugation. This subject exhibited a significant (p=0.0002) 26% decrement in mean OCR inflight relative to preflight values during one-G REO centrifugation, but had only a 7.5% decrease during LEO centrifugation.  This asymmetry was maintained after landing. In response to postflight one-G REO centrifugation, OCR magnitude returned to preflight values, but there was a highly significant 28.9% increase relative to preflight (p=0.0001) during 1-G LEO centrifugation. The asymmetry was also apparent during postflight 0.5-G centrifugation, where the OCR was also larger when in the LEO orientation.
+<P>
+<I>OCR during Static Tilt</I><BR>
+The OCR response was further investigated by tilting the body left-ear-down (LED) in a chair during pre- and postflight testing.  Consistent with the centrifugation results, there was no significant change (p>0.05) in OCR two to four hours after landing (R+0) and on subsequent postflight test days as compared to preflight values. It is interesting to note that the magnitude of OCR generated by 45-degree LED static tilt (three to four degrees) was significantly less than that induced by a 45-degree tilt of the GIA during preflight 1-G Gy centrifugation (5.7 degrees). Previous studies have suggested that OCR is linearly related to the magnitude of interaural linear acceleration. The investigator's OCR data exhibited a linear relationship with interaural linear acceleration during static tilt (mean of all pre- and postflight data), with a slope of 5.04 degrees/G (R=0.995). The magnitude of OCR during preflight centrifugation followed this linear relationship, but still had a significantly larger magnitude than for static tilt at an equivalent interaural linear acceleration (0.5-G centrifugation: p=0.03; 1-G centrifugation: p=0.01). During both 0.5-G and 1-G centrifugation in microgravity, where the head dorsoventral gravitational component was absent, the magnitude of OCR was not significantly different from that induced by static tilts on Earth with equivalent interaural linear acceleration.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>9301047</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Cohen, Bernard</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-90&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/3dpq-y381</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>93-OLMSA-01</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/26d4f769-e1a0-5515-952b-c6fa9f121a01?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/26d4f769-e1a0-5515-952b-c6fa9f121a01?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

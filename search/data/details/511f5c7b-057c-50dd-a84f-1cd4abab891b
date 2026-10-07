@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluation of the Kentavr as a Countermeasure to Orthostatic Intolerance - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/511f5c7b-057c-50dd-a84f-1cd4abab891b?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>ROI_KENTAVR</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Evaluation of the Kentavr as a Countermeasure to Orthostatic Intolerance</h1>
+        <div class="meta-id">Record ID: ROI_KENTAVR</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/511f5c7b-057c-50dd-a84f-1cd4abab891b?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+One of the most important physiological changes that negatively impact flight operations and crew safety is postflight orthostatic intolerance.  Orthostatic intolerance is commonly experienced by astronauts when they return to Earth and can lead to hypotension and syncope (temporary loss of consciousness, fainting, or dizziness).  This problem affects about 30% of crewmembers who fly short-duration missions (4-18 days), and 83% of astronauts who fly long-duration missions.  This condition creates a potential hazard for the returning crew by impairing their ability to exit the vehicle after landing.  A major driver for orthostatic intolerance is plasma volume loss.  Despite the use of a mandatory fluid load before re-entry, astronauts return from space with plasma volume deficits ranging from 7-20%.
+<P>
+To provide additional protection against space flight induced orthostatic intolerance during re-entry and landing, both NASA and the Russian Federal Space Agency use compression garments, or antigravity suits. NASA astronauts use an inflatable antigravity suit (AGS) that is worn under the Advanced Crew Escape Suit. It has five interconnected air bladders that cover the abdomen, thighs, and calves. The AGS can be inflated to pressures ranging from 0.5 per square inch (psi), which is equivalent to 25.9 mmHg, to 2.5 psi (129.3 mmHg) in increments of 0.5 psi. When inflated, the AGS provides mechanical protection that reduces venous pooling and maintains arterial pressure.
+<p>
+Russian cosmonauts wear a non-inflatable compression garment, called the Kentavr, which is made of an elastic fabric. It is composed of shorts that extend from the waist to the knee and a pair of gaiters that cover the calves. Each component of the Kentavr has lacings to allow for an individualized fit. The nominal pressure provided by the Kentavr is 0.6 ± 0.1 psi (30 ± 5 mmHg).
+<p>
+The purpose of this study was to evaluate the ability of NASA’s AGS and the Russian Kentavr garment, to prevent hypovolemia-related orthostatic intolerance.
+<P>
+APPROACH:<br>
+Prior to participation, 19 healthy volunteers, ages 32 – 54 years, passed a modified Air Force Class III physical. Subjects were randomly assigned to one of two groups: AGS (six men and three women) or Kentavr (six men and four women). A separate group of 16 subjects (11 men and 5 women) from a related study participated in the same protocols and served as controls (no countermeasure group).
+<p>
+Data collection was completed in two visits to the cardiovascular laboratory. For the first session, subjects reported to the laboratory following voluntary reduction of their dietary salt intake for 24 hours.   Subjects provided a urine sample to confirm that urinary sodium was less than 100 mEq/gm<sup>-1</sup> creatinine. Those meeting the selection criteria participated in a carbon monoxide re-breathing protocol to measure plasma volume. Subjects then received a single dose of furosemide (a loop diuretic commonly marketed under the brand name Lasix) and consumed a low salt diet provided by the investigators.
+<p>
+Subjects returned to the laboratory 36 hours later, when the plasma volume measurement was repeated and subjects underwent a tilt test protocol to assess orthostatic tolerance with (AGS inflated to 1.5 per square inch or Kentavr) or without a compression garment (separate study). Subjects did not consume any caffeine, nicotine, or alcohol for 12 hours and did not participate in maximal exercise or take any medications for 24 hours prior to testing.
+<p>
+RESULTS:<br>
+<i>Hypovolemia</i><br>
+Control subjects experienced a mean loss of plasma volume of 17.1 ± 1.7%. AGS and Kentavr groups had a plasma volume loss of 16.9 ± 4.0% and 18.4 ± 2.6%, respectively. There were no statistically significant differences in plasma volume loss between groups. 
+<p>
+<i>Incidence of Orthostatic Hypotension/Presyncope</i><br>
+The ability to complete the tilt test was significantly greater in both the AGS and Kentavr subjects compared to the controls.  All subjects wearing a compression garment (either AGS or Kentavr) during the tilt test completed the test without symptoms of orthostatic hypotension or presyncope (0% incidence). In contrast, only nine control subjects (56%) were able to complete the tilt test without signs or symptoms of orthostatic hypotension or presyncope. 
+<p>
+<i>Hemodynamic Responses</i><br>
+Both compression garments prevented the decrease in systolic blood pressure at test termination which was observed in control subjects. The change in systolic blood pressure of control subjects was significantly greater than in the AGS and Kentavr subjects, but no differences were found between countermeasure groups. There were no differences in diastolic blood pressure between the groups.
+<p>
+The change in heart rate was greater in the control subjects than in the AGS and Kentavr subjects. The elevation of heart rate in AGS and Kentavr subjects due to tilt was not significantly different between treatment groups. The drop in stroke volume at the end of tilt was significantly less in the AGS compared to the control subjects but not different between the Kentavr and controls. However, the standing stroke volumes for the AGS and Kentavr subjects were significantly higher than the controls at the end of tilt, and there was not a significant difference between AGS and Kentavr subjects. Neither the change from supine to tilt nor the final cardiac output and total peripheral resistance at tilt termination were different between groups.
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>ROI_KENTAVR</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Tuxhorn, Jennifer, Waters, Wendy</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Cardiovascular physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;ROI&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/xdg3-1417</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. Privacy-protected datasets are available via data request. Remaining datasets are publicly available.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/511f5c7b-057c-50dd-a84f-1cd4abab891b?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/511f5c7b-057c-50dd-a84f-1cd4abab891b?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

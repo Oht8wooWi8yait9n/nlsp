@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Influence of Space Flight on Erythrokinetics in Man - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/69860544-3b9c-55c1-8800-4ee5ef43f4c6?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>1NS103</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>The Influence of Space Flight on Erythrokinetics in Man</h1>
+        <div class="meta-id">Record ID: 1NS103</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/69860544-3b9c-55c1-8800-4ee5ef43f4c6?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Data from previous studies of the influence of space flight on hematologic functions have consistently shown that exposure to microgravity significantly reduces the circulating red blood cell mass (RCM).  These results have been noted in numerous American astronauts and Russian cosmonauts.  The RCM is a measure of the number of erythrocytes (red blood cells) circulating in the blood stream. The objective of this experiment was to measure factors involved in the control of erythrocyte turnover that might be altered during weightlessness.  Many of these biochemical and hematological parameters had not been previously measured during space flight. 
+<P>
+APPROACH:<br>
+The mission specialists (MS1 and MS2) and payload specialists (PS1 and PS2) who flew on the Spacelab 1 mission served as the subjects for the experiment.  As a control for the blood draw protocol and a comparison of inflight results to bed rest results, the mission was simulated on the ground with a group of five subjects selected from a human test-subject pool.  In order to simulate the inflight period, control subjects were placed at -6 degrees head-down bed rest for 10 days (mission duration).  Blood samples were obtained from each crewmember and bed-rest subject three or four times (depending on the subject) during the preflight (pre-bed rest) period, two or three times inflight (during bed rest) and four times during the postflight (post-bed rest) period.  Inflight samples were taken on flight days (FD) 1 and 7.  Radionucleotide measurements of red cell mass and plasma volume were made 65 days before flight (L-65), on landing day (R+0), and 8 days postflight (R+8).  Preflight and postflight blood samples and all samples from the bed-rest subjects were collected by venipuncture with the use of standard clinical materials and procedures.
+<P>
+Inflight blood samples were collected with the Inflight Blood Collection System (IBCS).  Samples were collected in plain tubes for serum and in heparin / EDTA tubes for plasma.  The samples were immediately separated by centrifugation into fluid and cellular phases.  The centrifuged samples were then stored in an on-board cryogenic freezer (-195 degrees C).  After landing, the samples were stored frozen in the laboratory until analysis was performed.  Slides for reticulocyte count, white cell differential, and reticulocyte age classification were prepared inflight.  Hematocrit was also determined during the inflight period.  Postflight hematology analyses were performed on whole blood that had been stored at the spacecraft ambient temperature during the flight.  The effect of space flight on erythrocyte survival time was measured by injecting 51Cr-labeled red blood cells immediately after landing and determining the percentage of labeled cells that remained after 8 days.  Reticulocytes were counted by the standard manual method and by flow cytometry using stained cells.  Erythropoietin was measured with fetal mouse liver cell cultures; when a radioimmunoassay became available later, it was used to assay frozen samples.  Histogram contouring of stained blood cells was used to measure the amount of RNA in reticulocyte cytoplasm.  Data were analyzed using a multi-way analysis of variance with repeated measures and the Student-Newman-Keuls multiple comparison test.  
+<P>
+The pre- and postflight diet of the crewmembers was not controlled or monitored.  Bed rest subjects consumed the standard hospital diet.  Two weeks before launch, the sleep-wake cycle of MS1 and PS1 was shifted by 12 hours to prepare them for a sleep-wake cycle that would permit a continuous 24-hour operation cycle of the Spacelab. To attempt to monitor any shift in metabolic functions, urine specimens were collected from MS1 and PS1 throughout several 24-hour periods 6 months before the flight, when they were on their normal daytime work schedule, and during the preflight period, when they were adapting to their new work-rest schedule.   These samples were analyzed for calcium, potassium, and cortisol and compared to samples taken immediately postflight to determine if the individuals had adapted to the imposed time change.  Two hours before landing, MS1 and MS2 consumed salt tablets with water as a countermeasure to postflight gravity stress on the cardiovascular system.  During the first three days of the mission, all crewmembers ingested anti-motion sickness medication.        
+<P>
+RESULTS:<br>
+Circadian Rhythms: Cortisol, calcium, and potassium had statistically significant circadian rhythms 6 months before flight, and the peak time of these rhythms did not change while crewmembers were on a shifted schedule. 
+<P>
+Preflight Period: Changes in some variables occurred during the preflight period, most of them between L-7 and L-1. For this reason, the mean of the values for the first two preflight days was compared with the other days on which samples were taken. No consistent preflight changes occurred in bed-rest subjects.
+<P>
+Erythrocyte Production and Destruction: Red cell mass (ml/kg) was decreased on landing in all four crewmen, with a significant mean decrease of 9.3 percent from preflight.  By R+8, only 3.3 percent had been replaced and the decrease was still significant.  Neither hyperoxia nor an increase in blood phosphate, nor a lack of iron, was a cause of the decrease in RCM, and a decrease in erythrocyte production could not be the sole cause of such a large, rapid change. Although the number of erythrocytes with abnormal shapes was elevated on R+8,  erythrocyte survival time on R+8 had not changed significantly from preflight survival time.  Erythropoietin decreases found with the fetal mouse liver assay were not significant, but radioimmunoassay results showed significant decreases on FD1 and FD7. Since serum haptoglobin did not decrease, intravascular hemolysis was not thought to contribute substantially to the RCM decrease.
+<P>
+Leukocytes and Platelets:  The total white blood cell (WBC) count and the percentage and number of segmented neutrophils, lymphocytes, eosinophils and basophils remained unchanged during and after flight. The percentage and number of band neutrophils were significantly increased on the first inflight sampling day, and the percentage and number of monocytes were significantly increased on the last postflight sampling day. The number of platelets did not change significantly during or after the flight.  Data from the bed-rest experiment showed that on R+0, the number of neutrophils was significantly higher than during the preflight period.
+<P>
+Plasma and Blood Volume:  A 6 percent decrease in plasma volume (ml/kg) at landing was not significant compared to preflight, and recovery was complete by R+8, at least a week before RCM recovered.  Blood volume (ml/kg) was significantly decreased (10.5 percent) on landing, but was close to its preflight level a week later.
+<P>
+Serum Chemistry:  Sodium was significantly decreased during flight, on R+1, and on R+12/13.  Osmolality was significantly lower than its preflight level on R+8 and R+12/13 . 
+<P>
+Proteins:  Total serum protein was decreased from the preflight value by 3.8 percent on FD7.  The decrease in serum protein was significant (7.6 percent) on R+8, when albumin, alpha-2 globulin, beta globulin, and gamma globulin were decreased.  On R+12/13 alpha-l and alpha-2 globulin were significantly increased.  From the second inflight measurement (FD7) through at least 12 hours after landing, ferritin in crewmembers increased significantly over its preflight level.  
+<P>
+Simulation: Red cell mass decreased significantly in all bed-rest subjects, with a greater decrease (8.4 percent) on R+8 than on R+0 (4.6 percent).  Ferritin was significantly decreased on R+8 and R+12/13.  Potassium was significantly increased in simulation subjects on FD1. Red cell shape classification was not performed for this part of the experiment.
+<P>
+Conclusions: The most likely causes of RCM decrease resulting from space flight are a premature loss of erythrocytes and a failure of erythropoiesis to make up for the loss. The number of subjects in this study was small and they were not a homogeneous group in several respects. Moreover, changes in some of the measured variables occurred during the preflight period. These results must be considered preliminary until more experiments can be done.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>1NS103</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Leach- Huntoon, Carolyn</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Shuttle Program</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Hematology, Renal, fluid and electrolyte physiology</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;STS-9&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/a21n-fv06</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/69860544-3b9c-55c1-8800-4ee5ef43f4c6?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/69860544-3b9c-55c1-8800-4ee5ef43f4c6?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

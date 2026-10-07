@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evaluation of Photic Countermeasures for Circadian Entrainment of Neurobehavioral Performance and Sleep-Wake Regulation Before and during Spaceflight - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/a312a8ba-28af-5c18-8c49-c54aa7522ec1?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>NCC958HFP01601</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Evaluation of Photic Countermeasures for Circadian Entrainment of Neurobehavioral Performance and Sleep-Wake Regulation Before and during Spaceflight</h1>
+        <div class="meta-id">Record ID: NCC958HFP01601</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/a312a8ba-28af-5c18-8c49-c54aa7522ec1?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<BR>
+To synchronize astronauts' circadian sleep-wake schedules to variable launch times, timed exposure to bright light and darkness in the crew quarters during the week-long pre-launch quarantine period has been used since 1990. Although successful at circadian entrainment, bright light protocols are complex to administer and astronauts' compliance is compromised because bright light glare compromises computer/television screen visibility, and increased frequency of headaches, irritability, and nausea. Moreover, bright light remains unavailable as an in-flight countermeasure, requiring astronauts to rely upon hypnotics or wake-promoting therapeutics to provide symptomatic relief. Recent advances reveal that the human circadian pacemaker is most sensitive to shorter wavelength light for both phase shifting and direct enhancement of alertness and performance. Investigators found that short-wavelength light (approximately 460nm-512nm) in the blue/green range facilitates circadian phase shifting. Therefore they proposed to test the efficacy of exposure to short wavelength green light at a standard intensity for pre-launch and in-flight phase shifting.
+<P>
+The investigators tested the circadian phase-shifting efficacy of exposure to short wavelength light throughout scheduled wake times on a protocol designed to simulate the schedule of crewmembers during the pre-launch quarantine period on a mission that required an eight-hour phase advance of the sleep-wake schedule. Their goal was to demonstrate that exposure to ambient short wavelength fluorescent light will synchronize human circadian rhythms to a shifted sleep/wake schedule within four to five days, enhancing alertness and performance during the biological night.
+<P>
+Specific Aims:<ol>
+<li>Exposure to ambient polychromatic short wavelength light from fluorescent lamps will be more effective than exposure to an equal illuminance of ambient polychromatic white light from standard fluorescent lamps in shifting the circadian rhythms of test subjects, as measured by dim-light melatonin onset (DLMO), in response to both a gradual 8-hour advance and to an abrupt shift of their sleep-wake schedule.
+<li>Alertness and neurobehavioral performance in dim light on a constant routine during times at which crewmembers should be awake on the simulated mission will be significantly greater following four to five days of exposure to ambient polychromatic green light versus ambient white light of equal illuminance, due to more effective circadian entrainment.
+<li>Alertness and neurobehavioral performance will be significantly better on the first night of exposure to ambient polychromatic short wavelength light vs. ambient white light of equal illuminance, prior to the induced circadian phase shifts, due to the immediate alerting effects of exposure to ambient polychromatic short wavelength light.
+<li>Sleep efficiency and total sleep time will be significantly increased and latency to persistent sleep and wake time after sleep onset will be significantly decreased during the sleep episode following four to five days of exposure to ambient polychromatic green light versus ambient white light of equal illuminance, due to more effective circadian entrainment.</ol>
+<P>
+APPROACH:<BR>
+During an eight-day ground-based simulation, participants' sleep-wake schedules were advanced by eight hours. This advance shift was be done in two different protocol designs: 1) a "slam" shift in which the sleep episode was abruptly advanced by eight hours and then maintained at this advanced time for four days, and 2) a gradual shift in which the sleep episode was advanced by 1.6 hours each day for five days until an eight hour advance is achieved. A total of 44 subjects were randomized to one of four protocol conditions which differ by light (ordinary indoor white light (~90 lux) or 90 lux polychromatic green light) and by shift (slam or gradual) resulting in 11 subjects/group. The four conditions were 1) white light slam shift, 2) green light slam shift, 3) white light gradual shift, and 4) green light gradual shift.
+<P>
+RESULTS:<BR>
+These results may contribute to a re-evaluation of dosing guidelines for clinical light therapy and the use of light as a fatigue countermeasure.  In addition, the results suggest measures for safer performance of important tasks and point out the importance of minimizing the impact of circadian phase and sleep-wake history in laboratory vision experiments. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>NCC958HFP01601</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Czeisler, Charles</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>National Space Biomedical Research Institute</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Space Biomedical Research Institute (NSBRI)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/w3ne-xs02</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data from this study is held by another repository. For more information, please contact LSDA.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>NNJ07ZSA002N</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/a312a8ba-28af-5c18-8c49-c54aa7522ec1?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/a312a8ba-28af-5c18-8c49-c54aa7522ec1?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

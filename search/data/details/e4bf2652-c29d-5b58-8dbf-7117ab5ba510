@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Human Otolith Function - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/e4bf2652-c29d-5b58-8dbf-7117ab5ba510?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>M009</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Human Otolith Function</h1>
+        <div class="meta-id">Record ID: M009</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/e4bf2652-c29d-5b58-8dbf-7117ab5ba510?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+
+If an individual observes a dim line of light in darkness, while seated upright under ordinary conditions, he or she is able to set a line in the dark to the horizontal with great accuracy.  This confirms that in the absence of visual cues, the ability of the observer to estimate the vertical and horizontal is dependent upon the influence of primary and secondary gravitational cues.  In microgravity, primary gravitational cues are lost and the body’s otolith organs lose their normal stimulus.<p>
+
+Microgravity thus offered a unique opportunity to investigate the role of secondary gravitational cues to orient a person to this environment.  During space flight, astronauts are cued to their position inside the spacecraft, even with eyes closed, by virtue of tactile cues.  The first step in exploring the loss of primary gravitational cues in space flight was to estimate horizontality with reference to the spacecraft in the absence of visual and primary gravitational cues.  Egocentric visual localization of the horizontal (EVLH) was the test chosen to measure space perception in the absence of adequate visual cues.<p>
+
+Researchers then assessed the possible effect of prolonged microgravity on otolith function by measuring ocular counterrolling (CR).  The CR test was based upon the observation that when a normal person is tilted to the right or to the left, the eyes tend to rotate in the opposite direction.  If proper technique is used, the amount of counterroll is a specific and valid measure of otolith function.  The object of the test was to determine whether prolonged physiological deafferentation of the otolith apparatus altered its basic sensitivity.<p>
+
+APPROACH:<br>
+
+Both portions of this experiment were performed on subjects A and B during the Gemini 5 (8-day) mission and subjects C and D of the Gemini 7 (14-day) mission.  Due to space limitations, the CR test was limited to preflight and postflight measurements.  Subjects A and B were tested for CR and EVLH sixteen days before flight.  Subjects C and D were similarly tested on two different occasions, nineteen and six weeks preflight.  Inflight testing of EVLH was performed on seven occasions during Gemini 5 and fourteen occasions during Gemini 7.  Subjects A and B were examined approximately 6 and 5 hours, respectively, after recovery at sea.  Subjects C and D were examined approximately 6 and 4.5 hours respectively, after recovery at sea. <p> 
+
+Preflight and postflight, the EVLH test was performed as follows.  Immediately before performing the test, one drop of 1 percent pilocarpine hydrochloride ophthalmic solution was placed in the subject’s eye that would not be used to make visual orientation judgments.  The ophthalmic solution was used to constrict the pupil, thereby restricting the amount of light that could enter the eye.  The subject was then placed in a CR device that could be tilted back and forth.  A binocular vision tester measured the subject’s interpupillary distance and was held stationary by inserting the biteboard into the subject’s mouth.  The researcher initially offset the line target presented to one eye only (the other eye observed a completely dark field).  By turning a knob on the vision tester, the subject rotated the target clockwise or counterclockwise until it appeared to be aligned parallel to the gravitational horizontal.  This procedure was repeated in each test session until eight settings had been made in the upright position.<p>
+
+Inflight, the subject prepared for EVLH testing inflight by covering the left eyepiece (subjects B and D) or right eyepiece (subjects A and C), and turning on the luminous target before the other eye.  The choice of which eyepiece to cover was dependent on which seat the test subject was stationed.  The target appeared against a completely dark background was initially was offset at random by the observer.  The subject was to adjust the target until it appeared horizontal with respect to the immediate spacecraft environment.  The subject, when satisfied with each setting, closed his eyes and removed his hand from the adjustment knob.  The observer then recorded the setting and offset the target.  This procedure was repeated five times each day.  The vision tester was then handed to the other subject and the same procedure was followed.  Finally, readings for each subject were voice-recorded.  The Gemini 5 subjects were requested to maintain an erect position by alignment with the seat headrest.  During Gemini 7, the method of testing EVLH inflight was identical, but a head brace was included as part of the experiment equipment.<p> 
+
+Following the EVLH test, the subject remained upright in the tilt device.  At this time the preflight and postflight ocular CR measurements were accomplished.  The vision tester and its biteboard were removed, and preparations were made to photographically record the eye position associated with a given body tilt position.  The CR biteboard was inserted in the subject’s mouth.  The eye position was adjusted to coincide with the optic axis of the camera system when the subject fixated the center of the flashing red ring of light.  Six photographic recordings were made at this position; then the subject was slowly tilted in his lateral plane to four other positions (plus/minus 25 degrees, and plus/minus 50 degrees) and the same photographic procedure was repeated.<p>
+
+During the EVLH and CR tests, blood pressure, heart rate, and electrocardiogram (ECG) were also monitored.<p>
+
+RESULTS:<br>
+
+
+Preflight ocular CR responses for both crews of Gemini 5 and Gemini 7 were within normal ranges, but the values for the Gemini 5 crewmembers were considered low. Comparison of the preflight data between the two flights revealed significant differences between the Gemini 5 and Gemini 7 crewmembers with regard to the basic magnitude of otolith response.  Postflight data for all four subjects revealed that the CR response was not significantly different from the comparable data collected preflight.  That was indicative that no significant change in otolithic sensitivity occurred as a result of space flight, or at least no change persisted long enough to be recorded several hours after recovery.<p>
+
+The EVLH data recorded for each subject confirmed the observation (made repeatedly in parabolic flight experiments) that a coordinate space sense existed even in a weightless environment if contact cues were adequate.  However, it was noted that the apparent location of the horizontal within the space craft did not necessarily agree with its physical correlate in the spacecraft (a line parallel to the pitch axis of the vehicle).  For example, data taken from crewmember A were indicative of greater than 30 degree deviation from the absolute horizontal.  These data were indicative that, with closed eyes, cues furnished by contact with the spacecraft did not facilitate correct perception of the cabin axes.  Furthermore, the uniformity of the settings by this crewmember throughout the flight was suggestive that learning did not occur in the absence of any knowledge of the accuracy of these estimates.<p>
+
+The EVLH judgments of Gemini 5 crewmember concerning the location of the gravitational horizontal for an upright position were quite accurate and stable prior to flight.  On the day of recovery, the pattern of response was similar to that of preflight, but was less accurate and less consistent.  Although the seas were relatively calm, the researchers believed the fact that judgments were made on an unstable platform could have be responsible for these differences.  The EVLH judgments of Gemini 7 subjects in an upright position under normal gravitational conditions were unstable preflight.  In approximately one-half of the settings, deviations greater than 5 degrees were recorded, and one setting exceeded 10 degrees.  On the day of landing, the response pattern was similar to preflight data even though the judgments were made under unstable, though relatively calm, sea conditions.  (During the Gemini Program, crews landed and were recovered at sea, and were transported to shore aboard a ship.)<p>
+
+Inflight, subject B of Gemini 5 produced accurate and consistent visual estimation.  Subject A, although no less consistent than subject B, made judgments that were significantly (<30 degree) deviant from the absolute horizontal of the spacecraft environment.  The uniformity of subject A’s settings throughout the flight suggested, furthermore, that learning did not occur in the absence of any knowledge of the accuracy of these estimates.  The EVLH judgments of both crewmembers of Gemini 7 throughout the flight showed no trends with respect to longitudinal changes in the stability or absolute position of horizontal within the spacecraft.  For the most part, EVLH judgments for the Gemini 7 crewmembers were relatively accurate and more stable than under normal gravitational conditions.  These data showed that relatively accurate and consistent nonvisual orientation was possible throughout prolonged periods of microgravity exposure so long as secondary cues were adequate.<p>
+
+Further experimentation involving inflight serial EVLH measurements were planned in conjunction with the Apollo flights to increase the knowledge of the role of secondary cues in orientation and the possible interindividual differences.<end>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>M009</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Graybiel, Ashton, Miller, Earl</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Gemini</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Neuroscience</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Gemini 7&#x27;], [&#x27;Gemini 5&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/m761-q762</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/e4bf2652-c29d-5b58-8dbf-7117ab5ba510?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/e4bf2652-c29d-5b58-8dbf-7117ab5ba510?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analysis of a Clinical Database as a Means to Validate Non-invasive Assessment of Intracranial Pressure Using the Cerebral and Cochlear Fluid Pressure (CCFP) Analyzer - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/2f148cb7-eec1-569c-bbfc-9b80f72adbe5?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>CCFP_Analyzer</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Analysis of a Clinical Database as a Means to Validate Non-invasive Assessment of Intracranial Pressure Using the Cerebral and Cochlear Fluid Pressure (CCFP) Analyzer</h1>
+        <div class="meta-id">Record ID: CCFP_Analyzer</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/2f148cb7-eec1-569c-bbfc-9b80f72adbe5?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVES:<br>
+Visual impairment intracranial pressure (VIIP) is a top risk for human space flight, yet there are no reliable means to monitor intracranial pressure (ICP) non-invasively, particularly in flight. A lumbar puncture (LP) is invasive and isn’t a viable option for in flight monitoring, and are only used on crewmembers exhibiting significant VIIP symptoms. Development and validation of a noninvasive means of monitoring ICP would result in collection of data that could define the involvement of elevated ICP in the VIIP syndrome. The Cochlear and Cerebral Fluid Pressure (CCFP) analyzer measures tympanic membrane displacement (TMD) in both evoked and passive modes. These TMD waveforms change in response to ICP alterations, allowing a noninvasive means to monitor ICP changes. Additional clinical validation of the CCFP analyzer is necessary to better understand the device’s utility. The Ear and Balance Institute has over 1,000 patient records of CCFP tests, many with accompanying LP measures. Analysis of the results of these tests has helped validate the use of the CCFP technology as a surrogate measure of ICP. The purpose of this retrospective clinical study was to examine this unique CCFP and LP data set, in order to identify characteristics that could contribute to follow-on studies employing the CCFP analyzer.
+<p>
+APPROACH:<br>
+This study was a retrospective chart review of Ear and Balance Institute patients.  Personnel at the Ear and Balance Institute reviewed physical and electronic charts and compiled data into coded, de-identified spreadsheets and file structures. This data was transmitted to the investigative team in Houston, who performed the analysis. The analysis had several components that addressed the specific aims of this study: 1) evaluate both evoked and passive TMD waveforms as measured by CCFP and compare with LP data; and 2) determine the age-dependent distribution of cochlear aqueduct patency.
+<p>
+RESULTS:<br>
+Because the CCFP had been used as a clinical screening tool, many patients had begun medical intervention between administration of the CCFP test (Vm) and the LP, or had been undergoing treatment prior to any test being administered. Another caveat associated with this analysis is that CCFP measures had not been collected at the same time as LP. To address these issues, analysis focused on patients whose LP was performed in close temporal proximity to CCFP (within an average of approximately five days), and those who had no interventions between measures. These factors have reduced the number of charts available for analysis (approximately 70 out of 1000 available with CCFP and LP measures). Nearly all patients in this database had ear-related pathology, with the largest contributors being superior semicircular canal dehiscence (SSCD), and perilymph fistula that likely affect CCFP response. Despite these factors, a negative correlation between tympanic membrane displacement in an evoked CCFP test and LP opening pressure was found in the non-SSCD patient population in the seated position, and expectation-maximization estimates suggested that Vm in the supine position trends negatively with LP. These results are encouraging as to the potential utility of the CCFP as an ICP screening tool in a non-clinical population, and deserve further investigation in an experimental setting. 
+<p>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>CCFP_Analyzer</td>
+        </tr>
+        <tr>
+          <th>Principal Investigator</th>
+          <td>Ebert, Douglas</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Biomedical countermeasures, Ocular physiological phenomena</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens)</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/bmeq-z551</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data preservation is complete. All datasets are privacy-protected. Data is available via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>Directed Research</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/2f148cb7-eec1-569c-bbfc-9b80f72adbe5?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/2f148cb7-eec1-569c-bbfc-9b80f72adbe5?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>

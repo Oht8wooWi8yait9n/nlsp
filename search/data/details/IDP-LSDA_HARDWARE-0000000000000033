@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mir Urine Collection Kit - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000033?dataType=HARDWARE">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #d97706;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Hardware</span> /
+      <span>308</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Hardware</span>
+        <h1>Mir Urine Collection Kit</h1>
+        <div class="meta-id">Record ID: 308</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000033?dataType=HARDWARE" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          Five different Urine Collection Kits were flown on board during the Mir missions: <P><BR>(1) Urine Collection Kit, <BR>(2) Frozen Urine Syringe Kit, <BR>(3) Thimerosal Preserved Urine Kit, <BR>(4) Thymol Preserved Urine Kit, and <BR>(5) Preserved Urine Kit.  The Urine Collection Kit was used to collect urine voids, while the other four kits contained syringes to process and store the samples.
+<P>
+<BR>(1) The Urine Collection Kit consists of a Nomex container and contains 40 urine collection devices (UCDs) fitted with an external male catheter.  The UCDs are polyethylene bags that contain 1 ml of 2.5 M lithium chloride (LiCl) solution as a volume marker.  The UCD has the external male catheter for urine collection at one end and a sample collection port at the opposite end.  The UCD has a clamp and a one-way valve to prevent urine from leaking through the external male catheter.  The kits also contain 40 catheter tapes and 40 wet wipes for sanitary purposes.  One bag is used per void and an appropriate number of samples is removed using the urine syringes from the various urine syringe kits described below.  After the samples are taken, the UCD bag is discarded.    
+<P>
+<BR>(2) The Frozen Urine Syringe Kit contains 100 monovette syringes used to collect frozen urine samples from the UCDs.  The urine samples are accounted for with the Bar Code Reader (BCR).  Before a sample is collected, the bar code label on the syringe is scanned, and information regarding crewmember identification (ID), mission day (MD), and the sample collection time is entered into the BCR.  The syringes are restrained on Nomex pallets by elastic straps.  Five pallets hold 18 syringes each and one holds ten adapters.  Each syringe has a Velcro dot (velcoin), and the pallets are removable so that they can be placed on the wall of the space station Mir for easy access.  
+<P>
+<BR>(3) The Thimerosal Preserved Urine Kit contains 90 safety monovette syringes and 90 syringe adapters used to collect urine samples preserved with thimerosal from the UCDs.  Each syringe contains 7.0 mg (+/-140 ug) of thimerosal.  The urine samples are accounted for with the Bar Code Reader (BCR).  The syringes are restrained on nomex pallets by elastic straps.  There are five pallets that hold eighteen syringes each and two that hold 45 adapters each.  Each syringe has a Velcro dot, and the pallets are removable.  The Thimerosal Preserved Urine Kit has a mass of approximately 1 kg.  
+<P>
+<BR>(4) The Thymol Preserved Urine Kit is identical to the Thimerosal Preserved Urine Kit with the following exception, the syringes contain 3.5 mg (+/- 70 ug) thymol.
+<P>
+<BR>(5) The Preserved Urine Kit consists of an Nomex container and two syringe pallets to store the first preserved urine samples collected on Mir.<END>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Hardware Name</th>
+          <td>Mir Urine Collection Kit</td>
+        </tr>
+        <tr>
+          <th>Associated Mission</th>
+          <td>Mir 18, NASA 2, NASA 3</td>
+        </tr>
+        <tr>
+          <th>Associated Experiment</th>
+          <td>Dynamics of Calcium Metabolism and Bone Tissue; Fluid And Electrolyte Homeostasis; Protein Metabolism During Long Term Space Flights; Red Blood Cell Mass and Survival; Renal Stone Risk Assessment During Long Duration Space Flight</td>
+        </tr>
+        <tr>
+          <th>Configuration</th>
+          <td>As Configured for the Mir 18 Mission; Version Used During the NASA-Mir Missions</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000033?dataType=HARDWARE">https://nlsp.nasa.gov/search/data/details/IDP-LSDA_HARDWARE-0000000000000033?dataType=HARDWARE</a>
+    </div>
+  </div>
+</body>
+</html>

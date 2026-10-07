@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brain-Related Assessments for Investigating the Neurophysiology of SANS (BRAIN-SANS) - NASA Life Sciences Portal</title>
+  <link rel="canonical" href="https://nlsp.nasa.gov/search/data/details/ebcec193-dd9e-5b63-a207-033654d3307d?dataType=EXPERIMENTS">
+  <style>
+    :root {
+      --primary: #0b3d91;
+      --primary-dark: #061f4a;
+      --accent: #0284c7;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .breadcrumb {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+    .breadcrumb a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+      overflow: hidden;
+      margin-bottom: 24px;
+    }
+    .header {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #ffffff;
+      padding: 32px 28px;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #ffffff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+    h1 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 12px;
+    }
+    .meta-id {
+      font-size: 0.9rem;
+      opacity: 0.85;
+      font-family: monospace;
+    }
+    .content {
+      padding: 28px;
+    }
+    .action-banner {
+      background: #eff6ff;
+      border-left: 4px solid var(--primary);
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      border-radius: 0 8px 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .action-banner-text {
+      font-size: 0.9rem;
+      color: #1e3a8a;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--primary);
+      color: #ffffff;
+      font-weight: 600;
+      font-size: 0.875rem;
+      padding: 10px 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .btn:hover {
+      background: var(--primary-dark);
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--primary-dark);
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 8px;
+      margin: 28px 0 16px 0;
+    }
+    h2:first-of-type {
+      margin-top: 0;
+    }
+    .description {
+      color: #334155;
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .description p { margin-bottom: 1em; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+      margin-bottom: 24px;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    th {
+      width: 25%;
+      background: #f8fafc;
+      font-weight: 600;
+      color: #475569;
+    }
+    td {
+      color: #0f172a;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-top: 32px;
+    }
+    .footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../../../index.html">NASA Life Sciences Portal</a> /
+      <span>Experiments</span> /
+      <span>80NSSC20K0841</span>
+    </div>
+
+    <div class="card">
+      <div class="header">
+        <span class="badge">Experiments</span>
+        <h1>Brain-Related Assessments for Investigating the Neurophysiology of SANS (BRAIN-SANS)</h1>
+        <div class="meta-id">Record ID: 80NSSC20K0841</div>
+      </div>
+
+      <div class="content">
+        <div class="action-banner">
+          <div class="action-banner-text">
+            <strong>Official Source:</strong> National Aeronautics and Space Administration Life Sciences Data Archive
+          </div>
+          <a href="https://nlsp.nasa.gov/search/data/details/ebcec193-dd9e-5b63-a207-033654d3307d?dataType=EXPERIMENTS" target="_blank" rel="noopener noreferrer" class="btn">
+            View Official Record on NASA NLSP &rarr;
+          </a>
+        </div>
+
+        <h2>Summary / Description</h2>
+        <div class="description">
+          OBJECTIVE:<br><br>Spaceflight associated neuro-ocular syndrome (SANS) remains an important and unmitigated risk to long duration spaceflight. Out of 68 astronauts, about 10 have shown SANS with ocular findings such as acquired hyperopia, globe flattening and choroidal folds. While the cause of SANS remains unknown, the observed ocular symptoms coupled with the slightly elevated (or normal) intra-ocular pressure shows that intracranial pressure may be elevated compared to average Earth levels. These symptoms point towards possible involvement of cephalad fluid shifts being the cause. A major challenge for understanding SANS has been availability of suitable, non-invasive assessments beyond the ocular and ophthalmological measures used for diagnosis. Current hypotheses suggest that the lack of gravity leads to fluid shifting towards the head, resulting in congestion and/or elevated pressures in the cranial, vascular and/or lymphatic compartments. This study proposed to provide numerous key measures to meet NASA’s proposal to conduct 30-day head-down tilt (HDT) experiments to test SANS countermeasures (CM) at the :envihab facility in Germany. This study proposed key measurements in support of these planned 30-day missions. Focus will be placed on developing a toolkit for detailed neurophysiological and fluid shift assessment and monitoring suitable for measuring SANS and countermeasure related changes. These tools will be designed to complement the standard ocular measures used for SANS diagnosis and monitoring.<br><br>This study proposes to address the following aims:<br><ol><li>1. Develop an integrated hardware and software toolbox to support multiple simultaneous, continuous brain monitoring and imaging capabilities.</li><li>2. Test SANS hypotheses and also characterize and quantify individual subjects’ physiological responses to HDT and each planned SANS CMs.</li><li>3. Relate neurophysiological changes over the 30- day HDT, with and without CMs to cognitive and operational performance, ocular measures, sleep, and mood.</li></ol>APPROACH:<br><br>The software toolbox will be developed to support data quality, data summary and metric generation, inter-device data synchronization, and cross-modal data integration. The toolbox development will continue through the first 2 years of the project for ongoing optimization process. This study is part of a larger study that will test multiple countermeasures. The larger study will include 48 human subjects separated into four groups (12 subjects per group): one control groups defined by NASA and three countermeasure treatment groups. The control group will remain in strict 6° HDT bedrest with no countermeasures. The three countermeasure treatment groups include (1) exposure to -6° HDT throughout the study with episodic countermeasures 2) exposure to -6° HDT throughout the study with subjects exposed to different, yet-to-be determined countermeasures (3) sixteen hours of upright (seated) posture daily, and eight hours of supine (sleeping) posture, daily, during the strict HDT bedrest portion of the study. Recording days for measurements will be split into four types, which include:<br><br><ol><li>1. Rest recording days, where continuous recording devices will be placed on all subjects. Data will be collected via IJV/ICA imaging and IOP testing and will take 30 minutes. Subjects will be recorded for 15 minutes during quiet eyes-open rest.</li><li>2. Countermeasure recording will include acute countermeasures with a defined onset and offset that will be recorded. CM deployment will occur immediately after rest recording and the recording will continue through deployment of the CM and for 5- minutes following the cessation of CM. </li><li>3. Tilt-table recording days, where the subjects will be fitted with continuous measurement devices and will be made to go through several orientations, for 5 minutes each. This test will be conducted three days pre and post- HDT. Manual IOP and IJV/ICA measurements will be taken prior to moving to the next tilt angle. </li><li>4. International Standard Measures orthostatic tilt test recordings. A subset of our devices will monitor blood distributions during these standard tilt tests.</li></ol>RESULTS:<br><br>This project will provide a detailed neurophysiological and fluid shift assessment and monitoring toolkit for measuring both SANS- and CM-related changes at :envihab. The novel tools plus the planned hypothesis testing and integrated analyses are expected to provide a more complete picture and new insights into the neurophysiology of SANS-like conditions and CM’s. This approach is intended to complement the existing SANS assessments, while also being compatible with the spaceflight environment to facilitate direct comparison with ground studies.<br><br>
+        </div>
+
+        <h2>Technical Parameters & Metadata</h2>
+        <table>
+          <tbody>
+            
+        <tr>
+          <th>Identifier</th>
+          <td>80NSSC20K0841</td>
+        </tr>
+        <tr>
+          <th>Center</th>
+          <td>Johnson Space Center</td>
+        </tr>
+        <tr>
+          <th>Agency</th>
+          <td>National Aeronautics and Space Administration (NASA)</td>
+        </tr>
+        <tr>
+          <th>Program</th>
+          <td>Ground</td>
+        </tr>
+        <tr>
+          <th>Research Area</th>
+          <td>Behavior and performance, Human factors</td>
+        </tr>
+        <tr>
+          <th>Missions</th>
+          <td>[&#x27;Ground&#x27;]</td>
+        </tr>
+        <tr>
+          <th>Species</th>
+          <td>Human (Homo sapiens) N/A</td>
+        </tr>
+        <tr>
+          <th>DOI</th>
+          <td>10.83263/0tz7-1j20</td>
+        </tr>
+        <tr>
+          <th>Archive Status</th>
+          <td>Data collection is ongoing. Available datasets are accessible via data request.</td>
+        </tr>
+        <tr>
+          <th>Proposal Source</th>
+          <td>2018-2019 HERO 80JSC018N0001-SANS: Spaceflight Associated Neuro-ocular Syndrome Countermeasures. Appendix C</td>
+        </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="footer">
+      NASA Life Sciences Portal (NLSP) &bull; Life Sciences Data Archive (LSDA) &bull; Lifetime Surveillance of Astronaut Health (LSAH)
+      <br>
+      Direct citation link: <a href="https://nlsp.nasa.gov/search/data/details/ebcec193-dd9e-5b63-a207-033654d3307d?dataType=EXPERIMENTS">https://nlsp.nasa.gov/search/data/details/ebcec193-dd9e-5b63-a207-033654d3307d?dataType=EXPERIMENTS</a>
+    </div>
+  </div>
+</body>
+</html>
