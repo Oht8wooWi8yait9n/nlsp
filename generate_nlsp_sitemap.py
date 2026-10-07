@@ -891,11 +891,8 @@ def main():
         html_content = render_html_page(item)
         rec_id = item["id"]
         html_file = os.path.join(DETAILS_DIR, f"{rec_id}.html")
-        ext_file = os.path.join(DETAILS_DIR, rec_id)
 
         with open(html_file, "w", encoding="utf-8") as f:
-            f.write(html_content)
-        with open(ext_file, "w", encoding="utf-8") as f:
             f.write(html_content)
 
         if idx % 5000 == 0 or idx == len(processed_items):
