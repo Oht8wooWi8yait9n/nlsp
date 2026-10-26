@@ -95,23 +95,29 @@ def fetch_data_type_page(data_type: str, page: int, limit: int = 500) -> dict:
     if os.path.exists(cache_path) and os.environ.get("FORCE_REFRESH") != "1":
         try:
             with open(cache_path, "r", encoding="utf-8") as f:
-                return json.load(f)
+                cached = json.load(f)
+            if cached.get("documents"):
+                return cached
         except Exception:
             pass
 
     url = f"{API_BASE}/{data_type}?page={page}&limit={limit}"
-    raw = make_request(url)
-    if not raw:
-        return {}
-
-    try:
-        data = json.loads(raw.decode("utf-8", errors="ignore"))
-        with open(cache_path, "w", encoding="utf-8") as f:
-            json.dump(data, f)
-        return data
-    except Exception as e:
-        print(f"[!] JSON parse error for {url}: {e}", file=sys.stderr)
-        return {}
+    for page_attempt in range(3):
+        raw = make_request(url)
+        if not raw:
+            time.sleep(2 * (page_attempt + 1))
+            continue
+        try:
+            data = json.loads(raw.decode("utf-8", errors="ignore"))
+            if data.get("documents"):
+                with open(cache_path, "w", encoding="utf-8") as f:
+                    json.dump(data, f)
+                return data
+            print(f"[!] Empty documents on attempt {page_attempt + 1}/3 for {url}", file=sys.stderr)
+        except Exception as e:
+            print(f"[!] JSON parse error on attempt {page_attempt + 1}/3 for {url}: {e}", file=sys.stderr)
+        time.sleep(2 * (page_attempt + 1))
+    return {}
 
 
 def harvest_all_records() -> dict:
@@ -144,7 +150,7 @@ def harvest_all_records() -> dict:
 
         all_by_type[data_type] = records
         total_records_count += len(records)
-        print(f"    Completed '{data_type}': {len(records):,} records harvested")
+        print(f"    Completed '{data_type}': {len(records):,} records harvested (expected {total:,})")
 
     print(f"[+] Total records harvested across all types: {total_records_count:,}")
     return all_by_type
@@ -181,7 +187,7 @@ def clean_html_content(raw_html) -> str:
     return clean.strip()
 
 
-def extract_record_fields(data_type: str, doc: dict) -> dict:
+def extract_record_fields(data_type: str, doc: dict, existing_lastmod: str = "") -> dict:
     """Extract canonical fields based on data type."""
     rec_id = doc.get("id") or doc.get("_id") or doc.get("__dirid") or ""
     param = TYPE_META.get(data_type, {}).get("param", data_type.upper())
@@ -299,7 +305,7 @@ def extract_record_fields(data_type: str, doc: dict) -> dict:
     clean_meta = {k: v for k, v in metadata.items() if v and v != "None" and v != "N/A"}
 
     # Extract lastmod date
-    lastmod = doc.get("__record_modified_date") or doc.get("__record_creation_date") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    lastmod = doc.get("__record_modified_date") or doc.get("__record_creation_date") or existing_lastmod or datetime.now(timezone.utc).strftime("%Y-%m-%d")
     if "T" in str(lastmod):
         lastmod = str(lastmod).split("T")[0]
 
@@ -854,6 +860,27 @@ def main():
     print(" NASA Life Sciences Portal (NLSP) Harvester & Static Mirror Generator")
     print("=" * 80)
 
+    # 0. Load existing canonical records from nlsp_records.jsonl to prevent transient pagination drops and lastmod churn
+    existing_by_id = {}
+    existing_by_type = {dt: [] for dt, _, _, _ in DATA_TYPES}
+    if os.path.exists(JSONL_FILE):
+        try:
+            with open(JSONL_FILE, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    rec = json.loads(line)
+                    rid = rec.get("id")
+                    dt = rec.get("data_type")
+                    if rid:
+                        existing_by_id[rid] = rec
+                    if dt in existing_by_type:
+                        existing_by_type[dt].append(rec)
+            print(f"[*] Loaded {len(existing_by_id):,} existing canonical records from {JSONL_FILE}")
+        except Exception as e:
+            print(f"[!] Warning: Could not load existing {JSONL_FILE}: {e}")
+
     # 1. Harvest raw records from API
     all_by_type = harvest_all_records()
 
@@ -864,21 +891,49 @@ def main():
     catalog_summary = []
 
     for data_type, records in all_by_type.items():
-        stats_by_type[data_type] = len(records)
+        type_items = []
+        seen_ids = set()
         for doc in records:
-            item = extract_record_fields(data_type, doc)
-            if item["id"]:
-                processed_items.append(item)
-                # Brief metadata summary for index.html client search
-                meta_str = " | ".join(f"{k}: {v}" for k, v in list(item["metadata"].items())[:3])
-                catalog_summary.append({
-                    "id": item["id"],
-                    "type": item["data_type"],
-                    "label": item["type_label"],
-                    "title": item["title"],
-                    "meta": meta_str,
-                    "live_url": item["live_url"],
-                })
+            rec_id = doc.get("id") or doc.get("_id") or doc.get("__dirid") or ""
+            prev_lastmod = existing_by_id.get(rec_id, {}).get("lastmod", "")
+            item = extract_record_fields(data_type, doc, existing_lastmod=prev_lastmod)
+            if item["id"] and item["id"] not in seen_ids:
+                type_items.append(item)
+                seen_ids.add(item["id"])
+
+        # If a pagination page transiently failed, backfill missing records from existing_by_type in their original order
+        prev_type_items = existing_by_type.get(data_type, [])
+        if len(type_items) < len(prev_type_items):
+            missing_count = len([r for r in prev_type_items if r.get("id") not in seen_ids])
+            print(f"[!] Warning: '{data_type}' harvested {len(type_items):,} < previous {len(prev_type_items):,}; backfilling {missing_count:,} records from existing catalog.")
+            new_by_id = {it["id"]: it for it in type_items}
+            merged_items = []
+            merged_ids = set()
+            for prev_item in prev_type_items:
+                pid = prev_item.get("id")
+                if not pid or pid in merged_ids:
+                    continue
+                merged_items.append(new_by_id.get(pid, prev_item))
+                merged_ids.add(pid)
+            for it in type_items:
+                if it["id"] not in merged_ids:
+                    merged_items.append(it)
+                    merged_ids.add(it["id"])
+            type_items = merged_items
+
+        stats_by_type[data_type] = len(type_items)
+        for item in type_items:
+            processed_items.append(item)
+            # Brief metadata summary for index.html client search
+            meta_str = " | ".join(f"{k}: {v}" for k, v in list(item["metadata"].items())[:3])
+            catalog_summary.append({
+                "id": item["id"],
+                "type": item["data_type"],
+                "label": item["type_label"],
+                "title": item["title"],
+                "meta": meta_str,
+                "live_url": item["live_url"],
+            })
 
     print(f"[+] Successfully extracted {len(processed_items):,} canonical records.")
 
